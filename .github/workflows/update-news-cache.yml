@@ -27,12 +27,8 @@ jobs:
         run: npm ci
 
       - name: Start Next.js development server
-        # We start it in the background so the next step can run. 
-        # The caching script fetches from localhost:3000
         run: npm run dev &
         env:
-          # Assuming you also need these if the dev server initializes 
-          # anything on startup (like API routes)
           API_KEY: ${{ secrets.API_KEY }}
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
           AGENTVERSE_API_KEY: ${{ secrets.AGENTVERSE_API_KEY }}

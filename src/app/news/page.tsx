@@ -51,10 +51,14 @@ function StoryCard({ story, accent, isFinance }: { story: Story; accent: string;
   const [verificationStream, setVerificationStream] = useState('');
   const [verifyStatus, setVerifyStatus] = useState<string | null>(null);
 
-  // Auto-scroll chat to bottom
+  // Auto-scroll chat to bottom only if user is already near the bottom
   useEffect(() => {
-    if (chatEndRef.current) {
-      chatEndRef.current.scrollIntoView({ behavior: 'smooth' });
+    if (chatEndRef.current && chatEndRef.current.parentElement) {
+      const parent = chatEndRef.current.parentElement;
+      const isNearBottom = parent.scrollHeight - parent.scrollTop - parent.clientHeight < 150;
+      if (isNearBottom) {
+        chatEndRef.current.scrollIntoView({ behavior: 'auto' });
+      }
     }
   }, [messages, isTyping]);
 
@@ -193,6 +197,11 @@ function StoryCard({ story, accent, isFinance }: { story: Story; accent: string;
     setInput('');
     setIsTyping(true);
 
+    // Force scroll down when user sends a new message
+    setTimeout(() => {
+      if (chatEndRef.current) chatEndRef.current.scrollIntoView({ behavior: 'smooth' });
+    }, 50);
+
     try {
       const response = await fetch('/api/chat', {
         method: 'POST',
@@ -330,7 +339,7 @@ function StoryCard({ story, accent, isFinance }: { story: Story; accent: string;
               <span className={`w-2 h-2 rounded-full ${isAnalyzing ? 'animate-pulse bg-[#f59e0b]' : 'bg-[#f59e0b]'}`}></span>
               {isAnalyzing ? 'Analyzing Technicals...' : 'Market Impact Analysis'}
             </span>
-            <button onClick={() => setImpactOpen(false)} className="text-white/40 hover:text-white transition-colors">✕</button>
+            <button onClick={() => setImpactOpen(false)} className="text-white/40 hover:text-white transition-colors cursor-pointer">✕</button>
           </div>
           <div className="p-5 text-[15px] font-sans text-white/90 whitespace-pre-wrap leading-relaxed max-h-64 overflow-y-auto scrollbar-thin scrollbar-thumb-white/10 scrollbar-track-transparent">
             {isAnalyzing && !impactStream && (
@@ -386,21 +395,21 @@ function StoryCard({ story, accent, isFinance }: { story: Story; accent: string;
           <div className="bg-white/5 px-4 py-2 border-b border-white/5 flex items-center justify-between">
             <span className="text-[10px] font-mono text-white/50 uppercase tracking-widest flex items-center gap-2">
               <span className="w-1.5 h-1.5 rounded-full bg-[#090b0f] animate-pulse border" style={{ borderColor: accent, backgroundColor: accent }}></span>
-              ASI Live Fact-Checker
+              hello!
             </span>
-            <button onClick={() => setChatOpen(false)} className="text-white/30 hover:text-white/70">✕</button>
+            <button onClick={() => setChatOpen(false)} className="text-white/30 hover:text-white/70 cursor-pointer">✕</button>
           </div>
 
           <div className="p-4 h-64 overflow-y-auto flex flex-col gap-4 text-sm font-mono scrollbar-thin scrollbar-thumb-white/10 scrollbar-track-transparent">
             {messages.length === 0 ? (
               <div className="text-center text-white/30 my-auto">
-                <p>Ask ASI anything about this story.</p>
+                <p>Ask me anything about this story.</p>
                 <p className="text-[10px] mt-2">Example: "Who are the major players here?"</p>
               </div>
             ) : (
               messages.map((m, i) => (
                 <div key={i} className={`flex ${m.role === 'user' ? 'justify-end' : 'justify-start'}`}>
-                  <div className={`max-w-[85%] rounded-lg px-3 py-2 ${m.role === 'user' ? 'bg-white/10 text-white/90 rounded-br-sm' : 'border border-white/5 bg-white/5 text-white/70 rounded-bl-sm'}`}>
+                  <div className={`max-w-[85%] whitespace-pre-wrap rounded-lg px-3 py-2 ${m.role === 'user' ? 'bg-white/10 text-white/90 rounded-br-sm' : 'border border-white/5 bg-white/5 text-white/70 rounded-bl-sm'}`}>
                     {m.content}
                   </div>
                 </div>
@@ -417,17 +426,26 @@ function StoryCard({ story, accent, isFinance }: { story: Story; accent: string;
           </div>
 
           <form onSubmit={sendChatMessage} className="p-2 border-t border-white/5 flex gap-2">
-            <input
-              type="text"
+            <textarea
               value={input}
               onChange={(e) => setInput(e.target.value)}
+              onKeyDown={(e) => {
+                if (e.key === 'Enter' && !e.shiftKey) {
+                  e.preventDefault(); // Prevent default newline behavior
+                  // Trigger the form submission logic directly if the input is valid
+                  if (input.trim() && !isTyping) {
+                    sendChatMessage(e as unknown as React.FormEvent);
+                  }
+                }
+              }}
               placeholder="Ask a question..."
-              className="flex-1 bg-white/5 border border-white/10 rounded-lg px-3 py-2 text-sm text-white font-mono placeholder-white/20 focus:outline-none focus:border-white/30 transition-colors"
+              rows={1}
+              className="flex-1 bg-white/5 border border-white/10 rounded-lg px-3 py-2 text-sm text-white font-mono placeholder-white/20 focus:outline-none focus:border-white/30 transition-colors resize-none overflow-hidden min-h-[40px]"
             />
             <button
               type="submit"
               disabled={!input.trim() || isTyping}
-              className="px-4 py-2 bg-white/10 hover:bg-white/20 text-white rounded-lg transition-colors disabled:opacity-50 disabled:cursor-not-allowed text-sm font-mono"
+              className="px-4 py-2 bg-white/10 hover:bg-white/20 text-white rounded-lg transition-colors disabled:opacity-50 disabled:cursor-not-allowed cursor-pointer text-sm font-mono"
             >
               Send
             </button>

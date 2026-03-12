@@ -19,7 +19,7 @@ export async function POST(req: NextRequest) {
       payloadMessages = [
         {
           role: 'system',
-          content: `You are the Flario Fact-Checker Agent. The user is currently reading the following news story:\n\n${context}\n\nAnswer any questions they have specifically based on this story context. Keep your answers concise, informative, and objective.`
+          content: `You are the Flario Fact-Checker Agent. The user is currently reading the following news story:\n\n${context}\n\nAnswer any questions they have specifically based on this story context. Keep your answers concise, informative, and objective. CRITICAL INSTRUCTION: You MUST answer in extremely simple, layman's terms. Assume the reader is a high school student with zero prior knowledge. Do not use complex markdown formatting; use simple bullet points or paragraphs, but keep it plain text and easy to read.`
         },
         ...messages
       ];

@@ -89,10 +89,12 @@ async function contextAgent(stories: any[]) {
 
 For each news story given to you, write 3 to 4 thorough sentences of deep backstory and historical context. You must explain the core concepts directly, what led to this moment, and what underlying mechanisms or past events a beginner needs to know to fully understand it.
 
+CRITICAL INSTRUCTION: You MUST explain this in extremely simple, layman's terms. Assume the reader is a high school student with zero prior knowledge of the topic. Avoid all jargon, acronyms, and complex corporate/political speak. If you must use a complex term, define it immediately in simple words.
+
 CRITICAL INSTRUCTION: Do NOT return JSON. You must return your analysis in the exact format below for every single story (1 through ${stories.length}), separated by "---":
 
 STORY 1
-CONTEXT: <your deep backstory here>
+CONTEXT: <your simple backstory here>
 ---
 STORY 2
 ...
@@ -130,11 +132,13 @@ async function analystAgent(stories: any[]) {
 - "why_it_matters": 2-3 sentences explaining the overarching real-world impact and future consequences.
 - "other_side": 2 sentences explaining the opposing view, potential drawbacks, or what critics are saying.
 
+CRITICAL INSTRUCTION: You MUST explain this in extremely simple, layman's terms. Assume the reader is a high school student with zero prior knowledge of the topic. Avoid all jargon, acronyms, and complex corporate/political speak. Keep sentences short and punchy.
+
 CRITICAL INSTRUCTION: Do NOT return JSON. You must return your analysis in the exact format below for every single story (1 through ${stories.length}), separated by "---":
 
 STORY 1
-WHY IT MATTERS: <your text here>
-OTHER SIDE: <your text here>
+WHY IT MATTERS: <your simple text here>
+OTHER SIDE: <your simple text here>
 ---
 STORY 2
 ...
