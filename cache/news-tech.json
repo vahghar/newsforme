@@ -1,52 +1,6 @@
 {
   "category": "tech",
   "page": 1,
-  "count": 5,
-  "stories": [
-    {
-      "headline": "Xbox Unveils Next-Gen Project Helix Console Targeting 2027-2028 Launch",
-      "summary": "Microsoft has officially revealed its next-generation Xbox console, codenamed Project Helix, at GDC 2026. The system features a custom AMD \"Magnus\" chip with neural rendering capabilities and DirectX13 support, promising significant graphical enhancements.",
-      "source": "Geeky Gadgets",
-      "original_title": "[Geeky Gadgets] New Xbox Console Project Helix Targets late-2027 or 2028 Launch : GDC 2026 — Xbox has officially unveiled its next-generation console, Project Helix, at the 2026 Game Developers Conference (GDC). Built in collaboration with AMD, the system features the custom \"Magnus\" chip, which integrates neural rendering and DirectX13 to enhance gr…",
-      "context": "Gaming consoles are special computers designed just for playing video games, and they get replaced every few years to make games look and run better. Microsoft makes the Xbox, and like car companies planning new models years in advance, they have to design the chips, test thousands of games, and build manufacturing factories way before customers ever see the product. The \"custom chip\" mentioned means Microsoft worked with a company called AMD to build a computer brain specifically made for this one console, while terms like \"neural rendering\" and \"DirectX13\" refer to advanced tools that help create realistic graphics and make sure games work smoothly on the system.",
-      "why_it_matters": "This means video games will look more realistic and run smoother in just a few years. When Microsoft makes a better game console, it forces other companies to improve too, so gamers get better products overall.",
-      "other_side": "Some people worry that newer consoles will be very expensive, making it hard for regular families to afford them. Also, better graphics might mean game developers take longer to make games, so we'll get fewer new titles each year."
-    },
-    {
-      "headline": "ENISA Issues First Technical Advisory on Secure Package Managers for DevSecOps",
-      "summary": "The European Union Agency for Cybersecurity has released its inaugural technical advisory focused on secure package managers, providing critical guidance for developers on safely consuming third-party packages. The document addresses essential DevSecOps practices to mitigate supply chain vulnerabilities.",
-      "source": "Securityaffairs.com",
-      "original_title": "[Securityaffairs.com] ENISA Technical Advisory on Secure Package Managers: Essential DevSecOps Guidance — ENISA's first Technical Advisory on Secure Package Managers helps developers safely use third-party packages. ENISA has released its first Technical Advisory on Package Managers, focusing on how developers can safely consume third-party packages. The document…",
-      "context": "Software developers today don't write every single line of code from scratch—instead, they use pre-made building blocks called \"packages\" that other programmers have shared, kind of like how builders use pre-made windows or doors rather than making them themselves. The problem is that sometimes these free building blocks contain malicious code or security holes that bad guys exploit to break into systems, which is why a new approach called \"DevSecOps\" has emerged to bake security into every step of building software. The European Union's cybersecurity agency (ENISA) is telling developers how to safely use these shared building blocks because hackers have recently managed to sneak viruses into popular code packages that companies worldwide were blindly trusting and installing.",
-      "why_it_matters": "This is like the government putting out safety rules for digital building blocks that programmers use. If hackers can slip bad code into these building blocks, they can break thousands of apps at once, so protecting them is crucial for keeping everyone safe online.",
-      "other_side": "Critics say these new rules might slow down programmers and add extra work to their day. Some developers feel the regulations are too complicated and could make it harder for smaller companies to compete with big tech."
-    },
-    {
-      "headline": "ASUS ROG Expands OLED Monitor Lineup with Three New Strix Models",
-      "summary": "ASUS Republic of Gamers has announced three new additions to its Strix OLED monitor series, including the XG27AQDMG Gen2, XG27ACDMS, and XG27AQDMES. The launch reinforces ASUS's position as the leading OLED monitor brand, continuing its market leadership with advanced gaming display technology.",
-      "source": "Techpowerup.com",
-      "original_title": "[Techpowerup.com] (PR) ASUS ROG Announces New Strix OLED XG27AQDMG Gen2, XG27ACDMS, and XG27AQDMES Monitors — ASUS Republic of Gamers (ROG) today announced ROG Strix OLED XG27AQDMG Gen2 (XG27AQDMGR), XG27ACDMS, and XG27AQDMES monitors, the latest additions to the Strix OLED range. As the undisputed No.1 OLED monitor brand, ROG continues to lead the market by making p…",
-      "context": "Computer monitors have evolved from old bulky tube screens to flat panels, and now OLED technology represents one of the biggest leaps forward because each tiny dot that makes up the picture lights up on its own, creating incredibly deep blacks and vibrant colors. ASUS established a gaming-focused brand called \"Republic of Gamers\" (ROG) to sell premium equipment to serious players, and they've been pushing OLED monitors hard because gamers care deeply about having the clearest, fastest, and most colorful displays possible. By releasing multiple new models at once rather than just one, they're trying to cover different price points and feature needs while cementing their reputation as the go-to company for high-end gaming screens before competitors catch up.",
-      "why_it_matters": "Better monitors mean gamers see clearer pictures and faster action on their screens. This pushes other companies to make better products too, which eventually leads to cheaper, better screens for everyone, not just gamers.",
-      "other_side": "OLED screens can burn in permanent images if the same picture stays on too long, and they cost more than regular screens. Some gamers say the improvements aren't worth the extra price compared to what they already have."
-    },
-    {
-      "headline": "Box CEO Levie Advises Developers to Build for AI Agents as New Primary Users",
-      "summary": "Box CEO Aaron Levie predicts a fundamental shift in software development, urging developers to build applications designed for AI agents with their own payment capabilities rather than human users. The strategic insight suggests AI agents controlling digital wallets will transform how software is consumed and internet commerce operates.",
-      "source": "Business Insider",
-      "original_title": "[Business Insider] Box CEO Aaron Levie's advice to developers? Build software that cash-holding AI agents — not humans — want to use — Aaron Levie spoke to Business Insider about how credit card-holding AI agents will change the internet.",
-      "context": "Software companies have always built their products assuming humans would click buttons and type commands, but artificial intelligence has become smart enough that computer programs can now run other computer programs and make decisions on their own. The CEO of Box (which makes software for storing and sharing files online) is saying we've reached a point where AI \"agents\"—which are like digital assistants that can complete complex tasks—will need their own money and payment methods to buy and use software directly without involving a human intermediary. This would completely change how businesses make money, because instead of selling one subscription to a person who then uses various tools, they'd need to sell access to millions of AI agents that might each buy different services for specific tasks.",
-      "why_it_matters": "Soon, computer programs might do all your online shopping and pay for things automatically without you clicking anything. This could change how the entire internet works, making online tasks faster and easier for people.",
-      "other_side": "Some worry that giving computer programs control over money could lead to spending mistakes or security problems. Others fear it could eliminate jobs that currently involve helping people make purchases online."
-    },
-    {
-      "headline": "Computacenter Reports Growth Driven by North American Expansion",
-      "summary": "IT services provider Computacenter has released financial results for the 2025 fiscal year, highlighting that North America is now driving the company's growth momentum. The UK and Germany markets remain solid performers, but the most significant expansion is coming from other regions, particularly North America.",
-      "source": "ComputerWeekly.com",
-      "original_title": "[ComputerWeekly.com] North America drives growth at Computacenter — Channel player shares numbers for the 2025 financial year, with the UK and Germany solid – but there is higher growth coming from other regions",
-      "context": "Computacenter is a company that helps other businesses set up and manage all their computer equipment and technology needs, from buying laptops to setting up office networks and fixing technical problems. Most IT service companies start in their home country and then slowly expand into neighboring regions because learning how to do business in different places with different languages, laws, and business customs takes time and lots of effort. Their financial results basically act like a report card showing that while they're still doing well in their original markets (UK and Germany), the United States has become like a new growth engine where they're finding more customers and making more money than anywhere else, which matters because North America is the world's largest technology market.",
-      "why_it_matters": "This shows that the U.S. market is becoming the main engine of growth for this tech company, which might inspire other businesses to focus more on America. When tech companies grow, they create more job opportunities and invest more in local communities.",
-      "other_side": "Some investors worry that growing too fast in a new region could stretch the company thin and cause quality problems. Others are concerned that relying heavily on one region makes the company more vulnerable if that market has economic trouble."
-    }
-  ]
+  "count": 0,
+  "stories": []
 }
