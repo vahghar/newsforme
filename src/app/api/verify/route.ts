@@ -5,7 +5,7 @@ import path from 'path';
 
 const execAsync = util.promisify(exec);
 
-const API_KEY = process.env.API_KEY || process.env.ASI_ONE_API_KEY; // The ASI_ONE_API_KEY
+const API_KEY = process.env.API_KEY || process.env.ASI_ONE_API_KEY;
 const ENDPOINT = 'https://api.asi1.ai/v1/chat/completions';
 const MODEL = 'asi1';
 

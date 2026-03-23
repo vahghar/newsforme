@@ -32,31 +32,36 @@ export async function POST(req: NextRequest) {
 
         // 1. Get ticker via ASI model
         const messages = [
-          { role: 'system', content: 'You are a financial extractor. Extract the single most prominent publicly traded company ticker symbol from this text. Reply with ONLY the raw categorical ticker symbol (e.g. AMZN, AAPL, MSFT), no other text, no explanations. If no distinct public company is found, reply with "NONE".' },
-          { role: 'user', content: `Headline: ${headline}\nSummary: ${summary}` }
-        ];
+            { role: 'system', content: 'You are a financial extractor. Extract the single most prominent publicly traded company ticker symbol from this text. If no specific company is mentioned, map the topic to the most relevant Sector ETF: Fed/rates/bonds -> TLT, Banking/Finance -> XLF, Energy -> XLE, Tech/AI -> QQQ, Biotech/Pharma -> XBI. If it is broad market news or fits none of the above, use SPY. Reply with ONLY the raw uppercase ticker symbol (e.g. AMZN, AAPL, TLT, SPY), no other text, no explanations.' },
+            { role: 'user', content: `Headline: ${headline}\nSummary: ${summary}` }
+          ];
 
-        const aiRes = await fetch(ENDPOINT, {
-          method: 'POST',
-          headers: {
-            'Authorization': `Bearer ${API_KEY}`,
-            'x-session-id': sessionId,
-            'Content-Type': 'application/json',
-          },
-          body: JSON.stringify({ model: MODEL, messages, stream: false }),
-        });
+          const aiRes = await fetch(ENDPOINT, {
+            method: 'POST',
+            headers: {
+              'Authorization': `Bearer ${API_KEY}`,
+              'x-session-id': sessionId,
+              'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ model: MODEL, messages, stream: false }),
+          });
 
         const aiData = await aiRes.json();
         const ticker = aiData.choices?.[0]?.message?.content?.trim().replace(/[^A-Z]/g, '');
+        const isFallbackETF = ['TLT', 'XLF', 'XLE', 'QQQ', 'XBI', 'SPY'].includes(ticker || '');
 
-        if (!ticker || ticker === 'NONE' || ticker.length > 5) {
-          await sendChunk("\n⚠️ No distinct publicly traded company found.\n");
+        if (!ticker || ticker.length > 5) {
+          await sendChunk("\n⚠️ Could not determine a valid ticker to analyze.\n");
           await sendChunk("\n[DONE]\n\n");
           await writer.close();
           return;
         }
 
-        await sendChunk(`Ticker identified: ${ticker}\nCalling Technical Analysis Agent on Agentverse...\n`);
+        if (isFallbackETF) {
+          await sendChunk(`No specific company found. Analyzing relevant sector ETF: ${ticker}\nCalling Technical Analysis Agent on Agentverse...\n`);
+        } else {
+          await sendChunk(`Ticker identified: ${ticker}\nCalling Technical Analysis Agent on Agentverse...\n`);
+        }
 
         // 2. Run Python Bridge to hit Agentverse Mailbox
         const scriptPath = path.join(process.cwd(), 'scripts', 'get_tech_analysis.py');

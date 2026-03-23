@@ -51,6 +51,37 @@ function StoryCard({ story, accent, isFinance }: { story: Story; accent: string;
   const [verificationStream, setVerificationStream] = useState('');
   const [verifyStatus, setVerifyStatus] = useState<string | null>(null);
 
+  // Restore states from cache on mount
+  useEffect(() => {
+    const savedVerify = sessionStorage.getItem(`verify_${story.headline}`);
+    if (savedVerify) {
+      try {
+        const parsed = JSON.parse(savedVerify);
+        setVerificationStream(parsed.verificationStream);
+        setVerifyStatus(parsed.verifyStatus);
+      } catch (e) {}
+    }
+
+    const savedImpact = sessionStorage.getItem(`impact_${story.headline}`);
+    if (savedImpact) {
+      setImpactStream(savedImpact);
+    }
+
+    const savedChat = sessionStorage.getItem(`chat_${story.headline}`);
+    if (savedChat) {
+      try {
+        setMessages(JSON.parse(savedChat));
+      } catch (e) {}
+    }
+  }, [story.headline]);
+
+  // Save chat to cache whenever it updates
+  useEffect(() => {
+    if (messages.length > 0) {
+      sessionStorage.setItem(`chat_${story.headline}`, JSON.stringify(messages));
+    }
+  }, [messages, story.headline]);
+
   // Auto-scroll chat to bottom only if user is already near the bottom
   useEffect(() => {
     if (chatEndRef.current && chatEndRef.current.parentElement) {
@@ -110,6 +141,10 @@ function StoryCard({ story, accent, isFinance }: { story: Story; accent: string;
             } catch (ignore) { }
           }
         }
+      }
+      
+      if (fullText) {
+        sessionStorage.setItem(`impact_${story.headline}`, fullText);
       }
     } catch (e: any) {
       console.error('Market Impact error:', e);
@@ -171,13 +206,22 @@ function StoryCard({ story, accent, isFinance }: { story: Story; accent: string;
 
       // After streaming is done, look for the VERDICT
       const verdictMatch = fullText.match(/VERDICT:\s*(VERIFIED|DISPUTED|UNVERIFIED)/i);
+      let finalStream = fullText.trim();
+      let finalStatus = 'UNVERIFIED';
+
       if (verdictMatch) {
-        setVerifyStatus(verdictMatch[1].toUpperCase());
+        finalStatus = verdictMatch[1].toUpperCase();
         // Clean up the text to remove the VERDICT line for better display
-        setVerificationStream(fullText.replace(/VERDICT:\s*(VERIFIED|DISPUTED|UNVERIFIED)/i, '').trim());
-      } else {
-        setVerifyStatus('UNVERIFIED');
+        finalStream = fullText.replace(/VERDICT:\s*(VERIFIED|DISPUTED|UNVERIFIED)/i, '').trim();
       }
+      
+      setVerifyStatus(finalStatus);
+      setVerificationStream(finalStream);
+
+      sessionStorage.setItem(`verify_${story.headline}`, JSON.stringify({
+        verifyStatus: finalStatus,
+        verificationStream: finalStream
+      }));
 
     } catch (e: any) {
       console.error('Verify error:', e);
@@ -282,7 +326,7 @@ function StoryCard({ story, accent, isFinance }: { story: Story; accent: string;
 
         {isFinance && (
           <button
-            onClick={startMarketImpact}
+            onClick={() => startMarketImpact()}
             className="text-xs font-mono flex cursor-pointer items-center gap-1.5 transition-colors text-white/50 hover:text-white"
           >
             <span className={`${isAnalyzing ? 'animate-pulse text-[#f59e0b]' : impactStream ? 'text-[#f59e0b]' : ''}`}>
@@ -299,7 +343,7 @@ function StoryCard({ story, accent, isFinance }: { story: Story; accent: string;
           <span className={`${isVerifying ? 'animate-pulse text-yellow-500' : verifyStatus === 'VERIFIED' ? 'text-green-500' : verifyStatus === 'DISPUTED' ? 'text-orange-500' : ''}`}>
             {isVerifying || verifyStatus ? '●' : '○'}
           </span>
-          {isVerifying ? 'Verifying...' : (verifyStatus ? 'Truth Checker' : 'Verify Claims')}
+          {isVerifying ? 'Verifying...' : (verifyStatus ? 'Verified' : 'Verify Claims')}
         </button>
 
         <button
@@ -364,7 +408,7 @@ function StoryCard({ story, accent, isFinance }: { story: Story; accent: string;
               <span className={`w-2 h-2 rounded-full ${isVerifying ? 'animate-pulse bg-yellow-500' : verifyStatus === 'VERIFIED' ? 'bg-[#00ff9d]' : verifyStatus === 'DISPUTED' ? 'bg-[#f59e0b]' : 'bg-gray-500'}`}></span>
               {isVerifying ? 'ASI Fact-Checker in Progress...' : verifyStatus ? `Analysis Complete` : 'Verification'}
             </span>
-            <button onClick={() => setVerifyOpen(false)} className="text-white/40 hover:text-white transition-colors">✕</button>
+            <button onClick={() => setVerifyOpen(false)} className="text-white/40 hover:text-white transition-colors cursor-pointer">✕</button>
           </div>
           <div className="p-5 text-[15px] font-sans text-white/90 whitespace-pre-wrap leading-relaxed max-h-64 overflow-y-auto scrollbar-thin scrollbar-thumb-white/10 scrollbar-track-transparent">
             {isVerifying && !verificationStream && (

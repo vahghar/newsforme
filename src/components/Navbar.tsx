@@ -15,7 +15,6 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-6 h-14 flex items-center justify-between">
         <Link href="/" className="flex items-center gap-2">
           <span className="text-white font-mono font-bold text-lg tracking-tight">FLARIO</span>
-          <span className="text-white/30 text-xs font-mono mt-0.5">/ agentverse intel</span>
         </Link>
         <div className="flex items-center gap-1">
           {links.map((l) => (
