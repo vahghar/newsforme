@@ -74,8 +74,8 @@ export async function POST(req: NextRequest) {
         // 2. Fetch Technical Analysis Data from external Python Backend
         let result: any = null;
         
-        // Locally this defaults to the FastAPI server. In Production Vercel, it uses the Render URL.
-        const baseUrl = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
+        // Locally this defaults to the actual Render API Server. In Production Vercel, it uses the Render URL automatically.
+        const baseUrl = process.env.NEXT_PUBLIC_API_URL || "";
         
         const fetchHeaders: Record<string, string> = {};
         if (process.env.VERCEL_AUTOMATION_BYPASS_SECRET) {

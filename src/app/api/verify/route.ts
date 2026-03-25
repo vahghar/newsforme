@@ -34,8 +34,8 @@ export async function POST(req: NextRequest) {
                 let searchContext = "";
                 let result: any = null;
                 
-                // Locally this defaults to the FastAPI server. In Production Vercel, it uses the Render URL defined in your Vercel Dashboard env limits.
-                const baseUrl = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
+                // Locally this defaults to the actual Render API server. In Production Vercel, it uses the Render URL automatically.
+                const baseUrl = process.env.NEXT_PUBLIC_API_URL || "";
                 
                 const fetchHeaders: Record<string, string> = {};
                 // Vercel Protection Bypass logic
