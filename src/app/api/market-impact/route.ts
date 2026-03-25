@@ -47,15 +47,15 @@ export async function POST(req: NextRequest) {
           });
 
         const aiData = await aiRes.json();
-        const ticker = aiData.choices?.[0]?.message?.content?.trim().replace(/[^A-Z]/g, '');
-        const isFallbackETF = ['TLT', 'XLF', 'XLE', 'QQQ', 'XBI', 'SPY'].includes(ticker || '');
-
-        if (!ticker || ticker.length > 5) {
-          await sendChunk("\n⚠️ Could not determine a valid ticker to analyze.\n");
-          await sendChunk("\n[DONE]\n\n");
-          await writer.close();
-          return;
+        let ticker = aiData.choices?.[0]?.message?.content?.trim().replace(/[^A-Z]/g, '') || '';
+        
+        // If the LLM generates a full sentence instead of a ticker, it will be > 5 characters long.
+        // If it completely fails, it will be length 0. In both cases, strictly fallback to SPY!
+        if (ticker.length === 0 || ticker.length > 5) {
+            ticker = 'SPY';
         }
+        
+        const isFallbackETF = ['TLT', 'XLF', 'XLE', 'QQQ', 'XBI', 'SPY'].includes(ticker);
 
         if (isFallbackETF) {
           await sendChunk(`No specific company found. Analyzing relevant sector ETF: ${ticker}\nCalling Technical Analysis Agent on Agentverse...\n`);

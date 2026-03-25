@@ -61,6 +61,9 @@ export async function POST(req: NextRequest) {
                 
                 if (result) {
                     try {
+                        if (result.results && result.results.length === 0) {
+                            await sendChunk("\n⚠️ Search Warning: Agentverse Tavily agent returned 0 valid search results for this headline. Verification may fail.\n\n");
+                        }
                         searchContext = `Search Query: ${result.query}\nResults:\n`;
                         for (let i = 0; i < result.results.length; i++) {
                             const r = result.results[i];
