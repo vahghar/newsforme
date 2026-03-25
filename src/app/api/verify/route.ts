@@ -117,6 +117,14 @@ VERDICT: UNVERIFIED`
                     body: JSON.stringify({ model: MODEL, messages, stream: true }),
                 });
 
+                if (!response.ok) {
+                    const errText = await response.text();
+                    await sendChunk(`\n⚠️ ASI LLM API Failed (Status ${response.status}). Are your API keys set in Vercel?\nDetails: ${errText}\n`);
+                    await sendChunk("\n[DONE]\n\n");
+                    await writer.close();
+                    return;
+                }
+
                 if (!response.body) throw new Error('No readable stream from ASI API');
 
                 const reader = response.body.getReader();

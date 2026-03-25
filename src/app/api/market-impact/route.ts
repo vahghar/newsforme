@@ -46,6 +46,14 @@ export async function POST(req: NextRequest) {
             body: JSON.stringify({ model: MODEL, messages, stream: false }),
           });
 
+          if (!aiRes.ok) {
+            const errText = await aiRes.text();
+            await sendChunk(`\n⚠️ ASI LLM API Failed (Status ${aiRes.status}). Ensure API_KEY is set in Vercel!\nDetails: ${errText}\n`);
+            await sendChunk("\n[DONE]\n\n");
+            await writer.close();
+            return;
+          }
+
         const aiData = await aiRes.json();
         let ticker = aiData.choices?.[0]?.message?.content?.trim().replace(/[^A-Z]/g, '') || '';
         
