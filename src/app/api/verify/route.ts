@@ -30,45 +30,32 @@ export async function POST(req: NextRequest) {
             try {
                 await sendChunk("Connecting to Agentverse...\nCalling Tavily Search Agent...\n");
 
-                // 1. Hybrid Vercel / Local Python Execution for Tavily
+                // 1. Fetch Tavily Data from external Python Backend
                 let searchContext = "";
                 let result: any = null;
                 
-                if (process.env.VERCEL === "1" || process.env.NEXT_PUBLIC_VERCEL_ENV) {
-                    const baseUrl = process.env.NEXT_PUBLIC_API_URL || `https://${process.env.VERCEL_URL}`;
-                    
-                    const fetchHeaders: Record<string, string> = {};
-                    if (process.env.VERCEL_AUTOMATION_BYPASS_SECRET) {
-                        fetchHeaders['x-vercel-protection-bypass'] = process.env.VERCEL_AUTOMATION_BYPASS_SECRET;
-                    }
-                    if (req.headers.has('cookie')) {
-                        fetchHeaders['cookie'] = req.headers.get('cookie') as string;
-                    }
-                    if (req.headers.has('x-vercel-protection-bypass')) {
-                        fetchHeaders['x-vercel-protection-bypass'] = req.headers.get('x-vercel-protection-bypass') as string;
-                    }
+                // Locally this defaults to the FastAPI server. In Production Vercel, it uses the Render URL defined in your Vercel Dashboard env limits.
+                const baseUrl = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
+                
+                const fetchHeaders: Record<string, string> = {};
+                // Vercel Protection Bypass logic
+                if (process.env.VERCEL_AUTOMATION_BYPASS_SECRET) {
+                    fetchHeaders['x-vercel-protection-bypass'] = process.env.VERCEL_AUTOMATION_BYPASS_SECRET;
+                }
+                if (req.headers.has('cookie')) {
+                    fetchHeaders['cookie'] = req.headers.get('cookie') as string;
+                }
+                if (req.headers.has('x-vercel-protection-bypass')) {
+                    fetchHeaders['x-vercel-protection-bypass'] = req.headers.get('x-vercel-protection-bypass') as string;
+                }
 
-                    const searchRes = await fetch(`${baseUrl}/api/tavily?query=${encodeURIComponent(headline)}`, { headers: fetchHeaders });
-                    if (searchRes.ok) {
-                        result = await searchRes.json();
-                    } else {
-                        const errorLog = await searchRes.text();
-                        await sendChunk(`\n⚠️ Vercel Tavily Python API failed with status ${searchRes.status}.\nDetails: ${errorLog}\n`);
-                    }
+                const searchRes = await fetch(`${baseUrl}/api/tavily?query=${encodeURIComponent(headline)}`, { headers: fetchHeaders });
+                
+                if (searchRes.ok) {
+                    result = await searchRes.json();
                 } else {
-                    const scriptPath = path.join(process.cwd(), 'scripts', 'tavily_search.py');
-                    const { stdout } = await execAsync(`python "${scriptPath}" "${headline}"`);
-                    const startMarker = "AgentResponseOutputStart---";
-                    const endMarker = "---AgentResponseOutputEnd";
-                    const startIndex = stdout.indexOf(startMarker);
-                    const endIndex = stdout.indexOf(endMarker);
-                    
-                    if (startIndex !== -1 && endIndex !== -1) {
-                        const jsonStr = stdout.substring(startIndex + startMarker.length, endIndex).trim();
-                        result = JSON.parse(jsonStr);
-                    } else {
-                        await sendChunk("\n⚠️ Local Tavily Python script failed to return valid data.\n");
-                    }
+                    const errorLog = await searchRes.text();
+                    await sendChunk(`\n⚠️ External Python Backend failed with status ${searchRes.status}.\nDetails: ${errorLog}\n`);
                 }
                 
                 if (result) {

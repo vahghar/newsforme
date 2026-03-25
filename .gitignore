@@ -49,3 +49,5 @@ helpfulData
 /scripts/inspect_agents.js
 .vercel
 .env*.local
+
+__pycache__

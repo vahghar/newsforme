@@ -71,54 +71,33 @@ export async function POST(req: NextRequest) {
           await sendChunk(`Ticker identified: ${ticker}\nCalling Technical Analysis Agent on Agentverse...\n`);
         }
 
-        // 2. Hybrid execution mode based on environment
+        // 2. Fetch Technical Analysis Data from external Python Backend
         let result: any = null;
         
-        if (process.env.VERCEL === "1" || process.env.NEXT_PUBLIC_VERCEL_ENV) {
-            // VERCEL PRODUCTION MODE - USE SERVERLESS HTTP ENDPOINT
-            const baseUrl = process.env.NEXT_PUBLIC_API_URL || `https://${process.env.VERCEL_URL}`;
-            
-            const fetchHeaders: Record<string, string> = {};
-            if (process.env.VERCEL_AUTOMATION_BYPASS_SECRET) {
-                fetchHeaders['x-vercel-protection-bypass'] = process.env.VERCEL_AUTOMATION_BYPASS_SECRET;
-            }
-            if (req.headers.has('cookie')) {
-                fetchHeaders['cookie'] = req.headers.get('cookie') as string;
-            }
-            if (req.headers.has('x-vercel-protection-bypass')) {
-                fetchHeaders['x-vercel-protection-bypass'] = req.headers.get('x-vercel-protection-bypass') as string;
-            }
-
-            const analysisRes = await fetch(`${baseUrl}/api/tech_analysis?ticker=${ticker}`, { headers: fetchHeaders });
-            
-            if (!analysisRes.ok) {
-                const errorLog = await analysisRes.text();
-                await sendChunk(`\nERROR: Vercel Python API failed with status ${analysisRes.status}.\nDetails: ${errorLog}\n`);
-                await sendChunk("\n");
-                await writer.close();
-                return;
-            }
-            result = await analysisRes.json();
-        } else {
-            // LOCAL DEVELOPMENT MODE - USE NATIVE PYTHON
-            const scriptPath = path.join(process.cwd(), 'scripts', 'get_tech_analysis.py');
-            const { stdout } = await execAsync(`python "${scriptPath}" ${ticker}`);
-            
-            const startMarker = "AgentResponseOutputStart---";
-            const endMarker = "---AgentResponseOutputEnd";
-            const startIndex = stdout.indexOf(startMarker);
-            const endIndex = stdout.indexOf(endMarker);
-            
-            if (startIndex !== -1 && endIndex !== -1) {
-                const jsonStr = stdout.substring(startIndex + startMarker.length, endIndex).trim();
-                result = JSON.parse(jsonStr);
-            } else {
-                await sendChunk(`\nERROR: Local Python script failed to return valid data.\n`);
-                await sendChunk("\n");
-                await writer.close();
-                return;
-            }
+        // Locally this defaults to the FastAPI server. In Production Vercel, it uses the Render URL.
+        const baseUrl = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
+        
+        const fetchHeaders: Record<string, string> = {};
+        if (process.env.VERCEL_AUTOMATION_BYPASS_SECRET) {
+            fetchHeaders['x-vercel-protection-bypass'] = process.env.VERCEL_AUTOMATION_BYPASS_SECRET;
         }
+        if (req.headers.has('cookie')) {
+            fetchHeaders['cookie'] = req.headers.get('cookie') as string;
+        }
+        if (req.headers.has('x-vercel-protection-bypass')) {
+            fetchHeaders['x-vercel-protection-bypass'] = req.headers.get('x-vercel-protection-bypass') as string;
+        }
+
+        const analysisRes = await fetch(`${baseUrl}/api/tech_analysis?ticker=${ticker}`, { headers: fetchHeaders });
+        
+        if (!analysisRes.ok) {
+            const errorLog = await analysisRes.text();
+            await sendChunk(`\nERROR: External Python API failed with status ${analysisRes.status}.\nDetails: ${errorLog}\n`);
+            await sendChunk("\n");
+            await writer.close();
+            return;
+        }
+        result = await analysisRes.json();
 
         // 3. Extract and parse JSON result
         if (result) {
