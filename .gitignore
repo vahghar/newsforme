@@ -43,3 +43,7 @@ next-env.d.ts
 local_test.py
 
 helpfulData
+
+/scripts/agent_readmes.txt
+/scripts/get_agents.js
+/scripts/inspect_agents.js
