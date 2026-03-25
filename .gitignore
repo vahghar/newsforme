@@ -47,3 +47,5 @@ helpfulData
 /scripts/agent_readmes.txt
 /scripts/get_agents.js
 /scripts/inspect_agents.js
+.vercel
+.env*.local

@@ -63,21 +63,45 @@ export async function POST(req: NextRequest) {
           await sendChunk(`Ticker identified: ${ticker}\nCalling Technical Analysis Agent on Agentverse...\n`);
         }
 
-        // 2. Run Python Bridge to hit Agentverse Mailbox
-        const scriptPath = path.join(process.cwd(), 'scripts', 'get_tech_analysis.py');
-        const { stdout } = await execAsync(`python "${scriptPath}" ${ticker}`);
+        // 2. Hybrid execution mode based on environment
+        let result: any = null;
+        
+        if (process.env.VERCEL === "1" || process.env.NEXT_PUBLIC_VERCEL_ENV) {
+            // VERCEL PRODUCTION MODE - USE SERVERLESS HTTP ENDPOINT
+            const baseUrl = process.env.NEXT_PUBLIC_API_URL || `https://${process.env.VERCEL_URL}`;
+            const analysisRes = await fetch(`${baseUrl}/api/tech_analysis?ticker=${ticker}`);
+            
+            if (!analysisRes.ok) {
+                await sendChunk(`\nERROR: Vercel Agentverse connection timed out or failed to return valid data.\n`);
+                await sendChunk("\n");
+                await writer.close();
+                return;
+            }
+            result = await analysisRes.json();
+        } else {
+            // LOCAL DEVELOPMENT MODE - USE NATIVE PYTHON
+            const scriptPath = path.join(process.cwd(), 'scripts', 'get_tech_analysis.py');
+            const { stdout } = await execAsync(`python "${scriptPath}" ${ticker}`);
+            
+            const startMarker = "AgentResponseOutputStart---";
+            const endMarker = "---AgentResponseOutputEnd";
+            const startIndex = stdout.indexOf(startMarker);
+            const endIndex = stdout.indexOf(endMarker);
+            
+            if (startIndex !== -1 && endIndex !== -1) {
+                const jsonStr = stdout.substring(startIndex + startMarker.length, endIndex).trim();
+                result = JSON.parse(jsonStr);
+            } else {
+                await sendChunk(`\nERROR: Local Python script failed to return valid data.\n`);
+                await sendChunk("\n");
+                await writer.close();
+                return;
+            }
+        }
 
-        // 3. Extract and parse JSON result from stdout
-        const startMarker = "AgentResponseOutputStart---";
-        const endMarker = "---AgentResponseOutputEnd";
-
-        const startIndex = stdout.indexOf(startMarker);
-        const endIndex = stdout.indexOf(endMarker);
-
-        if (startIndex !== -1 && endIndex !== -1) {
-          const jsonStr = stdout.substring(startIndex + startMarker.length, endIndex).trim();
+        // 3. Extract and parse JSON result
+        if (result) {
           try {
-            const result = JSON.parse(jsonStr);
             const buySignals = result.analysis.filter((i: any) => i.signal === 'BUY').length;
             const sellSignals = result.analysis.filter((i: any) => i.signal === 'SELL').length;
             const totalSignals = result.analysis.length;
@@ -101,10 +125,8 @@ export async function POST(req: NextRequest) {
 
             await sendChunk(formattedResponse);
           } catch (e) {
-            await sendChunk(`\nERROR: Failed to parse Agentverse response.\nRaw Output:\n${jsonStr}\n`);
+            await sendChunk(`\nERROR: Failed to parse Agentverse response.\n`);
           }
-        } else {
-          await sendChunk(`\nERROR: Agentverse connection timed out or failed to return valid data.\n`);
         }
 
         await sendChunk("\n");

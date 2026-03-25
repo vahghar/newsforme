@@ -30,20 +30,36 @@ export async function POST(req: NextRequest) {
             try {
                 await sendChunk("Connecting to Agentverse...\nCalling Tavily Search Agent...\n");
 
-                // 1. Run Python Bridge to hit Agentverse Mailbox for Tavily
-                const scriptPath = path.join(process.cwd(), 'scripts', 'tavily_search.py');
-                const { stdout } = await execAsync(`python "${scriptPath}" "${headline}"`);
-
+                // 1. Hybrid Vercel / Local Python Execution for Tavily
                 let searchContext = "";
-                const startMarker = "AgentResponseOutputStart---";
-                const endMarker = "---AgentResponseOutputEnd";
-                const startIndex = stdout.indexOf(startMarker);
-                const endIndex = stdout.indexOf(endMarker);
-
-                if (startIndex !== -1 && endIndex !== -1) {
-                    const jsonStr = stdout.substring(startIndex + startMarker.length, endIndex).trim();
+                let result: any = null;
+                
+                if (process.env.VERCEL === "1" || process.env.NEXT_PUBLIC_VERCEL_ENV) {
+                    const baseUrl = process.env.NEXT_PUBLIC_API_URL || `https://${process.env.VERCEL_URL}`;
+                    const searchRes = await fetch(`${baseUrl}/api/tavily?query=${encodeURIComponent(headline)}`);
+                    if (searchRes.ok) {
+                        result = await searchRes.json();
+                    } else {
+                        await sendChunk("\n⚠️ Vercel Tavily Search API timed out or failed.\n");
+                    }
+                } else {
+                    const scriptPath = path.join(process.cwd(), 'scripts', 'tavily_search.py');
+                    const { stdout } = await execAsync(`python "${scriptPath}" "${headline}"`);
+                    const startMarker = "AgentResponseOutputStart---";
+                    const endMarker = "---AgentResponseOutputEnd";
+                    const startIndex = stdout.indexOf(startMarker);
+                    const endIndex = stdout.indexOf(endMarker);
+                    
+                    if (startIndex !== -1 && endIndex !== -1) {
+                        const jsonStr = stdout.substring(startIndex + startMarker.length, endIndex).trim();
+                        result = JSON.parse(jsonStr);
+                    } else {
+                        await sendChunk("\n⚠️ Local Tavily Python script failed to return valid data.\n");
+                    }
+                }
+                
+                if (result) {
                     try {
-                        const result = JSON.parse(jsonStr);
                         searchContext = `Search Query: ${result.query}\nResults:\n`;
                         for (let i = 0; i < result.results.length; i++) {
                             const r = result.results[i];
@@ -53,8 +69,6 @@ export async function POST(req: NextRequest) {
                          console.error("Failed to parse search JSON", e);
                          await sendChunk("\n⚠️ Failed to parse search results.\n");
                     }
-                } else {
-                    await sendChunk("\n⚠️ Search timed out or failed to return valid data.\n");
                 }
 
                 await sendChunk("Evaluating logic and consistency via ASI Agent...\n\n");
