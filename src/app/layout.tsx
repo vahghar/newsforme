@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "news aggregator",
+  title: "Flario",
   description: "avid claude user",
 };
 
