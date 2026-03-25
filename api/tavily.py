@@ -19,8 +19,10 @@ class handler(BaseHTTPRequestHandler):
                 self.wfile.write(json.dumps({"error": "Missing query parameter"}).encode('utf-8'))
                 return
                 
-            # Path to the original working script
-            script_path = os.path.join(os.getcwd(), 'scripts', 'tavily_search.py')
+            # Calculate absolute path explicitly, avoiding working directory issues in Vercel's AWS Lambda
+            api_dir = os.path.dirname(os.path.abspath(__file__))
+            root_dir = os.path.dirname(api_dir)
+            script_path = os.path.join(root_dir, 'scripts', 'tavily_search.py')
             
             # Execute the original script exactly as Next.js was trying to do, 
             # but inside the Vercel Python environment which has Python natively installed!

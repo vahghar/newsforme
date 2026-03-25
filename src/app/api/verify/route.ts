@@ -40,7 +40,8 @@ export async function POST(req: NextRequest) {
                     if (searchRes.ok) {
                         result = await searchRes.json();
                     } else {
-                        await sendChunk("\n⚠️ Vercel Tavily Search API timed out or failed.\n");
+                        const errorLog = await searchRes.text();
+                        await sendChunk(`\n⚠️ Vercel Tavily Python API failed with status ${searchRes.status}.\nDetails: ${errorLog}\n`);
                     }
                 } else {
                     const scriptPath = path.join(process.cwd(), 'scripts', 'tavily_search.py');

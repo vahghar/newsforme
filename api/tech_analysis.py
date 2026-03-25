@@ -19,8 +19,10 @@ class handler(BaseHTTPRequestHandler):
                 self.wfile.write(json.dumps({"error": "Missing ticker parameter"}).encode('utf-8'))
                 return
                 
-            # Path to the original working script
-            script_path = os.path.join(os.getcwd(), 'scripts', 'get_tech_analysis.py')
+            # Calculate absolute path explicitly, avoiding working directory issues in Vercel's AWS Lambda
+            api_dir = os.path.dirname(os.path.abspath(__file__))
+            root_dir = os.path.dirname(api_dir)
+            script_path = os.path.join(root_dir, 'scripts', 'get_tech_analysis.py')
             
             # Execute the script
             out = subprocess.run([sys.executable, script_path, ticker], capture_output=True, text=True, timeout=25)

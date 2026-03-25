@@ -72,7 +72,8 @@ export async function POST(req: NextRequest) {
             const analysisRes = await fetch(`${baseUrl}/api/tech_analysis?ticker=${ticker}`);
             
             if (!analysisRes.ok) {
-                await sendChunk(`\nERROR: Vercel Agentverse connection timed out or failed to return valid data.\n`);
+                const errorLog = await analysisRes.text();
+                await sendChunk(`\nERROR: Vercel Python API failed with status ${analysisRes.status}.\nDetails: ${errorLog}\n`);
                 await sendChunk("\n");
                 await writer.close();
                 return;
