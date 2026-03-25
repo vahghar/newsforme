@@ -69,7 +69,19 @@ export async function POST(req: NextRequest) {
         if (process.env.VERCEL === "1" || process.env.NEXT_PUBLIC_VERCEL_ENV) {
             // VERCEL PRODUCTION MODE - USE SERVERLESS HTTP ENDPOINT
             const baseUrl = process.env.NEXT_PUBLIC_API_URL || `https://${process.env.VERCEL_URL}`;
-            const analysisRes = await fetch(`${baseUrl}/api/tech_analysis?ticker=${ticker}`);
+            
+            const fetchHeaders: Record<string, string> = {};
+            if (process.env.VERCEL_AUTOMATION_BYPASS_SECRET) {
+                fetchHeaders['x-vercel-protection-bypass'] = process.env.VERCEL_AUTOMATION_BYPASS_SECRET;
+            }
+            if (req.headers.has('cookie')) {
+                fetchHeaders['cookie'] = req.headers.get('cookie') as string;
+            }
+            if (req.headers.has('x-vercel-protection-bypass')) {
+                fetchHeaders['x-vercel-protection-bypass'] = req.headers.get('x-vercel-protection-bypass') as string;
+            }
+
+            const analysisRes = await fetch(`${baseUrl}/api/tech_analysis?ticker=${ticker}`, { headers: fetchHeaders });
             
             if (!analysisRes.ok) {
                 const errorLog = await analysisRes.text();
