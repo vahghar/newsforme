@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "Tariffs alone won't save American manufacturing — here's what actually will",
-      "summary": "Steel tariffs are raising input costs for manufacturers while the workforce pipeline remains broken and supply chains cannot be reshored overnight. The analysis suggests that championing manufacturing requires more comprehensive solutions beyond tariff protection to address structural challenges.",
-      "source": "Fortune",
-      "original_title": "Tariffs alone won't save American manufacturing — here's what actually will",
-      "context": "Tariffs are basically taxes that countries put on imports to protect their own industries. For years, American politicians have tried to save manufacturing jobs that were lost when companies moved factories overseas to cheaper countries. But there's a deeper problem: not enough young people are being trained for factory jobs, and the entire network of suppliers and parts makers took decades to build in places like China and Southeast Asia. You can't just wave a wand and move all that back, even with taxes making imported steel more expensive.",
-      "why_it_matters": "When the government puts extra taxes on imported steel, it actually makes things more expensive for American companies that need that steel to build their products. This means jobs don't come back and factories don't reopen unless we fix the real problems like training workers and building better supply chains.",
-      "other_side": "Supporters say these tariffs protect American companies from being crushed by cheap foreign steel that doesn't follow the same rules. Without these protections, they argue that American factories would keep closing and moving to other countries."
-    },
-    {
-      "headline": "Biotech IPOs roar back with Kailera and Alamar amid strong demand",
-      "summary": "Life sciences IPOs are experiencing a resurgence driven by strong demand for GLP-1 drugs and next-generation diagnostic testing, helping pull investors back into the sector despite artificial intelligence absorbing most venture capital dollars. The trend signals renewed investor confidence in biotechnology public offerings.",
-      "source": "Fortune",
-      "original_title": "From drought to demand: Biotech IPOs roar back with Kailera and Alamar",
-      "context": "An IPO (initial public offering) is when a private company starts selling shares to regular investors for the first time. Biotechnology companies have been struggling for years because they need enormous amounts of money to develop drugs that take many years to get approved. Now there's huge excitement around GLP-1 drugs (the type of medicine that treats diabetes and helps with weight loss), plus new tests that can detect diseases earlier. This excitement is making investors confident again in betting on biotech companies through public stock offerings.",
-      "why_it_matters": "New companies that make drugs and medical tests are suddenly able to sell shares to the public again and raise lots of money. This excitement is mainly because everyone wants new weight-loss and diabetes drugs, and investors are regaining confidence that putting money into healthcare companies can pay off.",
-      "other_side": "Critics worry that investors might get too excited and pour money into companies that aren't actually ready to succeed, leading to big losses later. They point out that artificial intelligence companies are soaking up most of the available investment money, leaving less for other promising but slower-growing biotech firms."
-    },
-    {
-      "headline": "Bitcoin rallies to $74K amid cooling Middle East tensions",
-      "summary": "Bitcoin surged to $74,000 as geopolitical tensions between the US and Iran eased, demonstrating cryptocurrency's sensitivity to global events and their impact on market confidence. The price movement highlights how investors view digital assets as responsive to international conflict dynamics.",
-      "source": "Crypto Briefing",
-      "original_title": "Bitcoin rallies to $74K amid cooling Middle East tensions",
-      "context": "Bitcoin is a digital currency that exists only on computers, and its value is mostly determined by how confident people feel about putting money into risky things. When there's conflict in the Middle East, especially involving Iran, investors get nervous about global stability and typically sell risky investments. When tensions calm down, as they recently did between the US and Iran, investors feel safer moving money back into volatile assets like Bitcoin. This shows how world events that have nothing to do with cryptocurrency still cause its price to move dramatically.",
-      "why_it_matters": "Bitcoin's price shot up because people feel safer about the world when countries aren't threatening each other with war. This shows that digital money behaves a lot like other investments — when people feel confident about global stability, they're willing to take more risks with their money.",
-      "other_side": "Skeptics argue that Bitcoin's wild price swings prove it's too unpredictable to be a reliable place to store your money. They point out that values can crash just as quickly as they rise, making it more like gambling than serious investing."
-    },
-    {
-      "headline": "ETF clients pile $13.7M into XRP as total ETF assets hit $1.1B",
-      "summary": "Institutional investors purchased $13.7 million worth of XRP through ETF products, bringing total ETF assets in the cryptocurrency to $1.1 billion. The sustained institutional interest suggests long-term confidence in XRP despite broader market skepticism and ongoing geopolitical tensions.",
-      "source": "Crypto Briefing",
-      "original_title": "ETF clients buy $13.7M XRP, total ETF assets hit $1.1B",
-      "context": "An ETF (exchange-traded fund) is like a basket of investments that you can buy and sell on the stock market, making it easier for big institutions to invest without having to purchase the underlying asset directly. XRP is a specific cryptocurrency that has been surrounded by legal uncertainty and skepticism in the broader crypto community. However, large investment firms continue putting money into XRP through these ETF products because they see long-term potential value at the current low prices, despite the ongoing drama and doubts from other investors.",
-      "why_it_matters": "Big money managers who handle investments for regular people are now putting serious cash into a cryptocurrency called XRP. This suggests that people who invest professionally believe this digital money has staying power, even though it's still controversial and faces legal problems around the world.",
-      "other_side": "Critics point out that XRP has been fighting legal battles for years, and investing in it still carries huge risks that could wipe out investments. They argue that just because professional investors are buying it doesn't mean it's safe for regular people to put their money into something so uncertain."
-    },
-    {
-      "headline": "Schwab opens Bitcoin, Ethereum trading to 46M clients with $11.8T in assets",
-      "summary": "Charles Schwab has launched Bitcoin and Ethereum trading services for its 46 million clients who collectively hold $11.8 trillion in assets, a move that could significantly accelerate cryptocurrency adoption. The decision by a major traditional financial institution may influence client allocation strategies and prompt regulatory and competitive responses across the industry.",
-      "source": "Crypto Briefing",
-      "original_title": "Schwab opens Bitcoin, Ethereum trading to 46M clients with $11.8T in assets",
-      "context": "Charles Schwab is one of the biggest companies in America that helps regular people invest their money in stocks, bonds, and other traditional investments. For years, cryptocurrency was seen as too risky and unregulated for major financial institutions to touch, leaving everyday investors with few safe ways to buy Bitcoin or Ethereum. Now that Schwab is offering these digital currencies to their 46 million customers who manage trillions of dollars together, it's a huge sign that cryptocurrency is becoming a normal, accepted part of investing rather than a fringe experiment.",
-      "why_it_matters": "A huge investment company that 46 million Americans trust with their money is now letting customers buy and sell Bitcoin and Ethereum. This means cryptocurrency is becoming mainstream rather than just something for tech enthusiasts, potentially making crypto investment as normal as buying stocks.",
-      "other_side": "Critics worry that regular people might lose money investing in cryptocurrency without understanding how risky and volatile it really is. Some also raise concerns about whether these digital investments might face new government rules in the future that could suddenly change their value."
-    },
-    {
-      "headline": "ASML memory chip orders surge past logic as DRAM makers rush for EUV slots",
-      "summary": "ASML reported that memory chip orders have exceeded logic chip orders for the first time as DRAM manufacturers scramble to secure extreme ultraviolet lithography slots. The company emphasized that advanced logic and memory chips will continue facing supply constraints, reflecting sustained demand amid AI infrastructure buildout.",
-      "source": "Wccftech",
-      "original_title": "ASML Sees Memory Chip Orders Explode Past Logic for the First Time as DRAM Makers Scramble for EUV Slots",
-      "context": "ASML is a Dutch company that makes the world's most advanced machines for printing microscopic circuits onto computer chips, using technology called extreme ultraviolet (EUV) lithography. Logic chips are the \"brains\" of computers (like processors from Intel), while DRAM chips are the memory that helps computers and phones run programs smoothly. There's been a massive explosion in building artificial intelligence systems, which requires both types of chips, and now memory manufacturers are rushing to buy ASML's machines like factory owners rush to buy the best equipment when demand for their products suddenly skyrockets.",
-      "why_it_matters": "The company that makes the world's most advanced machines for building computer chips can't keep up with orders because demand is so high. This bottleneck means making the powerful chips needed for artificial intelligence will stay slow and expensive, which could delay how quickly AI technology becomes available to everyone.",
-      "other_side": "Some analysts worry this rush to build more chip-making capacity might create too much supply if the current AI boom doesn't last as long as companies are betting. They point out that these manufacturing machines cost hundreds of millions of dollars each, so overbuilding could create serious financial problems for manufacturers."
-    },
-    {
-      "headline": "Below-normal monsoon and West Asia threat cloud India's agriculture outlook",
-      "summary": "Bank of Baroda warns that India's agricultural sector faces significant challenges from a below-normal monsoon forecast predicted at 92 percent of the long-period average. The combined impact of potential rainfall deficits and the West Asian conflict threatens crop production and rural economic growth.",
+      "headline": "Indian banks forecast 11-13% credit growth in 2026 on strong economic fundamentals",
+      "summary": "Indian banks anticipate robust non-food credit growth of 11-13% from January-June 2026, driven by improving balance sheets and steady economic activity. The retail and SME segments are expected to lead this expansion, while industrial credit will see more measured growth.",
       "source": "The Times of India",
-      "original_title": "Below-normal monsoon and West Asia conflict cloud India's agriculture outlook: BoB",
-      "context": "India's agricultural system depends heavily on the monsoon—the annual rainy season that brings most of the country's water for growing crops. When rainfall is below normal, farmers harvest less food, millions of rural families earn less money, and food prices spike across the entire country. Meanwhile, West Asia (the Middle East) conflicts have caused oil prices to rise, making everything more expensive, including fertilizer and farm equipment. With a weak monsoon predicted at 92 percent of normal rainfall on top of oil price increases, India's economy faces a double punch just when farmers were hoping for a good year.",
-      "why_it_matters": "India's farmers might not get enough rain this year, which would mean smaller crop harvests and higher food prices for millions of people. At the same time, conflicts in other countries could make farming even harder and more expensive, potentially slowing down India's entire economy.",
-      "other_side": "While the weather prediction looks concerning, some experts point out that India has faced droughts before and has systems in place, such as backup water reserves and crop insurance, to help farmers get through tough times. They argue that one bad monsoon season doesn't guarantee disaster because modern farming techniques and irrigation can help reduce the damage."
+      "original_title": "India's banking sector resilient; 11-13% credit growth for January-June likely: Survey",
+      "context": "Credit growth is essentially banks lending money to people and businesses. When the Indian government reserved pandemic emergency funds for agriculture (food credit), regular lending to other sectors dropped. Now that businesses and individuals have recovered their financial health after the pandemic's economic damage, banks are confident enough to start lending more aggressively again. This trend typically signals that both banks trust their customers will repay loans, and customers feel secure enough to borrow for expanding their businesses or making big purchases like homes and vehicles.",
+      "why_it_matters": "When Indian banks lend more money, it usually means regular people are buying homes and small businesses are growing. This is good news for India's economy getting stronger and creating more jobs for everyone.",
+      "other_side": "Too much lending too fast can lead to people and businesses taking on debt they can't pay back. If the economy suddenly slows down, this could create big problems for banks and ordinary borrowers."
     },
     {
-      "headline": "FSB warns of 'triple whammy' crisis as private credit threats mount",
-      "summary": "The Financial Stability Board has issued a warning that global markets face a potential chain reaction combining tighter funding conditions, war-driven volatility, and worsening cracks in non-bank financial sectors. The regulator's chair described the convergence as a possible double or triple threat to financial stability.",
-      "source": "CryptoSlate",
-      "original_title": "FSB warns of 'triple whammy' crisis as private credit threat to global markets worsens",
-      "context": "The Financial Stability Board is basically the global referee that watches out for risks that could cause the whole world's financial system to crash. Private credit refers to loans made by investment firms rather than traditional banks—a growing $1.7 trillion industry that operates with fewer safety rules than banks must follow. The board is worried that three problems are hitting at the same time: money is getting harder and more expensive to borrow everywhere, the Middle East war is making markets swing wildly, and these non-bank lending companies are showing cracks in their foundation that could spread panic across the whole financial system.",
-      "why_it_matters": "The world's financial watchdogs are warning that several dangerous things could happen at once — banks not lending as much money, wars making markets unpredictable, and investment companies outside regular banks running into trouble. If these problems hit simultaneously, it could cause a domino effect that crashes the whole financial system.",
-      "other_side": "Some financial experts argue that these warnings are overly cautious and that today's system is much better protected than it was during previous financial crises. They believe the current rules and safeguards are strong enough to prevent any single problem from spiraling out of control."
+      "headline": "Turkish Finance Minister forecasts economic recovery from current challenges",
+      "summary": "Treasury and Finance Minister Mehmet Şimşek stated during IMF-World Bank Spring Meetings that Türkiye's economy will emerge stronger from current difficulties due to its resilient economic foundations and structural reforms.",
+      "source": "Hurriyet Daily News",
+      "original_title": "Turkish economy to emerge stronger from challenging period: Şimşek",
+      "context": "Turkey's economy has faced serious problems recently including runaway inflation (where money rapidly loses its value) and its currency becoming much weaker against other countries' money. The Turkish government has been trying to fix these deep-seated issues through structural reforms, which means changing the fundamental rules and systems of how their economy operates. The International Monetary Fund and World Bank are global organizations that help countries manage economic crises. When Turkey's finance minister speaks at their meetings about recovery, he's essentially telling the world's financial leaders that despite current pain, Turkey's core economic systems remain healthy enough to bounce back stronger.",
+      "why_it_matters": "Turkey's economy has been struggling with high prices and money trouble for regular citizens. If the economy really does start getting better, life could become more affordable for families and businesses in Turkey.",
+      "other_side": "Government officials often predict good news to make people feel hopeful, even when the real problems are still very serious and might not go away anytime soon."
     },
     {
-      "headline": "Ethereum breaks major resistance, bulls target return to $2,900",
-      "summary": "Ethereum surged more than 3 percent as the cryptocurrency market gained bullish momentum following relief over the de-escalation of US-Iran tensions. The world's largest altcoin has flipped a major resistance level, with traders now eyeing a return to the $2,900 price point.",
-      "source": "newsBTC",
-      "original_title": "Ethereum Flips Major Resistance – Bulls Eye Return To $2,900",
-      "context": "Resistance in trading is like a price ceiling that a stock or cryptocurrency has trouble breaking through because many investors have decided to sell at that price point. Ethereum is the second-largest cryptocurrency after Bitcoin, and its price was stuck below a key level that traders had been watching closely. When tensions between the US and Iran eased, investors felt more confident about risking their money again, causing Ethereum to surge upward through that barrier and now pointing toward the $2,900 level as the next target.",
-      "why_it_matters": "Ethereum, the second most popular cryptocurrency, jumped more than 3 percent in value and broke through a price ceiling that had been holding it back. This suggests that investors feel more confident about the future now that some international conflicts have calmed down, and they expect prices to keep climbing.",
-      "other_side": "Despite this good news, skeptics remind us that cryptocurrencies have crashed before after similar price surges, so there's no guarantee this momentum will continue. They argue that digital currencies are still very new and unproven compared to traditional investments like stocks and bonds."
+      "headline": "S&P affirms Türkiye's sovereign credit ratings at BB-/B with stable outlook",
+      "summary": "S&P Global Ratings maintained its unsolicited BB-/B foreign and local currency long- and short-term sovereign credit ratings on Türkiye, indicating confidence in the country's economic stability and fiscal trajectory.",
+      "source": "Hurriyet Daily News",
+      "original_title": "S&P affirms Türkiye's ratings, outlook stable",
+      "context": "Sovereign credit ratings are like financial report cards that countries receive from independent companies that evaluate how likely a nation is to pay back money it borrows from investors worldwide. S&P Global Ratings is one of the most influential companies that issues these grades. A BB- rating means Turkey is considered somewhat risky to lend to, but not in immediate danger of defaulting (not paying). When S&P says the outlook is \"stable,\" they're telling investors that Turkey's rating probably won't change drastically in the near future, which helps other countries and businesses feel more confident about loaning money to Turkey.",
+      "why_it_matters": "This rating means independent experts think Turkey is unlikely to go broke anytime soon. When countries get good ratings like this, it helps them borrow money from other countries at lower costs.",
+      "other_side": "These ratings can be wrong sometimes, and just because experts think things look stable doesn't mean regular Turkish families aren't still struggling with expensive food and housing costs."
     },
     {
-      "headline": "Live Nation monopoly verdict sparks calls for industry change",
-      "summary": "Following the antitrust verdict against Live Nation, artists and industry organizers acknowledge that immediate changes in the live music industry are unlikely but view the ruling as a meaningful first step. The decision could have long-term implications for market competition and pricing dynamics in the concert sector.",
-      "source": "NPR",
-      "original_title": "After the Live Nation monopoly verdict, artists say it's time for real change",
-      "context": "Live Nation is the massive company that owns Ticketmaster and controls roughly 70 percent of the concert ticket market in America. An antitrust verdict is a legal ruling that says a company has become too powerful and is behaving unfairly to keep competitors from entering the market. The ticket and concert industry has been frustrating fans for years with high fees and seemingly impossible ticket availability, and artists have long complained about how little control they have over their own shows. This ruling is a first step toward potentially breaking up or regulating that power, though changing an industry this big and powerful will take many years.",
-      "why_it_matters": "The government ruled that the company Ticketmaster is a monopoly that has been hurting competition and keeping ticket prices high. While nothing will change overnight, this decision could eventually break up the company's control over concerts, making tickets cheaper and giving artists and smaller companies a fairer chance to succeed.",
-      "other_side": "Some argue that splitting up these companies might actually make buying tickets more complicated, since right now the big company makes it easy to find shows and purchases all in one place. Defenders also point out that smaller companies might struggle to handle the technical and security challenges of selling tickets to millions of people for major events."
+      "headline": "Polish Parliament fails to override presidential veto on cryptocurrency regulation",
+      "summary": "Poland's legislative branch failed for a second time to override the presidential veto of controversial cryptocurrency legislation, escalating tensions between Parliament and the executive branch over digital asset regulations.",
+      "source": "Bitcoinist",
+      "original_title": "Crypto Regulation: Polish Parliament Fails To Overturn Presidential Veto Again",
+      "context": "Cryptocurrency is digital money that operates independently from governments and traditional banking systems, and governments worldwide are struggling to figure out how to regulate it. In Poland's political system, when Parliament passes a law, the President has the power to veto it (say no), but Parliament can override that veto if enough members vote against the President. This has happened twice now with cryptocurrency legislation, meaning both branches of government strongly disagree on how digital currencies should be controlled, creating a stalemate that leaves crypto regulation uncertain in Poland.",
+      "why_it_matters": "This deadlock shows Poland's government leaders can't agree on whether to let people safely buy and sell digital money, leaving crypto users in confusion and potential legal danger.",
+      "other_side": "Some people think cryptocurrency is too risky and should be heavily restricted or banned, while others believe these laws could stop regular people from making their own financial choices."
+    },
+    {
+      "headline": "Türkiye Central Bank convenes for critical interest rate decision amid regional tensions",
+      "summary": "The Central Bank of Türkiye's Monetary Policy Committee is meeting for the third time this year to determine key interest rates, navigating challenges from both domestic economic conditions and global market pressures from the Middle East conflict.",
+      "source": "Hurriyet Daily News",
+      "original_title": "Central Bank set to meet for rate decision this week",
+      "context": "Central banks are government institutions that control a country's money supply, and their main tool is setting interest rates—the cost of borrowing money. When rates are high, borrowing becomes expensive and economic activity slows down; when rates are low, borrowing is cheaper and the economy tends to grow faster. Turkey faces a particularly difficult situation because it's simultaneously dealing with domestic inflation problems AND external pressure from conflicts in the Middle East, which can destabilize global markets and make other countries nervous about investing in Turkish assets.",
+      "why_it_matters": "When Turkey's central bank raises or lowers interest rates, it directly affects how much it costs for regular people to get loans and mortgages, making it harder or easier to buy homes and cars.",
+      "other_side": "Making these decisions right now is extra tricky because fighting inflation at home might hurt the economy, while problems in neighboring countries could make money moves backfire."
+    },
+    {
+      "headline": "Iran's Strait of Hormuz blockade threatens global oil market stability",
+      "summary": "Iran's strategic use of the Strait of Hormuz as a geopolitical lever highlights the vulnerability of global oil markets to regional tensions, with potential supply disruptions raising concerns about energy prices worldwide.",
+      "source": "Crypto Briefing",
+      "original_title": "Iran uses Strait of Hormuz as geopolitical lever, impacting oil markets",
+      "context": "The Strait of Hormuz is a narrow waterway in the Middle East where roughly one-fifth of all the world's oil travels through on ships, making it like a global oil delivery bottleneck. Iran, which borders this strategic passage, can effectively control or block this shipping lane when they want to pressure other countries in international disputes. Since almost every nation depends on oil to run their economies, any threat to this chokepoint makes governments and businesses worldwide nervous about gas prices and energy supplies, demonstrating how regional conflicts have immediate global economic consequences.",
+      "why_it_matters": "If that waterway gets blocked, oil can't get to many countries around the world, which means gas prices at your local station could jump way up and everyday items could become more expensive.",
+      "other_side": "Some argue that controlling this waterway gives Iran too much power over everyone else's economy, and the whole world depends too much on just one important shipping route."
+    },
+    {
+      "headline": "Ceasefire expiry looms as Tehran maintains Strait of Hormuz closure amid US-Iran tensions",
+      "summary": "Iran is continuing its blockade of the Strait of Hormuz in response to the US blockade of Iranian ports, with a ceasefire between the two nations approaching expiration. Mediators are working to extend the truce as tensions persist.",
+      "source": "The Times of India",
+      "original_title": "US-Iran war: Tehran doubles down on closing the Strait of Hormuz as the ceasefire nears expiration",
+      "context": "A ceasefire is a temporary agreement between fighting nations to stop hostilities for a set period, allowing for negotiations or cooling off tensions. In this situation, the United States and Iran have agreed to pause their direct conflict, but both sides are using economic pressure tactics—the US blockading Iranian ports (stopping ships from entering), and Iran blocking the Strait of Hormuz (stopping oil shipments). As the deadline for extending this temporary truce approaches, mediators are trying to prevent both sides from returning to active fighting, which could escalate into a much larger regional war.",
+      "why_it_matters": "If the shooting stops but the Strait stays closed, gas prices might stay high anyway, which could make everything from groceries to shipping packages more expensive for regular people everywhere.",
+      "other_side": "Some people think blocking the waterway is hurting innocent people across the world more than it's helping Iran's side of the conflict, and that both countries need to just stop acting aggressively."
+    },
+    {
+      "headline": "Iran chief negotiator condemns US blockade as ceasefire negotiations continue",
+      "summary": "Iran's chief negotiator Ghalibaf criticized the United States' blockade of Iranian ports as a naive decision, while urging continued closure of the Strait of Hormuz as the ceasefire between the two nations inches toward expiration.",
+      "source": "BusinessLine",
+      "original_title": "Iran doubles down on closing the Strait of Hormuz as the ceasefire inches toward expiration",
+      "context": "Blockades are tools countries use in conflicts where they prevent ships from entering or leaving an opponent's territory to economically cripple them without direct military action. Ghalibaf is Iran's chief negotiator, meaning he's the primary person responsible for talking with the other side and reaching agreements. When he calls the US blockade \"naive,\" he's essentially saying it was a foolish decision that won't work as intended. Meanwhile, Iran is keeping the Strait of Hormuz closed as its own form of economic pressure, creating a dangerous game where each side tries to hurt the other's economy.",
+      "why_it_matters": "While both countries argue and make threats about who can use important shipping routes, regular people around the world could end up paying more for gas and other basic needs.",
+      "other_side": "Critics say that shutting down shipping lanes is like taking hostages—it hurts ordinary people everywhere, no matter which side was supposedly wrong in the first place."
+    },
+    {
+      "headline": "FanDuel expands into controversial prediction market as sports betting faces regulatory hurdles",
+      "summary": "FanDuel, America's largest online sportsbook, is venturing into the prediction market business as a hedge against state-by-state restrictions on sports gambling, tapping into a booming but controversial financial sector.",
+      "source": "CNN",
+      "original_title": "FanDuel wants to carve a sports niche in the controversial prediction market business | CNN Business",
+      "context": "Sports betting in the United States is regulated state by state, meaning each state creates its own rules about whether gambling on sports is legal and how it works. This creates a patchwork system where FanDuel might be allowed to operate in some states but completely banned in others. Prediction markets are essentially platforms where people bet money on real-world outcomes like elections or economic events rather than sports games. FanDuel is expanding into this space because it gives them another business line that might face fewer or different regulations, protecting them from one set of laws potentially shutting them down.",
+      "why_it_matters": "When big gambling companies try to get around existing rules, it could create a new kind of betting that's less regulated and potentially riskier for regular people who want to make bets.",
+      "other_side": "Some argue that prediction markets are just better forms of gambling that people should be allowed to do if they want, while others worry it's too risky and targets people who can't afford to lose money."
+    },
+    {
+      "headline": "Study examines cultural factors behind Jewish communities' financial success",
+      "summary": "Jewish communities demonstrate strong financial success globally, attributed partly to historical involvement in trade and finance alongside the Yiddish cultural concept of 'fargin'—a mindset fostering shared joy in others' achievements and open knowledge exchange.",
+      "source": "The Times of India",
+      "original_title": "Why are Jews so wealthy? CA reveals one Yiddish word they learn in childhood that gives them the mindset for success: 'All of us must teach…'",
+      "context": "Throughout history, Jewish communities were often restricted from owning land or joining certain professions in medieval Europe, which pushed many toward money-lending and trade—fields that were both allowed and could build significant wealth over generations. Because Jewish communities were frequently forced to migrate between countries, they developed international business networks and financial knowledge that became valuable assets. The concept of \"fargin\" is a cultural practice where people genuinely celebrate when someone else succeeds rather than feeling jealous, which creates business environments where knowledge and resources are shared rather than hoarded, potentially contributing to collective economic success.",
+      "why_it_matters": "This research suggests that how communities help and support each other might have a real effect on how successful they become, which could teach other groups about working together better.",
+      "other_side": "Some people worry that studying how one religious or ethnic group succeeds might be misunderstood, and could lead to unfair stereotypes or ignore all the other reasons any community becomes successful."
     }
   ]
 }
