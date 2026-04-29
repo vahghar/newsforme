@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "Meta Taps Space-Based Solar to Power AI Data Centers",
-      "summary": "Meta Platforms has partnered with space startup Overview Energy to secure solar power beamed from space for its data centers. This novel approach aims to meet the insatiable electricity demands of its expanding artificial intelligence infrastructure by the end of the decade.",
-      "source": "Financial Post",
-      "original_title": "[Financial Post] Meta Seeks to Power Data Centers With Energy Beamed From Space",
-      "context": "Artificial intelligence is incredibly hungry for electricity because every time a computer \"thinks\" or answers a question, it uses power to run massive servers. These server farms, called data centers, are growing so fast that regular power grids in many places cannot keep up with the demand. To solve this, companies are looking at space-based solar power, which means putting giant solar panels in orbit around Earth where the sun shines 24/7 without clouds or night blocking it. The idea is to beam that clean energy down to Earth using microwaves, giving AI companies a constant, unlimited source of green power.",
-      "why_it_matters": "Meta is looking to the sky for power because its AI computers use so much electricity that ground-based sources might not be enough. If beaming solar energy from space works, it could give tech companies a clean, endless power source for the future.",
-      "other_side": "Beaming energy from space is extremely expensive and technically risky right now. Critics say it is a distraction from fixing simpler, cheaper renewable energy solutions on Earth."
+      "headline": "Spotify Surpasses Estimates with €4.5B Q1 Revenue and 761M MAUs",
+      "summary": "Spotify reported a 14% year-over-year revenue increase to €4.5 billion, exceeding analyst estimates for monthly active users which reached 761 million. The company also saw a 9% growth in premium subscribers to 293 million, posting a €715 million operating income.",
+      "source": "Bloomberg",
+      "original_title": "[Mediagazer.com] Spotify reports Q1 revenue up 14% YoY to €4.5B, MAUs up 12% YoY to 761M, above 759M est., Premium subscribers up 9% YoY to 293M, and a €715M operating income (Ashley Carman/Bloomberg) — Ashley Carman / Bloomberg:\nSpotify reports Q1 revenue up 14% YoY to €4.5B, MAUs up 12% YoY to 761M, above 759M est., Premium subscribers up 9% YoY to 293M, and a €715M operating income  —  Spotify Technology SA, the music streaming leader, added slightly more…",
+      "context": "Context pending.",
+      "why_it_matters": "Spotify is growing fast, proving that people still love paying for music streaming. This success means more money for artists and pushes other companies to improve their own services to keep up.",
+      "other_side": "Some fans worry that as Spotify gets richer, they might pay artists less per stream. There are also concerns that the platform could become too focused on podcasts and ads, changing the music experience we know."
     },
     {
-      "headline": "Google Unveils Gemini Deep Research Agent and Enterprise Platform",
-      "summary": "Google has introduced the Gemini Deep Research Agent and the Gemini Enterprise Platform, offering new multimodal approaches to solving complex industrial challenges. These developments represent a significant step forward in integrating advanced AI capabilities into enterprise workflows.",
-      "source": "Geeky Gadgets",
-      "original_title": "[Geeky Gadgets] Inside Google’s Gemini Deep Research Agent",
-      "context": "For a long time, computers could only do one thing at a time, like just reading text or just looking at a picture, but modern AI has learned to understand multiple types of information at once, such as text, images, and video together. This ability is called multimodal, and it allows the software to act more like a human assistant who can see, hear, and read simultaneously. Google’s new tools are designed to act as autonomous researchers that can dig through huge amounts of complex business data on their own to find answers. This represents a shift from simple chatbots that just talk to you, to smart agents that actually go out and do difficult work for large companies.",
-      "why_it_matters": "Google is making AI tools that can do deep research and handle complex business tasks automatically. This means companies can save time and money by letting AI solve hard problems instead of hiring more people for manual work.",
-      "other_side": "Relying on AI for important decisions can lead to mistakes that are hard to catch. There are also worries about job losses as companies replace human workers with these smart systems."
+      "headline": "Accenture Deploys Microsoft 365 Copilot Across All 743,000 Employees",
+      "summary": "Accenture has rolled out Microsoft 365 Copilot to its entire global workforce of 743,000 employees, marking a massive enterprise adoption of AI tools. Internal metrics indicate that 97% of users report Copilot helps complete routine tasks up to 15 times faster, with an 89% monthly active usage rate among tested cohorts.",
+      "source": "The Next Web",
+      "original_title": "[The Next Web] Accenture deploys Microsoft 365 Copilot to all 743,000 employees — 97% of Accenture employees report Copilot helped complete routine tasks up to 15 times faster. 89% monthly active usage among the 200,000-person cohort tested. Microsoft has over 450 million M365 enterprise users; only ~3% currently pay $30/month for Copilot.…",
+      "context": "Context pending.",
+      "why_it_matters": "This shows that big AI tools can actually work in real offices without causing chaos. If 743,000 people use it daily, it proves AI can save time and help workers finish boring tasks much faster.",
+      "other_side": "Critics worry that relying on AI makes employees lazy or less skilled over time. There is also a risk that sensitive company data could be leaked or mishandled by these new digital assistants."
     },
     {
-      "headline": "Nvidia Leases Massive Bengaluru Office Amid AI Expansion",
-      "summary": "Nvidia, currently the world's most valuable company, has signed a ₹1,200 crore deal to lease significant office space in Bengaluru. This move underscores the company's aggressive expansion in India, driven by the booming demand for AI infrastructure and services.",
-      "source": "Livemint",
-      "original_title": "[Livemint] ₹1,200 crore deal: Nvidia leases massive Bengaluru office space amid AI boom",
-      "context": "India has become one of the world's biggest hubs for technology workers and software development, attracting major global tech giants who want to hire skilled engineers at competitive rates. Nvidia is the company that makes the specialized computer chips, known as graphics processing units or GPUs, which are absolutely essential for training artificial intelligence models. Because these chips are so critical and expensive, Nvidia needs a strong physical presence in key growth markets like India to support its customers and manage its expanding business operations. Leasing a massive office in Bengaluru signals that Nvidia sees India not just as a place to sell chips, but as a central pillar of its future global strategy.",
-      "why_it_matters": "Nvidia is betting big on India because the country has a huge pool of skilled workers and growing demand for AI chips. This move creates jobs in India and shows that the AI boom is spreading beyond just the United States.",
-      "other_side": "Bringing in a massive foreign company can drive up local costs for housing and services. It also makes the local economy heavily dependent on one single corporation's success."
+      "headline": "CATL and Changan Launch World's First Mass-Production EV with Sodium-Ion Batteries",
+      "summary": "Chinese battery giant CATL and automaker Changan have announced the Changan Nevo A06, recognized as the world's first mass-produced electric vehicle powered by sodium-ion batteries. This milestone vehicle is scheduled to hit the market in mid-2026, signaling a significant shift in EV battery technology beyond traditional lithium-ion.",
+      "source": "New Atlas",
+      "original_title": "[New Atlas] Production EV packing sub-zero-operation sodium-ion batteries on its way — Chinese battery giant CATL and automaker Changan announced the launch of the Changan Nevo A06, the world's first mass-production electric vehicle (EV) powered by sodium-ion batteries. It's due to hit the market mid-2026, and it marks the moment a technology l…",
+      "context": "Context pending.",
+      "why_it_matters": "Sodium-ion batteries are cheaper and easier to make than lithium ones, which could make electric cars affordable for everyone. This reduces our need for mining rare metals and helps fight climate change faster.",
+      "other_side": "These new batteries currently hold less charge than lithium ones, so cars might not drive as far on a single charge. They also take longer to charge, which might annoy drivers who want quick top-ups."
     },
     {
-      "headline": "France's Mistral Builds $14B AI Empire on Geopolitical Neutrality",
-      "summary": "Paris-based Mistral AI has constructed a $14 billion empire by positioning itself as a non-American alternative to OpenAI and Anthropic. The company capitalized on global demand for sovereign AI capabilities, proving that geopolitical neutrality can drive massive commercial success in the tech sector.",
-      "source": "Forbes",
-      "original_title": "[Forbes] France's Mistral Built a $14B AI Empire by Not Being American",
-      "context": "In recent years, many countries have become worried about relying too heavily on American technology companies for their most sensitive data and artificial intelligence systems. This fear has created a market for \"sovereign AI,\" which means building local, independent AI systems that stay within a country's borders and follow its laws rather than those of the US. Mistral AI, based in France, successfully positioned itself as a safe, European alternative to American giants like OpenAI by emphasizing privacy and independence. This geopolitical tension has allowed Mistral to attract billions of dollars from governments and businesses that want to avoid being controlled by foreign tech powers.",
-      "why_it_matters": "Mistral AI is proving that countries want their own AI systems so they don't have to rely on American tech giants. This gives Europe and other regions more control over their data and technology, changing how global tech power is shared.",
-      "other_side": "Building separate AI systems for every region can lead to duplicated efforts and higher costs. It might also create \"digital walls\" that make it harder for companies to work across borders."
+      "headline": "India's Digital Public Infrastructure Set to Drive GDP Growth via MSME Focus",
+      "summary": "NITI Aayog highlights that India's Digital Public Infrastructure (DPI) initiatives are already contributing nearly 1% to the GDP, with projections reaching 4% by 2030. The report emphasizes that focusing on Micro, Small, and Medium Enterprises (MSMEs) and agriculture is critical for accelerating the rollout of DPI 2.0.",
+      "source": "BusinessLine",
+      "original_title": "[BusinessLine] MSME and agriculture focus key to Digital Public Infrastructure 2.0 rollout: NITI Aayog — According to the report, India's DPI initiatives are already contributing nearly 1% of GDP and have the potential to reach 4% by 2030, making it critical to accelerate implementation",
+      "context": "Context pending.",
+      "why_it_matters": "India is using simple digital tools to help small businesses and farmers grow their income. This boosts the whole economy by making it easier for regular people to get loans, sell goods, and access services online.",
+      "other_side": "Not everyone has a smartphone or good internet, so this might leave behind older or rural populations. There are also worries about how safe personal data is when everything moves online."
     },
     {
-      "headline": "Iran Conflict Disrupts Global PCB Supply Chain, Hitting Tech Firms",
-      "summary": "Geopolitical tensions in Iran are causing significant disruptions to the global printed circuit board (PCB) supply chain, leading to increased costs for technology firms. The industry is projected to grow by 12.5% to $95.8 billion in 2026, but supply constraints threaten to impact hardware production.",
-      "source": "The Indian Express",
-      "original_title": "[The Indian Express] Iran war disrupts the circuit board supply chain, raises costs for tech firms",
-      "context": "Printed circuit boards, or PCBs, are the tiny green boards inside almost all electronic devices that connect all the different parts together so they can communicate. These boards require specific raw materials and manufacturing processes that are often concentrated in a few key regions around the world. When political tensions rise in areas like Iran, which sits near major shipping routes and supply hubs, it creates uncertainty that can delay shipments and increase costs for manufacturers. This disruption shows how fragile the global network of making electronics is, where a conflict in one part of the world can cause shortages and price hikes for gadgets everywhere else.",
-      "why_it_matters": "Tensions in Iran are showing how fragile the supply chain for computer parts really is. When politics interfere with trade, it becomes harder and more expensive to build the devices we all use every day.",
-      "other_side": "Some argue that companies should just diversify where they buy parts to avoid this risk. Others say that geopolitical conflicts are unpredictable and no amount of planning can fully stop them."
-    },
-    {
-      "headline": "Top Budget OLED TVs for 2026 Deliver Premium Quality at Lower Costs",
-      "summary": "Several budget-friendly OLED televisions have emerged as top picks for 2026, offering premium picture quality without the traditional high price tag. These models demonstrate how display technology is becoming more accessible to consumers while maintaining high performance standards.",
-      "source": "BGR",
-      "original_title": "[BGR] 4 Budget OLED TVs Users Swear By In 2026",
-      "context": "OLED stands for Organic Light-Emitting Diode, a type of screen technology where each individual pixel makes its own light, allowing for perfect blacks and vibrant colors. For many years, this high-quality technology was very expensive and only available in luxury televisions because the materials were hard to produce in large sizes. However, recent advances in manufacturing have made it much cheaper and easier to create these screens, driving down the cost significantly. This technological breakthrough has allowed budget-friendly TVs to offer premium picture quality, making what was once a luxury item accessible to average consumers.",
-      "why_it_matters": "High-quality TV screens are finally becoming affordable for average families. This pushes other electronics makers to lower their prices, giving consumers better value for their money.",
-      "other_side": "Cheaper TVs often have shorter lifespans or use materials that are harder to recycle. The push for low prices can also hurt the workers who make these screens in factories."
-    },
-    {
-      "headline": "Toobit Launches Major Crypto Rewards Program for P2P Traders",
-      "summary": "Cryptocurrency exchange Toobit has announced a 150,000 USDT reward pool to incentivize peer-to-peer trading activity. The campaign, running through May 18, 2026, includes VIP perks and APR boosts, highlighting the ongoing competitive landscape in digital asset platforms.",
+      "headline": "Jitterbit Wins Silver Stevie Award for AI-Infused Harmony Platform",
+      "summary": "Jitterbit has been honored with a Silver Stevie® Award in the 2026 American Business Awards® for its unified Harmony platform. The recognition highlights the company's pioneering work in business transformation through its industry-first layered AI architecture.",
       "source": "GlobeNewswire",
-      "original_title": "[GlobeNewswire] Toobit Rewards P2P Traders with 150,000 USDT, VIP Perks, and APR Boosts",
-      "context": "Peer-to-peer trading, or P2P, allows individuals to buy and sell cryptocurrencies directly with each other without going through a central bank or traditional financial institution. Cryptocurrency exchanges are platforms that facilitate these trades, but they face intense competition to attract users who might otherwise use a different website. To win over traders, exchanges like Toobit offer financial incentives, such as cash rewards or lower fees, to encourage people to move their money onto their platform. This competitive landscape drives innovation and better deals for users, as each platform tries to offer the best possible experience to keep customers loyal.",
-      "why_it_matters": "Crypto exchanges are fighting hard for users by offering cash rewards for trading. This keeps the digital money market active but encourages people to trade more than they might otherwise.",
-      "other_side": "These rewards can tempt people into risky gambling-like behavior with their money. Many users lose more money trading than they ever win from the small bonuses offered."
+      "original_title": "[GlobeNewswire] Jitterbit Honored as Silver Stevie® Award Winner in 2026 American Business Awards® — Jitterbit’s unified, AI-infused Harmony platform was recognized for pioneering business transformation through its industry-first layered AI architecture....",
+      "context": "Context pending.",
+      "why_it_matters": "Winning awards like this shows that adding AI to business software is becoming standard practice. It encourages other tech companies to build smarter tools that help businesses run smoother and solve problems faster.",
+      "other_side": "Some experts think these awards are just marketing hype and don't prove the technology actually works well in tough situations. Others worry that too much focus on AI features might ignore basic software stability and bugs."
     },
     {
-      "headline": "Meta Partners with Overview Energy for Space Solar Power",
-      "summary": "In a confirmed agreement, Meta has partnered with Overview Energy to utilize space-based solar infrastructure for its data centers. This collaboration marks a strategic shift towards sustainable energy solutions to support the heavy power requirements of Meta's AI operations.",
-      "source": "CNA",
-      "original_title": "[CNA] Meta partners with space startup Overview Energy to secure solar power for data centers",
-      "context": "As artificial intelligence becomes more powerful, it requires exponentially more energy to run, leading to concerns about carbon footprints and the stability of local power grids. Space-based solar energy offers a solution by capturing sunlight in orbit, where it is stronger and uninterrupted by weather or day-night cycles, and beaming it down to Earth. Meta, the parent company of Facebook and Instagram, is investing in this futuristic technology to ensure it has a reliable, clean energy source for its growing network of data centers. This partnership highlights a broader industry trend where tech giants are looking beyond traditional renewable sources like wind and solar panels on land to meet their massive power needs.",
-      "why_it_matters": "This confirms that Meta is serious about using space power to run its massive AI networks. It signals a major shift in how tech giants plan to get the huge amounts of clean energy they need.",
-      "other_side": "The technology is still unproven at this scale and could fail when tested. Spending billions on space projects might take money away from more immediate environmental fixes on Earth."
+      "headline": "AHA Raises Privacy Concerns Over TEFCA Individual Access SOP",
+      "summary": "The American Hospital Association (AHA) is calling for a delay in the implementation of the TEFCA individual access Standard Operating Procedure due to patient privacy risks. They argue that new patient-matching and consent rules could lead to data misattribution or unauthorized access, potentially compromising sensitive health information.",
+      "source": "Techtarget.com",
+      "original_title": "[Techtarget.com] AHA calls for TEFCA individual access SOP delay, citing patient privacy concerns — The AHA asserted that the proposed individual access SOP, with new patient-matching and consent rules, may risk patient privacy through data misattribution or unauthorized access.",
+      "context": "Context pending.",
+      "why_it_matters": "Hospitals want to make sure patient records are easy to share between doctors without leaking private info. Delaying this rule gives them time to fix security holes before patients' health data becomes vulnerable.",
+      "other_side": "Doctors argue that delays hurt patients because it takes longer to share critical medical history during emergencies. They believe strict privacy rules should not stop life-saving information from moving quickly between care teams."
     },
     {
-      "headline": "Turbico Casino Expands Free Spins Offers in Dutch Market",
-      "summary": "Online gaming platform Turbico is enhancing its user experience in the Netherlands with new free spins offers and slot requirements. This move reflects the competitive nature of the online gambling tech sector as platforms seek to attract and retain players through enhanced digital incentives.",
-      "source": "Addictivetips.com",
-      "original_title": "[Addictivetips.com] Turbico Free Spins Offers In The Netherlands: Best Slots And Requirements",
-      "context": "Online gambling platforms operate in a highly regulated and competitive environment, especially in countries like the Netherlands where strict laws govern digital gaming. To stand out among many similar websites, these platforms use marketing tactics like \"free spins\" to attract new players and keep existing ones engaged without risking their own money initially. Turbico’s expansion into the Dutch market involves offering these incentives to build trust and user base in a region with established legal frameworks for online betting. This reflects the global trend of digital entertainment companies using gamification and rewards to capture attention in an oversaturated market.",
-      "why_it_matters": "Online casinos are using free spins to attract players in new markets like the Netherlands. This shows how digital platforms are constantly evolving their tricks to keep users engaged and spending money.",
-      "other_side": "Aggressive marketing of gambling can lead to addiction and financial ruin for vulnerable people. Making it easier to play online increases the risk of problem gambling among young adults."
+      "headline": "Smart Home Tech Evolves Beyond Passive Convenience",
+      "summary": "New concepts in smart home technology are challenging the assumption that users must actively retrieve items, proposing innovations like self-flying drink dispensers. This shift represents a broader evolution in how technology integrates into daily convenience, moving from passive assistance to active delivery within the home environment.",
+      "source": "Yanko Design",
+      "original_title": "[Yanko Design] What If Your Drink Could Fly Itself Across the Room to You — What If Your Drink Could Fly Itself Across the Room to YouSmart home technology has reshaped how we think about convenience, but most of it still assumes you’re the one who has to reach for things....",
+      "context": "Context pending.",
+      "why_it_matters": "Smart homes are moving from just being controlled by apps to actually doing things for you automatically. This changes how we live by making daily chores feel effortless and freeing up time for more important things.",
+      "other_side": "These high-tech gadgets are expensive and might break often, costing homeowners a lot of money to fix. There is also a fear that if the internet goes down, your home stops working entirely."
     },
     {
-      "headline": "iNSPIRE Media Secures Top Rankings in Digital Agency Report",
-      "summary": "iNSPIRE Media & Communications has achieved 14 No. 1 rankings in the Agency Scope China 2025/2026 report. This recognition highlights the firm's dominance in media and communications technology services within the Chinese market.",
-      "source": "Antaranews.com",
-      "original_title": "[Antaranews.com] iNSPIRE Media & Communications Earns 14 No. 1 Rankings in Agency Scope China 2025/2026",
-      "context": "Digital media agencies are specialized firms that help brands manage their online presence, advertising, and communication strategies across various internet platforms. In China, a massive and fast-moving digital market, standing out requires deep understanding of local social media trends and consumer behavior. iNSPIRE Media & Communications has achieved top rankings by consistently delivering successful campaigns that resonate with Chinese audiences, proving their expertise in navigating the unique digital landscape. Their success highlights the importance of localized, high-quality media services in a country where online influence directly impacts brand reputation and sales.",
-      "why_it_matters": "iNSPIRE Media’s success shows that China remains a powerhouse in digital advertising and communications. It highlights how local firms can dominate their home markets by understanding cultural nuances better than foreign competitors.",
-      "other_side": "Dominance in one market doesn't guarantee success globally due to different regulations. Heavy reliance on government-friendly agencies can limit creative freedom and innovation."
+      "headline": "Best Buy Offers Up to $700 Off Select Cell Phones with Trade-Ins",
+      "summary": "Best Buy is running promotions offering discounts of up to $600 on select Android phones and up to $700 on Samsung models when customers trade in their old devices. The deal also includes discounts on accessories and free shipping for My Best Buy members, significantly lowering the entry cost for upgrading mobile hardware.",
+      "source": "Dealnews.com",
+      "original_title": "[Dealnews.com] Cell Phone Deals at Best Buy: Up to $700 off + free shipping — Save up to $600 off select Android phones and up to $700 off Samsung phones with trade ins. (There are even higher discounts with trade ins on other specific models.) Accessories are also discounted. My Best Buy members get free shipping. (It's free to join. …",
+      "context": "Context pending.",
+      "why_it_matters": "Big discounts on phones make the latest technology accessible to more people who couldn't afford it before. This helps close the digital gap by giving students and families better tools for work and school.",
+      "other_side": "These deals often push people to buy phones they don't really need just to save money. Trading in old devices also creates more electronic waste that ends up in landfills and harms the environment."
+    },
+    {
+      "headline": "Agisoft Metashape 2.3.1 Enhances Photogrammetric Processing Capabilities",
+      "summary": "Agisoft has released Metashape Professional version 2.3.1, continuing its role as a leading stand-alone software for photogrammetric processing of digital images. The update supports the generation of 3D spatial data essential for GIS applications, cultural heritage documentation, and visual effects industries.",
+      "source": "Rlsbb.to",
+      "original_title": "[Rlsbb.to] Agisoft Metashape Professional 2.3.1 Build 22416 — Description: Agisoft Metashape (formerly PhotoScan) is a stand-alone software product that performs photogrammetric processing of digital images and generates 3D spatial data to be used in GIS applications, cultural heritage documentation, and visual effects …",
+      "context": "Context pending.",
+      "why_it_matters": "Better software for turning photos into 3D models helps preserve historical sites and create realistic video game worlds. This technology allows experts to study ancient artifacts or plan cities with incredible detail from just pictures.",
+      "other_side": "Creating these detailed 3D models requires powerful computers and lots of time, making it hard for small teams to use. The process can also be confusing for beginners who aren't trained in technical design skills."
+    },
+    {
+      "headline": "Cycling '74 Max 9.1.4 Updates Interactive Software Creation Environment",
+      "summary": "Cycling '74 has released Max version 9.1.4, updating the flexible platform used for creating interactive software, sound waves, and hardware representations. This release continues to support developers and artists in connecting ideas together to create complex audio-visual systems and user interfaces.",
+      "source": "Rlsbb.to",
+      "original_title": "[Rlsbb.to] Cycling '74 Max 9.1.4 — Description: A Playground for Invention. Max is an infinitely flexible space to create your own interactive software. Connect Ideas Together to Create. Each object does something. Max has objects that generate sound waves, represent hardware, or provide a UI …",
+      "context": "Context pending.",
+      "why_it_matters": "Updating tools like Max lets artists and musicians create more complex and interactive sound experiences. This keeps creative technology fresh, allowing new forms of art and entertainment to emerge from simple code.",
+      "other_side": "Frequent updates can break old projects, forcing creators to spend hours fixing errors instead of making art. The learning curve for these advanced tools remains steep, keeping many beginners out of the field."
     }
   ]
 }
