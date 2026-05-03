@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "Apple Posts Record $111 Billion Q2 Revenue, Driven by iPhone and Services Surge",
-      "summary": "Apple reported its strongest March quarter ever with $111.2 billion in revenue, marking a 17% year-over-year increase. iPhone sales jumped 22% to $57 billion while Services revenue hit an all-time high of $31 billion, demonstrating robust performance across all product categories and geographies.",
+      "headline": "Jefferies Warns: AI Spending Boom Yields No Returns for Tech Giants",
+      "summary": "Rising capital expenditures by global tech giants on AI infrastructure are straining cash flows to record levels relative to operating cash flow. Despite aggressive investment, monetization remains uncertain, prompting analysts to warn about the lack of profitability in the current AI spending cycle.",
       "source": "The Times of India",
-      "original_title": "Apple's Q2 2026 report card: $111 billion in revenue, a record on every line, and a memory bill coming due",
-      "context": "Context pending.",
-      "why_it_matters": "Apple is making more money than ever, which shows people still really want their phones and apps. This success means the company has more cash to invest in new tech or buy other businesses, keeping its power in the market strong.",
-      "other_side": "Some worry that relying so heavily on one product line makes the company vulnerable if phone sales drop. Also, high profits might lead to less money being spent on improving worker conditions or lowering prices for customers."
+      "original_title": "AI spending boom soars but no returns for big tech giants, warns Jefferies’ Chris Wood",
+      "context": "For years, massive technology companies like Google, Microsoft, and Amazon have been spending billions of dollars to build huge data centers filled with powerful computers specifically designed for artificial intelligence. This is because AI programs need enormous amounts of computing power to learn and make decisions, much like how a student needs a library to study. However, these companies are currently spending so much money on this new infrastructure that their regular cash flow is being stretched thin, raising questions about when they will actually start making a profit from these expensive investments. Investors are worried because, despite the hype, it is not yet clear how these tech giants will turn their heavy spending into actual financial returns in the near future.",
+      "why_it_matters": "Big tech companies are spending huge amounts of money on AI, but they aren't making enough profit yet. If this trend continues without clear returns, it could lead to a major financial crash or force companies to cut jobs and slow down innovation.",
+      "other_side": "Critics argue that these companies are just being cautious. They say that building the foundation for future profits takes time and money, so current losses are a normal part of growing a new industry."
     },
     {
-      "headline": "Meta Terminates Contract With Workers Who Exposed Ray-Ban Smart Glasses Footage Review",
-      "summary": "Meta has cancelled its contract with Sama, a Nairobi-based outsourcing firm, after workers revealed they were reviewing footage captured by users of Meta’s Ray-Ban smart glasses. The disclosure highlighted significant privacy concerns regarding the data handling practices associated with Meta's wearable technology.",
+      "headline": "ByteDance's AI Algorithm Pivots from TikTok to Undruggable Disease Drug Discovery",
+      "summary": "The company behind TikTok’s recommendation engine is leveraging its AI capabilities to predict molecular behavior for drug discovery. This shift targets diseases previously deemed 'undruggable' by traditional pharmaceutical methods, marking a significant expansion of AI applications beyond social media.",
       "source": "The Next Web",
-      "original_title": "Meta cancelled the contract with the people who saw what its glasses see",
-      "context": "Context pending.",
-      "why_it_matters": "This story highlights a major privacy risk with smart glasses that can record video without people knowing. It forces companies to be more careful about how they handle user data to avoid losing public trust.",
-      "other_side": "Critics argue that strict rules on data collection could slow down innovation and make these useful gadgets too expensive. Others say users should just accept some privacy loss as the price for having cool new technology."
+      "original_title": "The company that built TikTok’s algorithm is now designing drugs for diseases pharma called undruggable",
+      "context": "ByteDance is the Chinese company that owns TikTok, the popular social media app known for its highly effective algorithm that learns exactly what videos you want to see next. Instead of just using this smart computer code for entertainment, the company is now applying its same technology to solve complex medical problems by predicting how different molecules interact with the human body. This is significant because many diseases are considered \"undruggable,\" meaning traditional medicine cannot create pills for them because the biological targets are too difficult to reach or understand. By using AI to simulate and predict molecular behavior, scientists hope to discover new treatments for conditions that were previously thought to be impossible to cure with standard drugs.",
+      "why_it_matters": "AI is moving beyond social media to help cure serious diseases that doctors couldn't fix before. This could save millions of lives by speeding up the creation of new medicines for conditions that were previously thought to be impossible to treat.",
+      "other_side": "Some experts worry that this shift might distract from other important AI uses. They also fear that if one company controls the data for these drugs, it could lead to unfair pricing or monopolies in healthcare."
     },
     {
-      "headline": "Snap CEO Claims AI Wrote Two-Thirds of Company Code Amid Societal Pushback Warnings",
-      "summary": "The CEO of Snap stated that artificial intelligence now generates approximately two-thirds of the company's code, signaling a massive shift in software development workflows. However, he cautioned that tech executives are underestimating the growing societal resistance and negative public perception toward rapid AI adoption.",
-      "source": "Fortune",
-      "original_title": "Snap CEO praises AI for writing two-thirds of the company’s code but warns fellow tech executives underestimate ‘societal pushback’ to the tech",
-      "context": "Context pending.",
-      "why_it_matters": "If AI writes most of the code, software gets built much faster and cheaper. However, this shift changes what jobs programmers will have, moving them from writing code to checking AI work.",
-      "other_side": "People are worried that relying on AI for code could introduce hidden errors or security holes. There is also fear that this trend will reduce the need for human developers, leading to job losses in the tech sector."
+      "headline": "Oscars Introduce First-Ever Rules Addressing AI in Film Performances and Scripts",
+      "summary": "The Academy of Motion Picture Arts and Sciences has updated eligibility rules for the 2027 awards to explicitly address the use of artificial intelligence. These new regulations cover both AI-generated performances and scriptwriting, setting a precedent for how AI content is treated in major entertainment awards.",
+      "source": "Aawsat.com",
+      "original_title": "Oscars Organization Expands International Film Eligibility, Addresses AI in New Rules",
+      "context": "The Academy of Motion Picture Arts and Sciences is the organization responsible for handing out the Oscars, which are widely considered the most prestigious awards in the film industry. Historically, these awards have been strictly for human creativity, but the rapid rise of artificial intelligence has made it possible to generate realistic acting performances and write entire scripts without any human involvement. To address this new reality, the Academy has created specific rules for the 2027 awards that clearly define what counts as human work versus AI-generated content. This sets a major precedent for the entertainment world, establishing that while AI tools might be used, the core creative recognition will still require clear boundaries to ensure fairness and authenticity.",
+      "why_it_matters": "The Oscars are setting the first major rules for how AI is used in movies and writing. This will change how films are made and judged, ensuring that human creativity is recognized while keeping AI tools in check.",
+      "other_side": "Many filmmakers argue that these rules are too strict and stifle creativity. They believe that AI should be treated like any other tool, such as a camera or editing software, without special penalties or restrictions."
     },
     {
-      "headline": "AWS CEO Dismisses AI Job Loss Fears, Announces Plan to Hire 11,000 Interns",
-      "summary": "Amazon Web Services CEO rejected concerns that AI will eliminate software jobs, asserting that demand for coding talent is accelerating. To support this growth, Amazon plans to hire 11,000 interns in 2026, contrasting with other industry leaders who warn of disruption in the coding sector.",
+      "headline": "Inside NYC's 'AI Psychosis' Party: Vibe-Coded Apps and AI-Driven Art",
+      "summary": "An event in New York City showcased the intense cultural impact of AI through zany art projects and applications coded using natural language prompts. The gathering highlighted the growing obsession with AI among artists and developers, featuring demos of 'vibe-coded' software.",
       "source": "Business Insider",
-      "original_title": "AWS CEO dismisses AI job loss fears, says Amazon plans to hire 11,000 interns in 2026",
-      "context": "Context pending.",
-      "why_it_matters": "Amazon believes AI creates more jobs than it destroys by increasing demand for tech workers. Hiring thousands of interns suggests they expect a huge growth in projects needing human oversight and creativity.",
-      "other_side": "Many experts disagree, saying AI tools will soon replace entry-level coding jobs entirely. They warn that training interns for roles that might not exist in five years is a risky bet for young workers."
+      "original_title": "I went to an 'AI psychosis' party in NYC filled with zany art, vibe-coded apps, and Diet Coke",
+      "context": "\"Vibe coding\" is a new trend where developers use natural language prompts, like talking to a friend, to tell an AI exactly what kind of app or art they want to create, rather than writing complex lines of computer code manually. An event in New York City showcased this cultural shift by displaying wild, experimental projects that were built quickly using these conversational AI tools, highlighting how accessible and intuitive software creation is becoming. This gathering reflected a growing obsession among artists and developers who are excited about the speed and creativity that AI brings to the table, even if the results can sometimes be unpredictable or bizarre. It represents a moment where technology is no longer just a tool for engineers but a medium for artistic expression and rapid prototyping for anyone with an idea.",
+      "why_it_matters": "This event shows how quickly AI is becoming part of everyday culture and art. It proves that anyone can now create complex apps and art using simple language, making technology more accessible to non-experts.",
+      "other_side": "Skeptics worry that this ease of use leads to low-quality work flooding the internet. They also fear that relying on \"vibe coding\" means people won't learn real programming skills, making them dependent on AI."
     },
     {
-      "headline": "Reports Confirm OnePlus and Realme Merger Amidst Corporate Uncertainty",
-      "summary": "Major reports indicate that OnePlus has merged with Realme, another sub-brand of OPPO, consolidating their market positions. Despite these claims, significant details regarding the operational structure and strategic implications of the merger remain unclear and unverified.",
-      "source": "Android Central",
-      "original_title": "Major reports say OnePlus, Realme merge, but there's a lot still in the dark",
-      "context": "Context pending.",
-      "why_it_matters": "Merging two brands helps companies save money and compete better against bigger rivals like Apple. It simplifies how products are made and sold, potentially leading to better deals for consumers.",
-      "other_side": "Customers might face fewer choices if two competing brands become one company. There is also uncertainty about whether the merged company will keep the unique features that made each brand special."
-    },
-    {
-      "headline": "Futurist Peter Diamandis Outlines Essential Skills for Children to Thrive in the AI Era",
-      "summary": "Author and podcaster Peter Diamandis argues that children must cultivate purpose, curiosity, and the right mindset to succeed in an economy dominated by artificial intelligence. His insights focus on adapting educational approaches to prepare the next generation for AI-driven career landscapes.",
+      "headline": "Tech Execs Reassess College Value as AI Reshapes Industry Landscapes",
+      "summary": "As artificial intelligence transforms various sectors, technology leaders are reevaluating the necessity of traditional higher education for their children. Despite these shifts, interviewed tech executives continue to see significant value in college degrees, suggesting a nuanced view on future career preparation.",
       "source": "Business Insider",
-      "original_title": "Kids need these 3 things to thrive in the AI era, futurist Peter Diamandis says",
-      "context": "Context pending.",
-      "why_it_matters": "As AI takes over routine tasks, humans need to focus on skills machines cannot easily copy, like creativity and empathy. Teaching kids these soft skills now prepares them for future careers that value human connection.",
-      "other_side": "Some educators argue that focusing too much on \"mindset\" ignores the need for hard technical skills. They believe students still need strong math and science foundations to understand the AI tools they will use daily."
+      "original_title": "Is college still worth it? What tech execs are telling their kids.",
+      "context": "For decades, getting a college degree was seen as the standard and necessary path to securing a stable, high-paying job, especially in the technology sector where specialized knowledge was highly valued. However, as artificial intelligence becomes capable of performing tasks like coding, writing, and analyzing data that used to require years of university training, some tech leaders are beginning to question whether traditional higher education is still worth the time and money. Despite this skepticism, many executives still believe that college provides important soft skills, networking opportunities, and critical thinking abilities that AI cannot easily replicate. This creates a nuanced view where the value of a degree is being reevaluated not as a guarantee of success, but as one of several potential paths in a rapidly changing job market.",
+      "why_it_matters": "Tech leaders are changing how they view college education because AI is changing job requirements. This suggests that traditional degrees might not be as valuable in the future, pushing students to focus on different skills.",
+      "other_side": "Despite their own doubts, most tech bosses still send their kids to college. They believe that college teaches important life skills and networking opportunities that AI cannot replace, even if the technical skills change."
     },
     {
-      "headline": "Big Tech Executive Reveals How Neurodivergence Shaped His Career Success",
-      "summary": "Wainwright Yu, a Big Tech executive, shares his personal journey managing ADHD and anxiety within the high-pressure technology sector. He discusses how he transformed these neurodivergent traits into professional strengths, offering a perspective on diversity and inclusion in tech leadership.",
+      "headline": "Switzerland Constructs World’s Most Powerful Redox Flow Battery for Energy Storage",
+      "summary": "A massive construction project in northern Switzerland is underway to create the world's largest redox flow battery. This facility will serve as a critical component for long-duration energy storage, supporting the region's renewable energy infrastructure with unprecedented capacity.",
+      "source": "New Atlas",
+      "original_title": "Switzerland is building the world's most powerful redox flow battery",
+      "context": "Renewable energy sources like wind and solar power are great for the environment, but they have a major drawback: the sun doesn't always shine and the wind doesn't always blow, so we need a way to store extra electricity for later use. A redox flow battery is a type of energy storage system that uses liquid chemicals stored in tanks to hold electricity, allowing it to store power for long periods without degrading like traditional lithium-ion batteries do. Switzerland is building the world's largest version of this technology to help stabilize its power grid and ensure a reliable supply of clean energy even when weather conditions are unfavorable. This project is a critical step toward a future where renewable energy can be trusted to run our homes and industries around the clock.",
+      "why_it_matters": "Switzerland is building a giant battery to store renewable energy for long periods. This is crucial for keeping the lights on when the sun isn't shining or the wind isn't blowing, helping the world move away from fossil fuels.",
+      "other_side": "Some environmental groups point out that building such large structures can harm local ecosystems. They also note that the cost of building and maintaining these batteries is very high, which might slow down adoption elsewhere."
+    },
+    {
+      "headline": "Apple Prepares 'iPhone Ultra Fold' with Unique Shorter and Wider Design",
+      "summary": "Apple is set to enter the foldable smartphone market in 2026 with the iPhone Ultra Fold, scheduled alongside the iPhone 18 lineup. The device features a distinctive form factor that is shorter and wider than expected, showcasing Apple's approach to premium foldable design.",
+      "source": "Geeky Gadgets",
+      "original_title": "Apple’s “Passport” iPhone: Why the Ultra Fold Design is Shorter and Wider Than Expected",
+      "context": "Foldable smartphones are devices that can bend or fold in half, offering the convenience of a large screen in a smaller package that fits easily into a pocket. Apple, which has traditionally stuck to rigid, rectangular phone designs, is preparing to enter this competitive market with a new device called the iPhone Ultra Fold, expected to launch alongside the iPhone 18 series. Unlike other foldable phones that fold vertically like a book, Apple's design is reportedly shorter and wider, suggesting a unique approach to how users might hold and interact with the device. This move signals Apple's intention to bring its premium build quality and user experience to the emerging foldable category, potentially setting new standards for durability and design in the smartphone industry.",
+      "why_it_matters": "Apple is entering the foldable phone market with a unique design, which could change how we hold and use our phones. This competition forces other companies to innovate faster, giving consumers better and more varied choices.",
+      "other_side": "Many consumers are skeptical about foldable phones because they are fragile and expensive. They worry that the screens will break easily and that the new design might not be worth the high price tag compared to regular phones."
+    },
+    {
+      "headline": "NVIDIA Releases Critical Driver Update for RTX 5880 Ada Generation GPUs",
+      "summary": "NVIDIA has issued driver version 32.0.15.7216 for the RTX 5880 Ada Generation graphics cards on Windows 10 64-bit systems. This update aims to fix existing issues, add new functions, and optimize performance for users relying on this high-end professional hardware.",
+      "source": "Softpedia.com",
+      "original_title": "NVIDIA RTX 5880 Ada Generation Graphics Driver 32.0.15.7216 for Windows 10 64-bit",
+      "context": "NVIDIA is a company that makes graphics processing units, or GPUs, which are specialized computer chips originally designed to render images for video games but now essential for running artificial intelligence programs. The RTX 5880 Ada Generation is a high-end professional version of these chips used by businesses and researchers who need immense computing power for complex tasks. A driver update is essentially a small piece of software that acts as a translator between the operating system (like Windows) and the hardware, ensuring they communicate correctly and efficiently. This specific update aims to fix bugs, improve performance, and add new features to ensure that users relying on this expensive hardware can operate their systems smoothly and securely.",
+      "why_it_matters": "NVIDIA released an update to fix bugs and improve performance for its powerful graphics cards. This ensures that professionals using this hardware can work more efficiently without crashes or slowdowns, keeping industries running smoothly.",
+      "other_side": "Some users complain that driver updates often introduce new problems instead of fixing old ones. They also feel that constant updates are annoying and require too much time to install and manage."
+    },
+    {
+      "headline": "Próspera Emerges as Libertarian Tech Haven and Biohacking Paradise",
+      "summary": "Located on a Honduran island, Próspera offers a regulatory environment designed to attract tech entrepreneurs and biohackers. The zone operates with minimal rules and incentives for innovation, positioning itself as a unique experiment in libertarian governance and technological freedom.",
       "source": "Business Insider",
-      "original_title": "I'm a Big Tech executive with ADHD and anxiety. Neurodivergence has its downsides, but I've turned my habits into strengths.",
-      "context": "Context pending.",
-      "why_it_matters": "Sharing stories about neurodivergence helps reduce stigma and encourages diverse hiring in tech. It shows that different ways of thinking can lead to unique solutions and innovations in the workplace.",
-      "other_side": "Skeptics worry that highlighting individual struggles might distract from systemic issues in corporate culture. Some argue that companies should fix their stressful environments rather than expecting employees to adapt to them."
+      "original_title": "Welcome to Próspera, the private paradise of libertarians, tech entrepreneurs, and biohackers",
+      "context": "Próspera is a special economic zone located on a small island in Honduras that operates under a different set of laws than the rest of the country, designed to attract foreign investment and innovation. It promotes a libertarian approach to governance, meaning there are minimal government regulations, low taxes, and strong protections for private property, creating an environment where entrepreneurs can experiment freely. This unique setup has attracted tech startups and biohackers—people who experiment with biology and technology to enhance their own bodies—looking for a place with fewer bureaucratic hurdles. It stands as a real-world experiment in how reducing government intervention might accelerate technological development and economic growth in a controlled environment.",
+      "why_it_matters": "Honduras is creating a special zone with few rules to attract tech entrepreneurs and biohackers. This experiment shows how governments might compete by offering freedom from regulations to boost economic growth and innovation.",
+      "other_side": "Critics argue that removing rules can lead to unsafe practices and exploitation of workers. They worry that this model prioritizes profit over safety and human rights, potentially harming the local community."
     },
     {
-      "headline": "Cyber Essentials Update Threatens Public Sector Contracts Over Security Compliance",
-      "summary": "New updates to the Cyber Essentials scheme could jeopardize public sector contracts for organizations failing to meet revised security standards. The changes emphasize the critical need for rigorous cybersecurity preparedness among government suppliers and public service providers.",
-      "source": "TechRadar",
-      "original_title": "Cyber Essentials update could put your public sector contracts at risk",
-      "context": "Context pending.",
-      "why_it_matters": "New security rules force government contractors to protect data better, reducing the risk of hacks. This protects citizens' private information and ensures critical services stay online during cyberattacks.",
-      "other_side": "Small businesses may struggle to afford the expensive upgrades needed to meet these new standards. This could limit competition if only large companies can afford to comply with the stricter rules."
-    },
-    {
-      "headline": "India Needs China-Style Ecosystem Push to Accelerate Electric Vehicle Transition",
-      "summary": "A Nomura report asserts that India's EV adoption hinges on rapidly building a robust charging infrastructure and policy framework similar to China's approach. The analysis identifies infrastructure readiness as the primary trigger required to achieve mass market adoption of electric vehicles.",
-      "source": "The Times of India",
-      "original_title": "India's EV transition needs a China-style ecosystem push; scale, policy, charging infra boost: Nomura",
-      "context": "Context pending.",
-      "why_it_matters": "India needs more charging stations to convince people to switch from gas cars to electric ones. Building this infrastructure quickly is key to cutting pollution and meeting climate goals.",
-      "other_side": "Critics say building charging networks is too costly and slow to keep up with car sales. They argue that focusing on battery technology improvements might be a faster way to boost electric vehicle use."
-    },
-    {
-      "headline": "Groww Shifts Focus from Stocks to Mutual Funds and ETFs Following Regulatory Changes",
-      "summary": "Groww's Q4 FY26 earnings reveal a strategic shift in customer acquisition as SEBI's regulatory changes caused a sharp decline in F&O trading penetration. Mutual funds and ETFs have emerged as the primary growth drivers for the fintech platform, reshaping its investment funnel.",
-      "source": "MediaNama.com",
-      "original_title": "Groww Q4 FY26 Earnings Call: Customer acquisition funnel shifts from stocks to mutual funds, ETFs",
-      "context": "Context pending.",
-      "why_it_matters": "Investors are moving away from risky trading toward safer long-term investments like mutual funds. This shift reflects a change in consumer behavior as regulations make quick trades harder and less profitable.",
-      "other_side": "Some traders feel frustrated by the new rules, saying they limit their freedom to manage money. The platform's pivot might also mean fewer options for those who prefer active, short-term investing strategies."
+      "headline": "Japan and Vietnam Sign Agreements Covering Technology and Space Cooperation",
+      "summary": "During a diplomatic trip to Hanoi, Japan’s Takaichi signed six agreements with Vietnam focusing on deepening bilateral ties. Key areas of cooperation include advanced technology, agriculture, and space exploration, signaling a strategic expansion of Japan's tech partnerships in Southeast Asia.",
+      "source": "Al Jazeera English",
+      "original_title": "Japan’s Takaichi pledges deeper energy cooperation with Vietnam",
+      "context": "Japan and Vietnam have a long history of diplomatic relations, but recently both countries have recognized the strategic importance of deepening ties in high-tech fields to secure their future economic and security interests. During a recent visit, Japanese officials signed multiple agreements with Vietnam focusing on areas like space exploration, advanced manufacturing, and agricultural technology, which are critical for modernizing economies. Space cooperation, in particular, involves sharing satellite data and research, which helps both nations monitor climate change, improve disaster response, and develop independent technological capabilities. These agreements signal a shift from simple trade partnerships to a deeper collaboration where both countries support each other's growth in cutting-edge industries.",
+      "why_it_matters": "Japan and Vietnam are teaming up on technology and space projects, strengthening their political and economic ties. This cooperation helps both countries advance their tech sectors and reduces reliance on other global powers.",
+      "other_side": "Some analysts see this as a strategic move to counter China's growing influence in the region. They worry that this alliance could increase tensions and lead to a new cold war-style rivalry in Southeast Asia."
     }
   ]
 }
