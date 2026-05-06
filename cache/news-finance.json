@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "Capital B Secures $1.3M Funding for Bitcoin Treasury Strategy",
-      "summary": "Capital B has raised $1.3 million from Adam Back, CEO of Blockstream, to advance its Bitcoin treasury strategy. The investment includes a subscription for 10 million warrants, signaling strong institutional interest in Bitcoin-focused financial vehicles.",
-      "source": "Cointelegraph",
-      "original_title": "[Cointelegraph] Capital B raises $1.3M from Adam Back for Bitcoin strategy",
-      "context": "Bitcoin is a digital currency that exists only online, and unlike regular money, it isn't controlled by any government or bank. A \"treasury strategy\" in this context simply means a company deciding to hold Bitcoin on its balance sheet as a long-term investment, similar to how they might hold gold or cash. Capital B, the company in question, raised money specifically to buy more of this digital asset, betting that its value will go up over time. The involvement of Adam Back, a well-known figure in the tech world who helped create early versions of Bitcoin, signals that serious experts believe this approach is a smart way for businesses to grow their wealth.",
-      "why_it_matters": "A company called Capital B is using new money to buy more Bitcoin. This shows that big investors are getting serious about putting their cash into digital coins. It could make Bitcoin a normal part of the stock market for everyone.",
-      "other_side": "Bitcoin is very risky and its price changes wildly. Buying it with borrowed or raised money could lead to huge losses if the value drops suddenly."
+      "headline": "EU Finance Firms Face AML Compliance Deadline Risks",
+      "summary": "Two-thirds of financial firms in the European Union are at risk of missing the upcoming deadline to comply with anti-money laundering regulations. This widespread non-compliance poses significant regulatory and operational challenges for the sector.",
+      "source": "ComputerWeekly.com",
+      "original_title": "[ComputerWeekly.com] EU finance firms urged to get on with anti-money laundering compliance",
+      "context": "Anti-money laundering rules are like security filters for banks, designed to stop criminals from hiding stolen money by moving it through legitimate financial systems. For years, the European Union has been trying to create one strict set of these rules so that every bank across all member countries follows the same safety standards. However, many banks are struggling to update their old computer systems and hiring enough staff to check every transaction carefully. Because they are falling behind on this massive cleanup task, they risk facing huge fines or being shut down if they cannot prove they are stopping illegal money flows.",
+      "why_it_matters": "Banks in Europe are struggling to follow rules designed to stop criminals from hiding dirty money. If they fail, it could make the whole financial system less safe and lead to heavy fines.",
+      "other_side": "Some argue that these rules are too strict and expensive. They say small banks might go out of business because following them costs too much time and money."
     },
     {
-      "headline": "US SEC Delays Approval of First Prediction-Market ETFs",
-      "summary": "The US Securities and Exchange Commission has delayed the approval of over two dozen exchange-traded funds linked to prediction markets, including those tied to elections and recessions. This regulatory hold impacts issuers racing to package the booming prediction-market business for mainstream investors.",
-      "source": "CNA",
-      "original_title": "[CNA] US SEC review delays first prediction-market ETFs",
-      "context": "An ETF, or Exchange-Traded Fund, is like a basket that holds many different investments together so you can buy them all at once with a single stock purchase. Prediction markets are platforms where people bet on future events, like who will win an election or if the economy will shrink, essentially turning news events into tradable assets. The US regulator, known as the SEC, acts as a referee to ensure these financial products are safe and fair for everyday investors. They have paused approval for these specific funds because they want to make sure the rules for trading these \"betting markets\" are clear and don't allow for cheating or manipulation before letting the public invest.",
-      "why_it_matters": "The US government is slowing down funds that bet on election and economic outcomes. This keeps regular people from easily investing in these high-risk wagers. It protects investors but stops a new way to make money.",
-      "other_side": "Some people say this blocks innovation and free markets. They believe adults should be allowed to invest in anything legal without heavy rules."
+      "headline": "Siris Sells Equiniti to Bullish in $4.2B Capital Markets Deal",
+      "summary": "Private equity firm Siris has signed a definitive agreement to sell transfer agent Equiniti to cryptocurrency exchange Bullish for $4.2 billion. The acquisition aims to bridge blockchain technology with traditional capital markets infrastructure.",
+      "source": "GlobeNewswire",
+      "original_title": "[GlobeNewswire] Siris Announces Sale of Equiniti to Bullish",
+      "context": "A transfer agent is a company that keeps track of who owns shares in a business, acting like the official record-keeper for stock ownership. Siris Capital is a private investment group that bought Equiniti, a company that handles these records for many large corporations, and decided to sell it to Bullish, a newer company focused on cryptocurrency trading. This deal is significant because it represents an attempt to merge traditional stock market record-keeping with modern digital currency technology. By buying Equiniti, Bullish hopes to use its established infrastructure to make digital assets feel more like regular stocks to everyday investors.",
+      "why_it_matters": "A crypto company is buying a traditional finance service provider for billions of dollars. This shows that digital money groups are trying to become part of the regular banking world.",
+      "other_side": "Critics worry this mix is risky. They fear that crypto companies might not know how to handle old-school banking safely, which could put customer money at risk."
     },
     {
-      "headline": "West Bengal Election Results Trigger Stock Market Surge",
-      "summary": "The significant political shift in West Bengal, with the BJP leading, has prompted a surge in market sentiment among investors. Analysts anticipate gradual improvements and long-term benefits for key sectors such as real estate and infrastructure following the election outcomes.",
+      "headline": "India's 10-Year Bond Issuance Expected Above 7% Coupon",
+      "summary": "Analysts predict India's new 10-year benchmark bond will be issued at a coupon rate above 7%, replacing the existing 6.48% 2035 bond. This reflects current market yields and investor demand for government debt instruments.",
+      "source": "BusinessLine",
+      "original_title": "[BusinessLine] India's new 10-year bond likely to be issued at above 7% coupon, analysts say",
+      "context": "When a government needs to borrow money, it issues bonds, which are essentially IOUs that promise to pay back the loan with interest over time. The interest rate paid on these bonds is called the coupon, and it reflects how risky investors think lending to that country is at that moment. India is currently issuing new 10-year bonds with a higher interest rate than before because global investors are demanding more return due to economic uncertainties. This higher rate means the Indian government will have to pay more in interest to borrow money, which can impact its national budget and spending plans.",
+      "why_it_matters": "India is borrowing money at a higher interest rate than before. This means the government has to pay more back to lenders, which could limit money for other public projects.",
+      "other_side": "Higher rates can actually help control inflation by slowing down spending. It also rewards savers who lend money to the government with better returns on their investment."
+    },
+    {
+      "headline": "Rupee Hits Record Low Against Dollar Amid Middle East Tensions",
+      "summary": "The Indian rupee reached a historic low of 95.23 against the US dollar, driven by renewed US-Iran tensions and escalating oil prices. The Reserve Bank of India is exploring measures to stabilize the currency as other Asian currencies also face pressure.",
       "source": "The Times of India",
-      "original_title": "[The Times of India] Election impact on stock market explained: What likely BJP win in West Bengal means for investors",
-      "context": "West Bengal is a large and important state in India, and elections there often act as a major test for political parties across the entire country. When the BJP, one of the two main political parties, won significantly more seats than expected, it sent a wave of optimism through the business world because investors generally prefer stability and predictable government policies. Sectors like real estate and infrastructure rely heavily on government contracts and land regulations, so businesses in these areas saw their stock prices rise immediately. This surge reflects the market's hope that the new leadership will speed up development projects and reduce bureaucratic delays.",
-      "why_it_matters": "A big change in local politics in West Bengal made stock prices jump up. Investors feel confident that new leaders will build better roads and housing. This helps companies in those areas grow faster.",
-      "other_side": "Political wins do not always mean better business results. Sometimes new leaders fail to deliver, causing stocks to fall back down quickly."
+      "original_title": "[The Times of India] Rupee hits record low at 95.23 vs USD as economic worries mount on renewed US-Iran tensions",
+      "context": "The value of a country's currency, like the Indian rupee, changes based on supply and demand, much like any other product. When tensions rise between major powers like the US and Iran, investors often get scared and move their money into safer currencies like the US dollar, causing other currencies to drop in value. Additionally, since India buys most of its oil from the Middle East using dollars, higher oil prices mean India needs more dollars to pay for fuel, which puts extra pressure on the rupee. To prevent the currency from crashing further, the central bank may step in to buy up dollars and stabilize the exchange rate.",
+      "why_it_matters": "The Indian currency is losing value against the US dollar due to global tensions. This makes imported goods like oil and electronics more expensive for everyday people in India.",
+      "other_side": "A weaker currency can help Indian exporters sell their goods cheaper abroad. However, it hurts anyone who travels overseas or buys foreign products."
     },
     {
-      "headline": "Aura Biosciences Launches Public Offering of Common Stock",
-      "summary": "Clinical-stage biotechnology company Aura Biosciences has announced a proposed public offering of common stock and pre-funded warrants. The underwritten offering aims to raise capital for its development of precision therapies for solid tumors.",
-      "source": "GlobeNewswire",
-      "original_title": "[GlobeNewswire] Aura Biosciences Announces Proposed Public Offering of Common Stock and Pre-Funded Warrants",
-      "context": "Aura Biosciences is a company dedicated to finding cures for cancer, specifically focusing on solid tumors which are hard-to-treat masses of abnormal cells in organs like the lungs or liver. To develop these complex medicines, they need a huge amount of cash to pay for laboratory tests, clinical trials with human patients, and hiring scientists. By launching a public offering, they are asking regular people and large investors to buy shares of ownership in the company in exchange for this funding. This process allows them to raise the necessary capital to continue their research without having to take out loans from banks.",
-      "why_it_matters": "A small health company is selling shares to raise cash for cancer research. This gives them money to test new drugs that could save lives. It also lets regular people own a piece of this risky science project.",
-      "other_side": "Biotech stocks are extremely dangerous and can go to zero. Many drug trials fail, meaning investors could lose all their money with no cure found."
+      "headline": "Club Mahindra CFO Resigns as Stocks Decline",
+      "summary": "Club Mahindra's Chief Financial Officer Vimal Agarwal has stepped down, with Rajiv Vimal appointed as his successor. The leadership transition has caused stocks to decline amid market uncertainty regarding the company's financial management.",
+      "source": "BusinessLine",
+      "original_title": "[BusinessLine] Club Mahindra CFO Vimal Agarwal steps down; stocks in red",
+      "context": "A Chief Financial Officer, or CFO, is the person responsible for managing a company’s money, tracking expenses, and ensuring the business stays profitable. When a CFO resigns unexpectedly, especially while the company’s stock price is already falling, it often signals to investors that there might be hidden problems or poor leadership decisions. In this case, Club Mahindra saw its stock drop because people worried about who would take over and whether the new leader could fix the financial issues. The appointment of a successor is meant to reassure shareholders that the company has a plan to restore stability and confidence.",
+      "why_it_matters": "The sudden departure of a top financial officer at Club Mahindra creates doubt about how well the company is managed. Investors often panic when leaders leave unexpectedly, causing stock prices to drop.",
+      "other_side": "Sometimes leadership changes are just normal business updates. If the new CFO has a strong track record, the market might calm down quickly once they start working."
     },
     {
-      "headline": "Heineken Reports Share Buyback Transactions",
-      "summary": "Heineken Holding N.V. has reported recent transactions under its current share buyback programme. The disclosure provides insight into the company's capital management strategy and its efforts to return value to shareholders.",
-      "source": "GlobeNewswire",
-      "original_title": "[GlobeNewswire] Heineken Holding N.V. reports transactions under its current share buyback programme",
-      "context": "When a successful company like Heineken, the famous beer maker, has extra cash that it doesn't need for immediate operations, it can choose to buy back its own shares from the stock market. This process, called a share buyback, reduces the total number of shares available, which often makes each remaining share more valuable because there is less supply. It is a way for the company to return profit directly to its shareholders rather than just keeping the money in the bank. By reporting these transactions, Heineken is showing transparency about how it manages its wealth and trying to keep investors happy by boosting the stock price.",
-      "why_it_matters": "Heineken is buying back its own shares to boost their value. This sends a signal that the company is healthy and has extra cash. It rewards current owners by making each share worth more.",
-      "other_side": "Critics say the company should spend that money on growth or workers. Using cash to buy back shares might ignore long-term needs for short-term gains."
+      "headline": "Digital Living Will Framework Impacts Estate Planning",
+      "summary": "Maharashtra’s new digital living will framework is reshaping how families handle financial and medical decision-making during incapacity. This administrative step offers a more robust solution for estate planning compared to traditional methods.",
+      "source": "Livemint",
+      "original_title": "[Livemint] A digital living will: What it means for your family's financial decision",
+      "context": "A living will is a legal document where a person specifies what medical treatments they want or do not want if they become too sick to make decisions themselves. Maharashtra’s new framework expands this concept to include financial matters, allowing individuals to appoint someone to manage their money and assets if they become incapacitated. This is important because traditional estate planning often only deals with what happens after death, leaving a gap during periods of illness or disability. By creating a robust system for both medical and financial decisions, families can avoid legal battles and ensure their loved ones' wishes are respected during crises.",
+      "why_it_matters": "Families in Maharashtra now have a digital way to plan who makes medical and money decisions if someone gets too sick to speak. This reduces family fights and confusion during emergencies.",
+      "other_side": "Not everyone trusts digital systems with such personal matters. Some people prefer paper documents or legal wills because they feel more secure and official."
     },
     {
-      "headline": "Norda Stelo Attracts Strategic Investment from Groupe Snef",
-      "summary": "Norda Stelo has accelerated its global growth ambitions through a strategic partnership with Groupe Snef, which made a strategic investment via its engineering subsidiary Ekium. This funding positions the Quebec-based consulting engineering firm for expanded operations.",
-      "source": "Financial Post",
-      "original_title": "[Financial Post] Norda Stelo accelerates global growth ambitions through strategic partnership with Groupe Snef",
-      "context": "Groupe Snef is a massive French engineering and consulting firm that provides technical expertise for large construction and energy projects around the world. Norda Stelo is a smaller, Canadian-based company that specializes in helping other firms manage their projects efficiently using specialized software and services. By investing in Norda Stelo, Groupe Snef is not just giving them money but also forming a partnership to help them grow faster into international markets. This strategic move allows the smaller company to expand its operations while giving the larger French firm access to innovative tools and talent in North America.",
-      "why_it_matters": "A Canadian engineering firm got money from a large French group. This partnership helps them grow faster and take on bigger projects globally. It creates jobs and expands their reach into new markets.",
-      "other_side": "Relying on outside investors means giving up some control. If the partner disagrees on direction, it could cause conflict and slow down progress."
+      "headline": "Bullish Acquires Equiniti in Major Capital Markets Expansion",
+      "summary": "Cryptocurrency exchange Bullish is acquiring transfer agent Equiniti in a deal valued at $4.2 billion to establish critical infrastructure for capital markets. The move signals a strategic push to integrate blockchain technology with traditional financial systems.",
+      "source": "CNA",
+      "original_title": "[CNA] Crypto exchange Bullish to buy Equiniti for $4.2 billion in capital markets push",
+      "context": "Capital markets are the places where people buy and sell ownership stakes in companies, like stocks, which requires precise record-keeping of who owns what. Bullish, a cryptocurrency company, is acquiring Equiniti, a firm that specializes in this record-keeping for traditional stocks, to bridge the gap between digital coins and regular investments. This move allows Bullish to offer services that make crypto assets look and feel like traditional stocks, potentially attracting older or more conservative investors. It signals a trend where digital finance companies are trying to integrate with the existing banking system rather than replacing it entirely.",
+      "why_it_matters": "This is the same deal as Story 2, showing crypto firms are aggressively buying traditional financial services. It signals a big shift where digital assets meet old-school banking infrastructure.",
+      "other_side": "Traditional bankers might feel threatened by this takeover. They may worry that crypto companies do not understand the strict safety rules required for handling other people's money."
     },
     {
-      "headline": "UAE's Exit from OPEC Reshapes Global Oil Markets",
-      "summary": "The UAE's decision to leave OPEC is driven by factors beyond just oil prices, significantly impacting global energy dynamics. This strategic shift alters supply route stability and geopolitical tensions, creating new uncertainties for global oil markets.",
-      "source": "New York Magazine",
-      "original_title": "[New York Magazine] The Big OPEC Shakeup Is About a Lot More Than Oil",
-      "context": "OPEC is a group of major oil-producing countries that work together to decide how much oil to sell globally, which directly influences the price of gas and fuel worldwide. The UAE, a wealthy nation in the Middle East, recently decided to leave this group, likely because they want the freedom to produce and sell as much oil as they want without following the group's limits. This decision disrupts the careful balance OPEC tries to maintain, potentially leading to an oversupply of oil which could drive prices down. It also changes the geopolitical landscape, as the UAE may now align more closely with other non-OPEC producers, creating uncertainty for countries that rely on stable oil supplies.",
-      "why_it_matters": "The UAE left OPEC, a group that controls oil supply. This breaks old rules and makes oil prices harder to predict. It changes how countries deal with each other over energy.",
-      "other_side": "Some experts think one country leaving won't change much. The global oil market is too huge for just one nation's move to shift things significantly."
+      "headline": "Quantum Computing Stock Positioned for Long-Term Growth",
+      "summary": "Wall Street analysts highlight Quantum Computing Inc. (QUBT) as a strong buy-and-hold stock for the next decade due to its innovations in quantum optics and integrated photonics. The company's technological edge positions it well in the emerging quantum sector.",
+      "source": "Yahoo Entertainment",
+      "original_title": "[Yahoo Entertainment] Here’s Why ​Quantum Computing (QUBT) is One of The Best Quantum Computing Stocks To Buy and Hold For 10 Years",
+      "context": "Quantum computing is a type of technology that uses the strange rules of quantum physics to solve problems much faster than regular computers can. Unlike standard computers that process information in simple yes-or-no bits, quantum computers can handle complex calculations simultaneously, making them powerful for scientific research and cryptography. Wall Street analysts believe Quantum Computing Inc. is well-positioned because it focuses on specific hardware components like photonics, which help control light-based data processing. Investors are betting that as this technology matures over the next decade, companies leading in these specialized areas will become essential to future technological advancements.",
+      "why_it_matters": "Experts believe quantum computers will change technology forever by solving problems regular computers cannot. Investing now could pay off huge amounts in the future as this tech grows.",
+      "other_side": "Quantum computing is still very new and expensive. Many experts think it might take decades before it works reliably enough for everyday use, making early investments very risky."
     },
     {
-      "headline": "Carney's Sovereign Wealth Fund Proposal Sparks Economic Debate",
-      "summary": "Martin Pelletier argues that Canada's proposed sovereign wealth fund could backfire on the economy if not managed with strict rigor and transparency. The piece examines the potential risks and benefits of such a state-backed investment vehicle.",
-      "source": "Financial Post",
-      "original_title": "[Financial Post] How Carney's new sovereign wealth fund could backfire on the economy",
-      "context": "A sovereign wealth fund is essentially a giant savings account owned by a government, funded by things like taxes or natural resource profits, which is then invested in stocks and businesses to generate more money for the public. Martin Pelletier is arguing that Canada's plan to create such a fund is risky because governments are not always good at picking winning investments compared to private companies. He warns that without strict rules and total transparency, the fund could lose money or be used for political purposes rather than benefiting the economy. The debate centers on whether this state-backed investment vehicle will truly add value or just introduce unnecessary complexity and potential corruption.",
-      "why_it_matters": "Canada is thinking about a government investment fund to grow wealth. Supporters say it will pay for future needs like healthcare. It uses public money to build long-term security for citizens.",
-      "other_side": "Opponents worry the government might waste the money. Poor management could lead to losses that taxpayers have to cover instead of gains."
+      "headline": "US Halts Strait of Hormuz Operations Pending Iran Deal",
+      "summary": "President Trump paused the US effort to guide vessels through the Strait of Hormuz to finalize a diplomatic deal with Iran, though port blockades remain. This development impacts global shipping insurance costs and oil market stability.",
+      "source": "Associated Press",
+      "original_title": "[Associated Press] US attempt to open Strait of Hormuz tests ceasefire with Iran",
+      "context": "The Strait of Hormuz is a narrow waterway between Iran and Oman through which a large portion of the world’s oil passes, making it a critical chokepoint for global energy supplies. When the US paused operations to guide ships through this area, it was part of a diplomatic effort to negotiate a deal with Iran to reduce regional tensions. However, because port blockades and threats remain, shipping companies are charging higher insurance rates to cover the risk of their vessels being damaged or seized. This uncertainty creates volatility in oil prices, as buyers worry about potential disruptions to the steady flow of fuel from the Middle East.",
+      "why_it_matters": "The US paused operations in a key shipping lane while talking to Iran. This uncertainty keeps oil prices high and shipping costs up, affecting gas prices worldwide.",
+      "other_side": "Taking a pause allows diplomats more time to find a peaceful solution. Rushing into action without a deal could lead to a larger conflict that hurts everyone even more."
     },
     {
-      "headline": "CFOs Navigate Budget Management in the AI Era",
-      "summary": "Veteran CFO Amy Butte advises that chief financial officers must embrace innovation and risk-taking to manage budgets effectively in the age of artificial intelligence. The article highlights the evolving role of finance leaders in integrating new technologies.",
-      "source": "Business Insider",
-      "original_title": "[Business Insider] A veteran CFO's advice for managing budgets in the AI era",
-      "context": "CFOs, or Chief Financial Officers, are the top executives responsible for managing a company's money, including budgeting, reporting, and financial planning. In the past, their role was largely about counting costs and cutting expenses, but now they must also understand how to use artificial intelligence to make smarter, faster decisions. Amy Butte suggests that finance leaders can no longer just be number-crunchers; they must embrace new technologies that automate tasks and provide deeper insights into business performance. This shift requires them to take calculated risks and learn how to integrate AI tools effectively to stay competitive in a rapidly changing economic landscape.",
-      "why_it_matters": "Finance bosses are learning to use AI to manage money better. This helps companies save time and spot errors in budgets. It changes how financial decisions are made in big businesses.",
-      "other_side": "AI tools can make mistakes or hide biases in data. Over-relying on machines might cause humans to miss important context or ethical issues."
-    },
-    {
-      "headline": "Tesco Defends Against Equal Pay Claims Citing Economic Reality",
-      "summary": "Tesco has argued in a tribunal fight that equal pay claims overlook the 'economic reality' of its business operations. This case is part of a wider series of equal pay disputes involving major UK retailers, impacting their financial liabilities and labor strategies.",
-      "source": "Retail-insight-network.com",
-      "original_title": "[Retail-insight-network.com] Tesco says equal pay claim overlooks ‘economic reality’ in tribunal fight – report",
-      "context": "Tesco is one of the largest supermarket chains in the UK, employing hundreds of thousands of people, many of whom are women working in lower-paid roles. Equal pay claims arise when employees argue that they are doing jobs of equal value to higher-paid workers (often men) but are receiving less money for the same effort. Tesco is defending itself by arguing that the differences in pay are due to the \"economic reality\" of running a low-margin retail business, meaning they simply cannot afford to pay everyone equally without going bankrupt. This case is significant because it sets a legal precedent that could affect how all major retailers structure their wages and handle labor disputes across the country.",
-      "why_it_matters": "Tesco is fighting equal pay claims by citing business costs. This case could set a rule for how much retailers must pay workers. It affects wages for thousands of employees across the UK.",
-      "other_side": "Workers argue they deserve fair pay regardless of profits. Ignoring these claims damages trust and can lead to strikes or bad publicity for the brand."
+      "headline": "Care Economy Roadmap Outlines Economic Infrastructure Shift",
+      "summary": "A new working paper by EAC-PM outlines a roadmap to transform the care economy from a private burden into social and economic infrastructure. This shift aims to address systemic economic inefficiencies and support broader financial inclusion.",
+      "source": "The Times of India",
+      "original_title": "[The Times of India] Care economy in India: EAC-PM working paper lays out a roadmap",
+      "context": "The care economy refers to the work done in caring for children, the elderly, and those with disabilities, which is often unpaid or underpaid and falls heavily on families, especially women. Traditionally, this work is seen as a private responsibility, but economists argue it should be treated as public infrastructure because it supports the entire workforce and economy. The new roadmap suggests shifting this burden from individual households to society by investing in professional care services and support systems. This change aims to make care accessible to everyone, allowing more people to participate in the workforce and reducing economic inequality caused by unpaid labor.",
+      "why_it_matters": "The report suggests treating care work (like nursing or childcare) as essential economic infrastructure. This could mean better pay and support for caregivers, helping families save money.",
+      "other_side": "Changing how care is funded requires massive government spending. Critics worry this could lead to higher taxes or take money away from other important public services."
     }
   ]
 }
