@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "EU Finance Firms Face AML Compliance Deadline Risks",
-      "summary": "Two-thirds of financial firms in the European Union are at risk of missing the upcoming deadline to comply with anti-money laundering regulations. This widespread non-compliance poses significant regulatory and operational challenges for the sector.",
-      "source": "ComputerWeekly.com",
-      "original_title": "[ComputerWeekly.com] EU finance firms urged to get on with anti-money laundering compliance",
-      "context": "Anti-money laundering rules are like security filters for banks, designed to stop criminals from hiding stolen money by moving it through legitimate financial systems. For years, the European Union has been trying to create one strict set of these rules so that every bank across all member countries follows the same safety standards. However, many banks are struggling to update their old computer systems and hiring enough staff to check every transaction carefully. Because they are falling behind on this massive cleanup task, they risk facing huge fines or being shut down if they cannot prove they are stopping illegal money flows.",
-      "why_it_matters": "Banks in Europe are struggling to follow rules designed to stop criminals from hiding dirty money. If they fail, it could make the whole financial system less safe and lead to heavy fines.",
-      "other_side": "Some argue that these rules are too strict and expensive. They say small banks might go out of business because following them costs too much time and money."
+      "headline": "Elanco Animal Health Raises Full-Year Outlook on Strong Q1 Revenue Growth",
+      "summary": "Elanco Animal Health reported a 15% year-over-year increase in first-quarter revenue to $1,371 million, driven by 10% organic constant currency growth. The company simultaneously raised its full-year outlook and improved its year-end net leverage ratio target.",
+      "source": "PRNewswire",
+      "original_title": "Elanco Animal Health Reports First Quarter 2026 Results — Raising Full Year Outlook and Innovation Target, Improving Year-End Net Leverage Ratio Target First Quarter 2026 Financial Results: Revenue of $1,371 million, an increase of 15% year-over-year; 10% organic constant currency growth Reported Net Income of $57 m…",
+      "context": "Context pending.",
+      "why_it_matters": "Elanco is making more money selling health products for pets and farm animals. This shows people are still spending on their animals even when money is tight. It suggests the pet care market is growing strong.",
+      "other_side": "Critics might say this growth comes from raising prices, not just selling more items. If the economy gets worse, people might cut back on these costs anyway."
     },
     {
-      "headline": "Siris Sells Equiniti to Bullish in $4.2B Capital Markets Deal",
-      "summary": "Private equity firm Siris has signed a definitive agreement to sell transfer agent Equiniti to cryptocurrency exchange Bullish for $4.2 billion. The acquisition aims to bridge blockchain technology with traditional capital markets infrastructure.",
+      "headline": "Prophet Launches AI-Powered Prediction Market with Live Trading Tranche",
+      "summary": "Prophet has launched its first live trading tranche, introducing an AI-native prediction market where an AI model acts as the counterparty to user trades using real capital. This marks a significant development in the intersection of artificial intelligence and financial trading mechanisms.",
       "source": "GlobeNewswire",
-      "original_title": "[GlobeNewswire] Siris Announces Sale of Equiniti to Bullish",
-      "context": "A transfer agent is a company that keeps track of who owns shares in a business, acting like the official record-keeper for stock ownership. Siris Capital is a private investment group that bought Equiniti, a company that handles these records for many large corporations, and decided to sell it to Bullish, a newer company focused on cryptocurrency trading. This deal is significant because it represents an attempt to merge traditional stock market record-keeping with modern digital currency technology. By buying Equiniti, Bullish hopes to use its established infrastructure to make digital assets feel more like regular stocks to everyday investors.",
-      "why_it_matters": "A crypto company is buying a traditional finance service provider for billions of dollars. This shows that digital money groups are trying to become part of the regular banking world.",
-      "other_side": "Critics worry this mix is risky. They fear that crypto companies might not know how to handle old-school banking safely, which could put customer money at risk."
+      "original_title": "Prophet launches AI-powered prediction market with live $10,000 trading tranche — CAPE TOWN, South Africa, May 06, 2026 (GLOBE NEWSWIRE) -- Prophet, an AI-native prediction market platform, has launched its first live trading tranche, introducing a system where an AI model acts as the counterparty to user trades using real capital.",
+      "context": "Context pending.",
+      "why_it_matters": "This new tool lets regular people bet on future events using AI as the other side of the trade. It mixes gambling with technology in a new way. It could change how we predict things like elections or sports.",
+      "other_side": "Some worry this is just a risky way to gamble that looks like investing. The AI might not always be fair or accurate in its predictions."
     },
     {
-      "headline": "India's 10-Year Bond Issuance Expected Above 7% Coupon",
-      "summary": "Analysts predict India's new 10-year benchmark bond will be issued at a coupon rate above 7%, replacing the existing 6.48% 2035 bond. This reflects current market yields and investor demand for government debt instruments.",
+      "headline": "Bitget Launchpool Adds KAIO with Over $14M in Token Rewards",
+      "summary": "Cryptocurrency exchange Bitget has added KAIO spot trading and introduced a Launchpool campaign offering over 14 million KAIO tokens in rewards. Users can lock BGB, USDGO, or KAIO to participate in the reward distribution from May 6 to May 13.",
+      "source": "GlobeNewswire",
+      "original_title": "Bitget Launchpool adds KAIO (KAIO) with over 14M in Token Rewards — Bitget adds KAIO spot trading and Launchpool. Lock BGB, USDGO, or KAIO to share 14.12M KAIO rewards May 6–13....",
+      "context": "Context pending.",
+      "why_it_matters": "Bitget is giving away free crypto tokens to attract new users to its platform. This is a common trick to get people interested in a new digital coin. It helps spread awareness quickly.",
+      "other_side": "These rewards can be misleading because the token value might drop later. Users often lose money when they try to sell what they earned for free."
+    },
+    {
+      "headline": "Bitcoin Surges Past $82,000 as Weaker Dollar Lifts Crypto Markets",
+      "summary": "Bitcoin climbed above the $82,000 mark, supported by a weaker US dollar that broadly lifted cryptocurrency markets. The rally was further fueled by double-digit gains in privacy coins and AI-linked tokens, leading an altcoin surge.",
+      "source": "CoinDesk",
+      "original_title": "Bitcoin moves above $82,000 while ZEC and DASH post double-digit rallies — BTC climbed above $82,000 as a weaker dollar lifted crypto markets, while privacy coins and AI-linked tokens led an altcoin rally.",
+      "context": "Context pending.",
+      "why_it_matters": "Bitcoin hit a very high price because the US dollar became weaker. When the dollar drops, crypto often goes up in value. This move boosts confidence in digital money.",
+      "other_side": "Crypto prices are very wild and can crash just as fast. Betting on Bitcoin is risky because it does not have real value like gold or houses."
+    },
+    {
+      "headline": "Saudi Venture Firms Press Ahead With Fundraising Despite Regional War",
+      "summary": "Despite ongoing disruptions from regional conflict, Saudi Arabian venture capital firms are continuing their fundraising and deployment activities. This resilience highlights the sector's determination to maintain momentum in investment and capital allocation amidst geopolitical uncertainty.",
+      "source": "Financial Post",
+      "original_title": "Saudi Venture Firms Press Ahead With Fundraising Despite War — Saudi Arabian venture capital firms are pressing ahead with fundraising and deployment as they navigate disruptions from the regional conflict.",
+      "context": "Context pending.",
+      "why_it_matters": "Saudi companies are keeping their investment plans going despite nearby wars. This shows they want to build new businesses no matter what happens outside. It keeps their economy moving forward.",
+      "other_side": "War makes business very dangerous and expensive. Investors might pull out if the fighting gets closer or worse."
+    },
+    {
+      "headline": "Oil Plunges and Markets Surge on Report of U.S.-Iran Deal",
+      "summary": "Oil prices dropped sharply and global markets rallied following reports that the U.S. is nearing a deal to end the war with Iran and reopen the Strait of Hormuz. The geopolitical shift caused gas prices to jump past $4.50 while equity markets experienced significant gains.",
+      "source": "NBC News",
+      "original_title": "Oil plunges, markets surge on report U.S. and Iran near deal to end war as gas prices jump past $4.50 — The price of oil plunged and markets surged early Wednesday after a new report that the U.S. believed it was nearing a deal to end the war with Iran and eventually reopen the Strait of Hormuz.",
+      "context": "Context pending.",
+      "why_it_matters": "Oil prices dropped because there is hope for peace between the US and Iran. Less war means less fear, so gas becomes cheaper. This helps everyone save money at the pump.",
+      "other_side": "Peace deals can fail suddenly, causing prices to spike again. Relying on politics for stable energy is always a gamble."
+    },
+    {
+      "headline": "Indian Firms Commit $20.5 Billion Investment in US, Led by Pharma",
+      "summary": "Indian companies have committed $20.5 billion in investments in the United States, with the pharmaceutical sector accounting for the vast majority at $19.1 billion. Sun Pharmaceutical Industries Ltd led these financial commitments, signaling strong cross-border capital flow in healthcare.",
       "source": "BusinessLine",
-      "original_title": "[BusinessLine] India's new 10-year bond likely to be issued at above 7% coupon, analysts say",
-      "context": "When a government needs to borrow money, it issues bonds, which are essentially IOUs that promise to pay back the loan with interest over time. The interest rate paid on these bonds is called the coupon, and it reflects how risky investors think lending to that country is at that moment. India is currently issuing new 10-year bonds with a higher interest rate than before because global investors are demanding more return due to economic uncertainties. This higher rate means the Indian government will have to pay more in interest to borrow money, which can impact its national budget and spending plans.",
-      "why_it_matters": "India is borrowing money at a higher interest rate than before. This means the government has to pay more back to lenders, which could limit money for other public projects.",
-      "other_side": "Higher rates can actually help control inflation by slowing down spending. It also rewards savers who lend money to the government with better returns on their investment."
+      "original_title": "Indian firms commit $20.5 billion investment in US; Pharma dominates with $19.1 billion — The pharmaceutical sector accounted for the vast majority of the financial commitment, with planned investments exceeding $19.1 billion, led by Sun Pharmaceutical Industries Ltd",
+      "context": "Context pending.",
+      "why_it_matters": "Indian companies are putting billions into US healthcare jobs and factories. This creates work and builds hospitals in America. It strengthens ties between the two countries.",
+      "other_side": "Some worry this takes jobs away from local US businesses. It also means India controls more of the American medicine supply."
     },
     {
-      "headline": "Rupee Hits Record Low Against Dollar Amid Middle East Tensions",
-      "summary": "The Indian rupee reached a historic low of 95.23 against the US dollar, driven by renewed US-Iran tensions and escalating oil prices. The Reserve Bank of India is exploring measures to stabilize the currency as other Asian currencies also face pressure.",
+      "headline": "Specialty Insurance Rates Soften Faster Than Expected, Hitting 2020 Levels",
+      "summary": "Specialty insurance market rates declined significantly in 2025 and during January 2026 renewals, falling faster than anticipated to reach 2020 price levels. WTW’s Specialty Insurance Marketplace Survey indicates this rapid softening exceeds previous expectations for the sector.",
+      "source": "Insurance Journal",
+      "original_title": "Specialty Insurance Rates Soften Faster Than Expected, Hitting 2020 Price Levels: WTW — Specialty insurance market rates declined in 2025 and during the January 1, 2026 renewals, with the pace of change exceeding expectations, according to WTW’s Specialty Insurance Marketplace Survey (SIMS). Data from the January 1 renewals and new business poin…",
+      "context": "Context pending.",
+      "why_it_matters": "Insurance prices are falling back to old low levels. This saves money for businesses that need coverage. It makes getting protected cheaper again.",
+      "other_side": "Lower prices might mean insurance companies pay out less when claims happen. Coverage could become harder to get if companies feel they are losing too much money."
+    },
+    {
+      "headline": "KPIT Technologies Q4 Profit Falls 33% YoY Despite Revenue Growth",
+      "summary": "KPIT Technologies reported a 33% year-over-year drop in Q4 profit to Rs 163 crore, despite achieving a 12% increase in revenue. However, earnings showed sequential improvement, and the company announced a final dividend of Rs 5.25 per share for FY26.",
       "source": "The Times of India",
-      "original_title": "[The Times of India] Rupee hits record low at 95.23 vs USD as economic worries mount on renewed US-Iran tensions",
-      "context": "The value of a country's currency, like the Indian rupee, changes based on supply and demand, much like any other product. When tensions rise between major powers like the US and Iran, investors often get scared and move their money into safer currencies like the US dollar, causing other currencies to drop in value. Additionally, since India buys most of its oil from the Middle East using dollars, higher oil prices mean India needs more dollars to pay for fuel, which puts extra pressure on the rupee. To prevent the currency from crashing further, the central bank may step in to buy up dollars and stabilize the exchange rate.",
-      "why_it_matters": "The Indian currency is losing value against the US dollar due to global tensions. This makes imported goods like oil and electronics more expensive for everyday people in India.",
-      "other_side": "A weaker currency can help Indian exporters sell their goods cheaper abroad. However, it hurts anyone who travels overseas or buys foreign products."
+      "original_title": "KPIT Technologies Q4 Results: Cons profit falls 33% YoY to Rs 163 crore despite 12% revenue uptick — KPIT Technologies reported a 33% YoY drop in Q4 profit despite 12% revenue growth. However, earnings improved sequentially, and the company announced a final dividend of Rs 5.25 per share for FY26.",
+      "context": "Context pending.",
+      "why_it_matters": "KPIT made less profit even though it sold more services. This means their costs went up faster than their sales. It warns investors that growth is not always profitable.",
+      "other_side": "The company said profits improved recently compared to last quarter. They also paid shareholders cash, which some investors like to see."
     },
     {
-      "headline": "Club Mahindra CFO Resigns as Stocks Decline",
-      "summary": "Club Mahindra's Chief Financial Officer Vimal Agarwal has stepped down, with Rajiv Vimal appointed as his successor. The leadership transition has caused stocks to decline amid market uncertainty regarding the company's financial management.",
-      "source": "BusinessLine",
-      "original_title": "[BusinessLine] Club Mahindra CFO Vimal Agarwal steps down; stocks in red",
-      "context": "A Chief Financial Officer, or CFO, is the person responsible for managing a company’s money, tracking expenses, and ensuring the business stays profitable. When a CFO resigns unexpectedly, especially while the company’s stock price is already falling, it often signals to investors that there might be hidden problems or poor leadership decisions. In this case, Club Mahindra saw its stock drop because people worried about who would take over and whether the new leader could fix the financial issues. The appointment of a successor is meant to reassure shareholders that the company has a plan to restore stability and confidence.",
-      "why_it_matters": "The sudden departure of a top financial officer at Club Mahindra creates doubt about how well the company is managed. Investors often panic when leaders leave unexpectedly, causing stock prices to drop.",
-      "other_side": "Sometimes leadership changes are just normal business updates. If the new CFO has a strong track record, the market might calm down quickly once they start working."
-    },
-    {
-      "headline": "Digital Living Will Framework Impacts Estate Planning",
-      "summary": "Maharashtra’s new digital living will framework is reshaping how families handle financial and medical decision-making during incapacity. This administrative step offers a more robust solution for estate planning compared to traditional methods.",
-      "source": "Livemint",
-      "original_title": "[Livemint] A digital living will: What it means for your family's financial decision",
-      "context": "A living will is a legal document where a person specifies what medical treatments they want or do not want if they become too sick to make decisions themselves. Maharashtra’s new framework expands this concept to include financial matters, allowing individuals to appoint someone to manage their money and assets if they become incapacitated. This is important because traditional estate planning often only deals with what happens after death, leaving a gap during periods of illness or disability. By creating a robust system for both medical and financial decisions, families can avoid legal battles and ensure their loved ones' wishes are respected during crises.",
-      "why_it_matters": "Families in Maharashtra now have a digital way to plan who makes medical and money decisions if someone gets too sick to speak. This reduces family fights and confusion during emergencies.",
-      "other_side": "Not everyone trusts digital systems with such personal matters. Some people prefer paper documents or legal wills because they feel more secure and official."
-    },
-    {
-      "headline": "Bullish Acquires Equiniti in Major Capital Markets Expansion",
-      "summary": "Cryptocurrency exchange Bullish is acquiring transfer agent Equiniti in a deal valued at $4.2 billion to establish critical infrastructure for capital markets. The move signals a strategic push to integrate blockchain technology with traditional financial systems.",
-      "source": "CNA",
-      "original_title": "[CNA] Crypto exchange Bullish to buy Equiniti for $4.2 billion in capital markets push",
-      "context": "Capital markets are the places where people buy and sell ownership stakes in companies, like stocks, which requires precise record-keeping of who owns what. Bullish, a cryptocurrency company, is acquiring Equiniti, a firm that specializes in this record-keeping for traditional stocks, to bridge the gap between digital coins and regular investments. This move allows Bullish to offer services that make crypto assets look and feel like traditional stocks, potentially attracting older or more conservative investors. It signals a trend where digital finance companies are trying to integrate with the existing banking system rather than replacing it entirely.",
-      "why_it_matters": "This is the same deal as Story 2, showing crypto firms are aggressively buying traditional financial services. It signals a big shift where digital assets meet old-school banking infrastructure.",
-      "other_side": "Traditional bankers might feel threatened by this takeover. They may worry that crypto companies do not understand the strict safety rules required for handling other people's money."
-    },
-    {
-      "headline": "Quantum Computing Stock Positioned for Long-Term Growth",
-      "summary": "Wall Street analysts highlight Quantum Computing Inc. (QUBT) as a strong buy-and-hold stock for the next decade due to its innovations in quantum optics and integrated photonics. The company's technological edge positions it well in the emerging quantum sector.",
-      "source": "Yahoo Entertainment",
-      "original_title": "[Yahoo Entertainment] Here’s Why ​Quantum Computing (QUBT) is One of The Best Quantum Computing Stocks To Buy and Hold For 10 Years",
-      "context": "Quantum computing is a type of technology that uses the strange rules of quantum physics to solve problems much faster than regular computers can. Unlike standard computers that process information in simple yes-or-no bits, quantum computers can handle complex calculations simultaneously, making them powerful for scientific research and cryptography. Wall Street analysts believe Quantum Computing Inc. is well-positioned because it focuses on specific hardware components like photonics, which help control light-based data processing. Investors are betting that as this technology matures over the next decade, companies leading in these specialized areas will become essential to future technological advancements.",
-      "why_it_matters": "Experts believe quantum computers will change technology forever by solving problems regular computers cannot. Investing now could pay off huge amounts in the future as this tech grows.",
-      "other_side": "Quantum computing is still very new and expensive. Many experts think it might take decades before it works reliably enough for everyday use, making early investments very risky."
-    },
-    {
-      "headline": "US Halts Strait of Hormuz Operations Pending Iran Deal",
-      "summary": "President Trump paused the US effort to guide vessels through the Strait of Hormuz to finalize a diplomatic deal with Iran, though port blockades remain. This development impacts global shipping insurance costs and oil market stability.",
-      "source": "Associated Press",
-      "original_title": "[Associated Press] US attempt to open Strait of Hormuz tests ceasefire with Iran",
-      "context": "The Strait of Hormuz is a narrow waterway between Iran and Oman through which a large portion of the world’s oil passes, making it a critical chokepoint for global energy supplies. When the US paused operations to guide ships through this area, it was part of a diplomatic effort to negotiate a deal with Iran to reduce regional tensions. However, because port blockades and threats remain, shipping companies are charging higher insurance rates to cover the risk of their vessels being damaged or seized. This uncertainty creates volatility in oil prices, as buyers worry about potential disruptions to the steady flow of fuel from the Middle East.",
-      "why_it_matters": "The US paused operations in a key shipping lane while talking to Iran. This uncertainty keeps oil prices high and shipping costs up, affecting gas prices worldwide.",
-      "other_side": "Taking a pause allows diplomats more time to find a peaceful solution. Rushing into action without a deal could lead to a larger conflict that hurts everyone even more."
-    },
-    {
-      "headline": "Care Economy Roadmap Outlines Economic Infrastructure Shift",
-      "summary": "A new working paper by EAC-PM outlines a roadmap to transform the care economy from a private burden into social and economic infrastructure. This shift aims to address systemic economic inefficiencies and support broader financial inclusion.",
-      "source": "The Times of India",
-      "original_title": "[The Times of India] Care economy in India: EAC-PM working paper lays out a roadmap",
-      "context": "The care economy refers to the work done in caring for children, the elderly, and those with disabilities, which is often unpaid or underpaid and falls heavily on families, especially women. Traditionally, this work is seen as a private responsibility, but economists argue it should be treated as public infrastructure because it supports the entire workforce and economy. The new roadmap suggests shifting this burden from individual households to society by investing in professional care services and support systems. This change aims to make care accessible to everyone, allowing more people to participate in the workforce and reducing economic inequality caused by unpaid labor.",
-      "why_it_matters": "The report suggests treating care work (like nursing or childcare) as essential economic infrastructure. This could mean better pay and support for caregivers, helping families save money.",
-      "other_side": "Changing how care is funded requires massive government spending. Critics worry this could lead to higher taxes or take money away from other important public services."
+      "headline": "Saudi Arabia Cuts June Oil Prices by Less Than Expected Amid Hormuz Risks",
+      "summary": "Saudi Arabia reduced its official selling price for flagship crude loading to Asia in June, but the cut was smaller than market expectations. The price remains near record highs due to persistent risks surrounding the Strait of Hormuz, keeping supply costs elevated.",
+      "source": "OilPrice.com",
+      "original_title": "Saudi Arabia Cuts June Oil Prices by Less Than Expected as Hormuz Risks Persist — Saudi Arabia has reduced the official selling price of its flagship crude loading for Asia in June from the May record high, but the price cut was less than expected. Next month’s supply from the world’s top crude exporter would still see the second-highest p…",
+      "context": "Context pending.",
+      "why_it_matters": "Saudi Arabia kept oil prices high despite wanting to sell more. This shows they still have power over global fuel costs. It keeps money flowing into their economy.",
+      "other_side": "High oil prices hurt buyers around the world. If prices stay high, countries may look for cleaner energy sources faster."
     }
   ]
 }
