@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "AI's Evolution Redefines Industrial Cybercrime Risks",
-      "summary": "The landscape of industrial cybercrime has evolved significantly, with artificial intelligence now acting as a triple-edged sword rather than just a double-edged one. This shift highlights the increasing complexity and danger posed by AI-driven threats in industrial sectors.",
-      "source": "TechRadar",
-      "original_title": "[TechRadar] How AI's evolution is redefining risks",
-      "context": "Context pending.",
-      "why_it_matters": "Hackers are now using smart computer programs to break into factories and power plants. This makes it much harder to keep critical infrastructure safe from serious damage.",
-      "other_side": "Some experts argue that these same AI tools can also be used to build stronger digital walls. They believe technology can help defenders catch bad actors faster than before."
-    },
-    {
-      "headline": "Sinopec Unveils 'Fenghuo' Industrial AI Agent",
-      "summary": "Sinopec has launched the 'Fenghuo' industrial AI agent, marking the first digital expert in the petrochemical sector capable of actively participating in production operations. This innovation transforms AI into digital employees and domain experts within the industry.",
-      "source": "PRNewswire",
-      "original_title": "[PRNewswire] Sinopec Launches \"Fenghuo\" Industrial AI Agent: An Industry First That Turns AI into Digital Employees And Domain Experts",
-      "context": "Context pending.",
-      "why_it_matters": "A giant oil company is putting smart software directly into its daily work routine. This could make huge industrial operations faster, safer, and less reliant on human error.",
-      "other_side": "Critics worry that relying too much on digital workers creates new risks. If the system glitches or gets hacked, it could cause major production halts."
-    },
-    {
-      "headline": "Ubuntu Summit 26.04 Sneak Peek Reveals Community Passion",
-      "summary": "With only three weeks remaining until the Ubuntu Summit 26.04, the community is buzzing with excitement over the high-quality talk submissions. The event promises to showcase the vibrant energy and technical depth of the open-source operating system community.",
-      "source": "Ubuntu.com",
-      "original_title": "[Ubuntu.com] Three weeks to go: A sneak peek of the Ubuntu Summit 26.04 experience",
-      "context": "Context pending.",
-      "why_it_matters": "The open-source community is showing strong support for free computer operating systems. This energy helps ensure that affordable tech options remain available and improved for everyone.",
-      "other_side": "Some users feel that open-source projects can be slow to fix bugs. They worry that without big corporate backing, important updates might get delayed."
-    },
-    {
-      "headline": "PlayStation 5 Capable of Native PS3 Emulation via Linux",
-      "summary": "Recent developments allow Linux to run on PlayStation 5 with older system software, enabling the console to function as a powerful emulation device for PlayStation 3 games. Despite this technical capability, Sony does not appear to be supporting native backward compatibility for these titles.",
-      "source": "Wccftech",
-      "original_title": "[Wccftech] PlayStation 5 Has All It Takes To Run PlayStation 3 Games Natively Well, But Sony Does Not Seem To Care",
-      "context": "Context pending.",
-      "why_it_matters": "Gamers are finding ways to play old games on new consoles by using Linux. This gives players more freedom to keep their favorite titles alive long after companies stop supporting them.",
-      "other_side": "Game makers like Sony do not officially support this method. They argue it breaks their rules and could hurt sales of their newer products or services."
-    },
-    {
-      "headline": "Garmin Launches Elite Hi-Fi Audio Through JL Audio Brand",
-      "summary": "Garmin has introduced a new line of super-elite hi-fi audio equipment through its JL Audio sub-brand, including streamers and floor-standing speakers. The premium pricing strategy positions these products alongside high-end competitors like Bowers & Wilkins.",
-      "source": "TechRadar",
-      "original_title": "[TechRadar] Garmin has just launched super-elite hi-fi gear, through its sub-brand that's best-known for its maritime sound systems — and the stereo speakers are priced (perhaps appropriately) like a pair of Bowers & Wilkins' Nautilus",
-      "context": "Context pending.",
-      "why_it_matters": "A car brand is entering the high-end music market with very expensive speakers. This shows that car companies are trying to become lifestyle brands, not just vehicle makers.",
-      "other_side": "Many audiophiles prefer dedicated home audio brands over car brands. They doubt that a company known for GPS can truly master high-fidelity sound quality."
-    },
-    {
-      "headline": "AI-Based Research Services Market Set for Massive Growth",
-      "summary": "The global AI-based research services market is projected to surpass USD 35.4 billion by 2035, driven by the integration of synthetic data and predictive intelligence. This transformation is fundamentally changing how enterprises make decisions and analyze consumer insights.",
-      "source": "PRNewswire",
-      "original_title": "[PRNewswire] AI-based Research Services Market to Surpass USD 35,420.4 Million by 2035 as Synthetic Data and Predictive Intelligence Transform Enterprise Decision-Making",
-      "context": "Context pending.",
-      "why_it_matters": "Companies are spending billions on AI tools to guess future trends and analyze data. This shift will change how businesses decide what to sell and how to treat customers.",
-      "other_side": "There are concerns that AI might make biased or wrong predictions. Critics say human judgment is still needed to check if the data is actually correct."
-    },
-    {
-      "headline": "KPIT Technologies Reports Q4 Profit Drop Despite Revenue Growth",
-      "summary": "KPIT Technologies reported a 33% year-over-year decline in Q4 profit, despite achieving a 12% increase in revenue. The company also announced a final dividend of Rs 5.25 per share for FY26, signaling confidence in its sequential earnings improvement.",
+      "headline": "Tata and JSW Invest $1 Billion in EV and Battery Tech to Counter China",
+      "summary": "Indian industrial giants Tata Group and JSW Group are committing nearly $1 billion to build local capabilities in electric vehicle and battery technologies. This strategic investment aims to reduce dependence on Chinese technology while boosting domestic manufacturing infrastructure.",
       "source": "The Times of India",
-      "original_title": "[The Times of India] KPIT Technologies Q4 Results: Cons profit falls 33% YoY to Rs 163 crore despite 12% revenue uptick",
+      "original_title": "Tata Group, JSW to plow $1 billion in EV, battery tech",
       "context": "Context pending.",
-      "why_it_matters": "A tech firm made more money but kept less profit after costs went up. This shows that growing sales does not always mean a company is healthier financially.",
-      "other_side": "The company still paid out cash to shareholders as a dividend. This suggests they believe their future earnings will improve despite current cost pressures."
+      "why_it_matters": "India is spending big money to build its own electric car parts. This helps the country make its own tech instead of relying on China, which creates local jobs and keeps more money inside India.",
+      "other_side": "Building this from scratch takes a long time and costs a lot of money. Critics worry that Indian companies might fall behind global leaders if they focus too much on going it alone."
     },
     {
-      "headline": "Bitget Launchpool Adds KAIO with Significant Token Rewards",
-      "summary": "Cryptocurrency exchange Bitget has added KAIO spot trading and included it in its Launchpool program, offering over 14 million in token rewards. Users can lock BGB, USDGO, or KAIO tokens between May 6 and May 13 to participate in the reward distribution.",
-      "source": "GlobeNewswire",
-      "original_title": "[GlobeNewswire] Bitget Launchpool adds KAIO (KAIO) with over 14M in Token Rewards",
+      "headline": "CDW Q1 Results Surge on AI and Hardware Demand",
+      "summary": "IT solutions provider CDW reported strong first-quarter results driven by increased customer investments in artificial intelligence infrastructure. The firm noted a significant uptick in demand for storage solutions and hardware as enterprises accelerate their digital transformation efforts.",
+      "source": "ComputerWeekly.com",
+      "original_title": "Demand for AI and hardware bolsters CDW Q1 numbers",
       "context": "Context pending.",
-      "why_it_matters": "Crypto exchanges are giving away free tokens to attract new users. This strategy helps platforms grow quickly by rewarding people for trying their services.",
-      "other_side": "These rewards often come with high risks and volatile prices. Investors might lose money if the token value drops sharply after they receive it."
+      "why_it_matters": "Companies are spending heavily on AI tools and computer hardware. This shows that businesses are serious about using artificial intelligence to work faster and smarter, which boosts the tech sales industry.",
+      "other_side": "Some experts say companies are buying too much gear too quickly. They worry that businesses might not actually know how to use all this new technology effectively."
     },
     {
-      "headline": "Fenergo Recognized as Leader in SPARK Matrix for KYC Solutions",
-      "summary": "QKS Group has positioned Fenergo as a leader in its SPARK Matrix for Know Your Customer (KYC) solutions for 2026. Fenergo received strong ratings for its comprehensive technology and customer experience management capabilities across key evaluation parameters.",
-      "source": "PRNewswire",
-      "original_title": "[PRNewswire] Fenergo is Positioned as the Leader in the SPARK Matrix™: Know Your Customer (KYC) Solutions, 2026 by QKS Group",
+      "headline": "PC Motherboard Shipments Set for Sharp Decline Amid Rising Costs",
+      "summary": "PC manufacturers are facing a projected massive decline in motherboard shipments for 2026 due to soaring component prices and waning consumer interest. The industry is grappling with low demand even as production costs rise, signaling a challenging period for the personal computer hardware market.",
+      "source": "Wccftech",
+      "original_title": "PC Manufacturers To See Massive Decline In Motherboard Shipments In 2026 Due To Low Consumer Demand As Component Prices Rise",
       "context": "Context pending.",
-      "why_it_matters": "Banks are using better software to verify who their customers really are. This helps stop fraud and keeps the financial system safer from illegal activities.",
-      "other_side": "Customers often find this verification process slow and annoying. They complain that having to prove their identity every time is inconvenient and invasive."
+      "why_it_matters": "Fewer people are buying new computer parts because they are getting too expensive. This signals that the personal computer market is slowing down as consumers hold onto their old devices longer.",
+      "other_side": "Manufacturers are stuck with high costs but can’t raise prices enough to cover them. This could force some smaller computer makers to shut down or cut jobs."
     },
     {
-      "headline": "Geely Riddara Showcases New Energy Pickup at Auto China 2026",
-      "summary": "Geely Auto displayed its Riddara pickup brand at Auto China 2026, highlighting the 2026 RD6 ECON model as a redefinition of the global new energy pickup landscape. The showcase emphasized product excellence and Geely's expansion into electrified commercial vehicles.",
-      "source": "GlobeNewswire",
-      "original_title": "[GlobeNewswire] Geely Riddara at Auto China 2026: Redefining the Global New Energy Pickup Landscape with Product Excellence",
+      "headline": "Extreme Connect Unveils Wi-Fi 7 Line for the 6GHz Era",
+      "summary": "Extreme Connect has launched a new line of Wi-Fi 7 access points designed to deliver reliable, high-speed connectivity in the emerging 6GHz spectrum era. The deployment highlights the industry's push toward next-generation wireless standards to meet growing bandwidth demands.",
+      "source": "ComputerWeekly.com",
+      "original_title": "Extreme Connect 26: Wi-Fi 7 line aims to address needs of 6GHz era",
       "context": "Context pending.",
-      "why_it_matters": "A major car maker is launching electric trucks for work and play. This pushes the auto industry toward cleaner energy solutions for heavy-duty vehicles.",
-      "other_side": "Some buyers still prefer gas-powered trucks for long hauls. They worry that electric trucks might not have enough range or charging stations for tough jobs."
+      "why_it_matters": "New Wi-Fi technology is coming out to handle more data at faster speeds. This means your internet will be quicker and more stable for streaming, gaming, and working from home.",
+      "other_side": "You need new devices to use this faster Wi-Fi, which costs extra money. Many people might not see any real benefit if their current internet is already fast enough."
+    },
+    {
+      "headline": "NVIDIA Releases Critical RTX A1000 Graphics Driver Update",
+      "summary": "NVIDIA has issued version 32.0.15.7340 of its graphics driver for the RTX A1000 series, available for Windows 10 Vibranium 64-bit systems. The update is designed to fix existing issues, add new functionalities, and ensure optimal performance for professional graphics workloads.",
+      "source": "Softpedia.com",
+      "original_title": "NVIDIA RTX A1000 Graphics Driver 32.0.15.7340 for Windows 10 Vibranium 64-bit",
+      "context": "Context pending.",
+      "why_it_matters": "NVIDIA fixed bugs in its graphics drivers for professional computers. This ensures that designers and video editors can work without crashes or errors, keeping their jobs running smoothly.",
+      "other_side": "Regular users don’t need this specific update for their gaming PCs. It only matters for people who use high-end computers for heavy professional tasks like 3D modeling."
+    },
+    {
+      "headline": "IGT Solutions Rebrands as Atain to Signal New Enterprise Focus",
+      "summary": "IGT Solutions has officially rebranded as Atain, marking a strategic shift toward becoming a premier enterprise orchestration partner. This rebranding reflects the company's evolution in providing integrated digital services and technology solutions to global clients.",
+      "source": "BusinessLine",
+      "original_title": "IGT Solutions Rebrands as Atain, Marking a New Era as an Enterprise Orchestration Partner",
+      "context": "Context pending.",
+      "why_it_matters": "A company changed its name to show it is focusing on helping big businesses. This signals a shift in strategy to offer more complete digital services rather than just basic tech support.",
+      "other_side": "Changing a name doesn’t change how the company works or performs. Customers might be confused about whether the services have actually improved or just rebranded."
+    },
+    {
+      "headline": "Onward Technologies Reports Record Revenue and EBITDA Growth",
+      "summary": "Onward Technologies delivered its strongest annual performance in FY26, achieving record revenue and a 72.3% year-over-year increase in PAT. The company's robust financial results highlight its successful execution of technology-driven business strategies and market expansion.",
+      "source": "BusinessLine",
+      "original_title": "Onward Technologies delivers its strongest annual performance in FY26, with record revenue, record EBITDA of INR 71.9 crore, up 60.9% YoY, and record PAT of INR 46.7 crore, up 72.3% YoY",
+      "context": "Context pending.",
+      "why_it_matters": "Onward Technologies made record profits by using smart tech strategies. This proves that companies focused on digital solutions are growing fast in today’s market.",
+      "other_side": "High growth rates are hard to keep up year after year. Investors might get worried if the company cannot maintain such fast growth in the future."
+    },
+    {
+      "headline": "Colebrook Bosson Saunders Expands Monitor Compatibility Tech",
+      "summary": "Colebrook Bosson Saunders has expanded the compatibility of its Flo X Multi solution to support curved ultrawide monitors. This update enhances user experience by ensuring seamless integration with the latest display technologies used in modern workstations.",
+      "source": "BusinessLine",
+      "original_title": "Colebrook Bosson Saunders Expands Flo X Multi Compatibility for Curved Ultrawide Monitors",
+      "context": "Context pending.",
+      "why_it_matters": "Monitor makers are updating their tech to work with curved screens. This gives workers better viewing experiences and fits with modern office setups that use wide displays.",
+      "other_side": "Not everyone uses curved monitors, so this update is only useful for a niche group. It adds complexity for manufacturers who have to support many different screen types."
+    },
+    {
+      "headline": "Yanolja Acquires InnKey to Boost Global Hospitality Platform",
+      "summary": "Yanolja has acquired InnKey to significantly expand its global enterprise hospitality platform capabilities. This strategic move aims to enhance technological integration and service offerings within the competitive travel and accommodation sector.",
+      "source": "BusinessLine",
+      "original_title": "Yanolja Acquires InnKey to Expand Global Enterprise Hospitality Platform",
+      "context": "Context pending.",
+      "why_it_matters": "Yanolja bought another company to grow its travel business globally. This helps them offer better services to hotels and travelers by combining their technology platforms.",
+      "other_side": "Merging two companies often causes internal chaos and confusion. Employees and customers might struggle with changes while the two systems try to work together."
+    },
+    {
+      "headline": "Apollo Hospitals Introduces Advanced Bone Regeneration Solution",
+      "summary": "Apollo Hospitals has introduced a groundbreaking bone regeneration solution specifically designed for diabetic and complex bone infections. This medical technology innovation represents a significant advancement in treating difficult-to-manage orthopedic conditions.",
+      "source": "BusinessLine",
+      "original_title": "Apollo Hospitals introduces first of its kind advanced bone regeneration solution for diabetic and complex bone infections",
+      "context": "Context pending.",
+      "why_it_matters": "Apollo Hospitals created a new treatment for bone problems in diabetics. This helps patients who usually have very hard-to-heal injuries get better care and avoid amputations.",
+      "other_side": "New medical treatments are often very expensive at first. Poorer patients might not be able to afford this advanced solution until prices come down over time."
     }
   ]
 }
