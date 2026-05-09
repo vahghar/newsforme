@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "Norway Leads Europe in Rate Hikes Amid Iran War Inflation",
-      "summary": "Norges Bank has raised borrowing costs for the first time since 2023, taking a leading role in Western Europe's monetary policy response. This decisive action aims to combat stubbornly high inflation exacerbated by the ongoing geopolitical tensions and energy market disruptions stemming from the Iran conflict.",
-      "source": "Financial Post",
-      "original_title": "[Financial Post] Norway Hikes for First Time Since 2023, Taking Lead in Europe",
-      "context": "Imagine the economy as a giant bathtub, where money is the water. When there is too much water (money) chasing too few items to buy, prices go up, which is called inflation. To fix this, central banks like Norway's act like a drain, raising \"interest rates,\" which makes borrowing money more expensive for everyone. This story is about Norway deciding to tighten that drain first because the war in Iran has made energy prices skyrocket, causing inflation to stay high even when other countries are trying to lower rates. It shows how global conflicts can force small, stable economies to make tough choices to keep their currency strong and prices manageable.",
-      "why_it_matters": "Norway is raising interest rates to fight high prices caused by the war in Iran. This makes borrowing money more expensive for everyone, which can slow down spending and hurt the economy. It shows how far-reaching the impact of this conflict is on everyday life.",
-      "other_side": "Some people argue that raising rates punishes regular families who are already struggling with bills. They believe it could lead to job losses and make it harder for small businesses to survive."
+      "headline": "US and Iran Clash in Hormuz as War Escalates",
+      "summary": "Tensions have surged in the Strait of Hormuz as the US and Iran engage in military clashes, despite a ceasefire that has been in place since April 8. Both nations remain deadlocked on a peace deal, raising fears of a broader regional conflict.",
+      "source": "Al Jazeera English",
+      "original_title": "[Al Jazeera English] US, Iran clash in Hormuz as war escalates: What happened, why it matters — A ceasefire between the US and Iran has been in place since April 8. Both sides are yet to agree on a peace deal.",
+      "context": "Context pending.",
+      "why_it_matters": "Fighting in a busy shipping lane blocks global trade, making everyday goods more expensive for everyone. If this turns into a bigger war, it could disrupt energy supplies and cause chaos in countries far away from the conflict zone.",
+      "other_side": "Some argue that showing military strength is the only way to stop Iran from acting aggressively. Others say this approach might just make Iran fight harder and drag other nations into a dangerous mess."
     },
     {
-      "headline": "Iran War Distorts Global Oil Markets Despite Peace Prospects",
-      "summary": "Analysts warn that oil markets will remain severely distorted for months even after a potential peace deal with Iran concludes hostilities. Reserves are projected to dwindle to critical levels as energy-market chaos persists, highlighting the long-term economic instability caused by the regional conflict.",
-      "source": "Business Insider",
-      "original_title": "[Business Insider] Why a peace deal with Iran won't save the economy from energy-market chaos this summer",
-      "context": "Oil is like the blood of the global economy, powering everything from cars to factories. When a major conflict like the one in Iran threatens supply routes or production, it creates panic, causing prices to jump and reserves to drop because countries are afraid they won't have enough fuel later. Even if a peace deal happens quickly, the market stays shaky because businesses need time to rebuild their stockpiles and trust that supplies will be steady again. This distortion means that for months after the shooting stops, everyday people will still feel the pinch of higher gas and heating bills as the system slowly heals from the shock.",
-      "why_it_matters": "Oil prices will stay weird and high for a long time, even if peace talks happen. This means gas and heating costs will remain unpredictable for households. It creates financial stress for anyone who relies on energy to live or work.",
-      "other_side": "Critics say that focusing too much on short-term fixes ignores the need for clean energy. They warn that relying on oil keeps us stuck in a cycle of pollution and conflict."
+      "headline": "Prabowo Joins ASEAN Leaders for Retreat in Philippines",
+      "summary": "Indonesian President Prabowo Subianto attended the retreat session of the 48th ASEAN Summit in Cebu, marking key diplomatic engagements for Southeast Asian leaders. The meeting is part of a broader series of discussions aimed at strengthening regional cooperation and stability.",
+      "source": "Antaranews.com",
+      "original_title": "[Antaranews.com] Prabowo joins ASEAN leaders for retreat session in Philippines — Indonesian President Prabowo Subianto attended the retreat session of the 48th ASEAN Summit in Cebu on Friday as part of a series of meetings under the ...",
+      "context": "Context pending.",
+      "why_it_matters": "Leaders from Southeast Asian countries are meeting to agree on how to work together peacefully. This helps keep the region stable and makes it easier for businesses to grow without fear of conflict.",
+      "other_side": "Critics worry that these meetings are just talk with no real action to solve deep-rooted problems. Some fear that stronger ties might force smaller countries to give up their independence to bigger powers."
     },
     {
-      "headline": "US Expands Alaskan Energy Production via Defense Powers",
-      "summary": "President Trump has invoked the Defense Production Act to significantly expand American energy production, specifically focusing on Alaskan resources. This move is framed as a direct countermeasure to Iran’s energy threats, aiming to bolster national defense capabilities while providing economic relief to domestic families.",
+      "headline": "Indonesia and Philippines Launch 'Nickel Corridor' Deal",
+      "summary": "Indonesia and the Philippines have signed a landmark agreement to establish a 'Nickel Corridor,' integrating their massive nickel resources to secure supply chains. This strategic partnership aims to leverage the combined reserves of both nations for greater economic influence.",
+      "source": "Antaranews.com",
+      "original_title": "[Antaranews.com] Indonesia and Philippines launch massive \"Nickel Corridor\" deal — Indonesia and the Philippines have signed a landmark agreement to establish a &quot;Nickel Corridor,&quot; integrating their massive resources to secure ...",
+      "context": "Context pending.",
+      "why_it_matters": "Indonesia and the Philippines are joining forces to control the supply of nickel, which is key for making electric car batteries. This gives them more power in global markets and helps secure the materials needed for green energy.",
+      "other_side": "Environmental groups worry that mining more nickel will damage forests and harm local wildlife. Smaller competitors may also struggle to survive if these two giants control too much of the market."
+    },
+    {
+      "headline": "UK Identifies New Suspected Hantavirus Case on Remote Island",
+      "summary": "The UK has confirmed two British cases on board a cruise ship and identified a suspected hantavirus infection on Tristan da Cunha. This remote British Overseas Territory, home to just 250 people, faces heightened health concerns due to its isolation.",
+      "source": "Al Jazeera English",
+      "original_title": "[Al Jazeera English] UK identifies new suspected hantavirus case on remote island — The UK confirms two British cases on board a cruise ship and a suspected infection on the Tristan da Cunha island.",
+      "context": "Context pending.",
+      "why_it_matters": "A rare disease appearing on a tiny, isolated island shows how quickly health threats can spread even in remote places. It highlights the need for better medical support for small communities that lack hospitals.",
+      "other_side": "Some people argue that travel restrictions are too harsh and hurt local economies that rely on visitors. Others believe that focusing on one remote island distracts from treating diseases in larger, more populated areas."
+    },
+    {
+      "headline": "EU Tells US to Open Markets if It Wants Financial Support",
+      "summary": "EU industry chief Stéphane Séjourné warned the US and other trade partners that they must open their markets if they expect European financial support. This statement reflects growing support within the bloc for a 'European Preference' policy to protect local industries from foreign competition.",
+      "source": "POLITICO.eu",
+      "original_title": "[POLITICO.eu] Open your markets if you want EU cash, industry chief tells US and other trade partners — Stéphane Séjourné said support for a \"European Preference\" to protect the bloc's industries is growing.",
+      "context": "Context pending.",
+      "why_it_matters": "Europe is telling the US it must play fair if it wants help, protecting local jobs from foreign competition. This shift could change how countries trade, potentially leading to higher prices but also stronger local industries.",
+      "other_side": "US leaders might see this as unfair protectionism that hurts American companies trying to sell their goods. This tension could lead to trade wars where both sides lose money and customers pay more."
+    },
+    {
+      "headline": "State Street CEO Warns of Global Fertilizer Crisis Due to Iran War",
+      "summary": "State Street’s CEO has issued a stark warning about an impending global fertilizer crisis driven by the ongoing conflict with Iran. He expressed personal concern over the long-term implications of the war on global food security and supply chains.",
+      "source": "Fortune",
+      "original_title": "[Fortune] State Street’s CEO warns of a global fertilizer crisis due to the Iran war: ‘I personally worry about what happens if this goes on much longer’ — Also: All the news and watercooler chat from Fortune.",
+      "context": "Context pending.",
+      "why_it_matters": "The war is threatening the supply of fertilizer needed to grow food worldwide. If farmers cannot get enough fertilizer, crop yields will drop, leading to higher food prices and potential hunger in vulnerable regions.",
+      "other_side": "Some experts believe that technology and better farming methods can offset the lack of fertilizer. Others argue that blaming the war ignores long-term issues like climate change and poor resource management."
+    },
+    {
+      "headline": "Experts Warn of Global Food Crisis Amidst Iran Conflict",
+      "summary": "Experts are warning that high food prices and potential shortages pose a serious risk if the conflict involving the US, Israel, and Iran does not end soon. The United Nations states that the window to prevent a full-blown global food crisis is closing rapidly.",
+      "source": "ABC News (AU)",
+      "original_title": "[ABC News (AU)] Are we facing a global food crisis? — Experts are warning that high food prices and even food shortages are a serious risk if the US-Israeli war in Iran doesn't end soon.\nThe United Nations says the window to prevent a full blown food crisis is closing rapidly.\nWhile the worst will initially be f…",
+      "context": "Context pending.",
+      "why_it_matters": "Experts warn that high food prices could push millions into poverty if the fighting continues. This crisis affects everyone, as unstable regions often lead to migration and further global instability.",
+      "other_side": "Some politicians argue that sanctions and military action are necessary to stop aggression, even if it causes short-term pain. Critics say that humanitarian aid should be prioritized over political goals to save lives now."
+    },
+    {
+      "headline": "European Countries Emerge as NATO Leaders as US Role Recedes",
+      "summary": "European nations are stepping up as leaders within NATO as the US role recedes, following President Trump's decision to keep allies in the dark before launching strikes on Iran. This move has inflamed tensions and created urgency for rethinking the alliance's structure and leadership.",
+      "source": "NPR",
+      "original_title": "[NPR] European countries emerge as NATO leaders as U.S. role recedes — President Trump's decision to leave NATO in the dark before launching strikes on Iran has inflamed tensions and is putting new urgency on rethinking the alliance.",
+      "context": "Context pending.",
+      "why_it_matters": "European countries are taking charge of defense as the US steps back, changing the balance of global power. This forces Europe to spend more on its own military and become more independent in foreign policy decisions.",
+      "other_side": "Some Europeans worry they are not ready to lead and lack the funding to replace the US role. Others fear that without US leadership, the alliance will weaken and invite aggression from rival nations."
+    },
+    {
+      "headline": "Round One of Iran Fight Went to US Military, But Ending Conflict Is Harder",
+      "summary": "While the US military gained the upper hand in the initial phase of the conflict with Iran, ending the war remains a complex challenge. Trump cited the War Powers Resolution to declare the conflict over, but Iranian attacks on US ships suggest the situation is far from resolved.",
       "source": "Fox News",
-      "original_title": "[Fox News] America’s answer to Iran’s energy threats begins with Alaskan power",
-      "context": "The Defense Production Act is a special law that allows the US President to step in and force companies to prioritize making things needed for national security, usually during wars or emergencies. In this case, the government is using this power to drill for more oil and gas in Alaska to reduce reliance on foreign sources that might be unstable due to the Iran conflict. The idea is that by producing more energy at home, the country becomes safer from foreign threats and can lower costs for families who pay for electricity and gas. It is a direct government intervention to treat energy independence as a matter of national defense rather than just business.",
-      "why_it_matters": "The US is using special war-time powers to dig for more oil in Alaska. This aims to reduce dependence on foreign energy sources like Iran. It could lower gas prices at home but risks damaging fragile Arctic environments.",
-      "other_side": "Environmental groups strongly oppose drilling in such a sensitive area. They argue it accelerates climate change and threatens wildlife habitats permanently."
+      "original_title": "[Fox News] Round one of Iran fight went to the US military. But ending things is much harder — Trump cited the War Powers Resolution to declare the Iran conflict over, but Iranian attacks on U.S. ships during Project Freedom tell a different story.",
+      "context": "Context pending.",
+      "why_it_matters": "Winning early battles does not guarantee peace, as ending a war requires complex diplomacy. This highlights the difficulty of achieving lasting stability after military victories, which can leave underlying issues unresolved.",
+      "other_side": "Military leaders argue that strong force is the only way to ensure enemies respect boundaries. Diplomats counter that negotiations are essential to prevent endless cycles of violence and retaliation."
     },
     {
-      "headline": "India Marks One Year of Operation Sindoor with BrahMos Precision",
-      "summary": "Retired Air Marshal Sanjeev Kapoor highlights Operation Sindoor as a pivotal milestone for India's air power, showcasing surgical precision strikes over the past year. The operation served as a real-world evaluation of military hardware, particularly the successful deployment of the BrahMos missile, cementing its status as a game-changer in regional defense.",
-      "source": "The Times of India",
-      "original_title": "[The Times of India] 'Brahmos on May 10 was a game changer,' Air Marshal Sanjeev Kapoor (Retd) on one year of Operation Sindoor",
-      "context": "India has been building up its military strength to protect its borders and assert itself as a major global power, particularly against neighbors like Pakistan and China. Operation Sindoor refers to a series of precise military drills or strikes designed to test how well their new weapons, like the BrahMos missile, work in real-world conditions. The BrahMos is a super-fast missile that can hit targets with extreme accuracy, and using it successfully proves that India’s defense industry is becoming advanced and reliable. This milestone is important because it shifts the region's balance of power, showing that India can now project force with surgical precision rather than just large-scale armies.",
-      "why_it_matters": "India is showing off its new military tech, specifically a powerful missile called BrahMos. This proves they can strike precisely from the air, changing the balance of power in their region. Neighbors may feel threatened and start buying more weapons themselves.",
-      "other_side": "Peace advocates worry this arms race increases the risk of accidental war. They believe resources spent on missiles should go to education or healthcare instead."
-    },
-    {
-      "headline": "Russia Hosts Media School for Foreign Bloggers in Kaliningrad",
-      "summary": "The Kaliningrad region is currently hosting a Media School for Foreign Bloggers, organized by state-affiliated youth media centers. This initiative brings together international content creators to engage with Russian perspectives, reflecting ongoing efforts to shape global media narratives through direct cultural and informational exchange.",
-      "source": "Sputnikglobe.com",
-      "original_title": "[Sputnikglobe.com] Media School for Foreign Bloggers Now In Session: Kaliningrad Welcomes Content Creators",
-      "context": "Russia has been facing heavy criticism and isolation in Western media since its actions in Ukraine began, so it is actively trying to change the global narrative by reaching out directly to international influencers. By hosting foreign bloggers in Kaliningrad, a Russian territory sandwiched between Europe and Russia, the state aims to show them a version of reality that aligns with Russian perspectives, bypassing traditional news outlets. This is a form of \"soft power\" diplomacy, where instead of using tanks, they use stories and personal experiences to win hearts and minds abroad. The goal is to create a network of content creators who might share more nuanced or favorable views of Russia with their own audiences back home.",
-      "why_it_matters": "Russia is inviting foreign bloggers to Kaliningrad to share their side of the story. This is an attempt to control how the world views their actions during the conflict. It highlights how information warfare is just as important as physical fighting today.",
-      "other_side": "Skeptics view this as propaganda designed to mislead international audiences. They fear it gives a platform to state-controlled narratives without allowing critical questions."
-    },
-    {
-      "headline": "BNY Offers Regulated Crypto Custody to UAE Institutional Investors",
-      "summary": "Bank New York Mellon is partnering with local entities to offer regulated Bitcoin and Ethereum custody services to clients in the Abu Dhabi Global Market. This move signals a significant step in integrating traditional finance with digital assets in the Middle East, providing institutional investors with secure infrastructure for crypto holdings.",
-      "source": "Cointelegraph",
-      "original_title": "[Cointelegraph] BNY eyes institutional Bitcoin, Ethereum custody for investors in UAE",
-      "context": "For a long time, big banks avoided handling cryptocurrencies like Bitcoin because they were seen as risky, volatile, and potentially linked to illegal activities. However, as digital money became more popular, wealthy investors and large companies wanted a safe place to store these assets, similar to how they keep gold or cash in a vault. Bank New York Mellon, one of the oldest and most trusted banks in the world, is now offering a regulated service to hold these digital coins securely for clients in the UAE. This move signals that traditional finance is finally accepting crypto as a legitimate asset class, providing a bridge between old-school banking safety and new digital technology.",
-      "why_it_matters": "A major US bank is now safely storing digital currencies for big investors in the UAE. This brings traditional banking into the world of crypto, making it more legitimate. It could encourage more large-scale investment in digital assets globally.",
-      "other_side": "Traditionalists worry that banks getting involved makes crypto too risky for average people. They fear market crashes could still wipe out savings despite the \"safety\" measures."
-    },
-    {
-      "headline": "History Channel Partners with White House on Veteran Tribute Initiative",
-      "summary": "The History Channel has partnered with the White House to launch 'Mission to Honor,' a new initiative celebrating the 250th anniversary of American veterans. The project features first-person video profiles spanning from World War II to the Global War on Terror, aiming to preserve and honor the stories of those who served.",
-      "source": "Thefutoncritic.com",
-      "original_title": "[Thefutoncritic.com] The History Channel Partners with The White House on New \"Mission to Honor: A 250th Salute to American Veterans\" Initiative",
-      "context": "The United States is approaching the 250th anniversary of its founding, a major milestone known as the Semiquincentennial, which prompts a national reflection on history and identity. To honor this, the government is partnering with media companies like the History Channel to collect and share personal stories from veterans, ensuring that the sacrifices of those who served are not forgotten. This initiative focuses on humanizing history by using first-person video profiles, which helps younger generations connect emotionally with events ranging from World War II to recent conflicts. It serves as both a tribute to individual bravery and a way to preserve oral histories before they are lost to time.",
-      "why_it_matters": "The History Channel is working with the White House to honor veterans through video stories. This helps preserve personal histories and keeps the memory of service alive. It strengthens national pride and community support for those who served.",
-      "other_side": "Some critics feel mixing government agendas with entertainment channels blurs the line between news and promotion. They worry it might overshadow other important historical events not tied to current politics."
-    },
-    {
-      "headline": "TNT Sports Unveils Roster for 2026 Roland-Garros Coverage",
-      "summary": "TNT Sports has announced its commentator lineup for the 2026 French Open, promising elite match analysis and cross-platform storytelling. The coverage will be broadcast across TNT, truTV, and HBO Max in the US, ensuring comprehensive access to one of tennis's most prestigious Grand Slam tournaments.",
-      "source": "Thefutoncritic.com",
-      "original_title": "[Thefutoncritic.com] TNT Sports Unveils Commentator Roster for 2026 Roland-Garros",
-      "context": "The French Open, or Roland-Garros, is one of the four most important tennis tournaments in the world, held on clay courts in Paris, and it attracts millions of viewers globally. TNT Sports, a major broadcaster, is preparing for the 2026 event by assembling a top-tier team of commentators and analysts to provide deep insights into the matches. They plan to use multiple platforms, including TV channels and streaming services like HBO Max, to reach fans wherever they are watching. This expansion reflects the growing competition among broadcasters to offer the best viewing experience, combining expert analysis with modern storytelling to keep tennis audiences engaged across different devices.",
-      "why_it_matters": "TNT Sports is preparing to broadcast the French Open with top commentators in 2026. This ensures fans get high-quality analysis across multiple TV and streaming platforms. It reflects the growing competition among networks to capture sports audiences.",
-      "other_side": "Fans might be frustrated by the fragmentation of content across different apps and channels. They prefer simple, all-in-one access rather than hunting for where to watch specific matches."
-    },
-    {
-      "headline": "Adidas Launches Viral World Cup Prequel Film Starring Timothée Chalamet",
-      "summary": "Adidas has released 'Backyard Legends,' a cinematic short film starring Timothée Chalamet that serves as a prelude to the 2026 FIFA World Cup. The campaign, featuring stars like Bellingham and Messi, has gone viral, blending sports and cinema to build global anticipation for the upcoming tournament.",
-      "source": "Onefootball.com",
-      "original_title": "[Onefootball.com]  Bellingham, Lamine, Messi, Bad Bunny... adidas' World Cup ad goes viral",
-      "context": "Adidas is a global sportswear giant that constantly seeks innovative ways to market its brand, especially during major events like the FIFA World Cup, which captures the attention of billions worldwide. By starring Timothée Chalamet, a famous Hollywood actor, in a cinematic short film called 'Backyard Legends,' they are blending the worlds of high-end cinema and grassroots sports to create emotional resonance. The film acts as a teaser or prelude to the 2026 World Cup, featuring real soccer stars like Messi to bridge the gap between celebrity culture and athletic excellence. This viral campaign aims to build hype and connect with younger audiences who appreciate both film and football, turning a commercial ad into a piece of entertainment art.",
-      "why_it_matters": "Adidas is using a famous actor and soccer stars to hype up the World Cup. This massive marketing push builds excitement and drives sales before the event even starts. It shows how sports and entertainment are merging to create global events.",
-      "other_side": "Purists argue that turning soccer into a movie spectacle dilutes the sport's authenticity. They believe it focuses too much on celebrity culture rather than athletic skill."
-    },
-    {
-      "headline": "Visa Destinations Launches Across Asia Pacific Travel Market",
-      "summary": "Visa has officially launched its Destinations program in the Asia Pacific region, capitalizing on the resilience of regional travel trends. This expansion aims to enhance payment solutions and customer experiences for travelers navigating the recovering and growing Asian tourism landscape.",
-      "source": "BusinessLine",
-      "original_title": "[BusinessLine] Visa Destinations Launches in Asia Pacific as Regional Travel Remains Resilient",
-      "context": "After years of travel restrictions during the pandemic, people around the world have been eager to explore again, leading to a surge in tourism, particularly in Asia and the Pacific. Visa, the global payments company, launched its \"Destinations\" program to support this recovery by making it easier and more seamless for travelers to pay for hotels, tours, and experiences. The program focuses on enhancing the customer experience by integrating payment solutions directly into travel platforms, reducing friction for tourists navigating unfamiliar places. This expansion highlights how financial services are evolving to become part of the travel ecosystem, helping regions capitalize on the resilient demand for international exploration.",
-      "why_it_matters": "Visa is expanding its travel payment services across Asia Pacific as tourism recovers. This makes it easier for travelers to pay for hotels, food, and tickets seamlessly. It supports local businesses by bringing more spending power to the region.",
-      "other_side": "Smaller merchants sometimes struggle with the fees charged by major payment processors. They worry that relying on big tech companies reduces their profit margins significantly."
+      "headline": "Third Briton Feared Infected with Hantavirus on Remote Island",
+      "summary": "A third Briton is feared to have contracted hantavirus on Tristan da Cunha, known as the world's most remote inhabited island. With only 250 residents, the settlement's isolation makes containing the outbreak particularly difficult and dangerous.",
+      "source": "Dailymail.com",
+      "original_title": "[Dailymail.com] Third Briton feared to have hantavirus is in rat-infested settlement known as 'world's most remote inhabited island' with just 250 people — Tristan da Cunha is a British Overseas Territory with around 250 inhabitants and is considered the world's most remote inhabited island.",
+      "context": "Context pending.",
+      "why_it_matters": "An outbreak on a tiny island shows how isolated communities are vulnerable to health emergencies. It underscores the importance of rapid response systems and medical supplies for remote populations.",
+      "other_side": "Some residents feel that outside interference violates their privacy and way of life. Others argue that strict quarantine measures are too extreme and unnecessary for such a small group of people."
     }
   ]
 }

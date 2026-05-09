@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "Tata and JSW Invest $1 Billion in EV and Battery Tech to Counter China",
-      "summary": "Indian industrial giants Tata Group and JSW Group are committing nearly $1 billion to build local capabilities in electric vehicle and battery technologies. This strategic investment aims to reduce dependence on Chinese technology while boosting domestic manufacturing infrastructure.",
+      "headline": "Sony PS5 Sales Plunge Amid Price Hikes and Memory Crisis",
+      "summary": "Sony reported a 46 percent year-over-year drop in PS5 sales, moving only 1.5 million consoles in the latest fiscal quarter. This slump follows two price increases over the past year and significant challenges related to memory component costs.",
+      "source": "The Verge",
+      "original_title": "[The Verge] Sony’s PS5 sales plummet amid price rises and a memory crisis — Sony sold just 1.5 million PS5 consoles in its most recent fourth fiscal quarter, down 46 percent year-over-year. The slump in PS5 sales comes after Sony raised the price of its PS5 consoles twice over the past year, pushing the price of the regular PS5 from …",
+      "context": "The PlayStation 5 is a popular video game console that people buy to play high-quality games at home. Recently, the price of parts needed to build these consoles, especially memory chips, went up significantly, forcing Sony to raise the cost for customers. At the same time, many people already own a PS5, so there are fewer new buyers looking to purchase one compared to when it first launched. This combination of higher prices and fewer interested buyers caused sales to drop sharply.",
+      "why_it_matters": "Sony is selling far fewer PlayStation 5 consoles because they raised prices and parts cost more. This shows that when games get too expensive, people simply stop buying them, which could hurt the whole gaming industry's profits.",
+      "other_side": "Some fans argue that high prices are necessary to cover rising costs. They also believe that loyal players will pay more for the best gaming experience available."
+    },
+    {
+      "headline": "Apple's Autocorrect Malfunction Frustrates iPhone Users",
+      "summary": "A widespread malfunction in Apple's autocorrect feature has caused significant frustration for iPhone users, who report excessive need for retyping words. The issue highlights ongoing reliability concerns with iOS software updates affecting core user experience functions.",
+      "source": "Dailymail.com",
+      "original_title": "[Dailymail.com] What the duck? iPhone users claim Apple's autocorrect tool has gone haywire - as one vents 'I have NEVER had to retype words as much as I am now' — It's designed to make typing easier, but Apple's autocorrect function appears to have gone haywire for many iPhone users.",
+      "context": "Autocorrect is a helpful feature on smartphones that automatically fixes spelling mistakes as you type, making communication faster and easier. Recently, Apple released a software update that contained a bug, causing the feature to start changing words incorrectly or refusing to work properly. This forced users to constantly retype their messages because the phone kept guessing wrong, leading to major frustration. It shows how even small errors in software updates can disrupt daily life for millions of users who rely on their phones for basic tasks.",
+      "why_it_matters": "Apple’s autocorrect feature broke for many users, forcing them to type everything twice. This proves that even small software glitches can ruin the daily experience for millions of people who rely on their phones to communicate.",
+      "other_side": "Apple supporters say these bugs are rare and get fixed quickly in updates. They also point out that the phone still works well for calls and apps despite the typing error."
+    },
+    {
+      "headline": "Vivo X300 FE Review: Compact Flagship with Strong Camera",
+      "summary": "Vivo has launched the X300 FE, a compact smartphone designed to compete in the premium market with a flagship chipset and advanced telephoto camera capabilities. The device aims to offer a high-end user experience in a smaller form factor.",
       "source": "The Times of India",
-      "original_title": "Tata Group, JSW to plow $1 billion in EV, battery tech",
-      "context": "Context pending.",
-      "why_it_matters": "India is spending big money to build its own electric car parts. This helps the country make its own tech instead of relying on China, which creates local jobs and keeps more money inside India.",
-      "other_side": "Building this from scratch takes a long time and costs a lot of money. Critics worry that Indian companies might fall behind global leaders if they focus too much on going it alone."
+      "original_title": "[The Times of India] Vivo X300 FE Review: A Camera-Focused Compact Phone That Stands Apart — Vivo's new X300 FE smartphone offers a compact design and strong telephoto camera capabilities.  It aims for a premium feel with a flagship chipset.",
+      "context": "Most modern smartphones are becoming larger and heavier, which can be uncomfortable to hold for long periods. Vivo decided to create the X300 FE as a smaller, more compact phone that still includes top-tier technology usually found in bigger devices. They packed it with a powerful processor and an advanced camera system, specifically one with a strong zoom lens, to compete with other premium brands. This device targets users who want high performance but prefer a phone that fits easily in one hand.",
+      "why_it_matters": "Vivo released a powerful but small smartphone, giving people a choice between big screens and easy-to-hold devices. This trend means companies are trying to make high-tech gadgets comfortable for everyone, not just those who like giant phones.",
+      "other_side": "Critics say compact phones are becoming obsolete because big screens are better for videos and games. They also argue that smaller batteries last less time, which is a major downside."
     },
     {
-      "headline": "CDW Q1 Results Surge on AI and Hardware Demand",
-      "summary": "IT solutions provider CDW reported strong first-quarter results driven by increased customer investments in artificial intelligence infrastructure. The firm noted a significant uptick in demand for storage solutions and hardware as enterprises accelerate their digital transformation efforts.",
-      "source": "ComputerWeekly.com",
-      "original_title": "Demand for AI and hardware bolsters CDW Q1 numbers",
-      "context": "Context pending.",
-      "why_it_matters": "Companies are spending heavily on AI tools and computer hardware. This shows that businesses are serious about using artificial intelligence to work faster and smarter, which boosts the tech sales industry.",
-      "other_side": "Some experts say companies are buying too much gear too quickly. They worry that businesses might not actually know how to use all this new technology effectively."
+      "headline": "Tech Firm TTEC Pauses 401(k) Contributions in Benefit Rollback",
+      "summary": "TTEC, a technology customer experience firm, has paused 401(k) contributions for its staff, marking another corporate benefit rollback in the tech sector. This move reflects broader trends of companies reducing employee benefits amid economic pressures.",
+      "source": "Business Insider",
+      "original_title": "[Business Insider] A $2 billion tech firm is pausing 401(k) contributions for staff in the latest corporate benefit rollback — TTEC, a mid-size technology customer experience firm, is the latest company found to be cutting a core benefit, Business Insider has learned.",
+      "context": "A 401(k) is a retirement savings plan where employers often help by adding money to an employee’s account on top of what the employee saves. TTEC, a company that provides customer service solutions, recently stopped making these extra contributions for its workers due to financial pressures. This move is part of a wider trend where tech companies are cutting back on employee perks to save money during uncertain economic times. For employees, this means less free money going into their retirement funds, which can impact their long-term financial security.",
+      "why_it_matters": "A tech company stopped putting money into its workers' retirement plans to save cash. This move signals that companies are cutting employee perks to survive economic pressure, which could make it harder for staff to save for the future.",
+      "other_side": "The company likely had to do this to stay profitable and keep its doors open. Without these cuts, they might have been forced to lay off workers instead of reducing benefits."
     },
     {
-      "headline": "PC Motherboard Shipments Set for Sharp Decline Amid Rising Costs",
-      "summary": "PC manufacturers are facing a projected massive decline in motherboard shipments for 2026 due to soaring component prices and waning consumer interest. The industry is grappling with low demand even as production costs rise, signaling a challenging period for the personal computer hardware market.",
-      "source": "Wccftech",
-      "original_title": "PC Manufacturers To See Massive Decline In Motherboard Shipments In 2026 Due To Low Consumer Demand As Component Prices Rise",
-      "context": "Context pending.",
-      "why_it_matters": "Fewer people are buying new computer parts because they are getting too expensive. This signals that the personal computer market is slowing down as consumers hold onto their old devices longer.",
-      "other_side": "Manufacturers are stuck with high costs but can’t raise prices enough to cover them. This could force some smaller computer makers to shut down or cut jobs."
+      "headline": "Airbnb CEO Warns AI Will Reshape Workplace Roles",
+      "summary": "Airbnb CEO Brian Chesky warned that pure people managers and those resistant to change will struggle as AI reshapes workplaces. He emphasized the need for leaders to become 'hybrid people managers' who actively adapt to new technologies.",
+      "source": "The Times of India",
+      "original_title": "[The Times of India] Airbnb CEO Brian Chesky says these two types of employees will struggle most as AI reshapes workplaces, says 'I don't think managers...' — Airbnb CEO Brian Chesky believes the real threat to young professionals isn't AI itself, but failing to adapt. He warns that pure people managers and those resistant to change will struggle.  Instead, leaders must become 'hybrid people managers,' actively inv…",
+      "context": "Traditionally, managers were hired primarily to supervise people, handle schedules, and resolve interpersonal conflicts within teams. Airbnb’s CEO suggests that artificial intelligence can now handle many of these routine organizational tasks much faster and more efficiently than humans. He warns that managers who refuse to learn how to work alongside AI tools will find their jobs obsolete because companies will prioritize leaders who can blend human skills with technology. This shift means future workplace success depends on adapting to new digital tools rather than just managing people.",
+      "why_it_matters": "The boss of Airbnb says artificial intelligence will change how jobs work, making old management styles useless. This warns all workers that they must learn to use new tools or risk losing their jobs to faster, cheaper technology.",
+      "other_side": "Many employees fear this is just an excuse to fire people and replace them with bots. They also argue that human empathy and creativity cannot be replaced by any machine."
     },
     {
-      "headline": "Extreme Connect Unveils Wi-Fi 7 Line for the 6GHz Era",
-      "summary": "Extreme Connect has launched a new line of Wi-Fi 7 access points designed to deliver reliable, high-speed connectivity in the emerging 6GHz spectrum era. The deployment highlights the industry's push toward next-generation wireless standards to meet growing bandwidth demands.",
-      "source": "ComputerWeekly.com",
-      "original_title": "Extreme Connect 26: Wi-Fi 7 line aims to address needs of 6GHz era",
-      "context": "Context pending.",
-      "why_it_matters": "New Wi-Fi technology is coming out to handle more data at faster speeds. This means your internet will be quicker and more stable for streaming, gaming, and working from home.",
-      "other_side": "You need new devices to use this faster Wi-Fi, which costs extra money. Many people might not see any real benefit if their current internet is already fast enough."
+      "headline": "TikTok Rettracts AI Video Descriptions After Absurd Errors",
+      "summary": "TikTok has rolled back its AI-generated video description feature in the US following widespread reports of bizarre and incorrect outputs. The incident highlights the current limitations and risks associated with deploying generative AI features at scale.",
+      "source": "BBC News",
+      "original_title": "[BBC News] TikTok rows back AI video descriptions in US after absurd errors — While only rolled out to some TikTok users, the feature's bizarre AI-generated descriptions were shared widely.",
+      "context": "TikTok uses artificial intelligence to automatically write short descriptions for videos, helping users understand what they are watching without reading long texts. However, the AI recently started generating bizarre, nonsensical, or completely incorrect descriptions that confused viewers and made videos seem strange. Because these errors were so frequent and odd, TikTok had to quickly remove the feature in the United States to stop the bad user experience. This incident highlights that while AI is powerful, it can still make embarrassing mistakes when trying to understand complex human content.",
+      "why_it_matters": "TikTok pulled back its AI video descriptions after they made silly mistakes. This shows that while AI is getting smarter, it still makes embarrassing errors that can confuse users and damage a brand's trust.",
+      "other_side": "Some users liked the feature because it saved them time reading long captions. They also believe that with more practice, the AI will eventually learn to be accurate and helpful."
     },
     {
-      "headline": "NVIDIA Releases Critical RTX A1000 Graphics Driver Update",
-      "summary": "NVIDIA has issued version 32.0.15.7340 of its graphics driver for the RTX A1000 series, available for Windows 10 Vibranium 64-bit systems. The update is designed to fix existing issues, add new functionalities, and ensure optimal performance for professional graphics workloads.",
-      "source": "Softpedia.com",
-      "original_title": "NVIDIA RTX A1000 Graphics Driver 32.0.15.7340 for Windows 10 Vibranium 64-bit",
-      "context": "Context pending.",
-      "why_it_matters": "NVIDIA fixed bugs in its graphics drivers for professional computers. This ensures that designers and video editors can work without crashes or errors, keeping their jobs running smoothly.",
-      "other_side": "Regular users don’t need this specific update for their gaming PCs. It only matters for people who use high-end computers for heavy professional tasks like 3D modeling."
+      "headline": "DFRobot Introduces Flexible AMOLED Display for Single-Board Computers",
+      "summary": "DFRobot has released a 6.67-inch flexible AMOLED display compatible with single-board computers like Raspberry Pi and LattePanda. This innovation aims to simplify the integration of high-resolution flexible screens into DIY and embedded tech projects.",
+      "source": "CNX Software",
+      "original_title": "[CNX Software] 6.67-inch flexible AMOLED display works with Raspberry Pi, LattePanda, and other SBCs with HDMI output — DFRobot has introduced a 6.67-inch flexible AMOLED display with a 2400×1080 resolution, designed for easy use with single-board computers such as Raspberry Pi and LattePanda. While flexible displays are common in smartphones, they are difficult to interface w…",
+      "context": "Single-board computers are small, affordable computers used by hobbyists and students to build projects like robots or smart home devices. DFRobot created a new type of screen called a flexible AMOLED display that is thin, bright, and can bend slightly, making it visually appealing for creative builds. By designing this screen to work easily with popular small computers like Raspberry Pi, they make it simpler for beginners to add high-quality visuals to their DIY projects. This innovation lowers the barrier for entry, allowing more people to experiment with advanced hardware without needing complex technical skills.",
+      "why_it_matters": "A new flexible screen now fits easily into small computer projects like Raspberry Pi. This makes it easier for hobbyists and students to build cool tech projects without needing complex wiring or expensive parts.",
+      "other_side": "These screens are still quite pricey for average consumers who just want a normal monitor. Also, flexible screens can be fragile and might break if bent too much during daily use."
     },
     {
-      "headline": "IGT Solutions Rebrands as Atain to Signal New Enterprise Focus",
-      "summary": "IGT Solutions has officially rebranded as Atain, marking a strategic shift toward becoming a premier enterprise orchestration partner. This rebranding reflects the company's evolution in providing integrated digital services and technology solutions to global clients.",
-      "source": "BusinessLine",
-      "original_title": "IGT Solutions Rebrands as Atain, Marking a New Era as an Enterprise Orchestration Partner",
-      "context": "Context pending.",
-      "why_it_matters": "A company changed its name to show it is focusing on helping big businesses. This signals a shift in strategy to offer more complete digital services rather than just basic tech support.",
-      "other_side": "Changing a name doesn’t change how the company works or performs. Customers might be confused about whether the services have actually improved or just rebranded."
+      "headline": "BTC Ecosystem Launches Regulated Web3 Computing Platform",
+      "summary": "The BTC Ecosystem has launched a new regulated Web3 computing platform alongside a multi-year strategic plan aimed at setting global standards for decentralized infrastructure. This move seeks to bring compliance and high-performance computing to the blockchain sector.",
+      "source": "GlobeNewswire",
+      "original_title": "[GlobeNewswire] BTC Ecosystem Ushers in a New Era of Regulated Web3 Computing with Comprehensive Strategic Plan — SYDNEY, May 08, 2026 (GLOBE NEWSWIRE) -- BTC Ecosystem today officially launched its new regulated Web3 computing platform and unveiled a bold multi-year strategic plan designed to set the global standard for compliant, high-performance decentralized infrastr…",
+      "context": "Web3 refers to a version of the internet built on blockchain technology, which allows for decentralized systems where no single company controls the data. The BTC Ecosystem launched a new platform that aims to bring strict legal rules and high-speed computing power to this decentralized space. By doing so, they hope to make blockchain technology safer and more reliable for businesses that need to follow government regulations. This move tries to bridge the gap between innovative crypto technology and traditional, rule-based industries like finance and computing.",
+      "why_it_matters": "A new platform connects blockchain technology with strict government rules. This could help big businesses feel safe using crypto and digital tools because they know the system follows clear laws and standards.",
+      "other_side": "Crypto fans hate this because it goes against the idea of total freedom and privacy. They worry that too many rules will kill the innovation and speed that made blockchain popular in the first place."
     },
     {
-      "headline": "Onward Technologies Reports Record Revenue and EBITDA Growth",
-      "summary": "Onward Technologies delivered its strongest annual performance in FY26, achieving record revenue and a 72.3% year-over-year increase in PAT. The company's robust financial results highlight its successful execution of technology-driven business strategies and market expansion.",
-      "source": "BusinessLine",
-      "original_title": "Onward Technologies delivers its strongest annual performance in FY26, with record revenue, record EBITDA of INR 71.9 crore, up 60.9% YoY, and record PAT of INR 46.7 crore, up 72.3% YoY",
-      "context": "Context pending.",
-      "why_it_matters": "Onward Technologies made record profits by using smart tech strategies. This proves that companies focused on digital solutions are growing fast in today’s market.",
-      "other_side": "High growth rates are hard to keep up year after year. Investors might get worried if the company cannot maintain such fast growth in the future."
+      "headline": "AI-Driven Cyber Warfare Reshapes Global Defense Readiness",
+      "summary": "The conflict in Iran is exposing how artificial intelligence is transforming cyber warfare capabilities and testing global defense systems in real time. This development underscores the critical role of AI in modern military and security strategies.",
+      "source": "TechRadar",
+      "original_title": "[TechRadar] AI-driven cyber warfare reshapes global defense readiness — The Iran conflict is exposing how AI is transforming cyber warfare, and testing global defenses in real time.",
+      "context": "Cyber warfare involves using computers and internet networks to attack another country’s systems, steal information, or disrupt services. Recent conflicts have shown that artificial intelligence can now automate these attacks, making them faster and harder to defend against than traditional hacking methods. Nations are now racing to develop AI-driven defenses to protect their military and critical infrastructure from these rapid, intelligent threats. This shift means that national security now depends heavily on software capabilities as much as it does on physical weapons.",
+      "why_it_matters": "Artificial intelligence is now being used to hack computers during real wars. This changes global security forever because attacks can happen much faster than humans can react, raising the stakes for national safety.",
+      "other_side": "Some experts say AI helps defenders spot threats before they cause damage. They also argue that having smart defenses is the only way to protect critical infrastructure from modern hackers."
     },
     {
-      "headline": "Colebrook Bosson Saunders Expands Monitor Compatibility Tech",
-      "summary": "Colebrook Bosson Saunders has expanded the compatibility of its Flo X Multi solution to support curved ultrawide monitors. This update enhances user experience by ensuring seamless integration with the latest display technologies used in modern workstations.",
-      "source": "BusinessLine",
-      "original_title": "Colebrook Bosson Saunders Expands Flo X Multi Compatibility for Curved Ultrawide Monitors",
-      "context": "Context pending.",
-      "why_it_matters": "Monitor makers are updating their tech to work with curved screens. This gives workers better viewing experiences and fits with modern office setups that use wide displays.",
-      "other_side": "Not everyone uses curved monitors, so this update is only useful for a niche group. It adds complexity for manufacturers who have to support many different screen types."
-    },
-    {
-      "headline": "Yanolja Acquires InnKey to Boost Global Hospitality Platform",
-      "summary": "Yanolja has acquired InnKey to significantly expand its global enterprise hospitality platform capabilities. This strategic move aims to enhance technological integration and service offerings within the competitive travel and accommodation sector.",
-      "source": "BusinessLine",
-      "original_title": "Yanolja Acquires InnKey to Expand Global Enterprise Hospitality Platform",
-      "context": "Context pending.",
-      "why_it_matters": "Yanolja bought another company to grow its travel business globally. This helps them offer better services to hotels and travelers by combining their technology platforms.",
-      "other_side": "Merging two companies often causes internal chaos and confusion. Employees and customers might struggle with changes while the two systems try to work together."
-    },
-    {
-      "headline": "Apollo Hospitals Introduces Advanced Bone Regeneration Solution",
-      "summary": "Apollo Hospitals has introduced a groundbreaking bone regeneration solution specifically designed for diabetic and complex bone infections. This medical technology innovation represents a significant advancement in treating difficult-to-manage orthopedic conditions.",
-      "source": "BusinessLine",
-      "original_title": "Apollo Hospitals introduces first of its kind advanced bone regeneration solution for diabetic and complex bone infections",
-      "context": "Context pending.",
-      "why_it_matters": "Apollo Hospitals created a new treatment for bone problems in diabetics. This helps patients who usually have very hard-to-heal injuries get better care and avoid amputations.",
-      "other_side": "New medical treatments are often very expensive at first. Poorer patients might not be able to afford this advanced solution until prices come down over time."
+      "headline": "SpaceX Enters AI Compute Market, Challenging Bitcoin Miners",
+      "summary": "Elon Musk’s SpaceX has commercialized one of the world’s largest AI clusters, creating new competition for Bitcoin miners seeking to pivot to AI infrastructure. This shift highlights the growing demand for high-performance computing resources across different industries.",
+      "source": "CryptoSlate",
+      "original_title": "[CryptoSlate] Bitcoin miners using AI as a bear market escape plan just got a new rival in Elon Musk — Elon Musk’s SpaceX has turned one of the world’s largest artificial intelligence clusters into a commercial compute product, creating a new challenge for Bitcoin miners racing to recast themselves as AI infrastructure companies. Anthropic said it reached a de…",
+      "context": "Bitcoin mining requires massive amounts of computer power to solve complex math problems, consuming huge amounts of electricity. SpaceX, known for rockets, has built a large supercomputer cluster designed specifically for training artificial intelligence models, which also requires immense computing power. They are now renting out this unused computing capacity, creating competition for Bitcoin miners who might want to switch their expensive equipment to AI work instead. This highlights how the demand for AI processing is growing so fast that it is reshaping entire industries that previously relied on similar hardware.",
+      "why_it_matters": "SpaceX is selling super-computers for AI, competing directly with Bitcoin miners. This shift shows that the demand for computing power is so huge that even space companies are jumping into the tech race to make money.",
+      "other_side": "Critics worry that using so much energy for AI and crypto harms the environment. They also argue that this competition drives up electricity costs for regular households in local areas."
     }
   ]
 }
