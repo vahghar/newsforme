@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "Sony Forecasts 11% Profit Lift and $3.2bn Buyback Amid PS5 Memory Shock",
-      "summary": "Sony Group has announced an 11% increase in operating profit guidance for FY26, reaching ¥1.6 trillion, driven by strong performance in music and sensor divisions. The company also unveiled a $3.2 billion share buyback program to offset the financial impact of rising memory costs affecting its PS5 hardware unit.",
-      "source": "The Next Web",
-      "original_title": "Sony forecasts 11% profit lift and $3.2bn buyback as music and sensors offset PS5 memory shock",
-      "context": "Sony is a massive Japanese company famous for making everything from PlayStation video game consoles to cameras and music. Recently, the price of computer memory chips, which are essential parts inside the PS5 console, went up significantly. To handle this extra cost without losing money, Sony decided to buy back its own shares from the stock market, which helps keep the value of the company stable for investors while they make more profit from their music and camera businesses.",
-      "why_it_matters": "Sony is making more money overall, but the cost of parts for its PlayStation 5 is going up. This shows how even big tech companies feel the pinch when raw material prices rise, which could mean higher game console prices for you later.",
-      "other_side": "Some people might worry that Sony is spending billions to buy back its own stock instead of using that cash to make new games or improve customer service. Critics say this just makes shareholders richer without helping regular players."
-    },
-    {
-      "headline": "Midcaps Outperform Nifty with 29% Earnings Growth in Q4",
-      "summary": "Midcap companies have emerged as the strongest performers in the March quarter earnings season, delivering 29% profit growth that outpaces both largecaps and smallcaps. This robust performance was largely supported by significant contributions from the BFSI, technology, and utilities sectors.",
+      "headline": "Global Gold ETF Demand Rebounds with $6.6 Billion Inflow in April",
+      "summary": "Global investors rotated back into gold exchange-traded funds in April, recording a significant rebound of USD 6.6 billion. India extended its streak of positive inflows to 11 consecutive months, adding USD 297 million, according to the World Gold Council.",
       "source": "The Times of India",
-      "original_title": "Midcaps outperform Nifty, smallcap stocks in Q4, deliver 29% earnings growth: Motilal Oswal",
-      "context": "In the stock market, companies are often grouped by size, with \"midcaps\" being medium-sized businesses that are bigger than small startups but smaller than giant corporations. These mid-sized companies recently reported that their profits grew by 29%, which is a very strong performance compared to larger or smaller firms. This growth was largely driven by three specific industries: banks and finance (BFSI), technology services, and utility companies that provide electricity and water, showing that these sectors are currently doing very well financially.",
-      "why_it_matters": "Medium-sized companies are growing faster than the giant ones, which means money might be moving away from the biggest brands. This trend suggests that smaller businesses have more room to grow and could offer better returns for investors who take a little more risk.",
-      "other_side": "Smaller companies are riskier and can fail faster than huge, stable corporations. If the economy slows down, these mid-sized firms might struggle to survive while the giants stay safe."
+      "original_title": "[The Times of India] Global gold ETF demand rebounds USD 6.6 billion in April; India extends inflow streak to 11 months: World Gold Council",
+      "context": "Context pending.",
+      "why_it_matters": "People are buying gold again because they want a safe place to park their money when they feel unsure about the economy. This shift shows that investors are worried about risks elsewhere and prefer the stability of gold, which could change how money flows into other stocks or currencies.",
+      "other_side": "Some experts argue that gold does not grow or pay interest like stocks do. They believe putting too much money here means missing out on bigger profits from companies that are actually growing and making money."
     },
     {
-      "headline": "Wall Street Firm Adopts 'Sell in July' Trading Motto for Election Cycle",
-      "summary": "Oppenheimer's technical analysts have introduced a new seasonal trading framework titled 'Sell in July for a Big October Buy' to guide investors through the current election cycle. This strategic advice aims to help market participants navigate volatility associated with political events and seasonal market trends.",
+      "headline": "Foreign Investors Dump Over Rs 2 Lakh Crore of Indian Equities in 2026",
+      "summary": "Foreign institutional investors have offloaded Indian equities worth more than Rs 2 lakh crore in 2026, marking their third consecutive month as net sellers. Despite domestic buying, the sustained outflow has contributed to falling market indices and heightened uncertainty among experts.",
+      "source": "The Times of India",
+      "original_title": "[The Times of India] FIIs sell over Rs 2 lakh crore worth of Indian equities in 2026. What lies ahead?",
+      "context": "Context pending.",
+      "why_it_matters": "Big foreign investors are pulling their cash out of India, which makes the local stock market drop and creates fear among regular people. This trend suggests that global investors are losing confidence in India's short-term growth, which could slow down the country's economic progress.",
+      "other_side": "On the flip side, some say this is just a normal correction after prices got too high for too long. They also point out that local Indian buyers are stepping in to fill the gap, which might keep the market stable despite the foreigners leaving."
+    },
+    {
+      "headline": "ECB Lagarde Warns of Delicate Balance Between Acting Too Early or Late on Inflation",
+      "summary": "European Central Bank President Christine Lagarde stated that the ECB is carefully weighing its monetary policy response amid geopolitical tensions and inflationary pressures. She emphasized the risk of acting either prematurely or too late to ensure economic stability.",
+      "source": "Financial Post",
+      "original_title": "[Financial Post] Lagarde Says ECB Torn Between Risk of Acting Too Early, Too Late",
+      "context": "Context pending.",
+      "why_it_matters": "The head of Europe’s central bank is warning that fixing inflation is like walking a tightrope; move too fast and you hurt the economy, but move too slow and prices keep rising. This decision will directly impact how expensive everyday goods are for families across Europe in the coming months.",
+      "other_side": "Critics worry that being too careful will let inflation stay high for longer than necessary. They argue that waiting too long to act could cause prices to spiral out of control, making life much harder for low-income households who can barely afford basics."
+    },
+    {
+      "headline": "Nifty Bulls Indecisive Amid Geopolitical Tensions and Rupee Weakness",
+      "summary": "Indian stock markets experienced a significant downturn driven by geopolitical tensions between the US and Iran, a weakening rupee, and widespread selling in financial stocks. Auto and energy sectors also suffered major losses, leaving traders cautious about broader market opportunities.",
+      "source": "The Times of India",
+      "original_title": "[The Times of India] F&O Talk: Nifty bulls indecisive but opportunities in broader markets. Sudeep Shah's strategy on Voltas, Tejas and 4 more stocks",
+      "context": "Context pending.",
+      "why_it_matters": "Tensions between major powers like the US and Iran are causing panic in Indian markets, leading to big losses for investors. This shows how connected the world is, where a conflict halfway across the globe can instantly wipe out wealth and make people nervous about their savings.",
+      "other_side": "However, some traders see this dip as a good chance to buy stocks at lower prices before things calm down. They believe that once the immediate fear passes, the market will likely bounce back to its previous levels quickly."
+    },
+    {
+      "headline": "TUC Urges Subsidy for Dangote Refineries to Curb Fuel Costs",
+      "summary": "The Trade Union Congress (TUC) has proposed a production subsidy for the Dangote and modular refineries to lower the high cost of petrol for Nigerians. The proposal suggests using excess oil revenue to subsidize production, aiming to alleviate the financial burden on consumers.",
+      "source": "The Punch",
+      "original_title": "[The Punch] TUC urges subsidy for Dangote, modular refineries to lower fuel costs",
+      "context": "Context pending.",
+      "why_it_matters": "A group representing workers is asking the government to help lower fuel costs by subsidizing local oil refineries. If successful, this could take a huge financial burden off ordinary citizens who are struggling with high gas prices every day.",
+      "other_side": "Opponents argue that using government money to pay for these subsidies might not be fair to taxpayers. They also worry that it could encourage inefficiency in the oil industry, preventing it from becoming truly competitive without constant handouts."
+    },
+    {
+      "headline": "War and Energy Shortages Boost China’s Financial Influence in Asia",
+      "summary": "As the war in Iran drags on, China has deepened its economic influence by offering fuel solutions to energy-starved neighbors. This strategic move allows Beijing to expand its financial leverage in Asia while addressing regional energy shortages.",
+      "source": "Omanobserver.om",
+      "original_title": "[Omanobserver.om] War and energy shortages boost China’s Influence in Asia",
+      "context": "Context pending.",
+      "why_it_matters": "China is using energy shortages caused by war to gain more power and influence over its neighbors in Asia. This strategic move allows Beijing to become the go-to supplier for fuel, giving it significant political leverage over countries that depend on its resources.",
+      "other_side": "Some analysts suggest this is just China filling a gap that other countries failed to address. They argue that while it looks like a power grab, it is primarily a business opportunity that helps stabilize energy supplies for struggling nations in the region."
+    },
+    {
+      "headline": "TSMC and Sony Form Joint Venture for Next-Gen AI Image Sensors",
+      "summary": "TSMC and Sony Semiconductor Solutions signed a memorandum of understanding to establish a joint venture focused on developing next-generation AI image sensors. The partnership targets high-growth markets including automotive, robotics, and advanced smartphone cameras.",
+      "source": "Digitimes",
+      "original_title": "[Digitimes] What's driving the TSMC-Sony AI sensor JV?",
+      "context": "Context pending.",
+      "why_it_matters": "Two tech giants are teaming up to build better cameras for AI, cars, and robots, which will drive innovation in many future technologies. This partnership ensures that devices we use daily will become smarter and more capable, shaping how we interact with machines in the coming years.",
+      "other_side": "Critics worry that combining these two powerful companies might reduce competition in the chip and sensor markets. They fear that fewer players in the industry could lead to higher prices and slower innovation for consumers in the long run."
+    },
+    {
+      "headline": "India's Mining Sector Projected to Create 25 Million Jobs by 2047",
+      "summary": "A new report indicates that India’s mining industry is undergoing a structural transition driven by rising mineral demand, potentially creating 25 million jobs by 2047. The 'Mining 5.0' framework highlights emerging technologies that will drive this economic expansion.",
+      "source": "BusinessLine",
+      "original_title": "[BusinessLine] India's mining sector can create 25 million jobs by 2047: Report",
+      "context": "Context pending.",
+      "why_it_matters": "India’s mining sector is set to create millions of jobs by using new technology to dig up minerals needed for modern life. This growth offers a huge opportunity for economic development and employment, potentially lifting millions of people out of poverty over the next few decades.",
+      "other_side": "Environmental groups are concerned that expanding mining will damage forests, water sources, and local ecosystems. They argue that the push for jobs and profit comes at a steep cost to nature and the communities living near these mining sites."
+    },
+    {
+      "headline": "Day Traders Who Quit Careers Share Biggest Regrets on Financial Freedom Pursuit",
+      "summary": "Many young traders who left stable careers to pursue full-time trading report significant regrets, such as taking the leap too early and not treating the profession with sufficient seriousness. Their experiences highlight the risks and challenges associated with chasing financial freedom through active trading.",
       "source": "Business Insider",
-      "original_title": "A top Wall Street firm has a new seasonal trading motto: 'Sell in July for a Big October Buy'",
-      "context": "There is an old saying among stock traders called \"Sell in May and go away,\" which suggests that the stock market tends to perform poorly during the summer months. A major financial firm has updated this idea for this year’s presidential election, advising people to sell their stocks in July to avoid potential drops caused by political uncertainty, and then buy them back in October after the election results are known. This strategy is designed to help regular investors protect their money from the wild price swings that often happen when political events create fear or confusion in the market.",
-      "why_it_matters": "Experts are telling investors to sell their stocks in July and buy them back in October because elections usually cause market chaos. This advice highlights how political events can shake up your savings, so timing matters more than ever during election years.",
-      "other_side": "Many financial experts argue that trying to time the market based on seasons or politics rarely works and often leads to losing money. They believe that simply holding onto stocks long-term is a safer bet than guessing when to sell."
+      "original_title": "[Business Insider] Day traders who quit their careers and gave up school to chase financial freedom tell us their biggest regrets",
+      "context": "Context pending.",
+      "why_it_matters": "Stories of traders quitting their jobs only to regret it serve as a harsh reality check on the dangers of chasing quick riches. These experiences highlight that financial freedom is rarely easy and often requires more planning and risk management than most young people expect.",
+      "other_side": "Some supporters argue that these regrets are part of the learning process and that taking risks is essential for success. They believe that even if some fail, the potential rewards for those who succeed justify the gamble and inspire others to try."
     },
     {
-      "headline": "Stock Markets Slip as Iran-US Tensions Drive Oil Prices Higher",
-      "summary": "Dow, S&P 500, and Nasdaq futures declined as escalating military tensions between the US and Iran in the Strait of Hormuz fueled a rise in oil prices. Investors are reacting to the geopolitical instability which threatens global supply chains and adds uncertainty to the broader equity markets.",
-      "source": "Slashdot.org",
-      "original_title": "Stock market today: Dow, S&P 500, Nasdaq futures slip as Iran and the US ramp up Hormuz aggression - Yahoo Finance",
-      "context": "The Strait of Hormuz is a narrow waterway where a huge portion of the world's oil passes through, making it a critical chokepoint for global energy supplies. When tensions rise between major powers like the United States and Iran in this area, traders get worried that oil shipments might be blocked or attacked, causing the price of oil to spike. Since higher oil prices make it more expensive for businesses to transport goods and for consumers to drive, the overall stock market often drops because investors fear that rising costs will hurt company profits.",
-      "why_it_matters": "Fighting between the US and Iran is pushing gas prices up because oil supplies are threatened. Higher gas costs mean everything from groceries to shipping becomes more expensive, which hurts everyday shoppers and businesses alike.",
-      "other_side": "Some argue that military tensions are temporary and that markets often overreact to news headlines. They suggest that panic selling drives prices down unnecessarily, creating artificial drops that don't reflect real economic health."
-    },
-    {
-      "headline": "Gold and Silver Prices Rise on US-Iran Ceasefire Signals and Jobs Data",
-      "summary": "Precious metals headed for a weekly gain as markets tracked potential US-Iran ceasefire news ahead of the critical US nonfarm payrolls report. Investors are positioning in gold and silver as safe-haven assets amid geopolitical uncertainty and anticipation of economic data that could influence Federal Reserve policy.",
-      "source": "The Times of India",
-      "original_title": "Why are gold and silver prices up today, and will precious metals continue to rise or fall again? Gold heads for weekly gain as markets watch US-Iran peace signals",
-      "context": "Gold and silver are considered \"safe-haven\" assets, meaning that when people are scared about war or economic trouble, they tend to buy these metals because their value usually stays steady even when other investments fail. Investors were buying gold and silver recently because there were rumors of a ceasefire between the US and Iran, which reduced immediate war fears, but they also wanted to be prepared for new economic data about jobs that could change how interest rates are managed. This combination of geopolitical tension and upcoming economic reports makes precious metals a popular choice for people trying to keep their wealth safe during uncertain times.",
-      "why_it_matters": "People are buying gold and silver because they want a safe place to park their money when war or job data looks shaky. This shift shows how fear drives investors away from risky stocks and toward items that hold value no matter what happens.",
-      "other_side": "Gold does not pay you interest or dividends, so it sits there doing nothing while inflation eats its value over time. Critics say it is a waste of money compared to investing in companies that actually grow and produce goods."
-    },
-    {
-      "headline": "TTEC Pauses $2 Billion Tech Firm's 401(k) Contributions in Benefit Rollback",
-      "summary": "TTEC, a mid-size technology customer experience firm, has become the latest company to cut core employee benefits by pausing 401(k) contributions. This move highlights a growing trend of corporate benefit rollbacks as firms adjust to changing economic conditions and cost pressures.",
-      "source": "Business Insider",
-      "original_title": "A $2 billion tech firm is pausing 401(k) contributions for staff in the latest corporate benefit rollback",
-      "context": "A 401(k) is a retirement savings plan where employees put aside part of their paycheck, and many companies help by adding their own money to that account as a benefit. TTEC, a customer service company, recently stopped adding its own contributions to these accounts, which is a significant cut to employee benefits that effectively lowers workers' total compensation. This move reflects a broader trend where companies are tightening their budgets and cutting perks to save money, which can leave employees with less financial security for their future.",
-      "why_it_matters": "Companies are cutting employee benefits like retirement contributions to save money during tough economic times. This trend means workers might have less security for their future, forcing them to save more on their own or delay retirement.",
-      "other_side": "Business owners argue that cutting costs is necessary to keep the company alive and protect jobs. They claim that if they don't reduce expenses now, they might have to lay off staff instead of just pausing small benefits."
-    },
-    {
-      "headline": "AWS Outage Disrupts Trading at CME and Coinbase",
-      "summary": "An Amazon Web Services outage in a northern Virginia data center caused significant trading disruptions for major financial platforms including CME Group and Coinbase. While Coinbase confirmed its issues stemmed directly from the AWS failure, CME cited unspecified technical latencies affecting their operations.",
-      "source": "The Times of India",
-      "original_title": "Amazon reports cloud outage at North Virginia data center; CME, Coinbase face trading issues",
-      "context": "Amazon Web Services (AWS) is a cloud computing platform that acts like a giant digital warehouse, storing data and running software for thousands of other companies, including major financial trading platforms. When AWS experienced a technical failure in one of its main data centers in Virginia, it caused a domino effect that disrupted trading on platforms like Coinbase and CME Group, which rely heavily on that infrastructure to process transactions. This event highlighted how fragile our modern financial system can be when it depends so heavily on just a few large technology providers to keep the lights on.",
-      "why_it_matters": "A glitch at Amazon's server farm stopped major trading platforms from working, showing how fragile our digital money system is. If one big cloud provider goes down, it can freeze millions of dollars in trades and hurt investors instantly.",
-      "other_side": "Tech companies argue that these outages are rare glitches and that their systems are generally very reliable. They point out that having all trading on one cloud platform is efficient and cheap, despite the small risk of downtime."
-    },
-    {
-      "headline": "Best FD Rates: PSU Banks vs Private Banks vs SFBs for ₹5 Lakh Investment",
-      "summary": "Fixed deposit rates vary significantly across bank types, with Suryoday Small Finance Bank offering the highest 5-year rate at 7.90%, followed by DCB Bank at 7.25% among private banks. Bank of Baroda leads PSU banks with a 6.30% rate, highlighting the importance of comparing institutions for predictable returns.",
-      "source": "Livemint",
-      "original_title": "FD at PSU banks vs private banks vs SFBs – How much can ₹5 lakh earn in 5 years? Check best rates here",
-      "context": "A Fixed Deposit (FD) is a type of bank account where you lock your money away for a set period, like five years, in exchange for a guaranteed interest rate that is usually higher than a regular savings account. In India, different types of banks offer very different rates, with small \"Small Finance Banks\" offering nearly 8% interest, while larger public sector banks offer around 6%. This comparison shows that if you want the best return on your savings, you have to look beyond just the biggest, most famous banks and consider smaller institutions that may offer better deals to attract customers.",
-      "why_it_matters": "Where you put your savings really matters, as some banks pay much higher interest than others. By shopping around, regular people can earn significantly more money on their fixed deposits without taking any extra risk.",
-      "other_side": "Small banks offering high rates might be less stable than big, well-known banks. Critics warn that chasing the highest interest rate could lead to losing your principal if the smaller bank runs into trouble."
-    },
-    {
-      "headline": "Brent Oil Futures Understate Physical Market Stress, Analysts Warn",
-      "summary": "Analysts at BMI, a unit of Fitch Solutions, argue that Brent oil futures are currently understating the stress present in the physical oil market. This discrepancy suggests that underlying supply constraints or demand shocks may be more severe than derivative pricing indicates, posing risks for traders and investors.",
-      "source": "Rigzone",
-      "original_title": "Brent Oil Price Futures Understating Physical Market Stress",
-      "context": "Oil futures are contracts that allow traders to bet on what the price of oil will be in the future, but sometimes these bets do not match the actual physical reality of how much oil is available right now. Analysts warn that the current futures prices are too low compared to the actual stress in the market, such as shortages in supply or sudden drops in demand, which means the prices might not reflect the true risk. This disconnect is dangerous for investors because it suggests that the market might be underestimating how volatile or expensive oil could become in the near future.",
-      "why_it_matters": "The official price of oil might not reflect the real shortage or stress in the global supply. This gap means that sudden price spikes could happen unexpectedly, catching businesses and drivers off guard when they least expect it.",
-      "other_side": "Some traders believe that futures prices are accurate reflections of future supply and demand. They argue that worrying about \"physical\" stress is unnecessary noise and that the market already knows the true value of oil."
-    },
-    {
-      "headline": "India Explores Fractional Aircraft Ownership to Boost Aviation Financing",
-      "summary": "The Indian government is considering a policy to allow fractional aircraft ownership and classify aircraft as infrastructure assets to stimulate aviation financing and leasing. Civil Aviation Minister Ram Mohan Naidu stated that this move aims to strengthen the sector's financial framework and attract investment.",
-      "source": "The Times of India",
-      "original_title": "India exploring fractional aircraft ownership policy, considering aircraft as infrastructure assets: Aviation Minister Naidu",
-      "context": "Buying a whole airplane is incredibly expensive and difficult for most airlines, so the Indian government is exploring a system called fractional ownership, where multiple parties can own shares of a single aircraft together. By classifying airplanes as \"infrastructure assets,\" the government hopes to make it easier and cheaper for companies to borrow money to buy planes, similar to how roads and bridges are financed. This policy aims to boost the aviation industry by making it financially simpler for businesses to access the expensive equipment needed to fly passengers and goods.",
-      "why_it_matters": "India is changing rules to let groups of people own parts of airplanes together, which could lower travel costs. This move aims to make flying more affordable and boost the aviation industry by making it easier to finance expensive jets.",
-      "other_side": "Fractional ownership can be complicated to manage and might not actually save money for everyone involved. Skeptics say it creates a complex web of shared responsibilities that could lead to disputes and hidden fees for users."
+      "headline": "Nifty Expected to Breakout Above 24,700 Amid Bullish Market Sentiment",
+      "summary": "Market analysts project that the Nifty index is expected to stay bullish with a possible breakout above the 24,700 mark during the week of May 11–15, 2026. Similarly, Bank Nifty is anticipated to rise towards 58,500, reflecting positive short-term trading opportunities.",
+      "source": "BusinessLine",
+      "original_title": "[BusinessLine] Nifty & Bank Nifty இந்த வாரம் (11 May’26 to 15 May’26) என்ன ஆகும்? எங்கு செல்லும்?",
+      "context": "Context pending.",
+      "why_it_matters": "Experts predict that the Indian stock market will rise soon, giving investors hope for quick profits in the short term. This optimism can boost confidence and encourage more people to invest, potentially driving up stock prices further in the near future.",
+      "other_side": "Skeptics warn that expecting constant rises is dangerous and ignores the real risks of sudden market crashes. They caution that relying on short-term predictions can lead to bad decisions, as markets are unpredictable and past performance does not guarantee future results."
     }
   ]
 }
