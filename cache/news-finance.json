@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "Global Gold ETF Demand Rebounds with $6.6 Billion Inflow in April",
-      "summary": "Global investors rotated back into gold exchange-traded funds in April, recording a significant rebound of USD 6.6 billion. India extended its streak of positive inflows to 11 consecutive months, adding USD 297 million, according to the World Gold Council.",
+      "headline": "Fed Inflation Forecasts Pressure Bitcoin as Rate Hikes Loom",
+      "summary": "Bitcoin faces significant downward pressure as the Federal Reserve forecasts hotter inflation, raising the specter of potential interest rate hikes. This development highlights broader economic uncertainties that are likely to affect investor confidence and market stability across digital assets.",
+      "source": "Crypto Briefing",
+      "original_title": "[Crypto Briefing] Bitcoin faces pressure as Fed forecasts hotter inflation, potential rate hikes — Bitcoin's vulnerability to inflation and rate hikes highlights broader economic uncertainties, potentially affecting investor confidence and market stability.\nThe post Bitcoin faces pressure as Fed forecasts hotter inflation, potential rate hikes appeared fir…",
+      "context": "The Federal Reserve is the central bank of the United States, acting like the referee of the American economy by controlling how much money circulates and how expensive it is to borrow. When they predict that prices for goods will keep rising (inflation), they often raise interest rates to make borrowing more expensive, which cools down spending. Bitcoin, being a risky investment, usually suffers when interest rates go up because investors prefer safer options that pay guaranteed returns. This news suggests that because the Fed sees inflation staying high, they might raise rates soon, causing people to sell Bitcoin and lowering its price.",
+      "why_it_matters": "When the US government says prices are rising too fast, it usually means borrowing money will cost more. This makes risky bets like Bitcoin less attractive, so investors might pull their money out, causing the price to drop. It shows how big government decisions can shake up the world of digital money.",
+      "other_side": "Some people argue that Bitcoin is a shield against bad money. They believe that when the economy gets shaky, people will buy more Bitcoin instead of selling it, which could actually push the price up."
+    },
+    {
+      "headline": "CMS Secures Rs 400 Cr HDFC Bank ATM Contract with AI Integration",
+      "summary": "CMS Info Systems has won a major Rs 400 crore contract to manage 6,000 HDFC Bank ATMs over the next five years. The deal includes advanced currency forecasting and AI technology, marking a significant operational expansion for the company.",
       "source": "The Times of India",
-      "original_title": "[The Times of India] Global gold ETF demand rebounds USD 6.6 billion in April; India extends inflow streak to 11 months: World Gold Council",
-      "context": "Context pending.",
-      "why_it_matters": "People are buying gold again because they want a safe place to park their money when they feel unsure about the economy. This shift shows that investors are worried about risks elsewhere and prefer the stability of gold, which could change how money flows into other stocks or currencies.",
-      "other_side": "Some experts argue that gold does not grow or pay interest like stocks do. They believe putting too much money here means missing out on bigger profits from companies that are actually growing and making money."
+      "original_title": "[The Times of India] CMS bags Rs 400 cr contract to manage 6,000 HDFC Bank ATMs — CMS Info Systems has secured a significant Rs 400 crore order from HDFC Bank. The deal involves managing 6,000 ATMs for the next five years. This partnership will also include advanced solutions like currency forecasting and AI technology. The company expects…",
+      "context": "CMS Info Systems is a large company in India that handles the day-to-day operations of ATMs for many banks, such as refilling them with cash and fixing machines when they break. HDFC Bank is one of India's biggest private banks, and this contract means CMS will manage 6,000 of their ATMs for five years, earning a significant amount of money from the deal. The twist here is that CMS is using artificial intelligence to predict exactly how much cash each ATM needs, which saves money and prevents machines from running empty or holding too much unused cash. This win shows that traditional banking services are becoming more high-tech and efficient through automation.",
+      "why_it_matters": "Using AI to manage cash in ATMs means banks can keep more money available where customers need it. This saves banks from running out of cash or having too much sitting idle. It is a clear sign that artificial intelligence is moving from fancy ideas to everyday bank tasks.",
+      "other_side": "Critics worry that relying on AI for cash handling could lead to errors if the system glitches. There are also concerns about job losses for the humans who currently manage these machines and routes."
     },
     {
-      "headline": "Foreign Investors Dump Over Rs 2 Lakh Crore of Indian Equities in 2026",
-      "summary": "Foreign institutional investors have offloaded Indian equities worth more than Rs 2 lakh crore in 2026, marking their third consecutive month as net sellers. Despite domestic buying, the sustained outflow has contributed to falling market indices and heightened uncertainty among experts.",
-      "source": "The Times of India",
-      "original_title": "[The Times of India] FIIs sell over Rs 2 lakh crore worth of Indian equities in 2026. What lies ahead?",
-      "context": "Context pending.",
-      "why_it_matters": "Big foreign investors are pulling their cash out of India, which makes the local stock market drop and creates fear among regular people. This trend suggests that global investors are losing confidence in India's short-term growth, which could slow down the country's economic progress.",
-      "other_side": "On the flip side, some say this is just a normal correction after prices got too high for too long. They also point out that local Indian buyers are stepping in to fill the gap, which might keep the market stable despite the foreigners leaving."
+      "headline": "South Korean Crypto Holdings Halve as Capital Flows to Stocks",
+      "summary": "The value of cryptocurrency held by South Korean investors has more than halved in just over a year, driven by a shift toward the stock market. Daily trading volumes have collapsed alongside tighter regulatory oversight, signaling a major reallocation of capital.",
+      "source": "Cointelegraph",
+      "original_title": "[Cointelegraph] South Korea crypto holdings halve in a year as investors turn to stock market — The value of cryptocurrency held by South Korean investors more than halved in just over a year, with daily trading volumes also collapsing as capital flowed into stocks and regulators moved to tighten oversight.",
+      "context": "South Korea has historically been a huge hub for cryptocurrency trading, with many citizens investing heavily in digital coins like Bitcoin and Ethereum. However, over the past year, the value of these crypto holdings has dropped by half because investors are moving their money into the stock market, which is seen as more stable or profitable right now. This shift is happening alongside stricter government rules on how cryptocurrencies can be bought and sold, making them less attractive to everyday traders. As a result, fewer people are trading crypto daily, leading to a major drop in both the value held and the activity within that market.",
+      "why_it_matters": "South Korean investors are moving away from crypto and into stocks because they want safer, steadier returns. This shift shows that many people still see digital coins as too risky compared to traditional investments. It highlights how quickly investor mood can change based on market stability.",
+      "other_side": "Crypto supporters argue that this is just a temporary dip and that digital assets will bounce back stronger. They believe that stricter rules might actually make the market healthier and more trustworthy for everyone in the long run."
     },
     {
-      "headline": "ECB Lagarde Warns of Delicate Balance Between Acting Too Early or Late on Inflation",
-      "summary": "European Central Bank President Christine Lagarde stated that the ECB is carefully weighing its monetary policy response amid geopolitical tensions and inflationary pressures. She emphasized the risk of acting either prematurely or too late to ensure economic stability.",
-      "source": "Financial Post",
-      "original_title": "[Financial Post] Lagarde Says ECB Torn Between Risk of Acting Too Early, Too Late",
-      "context": "Context pending.",
-      "why_it_matters": "The head of Europe’s central bank is warning that fixing inflation is like walking a tightrope; move too fast and you hurt the economy, but move too slow and prices keep rising. This decision will directly impact how expensive everyday goods are for families across Europe in the coming months.",
-      "other_side": "Critics worry that being too careful will let inflation stay high for longer than necessary. They argue that waiting too long to act could cause prices to spiral out of control, making life much harder for low-income households who can barely afford basics."
-    },
-    {
-      "headline": "Nifty Bulls Indecisive Amid Geopolitical Tensions and Rupee Weakness",
-      "summary": "Indian stock markets experienced a significant downturn driven by geopolitical tensions between the US and Iran, a weakening rupee, and widespread selling in financial stocks. Auto and energy sectors also suffered major losses, leaving traders cautious about broader market opportunities.",
-      "source": "The Times of India",
-      "original_title": "[The Times of India] F&O Talk: Nifty bulls indecisive but opportunities in broader markets. Sudeep Shah's strategy on Voltas, Tejas and 4 more stocks",
-      "context": "Context pending.",
-      "why_it_matters": "Tensions between major powers like the US and Iran are causing panic in Indian markets, leading to big losses for investors. This shows how connected the world is, where a conflict halfway across the globe can instantly wipe out wealth and make people nervous about their savings.",
-      "other_side": "However, some traders see this dip as a good chance to buy stocks at lower prices before things calm down. They believe that once the immediate fear passes, the market will likely bounce back to its previous levels quickly."
-    },
-    {
-      "headline": "TUC Urges Subsidy for Dangote Refineries to Curb Fuel Costs",
-      "summary": "The Trade Union Congress (TUC) has proposed a production subsidy for the Dangote and modular refineries to lower the high cost of petrol for Nigerians. The proposal suggests using excess oil revenue to subsidize production, aiming to alleviate the financial burden on consumers.",
-      "source": "The Punch",
-      "original_title": "[The Punch] TUC urges subsidy for Dangote, modular refineries to lower fuel costs",
-      "context": "Context pending.",
-      "why_it_matters": "A group representing workers is asking the government to help lower fuel costs by subsidizing local oil refineries. If successful, this could take a huge financial burden off ordinary citizens who are struggling with high gas prices every day.",
-      "other_side": "Opponents argue that using government money to pay for these subsidies might not be fair to taxpayers. They also worry that it could encourage inefficiency in the oil industry, preventing it from becoming truly competitive without constant handouts."
-    },
-    {
-      "headline": "War and Energy Shortages Boost China’s Financial Influence in Asia",
-      "summary": "As the war in Iran drags on, China has deepened its economic influence by offering fuel solutions to energy-starved neighbors. This strategic move allows Beijing to expand its financial leverage in Asia while addressing regional energy shortages.",
-      "source": "Omanobserver.om",
-      "original_title": "[Omanobserver.om] War and energy shortages boost China’s Influence in Asia",
-      "context": "Context pending.",
-      "why_it_matters": "China is using energy shortages caused by war to gain more power and influence over its neighbors in Asia. This strategic move allows Beijing to become the go-to supplier for fuel, giving it significant political leverage over countries that depend on its resources.",
-      "other_side": "Some analysts suggest this is just China filling a gap that other countries failed to address. They argue that while it looks like a power grab, it is primarily a business opportunity that helps stabilize energy supplies for struggling nations in the region."
-    },
-    {
-      "headline": "TSMC and Sony Form Joint Venture for Next-Gen AI Image Sensors",
-      "summary": "TSMC and Sony Semiconductor Solutions signed a memorandum of understanding to establish a joint venture focused on developing next-generation AI image sensors. The partnership targets high-growth markets including automotive, robotics, and advanced smartphone cameras.",
-      "source": "Digitimes",
-      "original_title": "[Digitimes] What's driving the TSMC-Sony AI sensor JV?",
-      "context": "Context pending.",
-      "why_it_matters": "Two tech giants are teaming up to build better cameras for AI, cars, and robots, which will drive innovation in many future technologies. This partnership ensures that devices we use daily will become smarter and more capable, shaping how we interact with machines in the coming years.",
-      "other_side": "Critics worry that combining these two powerful companies might reduce competition in the chip and sensor markets. They fear that fewer players in the industry could lead to higher prices and slower innovation for consumers in the long run."
-    },
-    {
-      "headline": "India's Mining Sector Projected to Create 25 Million Jobs by 2047",
-      "summary": "A new report indicates that India’s mining industry is undergoing a structural transition driven by rising mineral demand, potentially creating 25 million jobs by 2047. The 'Mining 5.0' framework highlights emerging technologies that will drive this economic expansion.",
+      "headline": "Gold and Silver Range-Bound Amid US-Iran Geopolitical Tensions",
+      "summary": "Precious metals are expected to remain range-bound for a second week as investors weigh US-Iran peace negotiations against global macroeconomic data. Gold futures recently gained nearly 1 percent while silver climbed 4.4 percent on the MCX, reflecting cautious market sentiment.",
       "source": "BusinessLine",
-      "original_title": "[BusinessLine] India's mining sector can create 25 million jobs by 2047: Report",
-      "context": "Context pending.",
-      "why_it_matters": "India’s mining sector is set to create millions of jobs by using new technology to dig up minerals needed for modern life. This growth offers a huge opportunity for economic development and employment, potentially lifting millions of people out of poverty over the next few decades.",
-      "other_side": "Environmental groups are concerned that expanding mining will damage forests, water sources, and local ecosystems. They argue that the push for jobs and profit comes at a steep cost to nature and the communities living near these mining sites."
+      "original_title": "[BusinessLine] Gold, silver seen range-bound for second week amid US-Iran talks: Analysts — On the Multi Commodity Exchange (MCX), gold futures gained ₹1,178, or nearly 1 per cent over the past week, to settle at ₹1.52 lakh per 10 grams. Silver climbed ₹10,985, 4.4 per cent, to close at ₹2.61 lakh per kg",
+      "context": "Gold and silver are known as \"safe-haven\" assets, meaning investors buy them when they are worried about war or economic trouble because their value tends to stay steady even when other markets crash. Right now, there is tension between the United States and Iran, which usually makes people want to buy gold, but peace talks are also happening, which reduces that fear. Because investors are unsure whether war will break out or if peace will hold, they are waiting to see what happens next, so the prices of gold and silver aren't moving much. This \"range-bound\" movement means the prices are stuck in a narrow band, reflecting a market that is cautious and waiting for clearer signals.",
+      "why_it_matters": "Gold and silver act as a safety net when global tensions rise between major powers like the US and Iran. Investors buy these metals to protect their wealth from war or economic chaos. This trend shows that fear in the real world directly drives up the price of precious metals.",
+      "other_side": "Some analysts say that if peace talks succeed, the fear will fade and metal prices will crash. They warn that buying now might be a mistake if the geopolitical situation calms down sooner than expected."
     },
     {
-      "headline": "Day Traders Who Quit Careers Share Biggest Regrets on Financial Freedom Pursuit",
-      "summary": "Many young traders who left stable careers to pursue full-time trading report significant regrets, such as taking the leap too early and not treating the profession with sufficient seriousness. Their experiences highlight the risks and challenges associated with chasing financial freedom through active trading.",
-      "source": "Business Insider",
-      "original_title": "[Business Insider] Day traders who quit their careers and gave up school to chase financial freedom tell us their biggest regrets",
-      "context": "Context pending.",
-      "why_it_matters": "Stories of traders quitting their jobs only to regret it serve as a harsh reality check on the dangers of chasing quick riches. These experiences highlight that financial freedom is rarely easy and often requires more planning and risk management than most young people expect.",
-      "other_side": "Some supporters argue that these regrets are part of the learning process and that taking risks is essential for success. They believe that even if some fail, the potential rewards for those who succeed justify the gamble and inspire others to try."
+      "headline": "Indian Markets Face Downside on Rupee Weakness and Profit-Booking",
+      "summary": "Domestic equity benchmarks ended sharply lower due to rising US-Iran tensions, rupee depreciation, and heavy profit-booking in financial stocks. Analysts warn that the Nifty slipping below key technical levels indicates weakening momentum heading into Monday's trading.",
+      "source": "The Times of India",
+      "original_title": "[The Times of India] Ahead of Market: 10 things that will decide stock market action on Monday — Domestic equity benchmarks ended sharply lower on Friday amid rising geopolitical tensions between the US and Iran, rupee weakness and heavy profit-booking in financial stocks. Analysts said the Nifty slipping below key technical levels signals weakening mome…",
+      "context": "The Indian stock market recently dropped sharply because several negative factors hit at the same time, including rising tensions between the US and Iran and a weakening Indian currency called the rupee. When the rupee loses value against the dollar, it makes imports more expensive and can hurt the overall economy, which scares investors. Additionally, many traders who had made profits earlier were selling their stocks to lock in those gains, a process called \"profit-booking,\" which added more selling pressure. Experts warn that if the main market index falls below certain key levels, it could signal that the downward trend will continue into the next week.",
+      "why_it_matters": "A weak local currency makes imports expensive and hurts the overall economy of India. When investors see stocks dropping and money losing value, they often pull out to protect their savings. This creates a cycle that can slow down business growth and hurt regular consumers.",
+      "other_side": "A weaker currency can actually help Indian companies sell goods abroad because they become cheaper for foreign buyers. Some experts argue this boost in exports might eventually balance out the losses from falling stock markets."
     },
     {
-      "headline": "Nifty Expected to Breakout Above 24,700 Amid Bullish Market Sentiment",
-      "summary": "Market analysts project that the Nifty index is expected to stay bullish with a possible breakout above the 24,700 mark during the week of May 11–15, 2026. Similarly, Bank Nifty is anticipated to rise towards 58,500, reflecting positive short-term trading opportunities.",
-      "source": "BusinessLine",
-      "original_title": "[BusinessLine] Nifty & Bank Nifty இந்த வாரம் (11 May’26 to 15 May’26) என்ன ஆகும்? எங்கு செல்லும்?",
-      "context": "Context pending.",
-      "why_it_matters": "Experts predict that the Indian stock market will rise soon, giving investors hope for quick profits in the short term. This optimism can boost confidence and encourage more people to invest, potentially driving up stock prices further in the near future.",
-      "other_side": "Skeptics warn that expecting constant rises is dangerous and ignores the real risks of sudden market crashes. They caution that relying on short-term predictions can lead to bad decisions, as markets are unpredictable and past performance does not guarantee future results."
+      "headline": "OpenAI Trial Reveals Rivalries Behind $852bn Valuation Surge",
+      "summary": "Legal proceedings have exposed the internal rivalries driving OpenAI's rapid rise to an $852 billion valuation. The trial highlights the intense competition and strategic maneuvering between key figures like Elon Musk and the startup's leadership.",
+      "source": "Slashdot.org",
+      "original_title": "[Slashdot.org] OpenAI trial lays bare rivalries behind start-up’s $852bn rise - Financial Times — OpenAI trial lays bare rivalries behind start-up’s $852bn riseFinancial Times The Secret Diary That Has Spilled Into the Musk vs. OpenAI FeudWSJ Everything you need to know from the first 2 weeks of the Musk v. OpenAI trialYahoo Finance In OpenAI trial, forme…",
+      "context": "OpenAI is the technology company famous for creating ChatGPT, and it recently reached a massive valuation of $852 billion, making it one of the most valuable companies in the world. A recent court trial revealed that behind this rapid success, there was intense fighting and rivalry among the company's founders and leaders, including public disputes with tech billionaire Elon Musk. These legal proceedings exposed how personal conflicts and strategic power struggles influenced the company's direction and its skyrocketing worth. The trial highlights that even highly successful tech giants often face internal drama and competition that shape their business decisions.",
+      "why_it_matters": "The huge value of OpenAI comes from intense competition between tech giants like Elon Musk. This legal battle reveals that behind the scenes, personal rivalries drive massive financial decisions. It shows that the AI race is not just about technology, but also about power and control.",
+      "other_side": "Others believe that the competition is healthy and pushes companies to innovate faster for everyone’s benefit. They argue that internal drama is normal in fast-growing industries and doesn’t necessarily mean the company is unstable."
+    },
+    {
+      "headline": "DeFi Hash Expands Mobile Cloud Infrastructure for Digital Assets",
+      "summary": "DeFi Hash is expanding its mobile cloud infrastructure platform to meet rising demand for digital asset participation. This strategic move aims to enhance accessibility and support the growing ecosystem of decentralized finance users.",
+      "source": "GlobeNewswire",
+      "original_title": "[GlobeNewswire] DeFi Hash Expands Mobile Cloud Infrastructure Platform Amid Rising Demand for Digital Asset Participation — DeFi Hash Expands Mobile Cloud Infrastructure Platform Amid Rising Demand for Digital Asset Participation...",
+      "context": "DeFi Hash is a company building infrastructure for decentralized finance, which is a system of financial services that operate without banks, using blockchain technology instead. They are expanding their \"mobile cloud\" platform to make it easier for people to access and manage digital assets like cryptocurrencies directly from their phones. This move is designed to lower the technical barriers for new users who want to participate in the growing world of decentralized finance. By improving accessibility, they hope to support more users and help the ecosystem grow as more people look for ways to invest in digital currencies.",
+      "why_it_matters": "Making it easier to use digital finance on mobile phones brings banking services to more people. This expansion helps users manage their money securely without needing complex computer setups. It is a step toward making financial tools accessible to everyday people everywhere.",
+      "other_side": "Expanding cloud infrastructure increases the risk of cyberattacks and data breaches. Critics worry that making access easier might also make it easier for scammers to target inexperienced users with fraud."
+    },
+    {
+      "headline": "Global Saving Imbalances Renew Widening Despite Peak Past",
+      "summary": "While global saving imbalances are smaller than their historical peak, recent data indicates a renewed widening of these disparities. This trend revives important debates regarding global economics and the stability of international financial flows.",
+      "source": "Forbes",
+      "original_title": "[Forbes] How Important Are Global Saving Imbalances? — A defining economics debate of the 2000s, global saving imbalances are smaller than at their peak. But they are not gone, and the recent data point to a renewed widening.",
+      "context": "Global saving imbalances refer to the differences between how much money some countries save versus how much they spend or borrow compared to others. While these gaps are not as extreme as they were at their historical peak, recent data shows they are starting to widen again, meaning some nations are saving much more than others relative to their economies. This trend is important because large disparities in savings and spending between countries can lead to unstable financial flows and economic shocks across the globe. Economists are debating whether this renewed imbalance poses a risk to the stability of international trade and finance.",
+      "why_it_matters": "When some countries save way more than they spend while others spend way more than they save, it creates global instability. These imbalances can lead to sudden crashes in international trade and finance. Fixing this gap is crucial for keeping the global economy steady and predictable.",
+      "other_side": "Some economists argue that these imbalances are natural parts of a free market and self-correct over time. They suggest that trying to force balance might actually stifle growth in developing nations that need to borrow."
+    },
+    {
+      "headline": "Iran Strikes Tanker Off Doha Triggering Oil Price Surge and Crypto Scams",
+      "summary": "Geopolitical tensions escalated when Iran struck a tanker off Doha, causing oil prices to surge and triggering a wave of crypto scams. The incident has increased scrutiny on crypto transactions as markets react to the heightened instability in global trade routes.",
+      "source": "Crypto Briefing",
+      "original_title": "[Crypto Briefing] Iran strikes tanker off Doha as Qatari ship breaks Hormuz blockade, triggering crypto scam wave and oil price surge — The incident exacerbates geopolitical tensions, impacting global oil prices and crypto markets, while increasing scrutiny on crypto transactions.",
+      "context": "Geopolitical tensions escalated when Iran attacked a tanker near Doha, a city in Qatar, which disrupted global oil supplies and caused oil prices to spike sharply. Oil is a critical resource for the global economy, so any threat to its supply creates uncertainty and fear among investors and businesses worldwide. In times of such instability, scammers often take advantage of confused or panicked individuals by creating fake cryptocurrency schemes to steal money. This incident has led to increased scrutiny of crypto transactions as authorities try to protect users from fraud while markets react to the heightened risk in global trade routes.",
+      "why_it_matters": "Attacks on shipping routes cause oil prices to spike, which makes everything more expensive for consumers. This chaos also creates opportunities for scammers to trick people using fake crypto deals. It shows how war and instability ripple out to affect your wallet and online safety.",
+      "other_side": "Some traders see oil spikes as a short-term opportunity to make quick profits. They argue that markets usually stabilize quickly after such events, and panic selling is unnecessary for long-term investors."
+    },
+    {
+      "headline": "Tax Implications of Money Transfers to Mothers Under Indian Law",
+      "summary": "Transferring money to one's mother is treated as a tax-free gift under Indian income tax law but does not directly reduce tax liability. Tax savings are only achievable through specific payments such as health insurance premiums under Section 80D.",
+      "source": "Livemint",
+      "original_title": "[Livemint] Mother’s Day 2026: Does money transfer to your mother help reduce your tax liability? — Transferring money to your mother is treated as a tax-free gift under Indian income tax law and does not reduce your tax liability. However, tax savings are possible only through specific payments like health insurance premiums under Section 80D in the old re…",
+      "context": "Under Indian tax law, giving money to your mother is considered a gift from a close relative, which is completely free from income tax, meaning you don't have to pay extra tax just for transferring the money. However, simply giving her money does not automatically reduce the amount of tax you owe on your own income; it just means the transfer itself isn't taxed. To actually save on taxes, you need to make specific payments, such as buying health insurance for your mother, which allows you to claim deductions under Section 80D of the tax code. This distinction is important because many people confuse tax-free gifts with tax-saving strategies, which are two different things.",
+      "why_it_matters": "Knowing that gifts to parents are tax-free helps families manage money without extra fees. However, it does not lower your total tax bill, which is a common misunderstanding. This clarifies how tax laws work for personal family transfers versus business expenses.",
+      "other_side": "Tax experts point out that relying on gifts for tax planning is limited and often inefficient. They advise focusing on actual deductions like health insurance instead, as gifts do not reduce the income you are taxed on."
     }
   ]
 }
