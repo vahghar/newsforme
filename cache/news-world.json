@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "North Korea Authorizes Automatic Nuclear Strike if Leader Targeted",
-      "summary": "North Korea has officially revised its military policy to authorize an automatic nuclear response if leader Kim Jong-un is attacked or assassinated. This drastic measure reflects heightened concerns over leadership safety and signals a significant escalation in regional tensions.",
-      "source": "The Times of India",
-      "original_title": "Automatic nuclear strike if Kim Jong-un targeted — North Korea revises policy — Rest of World News: North Korea has officially authorized an automatic nuclear response if leader Kim Jong-un is attacked or assassinated, reflecting heightened concerns over leadership safety inspired by recent global events. Learn more about the implication…",
-      "context": "Context pending.",
-      "why_it_matters": "North Korea has changed its rules to say it will fire nuclear weapons automatically if its leader is hurt or killed. This makes the world much more dangerous because a small mistake or accident could start a huge war without anyone having time to think. It raises the fear that nuclear conflict could happen by accident, not just by choice.",
-      "other_side": "Some people argue this rule is necessary to keep the leader safe and stop enemies from trying to attack. They believe that showing such extreme strength might actually scare other countries away from starting a fight in the first place."
+      "headline": "UK Bond Yields Hit 28-Year High Amid Deepening Political Crisis",
+      "summary": "The UK bond market experienced a severe sell-off, pushing 30-year yields to their highest levels since 1998. This financial turmoil is driven by intensifying speculation regarding Prime Minister Keir Starmer's future and growing concerns over the stability of Britain's public finances.",
+      "source": "Financial Post",
+      "original_title": "UK 30-Year Yields Top 1998 High as Political Crisis Deepens",
+      "context": "Think of government bonds as IOUs that a country gives to investors in exchange for cash, promising to pay it back with interest later. When many people lose confidence in a government's ability to manage its money or stay in power, they rush to sell these IOUs, which causes their value to drop and the interest rate (yield) to spike. In the UK, recent political instability has made investors nervous about the country's future budget, leading them to demand much higher interest rates to feel safe lending money. This situation is rare because such high rates haven't been seen since the late 1990s, signaling deep worry among global lenders about Britain's economic stability.",
+      "why_it_matters": "The UK government is struggling to keep its finances stable, which scares away investors. This makes borrowing money much more expensive for everyone, from the government to regular families with mortgages. It signals a loss of trust in the country's leadership and economic future.",
+      "other_side": "Some experts argue this is just a temporary panic caused by political rumors. They believe the underlying economy is strong enough to recover once the political situation settles down."
     },
     {
-      "headline": "Iran Rejects US Demands as Strait of Hormuz Crisis Deepens",
-      "summary": "Iran has dismissed US proposals for ending the conflict as 'unreasonable,' while maintaining its proposal to end the war and unblock the Hormuz Strait. The standoff continues to threaten global energy supplies and diplomatic stability in the Middle East.",
-      "source": "Al Jazeera English",
-      "original_title": "[Al Jazeera English] Iran says US making ‘unreasonable’ demands in negotiations to end war — Foreign ministry spokesman Esmaeil Baghaei says Iran's proposal to end the conflict, unblock Hormuz Strait is generous.",
-      "context": "Context pending.",
-      "why_it_matters": "Iran and the US are stuck in a standoff over a key water route called the Strait of Hormuz. If ships cannot pass through, the world runs out of oil and gas quickly, causing prices to skyrocket for everyone. This situation threatens to make life more expensive and disrupts peace in the Middle East.",
-      "other_side": "Critics say Iran’s refusal to talk is just a smart move to gain leverage against the US. They argue that holding onto the strait gives Iran power to force the US to give up its demands and respect Iran’s sovereignty."
+      "headline": "WHO Urges Caution as Hantavirus Outbreak Spreads on Cruise Ship",
+      "summary": "World Health Organization chief Tedros Adhanom Ghebreyesus emphasized that containment efforts are ongoing following the evacuation of passengers from a cruise ship infected with hantavirus. While no signs of a larger global outbreak have been detected, officials are urging continued vigilance and caution.",
+      "source": "CBS News",
+      "original_title": "WHO chief says \"work not over\" after evacuation of hantavirus-stricken ship",
+      "context": "Hantavirus is a serious illness spread by the urine, droppings, or saliva of infected rodents, not by person-to-person contact like the flu. Cruise ships are particularly risky environments for this because they are closed spaces where waste management issues or stowaway mice can quickly lead to widespread exposure among passengers. The World Health Organization is stepping in to ensure that the ship is properly cleaned and that anyone who was exposed is monitored closely to stop the virus from jumping to new locations. Their caution is necessary because while the virus doesn't usually spread easily between humans, getting sick on a moving ship far from advanced medical care can be deadly if not handled correctly.",
+      "why_it_matters": "A rare virus spreading on a cruise ship shows how quickly diseases can move in our connected world. Even if it stays contained now, it highlights the need for better health checks on large groups of travelers. This could change how we manage public health during future trips.",
+      "other_side": "Critics say the reaction might be too extreme for a single isolated case. They worry that constant warnings cause unnecessary fear without stopping actual spread."
     },
     {
-      "headline": "Deutsche Bank Warns Markets Remain Volatile Due to Hormuz Closure",
-      "summary": "Financial institutions are issuing stark warnings that global markets remain on a 'knife-edge' as long as the Strait of Hormuz remains closed. This geopolitical bottleneck poses a severe risk to international trade and economic stability.",
-      "source": "Fortune",
-      "original_title": "[Fortune] ‘As long as the Strait of Hormuz stays closed, markets remain on a knife-edge,’ Deutsche Bank warns — Everything you need to know before you reach the office this morning.",
-      "context": "Context pending.",
-      "why_it_matters": "Banks are warning that the global economy is very shaky right now because of the trouble in the Strait of Hormuz. When trade routes are blocked, goods become scarce and expensive, which can hurt regular people’s wallets. This instability means jobs and savings could be at risk if the blockage continues.",
-      "other_side": "Some economists believe markets are used to handling shocks and will bounce back quickly once the crisis passes. They argue that investors are already prepared for this volatility and that long-term growth trends remain strong despite short-term fears."
+      "headline": "India Secures Two Months of Fuel Supply Despite West Asia War Pressures",
+      "summary": "State-owned oil marketing companies in India have maintained uninterrupted supplies of petrol, diesel, and LPG despite the ongoing conflict in West Asia. However, the government warns that these subsidies could result in losses of up to ₹1 lakh crore for the oil firms.",
+      "source": "BusinessLine",
+      "original_title": "India stocked with two months of fuel supply, but OMC losses could hit ₹1 lakh cr: Puri",
+      "context": "India relies heavily on importing oil from the Middle East, a region currently plagued by war, which makes fuel prices volatile and supply chains fragile. To keep everyday citizens from feeling the pinch of these rising costs, the Indian government subsidizes petrol and diesel, meaning they pay part of the cost so consumers pay less at the pump. However, this safety net is expensive for state-owned oil companies, who are now facing massive financial losses because they are selling fuel below its actual market price. The government is walking a tightrope, trying to protect poor families from high prices while ensuring their own energy companies don't go bankrupt due to the conflict overseas.",
+      "why_it_matters": "India is keeping gas prices low for its people despite war nearby, which costs the government billions. This helps ordinary citizens afford daily needs but puts a huge strain on state-owned oil companies. It shows how politics often prioritizes cheap fuel over company profits.",
+      "other_side": "Some economists argue that keeping prices artificially low hurts the oil industry's ability to invest. They suggest that letting prices rise naturally would make the energy sector more stable long-term."
     },
     {
-      "headline": "US Trade Court Rules Trump’s Global Tariffs Illegal",
-      "summary": "A divided panel on the U.S. Court of International Trade has concluded that Trump’s 10 percent global tariffs are unlawful. This ruling represents a major legal setback for current US trade policy and could reshape international commerce relations.",
-      "source": "Ritholtz.com",
-      "original_title": "[Ritholtz.com] 10 Monday AM Reads — My back-to-work morning train WFH reads: • Trade court rules Trump’s replacement tariffs illegal: A divided three-judge panel on the U.S. Court of International Trade concluded that Trump’s 10 percent global tariffs are unlawful. Same trade-court ruling, seco…",
-      "context": "Context pending.",
-      "why_it_matters": "A US court has ruled that recent global taxes on imports are illegal, which is a big win for international trade fairness. This decision forces the government to change how it handles money on foreign goods, potentially lowering costs for consumers. It sets a legal precedent that limits how much power leaders have to change trade rules on their own.",
-      "other_side": "Supporters of the tariffs argue they are needed to protect American jobs from unfair foreign competition. They believe that even if the court disagrees, these taxes are essential for keeping the US economy strong and self-reliant."
-    },
-    {
-      "headline": "Wales Pioneers Nature Restoration Amid Political Challenges",
-      "summary": "Wales is implementing innovative strategies to prioritize ecosystem restoration despite competing pressures from conflict, energy poverty, and food supply chain issues. This approach highlights a unique political effort to balance environmental sustainability with immediate socioeconomic needs.",
-      "source": "The Conversation Africa",
-      "original_title": "[The Conversation Africa] Nature restoration isn’t often top of the political agenda – here’s how Wales does it — It can be hard for governments to prioritise the risks of ecosystem collapse above conflict, energy poverty and food supply chain issues",
-      "context": "Context pending.",
-      "why_it_matters": "Wales is trying to fix damaged nature while also dealing with high energy bills and food shortages. This shows that countries can try to help the environment without ignoring the immediate needs of their people. It offers a model for other places to balance green goals with real-world survival issues.",
-      "other_side": "Critics worry that focusing too much on nature restoration will cost too much money during tough economic times. They argue that resources should go directly to helping families pay for heating and food before worrying about ecosystems."
-    },
-    {
-      "headline": "World Sports Economy Summit Launches in London",
-      "summary": "The inaugural World Sports Economy Summit has launched in London, establishing a new forum at the intersection of sport, finance, and technology. This event marks a historic milestone for international collaboration in the global sports industry.",
+      "headline": "Trimble Tech Maps Disappearing Glaciers in Critical Climate Baseline Study",
+      "summary": "Advanced GNSS positioning technology has been used to create the first centimeter-accurate 3D model of the disappearing Puncak Jaya glaciers. This data provides a crucial baseline for tracking changes in one of Earth's last tropical ice fields, highlighting the rapid impact of climate change.",
       "source": "PRNewswire",
-      "original_title": "[PRNewswire] Inaugural World Sports Economy Summit Launches in London: A New Era of International Collaboration and Digital Innovation — LONDON, May 11, 2026 /PRNewswire/ -- The inaugural World Sports Economy Summit (WSES) launched in London, marking a historic milestone as a premier international forum at the intersection of sport, finance and technology. The summit took place during an extra…",
-      "context": "Context pending.",
-      "why_it_matters": "A new summit in London brings together sports, money, and technology experts to discuss the future of the industry. This meeting highlights how sports have become a massive global business worth billions of dollars. It creates opportunities for new investments and innovations that can change how we watch and play sports.",
-      "other_side": "Some fans feel that turning sports into a pure business deal ruins the spirit of the game. They argue that focusing too much on money and tech takes away from the community and health benefits that sports are supposed to provide."
+      "original_title": "Trimble Technology Enables First Centimeter-Accurate 3D Model of Disappearing Puncak Jaya Glaciers",
+      "context": "Glaciers are massive rivers of ice that form over centuries, and those near the equator are especially sensitive to tiny changes in temperature because they are already close to melting. Scientists used highly precise satellite technology to create a detailed 3D map of the Puncak Jaya glaciers in Indonesia, which are among the last tropical ice fields on Earth. This map serves as a \"before\" picture, allowing researchers to measure exactly how much ice is disappearing year by year as the planet warms. Without this baseline data, it would be impossible to prove how fast climate change is destroying these unique ecosystems or to predict when they might vanish completely.",
+      "why_it_matters": "Scientists are using high-tech maps to track disappearing glaciers, proving climate change is happening fast. This data helps us understand how ice loss affects sea levels and weather patterns globally. It serves as a stark warning about the speed of environmental damage.",
+      "other_side": "Some local communities feel these global studies ignore their immediate survival needs. They argue that funding should go to helping people adapt right now rather than just measuring ice."
     },
     {
-      "headline": "Canadians Quarantined After Hantavirus Outbreak on Cruise Ship",
-      "summary": "Four Canadians who disembarked from a cruise ship central to a deadly hantavirus outbreak have landed in British Columbia for quarantine. This incident raises urgent public health questions regarding disease transmission in international travel contexts.",
-      "source": "National Observer",
-      "original_title": "[National Observer] Canadians on the ship at centre of hantavirus outbreak land in Canada — Four Canadians who disembarked the cruise ship at the centre of a deadly hantavirus outbreak landed Sunday in BC, where they will continue their quarantine.",
-      "context": "Context pending.",
-      "why_it_matters": "Four Canadians had to be quarantined after getting sick from a virus on a cruise ship, showing how easily diseases spread through travel. This incident reminds us that international trips can carry hidden health risks that cross borders quickly. It highlights the need for better safety checks to protect public health.",
-      "other_side": "Travelers argue that cruise ships are generally safe and that strict quarantines cause unnecessary panic and stress. They believe that personal responsibility and good hygiene are enough to prevent most illnesses without heavy government restrictions."
-    },
-    {
-      "headline": "Hantavirus Outbreak Signals Broader Pandemic Risks",
-      "summary": "Experts warn that the recent hantavirus incident on a Dutch cruise ship serves as a critical warning about potential future pandemics. Despite claims that this specific outbreak may not trigger a global crisis, the risk of similar outbreaks remains significant.",
-      "source": "Salon",
-      "original_title": "[Salon] Hantavirus is a warning. The Trump admin isn’t listening — The Dutch cruise ship incident probably isn’t the next pandemic. That doesn’t mean we’re risk-free from outbreaks",
-      "context": "Context pending.",
-      "why_it_matters": "Experts warn that the hantavirus outbreak is a sign that new pandemics could happen again in the future. This serves as a wake-up call for governments to prepare better for disease outbreaks before they get out of control. It emphasizes the importance of having strong medical systems ready to respond.",
-      "other_side": "Some scientists say this specific virus is not likely to cause a global pandemic because it does not spread easily between people. They argue that while we should be careful, we should not panic or spend excessive resources on a threat that may not materialize."
-    },
-    {
-      "headline": "Global Cement Market Projected to Reach $554 Billion by 2030",
-      "summary": "The global cement industry is expected to grow significantly, driven by rising infrastructure demands in developing regions, particularly in Asia Pacific. This expansion underscores the ongoing construction boom shaping emerging economies.",
+      "headline": "Global Manga Market Projected to Reach $73 Billion by 2035",
+      "summary": "Driven by the rising global popularity of Japanese pop culture, the manga market is experiencing significant expansion. Projections indicate the market will be worth USD 73.01 billion by 2035, with the U.S. market alone expected to reach nearly $10 billion.",
       "source": "GlobeNewswire",
-      "original_title": "[GlobeNewswire] Global Cement Industry Research Report 2026: Market to Reach $554.71 Billion by 2030 from $423.24 Billion in 2024 with Asia Pacific Dominating Both Production and Consumption — The global cement market, valued at $423.24 billion in 2024, is projected to reach $554.71 billion by 2030, driven by rising infrastructure and construction demands, particularly in developing regions. By 2030, production is expected to hit 5.55 billion tons,…",
-      "context": "Context pending.",
-      "why_it_matters": "The cement industry is expected to grow huge amounts by 2030 as developing countries build more roads and buildings. This construction boom creates jobs but also increases pollution and carbon emissions significantly. It highlights the tension between economic development and environmental protection.",
-      "other_side": "Industry leaders argue that modern cement production is becoming cleaner and more efficient with new technologies. They believe that building infrastructure is vital for poverty reduction and that the environmental impact is being managed responsibly."
+      "original_title": "Manga Market Size to be Worth USD 73.01 Billion by 2035; Growth is Driven by rising global popularity of Japanese pop culture globally | SNS Insider",
+      "context": "Manga refers to Japanese comic books and graphic novels, which have evolved from niche hobbies into a global cultural phenomenon similar to Hollywood movies or K-pop music. This explosion in popularity is driven by streaming services making anime easier to watch and social media allowing fans to share art and stories across borders instantly. As more people outside of Japan discover these stories, publishers are investing heavily in translations and marketing, turning a regional industry into a multi-billion dollar global business. The projected growth shows that manga is no longer just a subculture but a mainstream entertainment staple competing with video games and blockbuster films.",
+      "why_it_matters": "Japanese comics are becoming a massive global business, worth billions soon. This shows how pop culture can cross borders and create huge economic opportunities. It also means more jobs and creative outlets for artists worldwide.",
+      "other_side": "Critics worry that the focus on profit might dilute the artistic quality of the stories. They fear companies will chase trends instead of supporting unique or risky new voices."
     },
     {
-      "headline": "Global Workwear Market Transforms with Focus on Asia-Pacific and Europe",
-      "summary": "The global workwear market is undergoing a transformation, shifting from basic protective clothing to advanced solutions valued at USD 20.1 billion in 2026. Growth is being led by key players across Asia-Pacific and Europe, reflecting changing industrial safety standards.",
+      "headline": "Medical Walkers Market Set for Massive Growth Amid Aging Global Population",
+      "summary": "The global market for medical walkers is projected to reach USD 4.04 billion by 2035, fueled by an increasing geriatric population and rising prevalence of mobility disorders. The trend reflects a broader shift towards advanced lightweight assistive devices in rehabilitation support worldwide.",
+      "source": "GlobeNewswire",
+      "original_title": "Medical Walkers Market Size to Reach a Valuation of USD 4.04 Billion by 2035 Due to Rising Demand for Mobility Assistance and Rehabilitation Support Globally | SNS Insider",
+      "context": "As life expectancy increases worldwide, there are significantly more elderly people who face natural declines in strength, balance, and mobility. Medical walkers are specialized frames with wheels or legs that help older adults walk safely without falling, acting as a crucial tool for maintaining independence. The market for these devices is growing because healthcare systems want to keep seniors out of hospitals by helping them move around safely in their own homes. This trend reflects a broader shift toward designing lighter, smarter assistive technologies that make aging in place easier and less dangerous for millions of people.",
+      "why_it_matters": "As people live longer, the demand for walking aids is skyrocketing. This growth supports an aging population staying active and independent for longer. It drives innovation in making these devices lighter and easier to use.",
+      "other_side": "Some argue that the market focuses too much on selling devices rather than preventing mobility issues. They believe more money should go into exercise programs to keep joints healthy."
+    },
+    {
+      "headline": "Connected Vending Machines to Surge to 11.7 Million Units by 2030",
+      "summary": "The global connected vending machine market is expanding rapidly, driven by demand for cashless payments and operational efficiency through telemetry. China and Japan are leading this growth, with the total number of online units projected to reach 11.7 million by 2030.",
+      "source": "GlobeNewswire",
+      "original_title": "World Connected Vending Machines Research Report 2026: 11.7 Million Vending Machines Will Be Online by 2030 with Cantaloupe, Nayax, Televend (INTIS) and Ingenico Leading",
+      "context": "Vending machines have transformed from simple metal boxes that only take coins into smart computers connected to the internet, capable of accepting credit cards and tracking inventory in real time. These \"connected\" machines allow owners to see exactly what is running out and restock efficiently, reducing waste and increasing sales through convenience. Countries like China and Japan are leading this change because they have embraced digital payments and value efficiency in their busy urban environments. By 2030, the number of these smart machines will surge as businesses realize that online connectivity makes vending operations much more profitable and reliable.",
+      "why_it_matters": "Vending machines are getting smarter and connecting to the internet, changing how we buy snacks. This shift allows for cashless payments and better inventory management for stores. It represents a small but growing part of our digital daily lives.",
+      "other_side": "Privacy advocates worry that connected machines collect too much data on what we buy. They fear this information could be used to target consumers with aggressive ads."
+    },
+    {
+      "headline": "Global Cellular IoT Antenna Market Reshaped by Satellite Architectures",
+      "summary": "The cellular IoT antenna market is undergoing significant transformation due to the integration of TCU solutions and emerging cellular-satellite architectures. Growth is being driven by diverse end markets requiring versatile antennas that support multiple frequencies and technologies.",
+      "source": "GlobeNewswire",
+      "original_title": "Global Cellular IoT Antenna Market Report 2026: Integrated Antenna-TCU Solutions, Mission-Critical Network Expansion and Emerging Cellular-Satellite Architectures Reshape the Market - Forecast to 2030",
+      "context": "IoT stands for Internet of Things, which refers to everyday objects like sensors, meters, or trackers that connect to the internet to send data automatically. Traditionally, these devices relied on ground-based cell towers to communicate, but this doesn't work well in remote areas like oceans or deserts. New antenna technology now combines cellular signals with satellite connections, allowing these small devices to send data from anywhere on Earth without needing local infrastructure. This innovation is reshaping the market because it enables industries like shipping, agriculture, and mining to track assets globally, removing the blind spots that existed before.",
+      "why_it_matters": "New antenna technology is helping devices connect via both cell towers and satellites. This means better internet access for remote areas and more reliable connections overall. It pushes forward the goal of having the world fully online.",
+      "other_side": "Environmental groups point out that producing more hardware increases electronic waste. They argue we need to focus on reducing waste before expanding connectivity further."
+    },
+    {
+      "headline": "Novo Nordisk Data Shows Wegovy Benefits Women Across All Menopause Stages",
+      "summary": "New data presented at the European Congress on Obesity reveals that Wegovy delivers substantial weight loss for women regardless of menopause stage. The treatment also demonstrated additional protective effects against heart disease and migraines, marking a significant advancement in women's health care.",
+      "source": "GlobeNewswire",
+      "original_title": "Novo Nordisk A/S: Wegovy® delivered substantial weight loss in women across all menopause stages, plus heart and migraine protection, shown in new Novo Nordisk data at the European Congress on Obesity",
+      "context": "Wegovy is a prescription medication originally designed to help people lose weight by mimicking a hormone that tells the brain you are full. Recent studies focused specifically on women going through menopause, a life stage often associated with weight gain and metabolic changes due to shifting hormones. The data shows that the drug works effectively for women at all stages of menopause, not just those struggling with obesity, and also offers unexpected benefits like reducing heart disease risk and migraines. This is significant because it highlights how medical treatments can address multiple health issues simultaneously, offering hope for better long-term health outcomes for women during hormonal transitions.",
+      "why_it_matters": "A popular weight-loss drug works well for women at all stages of menopause. This offers hope for better health outcomes, including heart protection, for millions of women. It marks a step toward more personalized and effective medical treatments.",
+      "other_side": "Some doctors worry that the drug might be overprescribed for minor weight concerns. They caution that long-term side effects are not yet fully understood for everyone."
+    },
+    {
+      "headline": "CGI Appoints New CEO Amid Leadership Transition at Global Tech Firm",
+      "summary": "The board of directors of CGI announced the appointment of Tim Hurlebaus as President and Chief Executive Officer. This leadership transition marks a pivotal moment for the Montreal-based technology company as it navigates its strategic direction in the global IT services sector.",
       "source": "PRNewswire",
-      "original_title": "[PRNewswire] Global Workwear Market Outlook 2026-2036: Growth Led by Carhartt, Aramark (Vestis), and Alsico Across Asia-Pacific & Europe — NEWARK, Del., May 11, 2026 /PRNewswire/ -- According to the latest market analysis by Future Market Insights, the global workwear Market, valued at USD 20.1 billion in 2026, is entering a phase of transformation as it shifts from basic protective clothing to …",
-      "context": "Context pending.",
-      "why_it_matters": "The market for work clothes is changing to include smarter, safer gear valued at over $20 billion soon. This shift reflects a growing focus on keeping workers safe and healthy in industrial jobs across Asia and Europe. It shows that companies are willing to pay more for better protection and comfort.",
-      "other_side": "Small business owners complain that these advanced workwear options are too expensive for them to afford. They argue that basic protective clothing should be sufficient and that forcing upgrades hurts smaller employers who operate on tight budgets."
+      "original_title": "CGI announces Leadership Transition",
+      "context": "CGI is a large technology company based in Canada that helps other businesses build and manage their computer systems, software, and digital infrastructure. When a major corporation changes its CEO, it often signals a shift in strategy, such as focusing more on artificial intelligence or expanding into new international markets. Tim Hurlebaus, the new leader, is tasked with guiding the company through a competitive global IT landscape where client needs are constantly evolving. This leadership transition is critical because the right executive can determine whether the company grows steadily or struggles to keep up with rapid technological changes.",
+      "why_it_matters": "A major tech company is getting a new boss to guide its future direction. Leadership changes can signal a shift in strategy or focus for the entire industry. Investors watch closely to see if this brings stability or bold new risks.",
+      "other_side": "Employees might fear that new leadership will cut costs by laying off staff. They worry that corporate changes often come at the expense of worker job security."
     }
   ]
 }
