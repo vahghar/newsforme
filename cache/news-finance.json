@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "Carney’s Trade Push Beyond the US Is Just a Gold Rush, For Now",
-      "summary": "Prime Minister Mark Carney has set an ambitious target to double Canada's non-US exports over the next decade, aiming to reduce economic reliance on its southern neighbor. Critics argue this initiative is currently more of a speculative gold rush than a concrete economic strategy.",
+      "headline": "Rupee Slides to Record Low Near 96/USD Amid Energy Pressures",
+      "summary": "The Indian rupee hit an all-time low against the US dollar, driven by persistent portfolio outflows and stubbornly high global oil prices. This depreciation has significantly strained the current and capital account balances of Asia's third-largest economy.",
+      "source": "BusinessLine",
+      "original_title": "[BusinessLine] Rupee slips to record low near 96/$ as energy risks deepen",
+      "context": "Context pending.",
+      "why_it_matters": "The Indian money is losing value fast, making it much more expensive for the country to buy oil and other imports. This will likely lead to higher prices for everyday goods, squeezing family budgets and slowing down economic growth.",
+      "other_side": "Some argue that a weaker currency can actually help local manufacturers by making their exports cheaper and more attractive to foreign buyers. However, this benefit is often outweighed by the pain of rising costs for essential energy."
+    },
+    {
+      "headline": "JSW Steel Q4 Profit Surges 11X Year-on-Year to Rs 16,370 Crore",
+      "summary": "JSW Steel reported a massive 11-fold increase in consolidated net profit for the March quarter, reaching Rs 16,370 crore. Revenue from operations also saw a robust 14% year-on-year growth, standing at Rs 51,180 crore for the quarter.",
+      "source": "The Times of India",
+      "original_title": "[The Times of India] JSW Steel Q4 Results: Cons profit soars 11X YoY to Rs 16,370 crore, revenue rises 14%",
+      "context": "Context pending.",
+      "why_it_matters": "This huge profit jump shows that the steel industry is booming, likely due to strong demand from construction and manufacturing. It signals that big industrial players are in a very strong financial position right now.",
+      "other_side": "Critics might point out that such massive profits could be temporary if global demand drops or if raw material costs spike again. It also raises questions about whether these gains are sustainable long-term."
+    },
+    {
+      "headline": "Nuveen Deploys $500 Million Debt Facility for Clean Energy Startup",
+      "summary": "Clean-energy project finance startup secured a substantial $500 million debt facility from Nuveen Energy Infrastructure Credit. The funding is designated to support environmentally friendly projects, highlighting significant institutional capital flow into the green energy sector.",
       "source": "Financial Post",
-      "original_title": "[Financial Post] Carney’s Trade Push Beyond the US Is Just a Gold Rush, For Now — Prime Minister Mark Carney set an ambitious target last year for the country to double its non-US exports over the next decade, a goal that built on his election campaign pledge to make Canada’s economy less reliant on its southern neighbor.",
-      "context": "Canada shares a massive border with the United States, and for a long time, most of the goods Canada sells to other countries actually end up going south to American buyers. This heavy reliance on one neighbor makes Canada’s economy very sensitive to what happens in the US, so leaders want to find new customers in places like Europe and Asia to spread out that risk. However, critics point out that finding new trade partners is incredibly difficult because it takes years to build relationships and change laws, making this ambitious goal feel more like a hopeful dream than a realistic plan right now. It is essentially a wish list for future growth rather than a detailed roadmap for immediate success.",
-      "why_it_matters": "Canada is trying to sell more stuff to countries other than the US so it doesn't rely on just one neighbor. If this works, Canada becomes stronger and less vulnerable to changes in American policy.",
-      "other_side": "Critics say this plan is just a dream right now with no real steps to make it happen. They worry it wastes time and money without fixing the current economic problems."
+      "original_title": "[Financial Post] Nuveen Backs Startup With $500 Million of Funds for Clean Energy",
+      "context": "Context pending.",
+      "why_it_matters": "A major bank is putting half a billion dollars into clean energy projects, showing that big money is finally backing green technology seriously. This influx of cash helps speed up the shift away from fossil fuels and makes renewable projects easier to build.",
+      "other_side": "Skeptics worry that relying on debt to fund green projects adds financial risk if those projects fail to generate expected returns. There are also concerns about whether this capital is truly driving new innovation or just funding existing ideas."
     },
     {
-      "headline": "Willis Lease Faces Shareholder Inquiry Over Executive Compensation",
-      "summary": "Shareholders of Willis Lease (NASDAQ:WLFC) are being urged to contact BFA Law regarding an investigation into the company's board over executive compensation practices. This legal inquiry highlights growing scrutiny on corporate governance and executive pay structures within the leasing sector.",
+      "headline": "IRFC Reports Flat Q4 Profit Despite 9% Rise in Total Income",
+      "summary": "Indian Railway Finance Corporation (IRFC) posted a stagnant net profit of ₹1,684 crore for the fourth quarter. However, the company's total income grew by 9% to ₹7,329 crore for FY26, indicating divergent trends in revenue generation versus profitability.",
+      "source": "BusinessLine",
+      "original_title": "[BusinessLine] IRFC Q4 profit flat at ₹1,684 cr, total income up 9%",
+      "context": "Context pending.",
+      "why_it_matters": "The railway finance company made more money overall but didn't keep any extra profit, which suggests rising costs or interest payments ate up the gains. This highlights how difficult it is for large infrastructure firms to turn revenue into actual earnings.",
+      "other_side": "Supporters might say that keeping profits flat while growing income shows a commitment to stability rather than aggressive profit-seeking. However, investors may view this lack of profit growth as a sign of inefficiency."
+    },
+    {
+      "headline": "CFTC Issues No-Action Letter Easing Event Contract Reporting Rules",
+      "summary": "The Commodity Futures Trading Commission released a no-action letter providing relief from certain swap recordkeeping and data reporting requirements. This regulatory easing applies to fully collateralized event contracts for designated contracts markets and clearinghouses.",
+      "source": "Cointelegraph",
+      "original_title": "[Cointelegraph] CFTC no-action letter eases event contract reporting rules",
+      "context": "Context pending.",
+      "why_it_matters": "The government regulator is relaxing rules for certain financial bets on events, making it easier and cheaper for companies to operate. This could encourage more trading activity but also increases the risk of market manipulation or errors.",
+      "other_side": "Consumer protection groups often argue that easing rules reduces transparency and leaves regular people vulnerable to unfair practices. They believe strict reporting is necessary to keep markets honest and safe."
+    },
+    {
+      "headline": "MEXC Confirms Full Asset Backing in May 2026 Proof of Reserves",
+      "summary": "Digital asset exchange MEXC released its May 2026 Proof of Reserves report, independently audited by Hacken. The audit confirms that all major assets held by the exchange are fully backed, reinforcing transparency in its 0-fee trading model.",
+      "source": "PRNewswire",
+      "original_title": "[PRNewswire] MEXC Confirms Strong Asset Backing in Hacken-Audited May 2026 Proof of Reserves Report — VICTORIA, Seychelles, May 14, 2026 /PRNewswire/ -- MEXC, a pioneer in 0-fee digital asset trading, has released its May 2026 Proof of Reserves report, independently audited by Hacken. The report confirms that all major assets are fully backed, with reserve ra…",
+      "context": "Context pending.",
+      "why_it_matters": "A crypto exchange proving it has enough money to cover all user deposits helps rebuild trust in a shaky industry. When users know their funds are safe, they are more likely to use the platform, stabilizing the business.",
+      "other_side": "Even with proof of reserves, some experts warn that having the money doesn't guarantee it's easily accessible during a crisis. Past scandals show that audits can sometimes miss hidden problems or liquidity traps."
+    },
+    {
+      "headline": "Noah Holdings to Report Q1 2026 Unaudited Financial Results",
+      "summary": "Noah Holdings Limited, a leading wealth management service provider, announced it will release its first quarter 2026 unaudited financial results on May 27, 2026. The company offers comprehensive advisory services on global investment and asset allocation.",
+      "source": "PRNewswire",
+      "original_title": "[PRNewswire] Noah to Report First Quarter 2026 Unaudited Financial Results on May 27, 2026 — SINGAPORE, May 14, 2026 /PRNewswire/ -- Noah Holdings Limited (the \"Company\" or \"Noah\") (NYSE: NOAH and HKEX: 6686), a leading and pioneer wealth management service provider offering comprehensive advisory services on global investment and asset allocation pr…",
+      "context": "Context pending.",
+      "why_it_matters": "Wealth management firms like Noah are key players in helping everyday people invest their savings globally. Their upcoming results will show whether people are still confident enough to put money into complex investment plans.",
+      "other_side": "If profits drop, it could signal that investors are pulling back due to fear of market losses or economic uncertainty. This would suggest a broader trend of caution among average savers."
+    },
+    {
+      "headline": "Inflation Rate Rises as Petrol Prices Surge by 45c Per Litre",
+      "summary": "Recent data indicates an uptick in the inflation rate, largely driven by a 45-cent per litre increase in petrol prices compared to the previous year. More price rises are expected in the coming months, adding pressure to consumer costs.",
+      "source": "Independent.ie",
+      "original_title": "[Independent.ie] Inflation rate rises with a litre of petrol up 45c compared with last year",
+      "context": "Context pending.",
+      "why_it_matters": "Rising petrol prices are pushing up the cost of living, meaning families have less money for food, rent, and other essentials. This inflation can slow down spending and hurt small businesses that rely on customer traffic.",
+      "other_side": "Some economists note that higher fuel prices can encourage people to use public transport or drive less, which is good for the environment. But for most households, the immediate financial pain outweighs these long-term benefits."
+    },
+    {
+      "headline": "Teleradiology Market Projected to Grow at 21.53% CAGR Through 2031",
+      "summary": "The global teleradiology market is forecasted to expand significantly with a CAGR of 21.53% from 2025 to 2031. Growth is fueled by AI advancements and cloud-based solutions, with the services segment holding a dominant 70% market share.",
       "source": "GlobeNewswire",
-      "original_title": "[GlobeNewswire] Willis Lease Inquiry Alert: Current Shareholders are Urged to Contact BFA Law about its Investigation into the Board over Executive Compensation - NASDAQ:WLFC — Willis Lease Inquiry Alert: Current Shareholders are Urged to Contact BFA Law about its Investigation into the Board over Executive Compensation ...",
-      "context": "Willis Lease is a company that rents out airplane engines to airlines, which is a business that requires a lot of cash and careful management by its top bosses. Recently, regular people who own small pieces of the company (shareholders) are worried that the bosses might be paying themselves too much money without doing a good enough job managing the firm's risks. A law firm is stepping in to ask questions about whether the board of directors is being honest and fair with how they handle the company's money. This situation highlights a common tension in big businesses where owners want to make sure their leaders are working for them, not just for themselves.",
-      "why_it_matters": "People who own shares in Willis Lease are worried their bosses are taking too much money. This shows a growing trend where everyday investors are fighting back against unfair pay for company leaders.",
-      "other_side": "Some might argue that top executives deserve high pay to lead the company well. Others say this legal noise distracts from actually running the business better."
+      "original_title": "[GlobeNewswire] Teleradiology Research Report 2026: Global Market to Grow at a CAGR of 21.53% During 2025-2031 with Koninklijke Philips, Radiology Partners, and Teleradiology Solutions Leading — The global teleradiology market is set to expand at a CAGR of 21.53% from 2025 to 2031, driven by advancements in AI and cloud-based solutions. The services segment leads with a 70% market share, and ultrasound techniques dominate due to their cost-effectiven…",
+      "context": "Context pending.",
+      "why_it_matters": "The rapid growth of remote medical imaging means doctors can diagnose patients faster, even in remote areas. This technology saves lives by speeding up treatment and makes healthcare more accessible to everyone.",
+      "other_side": "Privacy advocates worry that storing sensitive medical images in the cloud creates risks for data breaches and hacking. There are also concerns about job security for traditional radiologists as AI takes over more tasks."
     },
     {
-      "headline": "Sportradar Investors Urged to Act Amid Securities Investigation",
-      "summary": "Investors who suffered losses following short seller claims against Sportradar (NASDAQ:SRAD) are being contacted by BFA Law regarding a pending securities investigation. This development underscores the financial risks and legal complexities associated with recent market volatility in the sports betting data sector.",
+      "headline": "Baby Food Market Set to Surpass $103 Billion by 2031",
+      "summary": "Global industry research projects the baby food market will grow from $74.33 billion in 2024 to over $103.01 billion by 2031. This strong growth trajectory reflects increasing demand and investment within the consumer goods sector.",
       "source": "GlobeNewswire",
-      "original_title": "[GlobeNewswire] Sportradar Inquiry Alert: Investors with Losses after Short Seller Claims are Urged to Contact BFA Law about its Pending Securities Investigation - NASDAQ:SRAD — Sportradar Inquiry Alert: Investors with Losses after Short Seller Claims are Urged to Contact BFA Law about its Pending Securities Investigation ...",
-      "context": "Sportradar is a tech company that provides data and information to sports betting companies, helping them know the score of games in real-time so they can set odds. Recently, a group called \"short sellers\" claimed that Sportradar was lying or hiding bad news about its business, which caused the stock price to crash and made investors lose money. Now, a law firm is reaching out to those investors to see if they want to sue the company for misleading them, which is a serious legal accusation known as a securities investigation. This story shows how quickly trust can break down in the stock market when people suspect a company isn't being transparent about its true health.",
-      "why_it_matters": "Investors in Sportradar are losing money and looking for help after bad reports hurt the stock price. This highlights how risky it can be to bet on new tech companies when rumors spread fast.",
-      "other_side": "Supporters might say the stock price drop was just normal market ups and downs. They could argue that suing over short seller claims slows down honest business criticism."
-    },
-    {
-      "headline": "Wells Fargo Warns AI Market is a 'Euphoric' Bubble",
-      "summary": "Wells Fargo strategist Ohsung Kwon describes the current AI investment landscape as a 'euphoric' bubble, advising investors to ride the trend until it pops while expecting limited downside. The warning reflects concerns that excessive concentration in AI assets is creating unsustainable market conditions.",
-      "source": "Fortune",
-      "original_title": "[Fortune] Wells Fargo: AI is a ‘euphoric’ bubble and investors should ride it until it pops — \"You can't own anything but AI—that's how a bubble forms. We expect limited downside,\" Ohsung Kwon says.",
-      "context": "Artificial Intelligence (AI) has become the hottest topic in investing, causing stock prices of AI-related companies to skyrocket as people rush to buy in before missing out on potential profits. Wells Fargo, a major bank, is warning that this excitement has gone too far and that prices are now higher than the actual value of these companies, creating a \"bubble\" that could burst suddenly. They suggest that while it might be tempting to keep buying, the risk of losing money is very high if everyone decides to sell at once. This warning reflects a classic pattern in finance where extreme greed drives prices up until reality sets in and causes a sharp drop.",
-      "why_it_matters": "A big bank warns that everyone is getting too excited about AI stocks, which could lead to a crash. This matters because if the bubble bursts, many people could lose their savings quickly.",
-      "other_side": "Some investors believe AI is truly changing the world and worth the high prices. They think the warning is just fear-mongering that ignores real technological progress."
-    },
-    {
-      "headline": "Tax Cuts Collide with Inflation as Voters Weigh Trump's Economy",
-      "summary": "Voters are grappling with the impact of working-class tax cuts amidst rising inflation as they prepare to weigh the economy in the midterms. Republicans are attempting to frame the 2025 law, dubbed by President Trump as his 'big beautiful bill,' as a key factor in their political strategy.",
-      "source": "Abcnews.com",
-      "original_title": "[Abcnews.com] Tax cuts collide with inflation as voters weigh Trump's economy in the midterms — Republicans want voters to think of working-class tax cuts when they weigh the economy and the 2025 law that President Donald Trump calls his “big beautiful bill.”",
-      "context": "The US government recently passed a new law that lowers taxes for many workers, which was championed by President Trump as a major victory for the economy. However, at the same time, the cost of everyday goods like food and gas has been rising, meaning people have less purchasing power despite having more take-home pay from taxes. Voters are now trying to figure out if the benefit of lower taxes outweighs the pain of higher prices when they go to the polls for midterm elections. This creates a confusing political landscape where economic policy feels good on paper but feels different in people's daily lives.",
-      "why_it_matters": "Voters are confused because taxes are lower but prices for goods are still going up. This mix of cheap taxes and expensive living will likely decide who wins the next big election.",
-      "other_side": "Politicians argue that lower taxes put more money in people's pockets overall. Critics say this ignores the fact that higher inflation hurts poor families the most."
-    },
-    {
-      "headline": "Nissan Reduces Losses and Expects Return to Profit",
-      "summary": "Japanese automaker Nissan has reported reduced losses for the fiscal year ending in March and projects a return to profitability. This financial turnaround signals potential stabilization for the automaker amid broader challenges in the global automotive industry.",
-      "source": "Abcnews.com",
-      "original_title": "[Abcnews.com] Japanese automaker Nissan reduces losses and expects to return to profit — Japanese automaker says it reduced losses for the fiscal year through March",
-      "context": "Nissan is a famous Japanese car maker that has been struggling for several years due to high costs, outdated designs, and strong competition from other global brands. For a long time, the company was losing money every year, which worried employees, investors, and customers about whether the brand would survive. Recently, they announced that they are losing less money than before and expect to start making a profit again soon, which suggests their new management strategies are finally starting to work. This turnaround is significant because it shows that even large, established companies can recover from difficult periods if they adjust their approach.",
-      "why_it_matters": "Nissan is finally turning a profit after losing money for a while, which is good news for workers and investors. This suggests the car industry might be stabilizing after a tough few years.",
-      "other_side": "Some doubt Nissan can keep making money long-term due to global competition. Others worry that past mistakes still haunt the brand's reputation."
-    },
-    {
-      "headline": "eToro Reiterates Crypto Commitment Despite Q1 Activity Drop",
-      "summary": "Despite a 32% drop in crypto derivatives trading and a 40% revenue decline in Q1, eToro CEO Yoni Assia remains bullish on cryptocurrency. He asserts the platform's commitment to the sector and predicts a return to all-time highs later this year.",
-      "source": "CoinDesk",
-      "original_title": "[CoinDesk] EToro reiterates commitment to crypto despite falling activity in Q1 — CEO Yoni Assia says he’s bullish on crypto and expects to see it back to all time highs this year even as crypto derivatives trading on eToro dropped by 32% and revenue by 40%.",
-      "context": "eToro is an online platform where regular people can buy and sell cryptocurrencies like Bitcoin, similar to how you might buy stocks. Even though fewer people are trading crypto derivatives (complex bets on future prices) and the company made less money in the first quarter, the CEO remains confident that crypto will eventually reach new highs again. He believes that the current drop in activity is just a temporary pause in a longer upward trend, so he wants his users to stay committed to the platform. This highlights the volatile nature of cryptocurrency markets, where prices and interest can swing wildly based on short-term trends versus long-term beliefs.",
-      "why_it_matters": "Even though fewer people are trading crypto on eToro right now, the boss believes it will boom again soon. This shows that some leaders are staying confident in digital money despite recent dips.",
-      "other_side": "Skeptics point out that falling revenue means people are losing interest or money. They warn that betting on a comeback could be dangerous if the trend doesn't reverse."
-    },
-    {
-      "headline": "US Releases 53.3M Barrels from Strategic Petroleum Reserve",
-      "summary": "The US has released 53.3 million barrels from its Strategic Petroleum Reserve, a move highlighting the impact of geopolitical tensions on global energy security. This action coincides with discussions between Trump and Xi Jinping regarding Iran and energy markets, potentially influencing economic stability.",
-      "source": "Crypto Briefing",
-      "original_title": "[Crypto Briefing] US releases 53.3M barrels from Strategic Petroleum Reserve as Trump discusses Iran and energy security with Xi Jinping — The SPR release highlights geopolitical tensions' impact on global energy security, potentially influencing economic stability and market dynamics.",
-      "context": "The Strategic Petroleum Reserve is a massive stockpile of oil that the US government keeps underground specifically for emergencies, such as wars or sudden shortages that drive up gas prices. By releasing 53.3 million barrels into the market, the US is trying to increase the supply of oil to lower prices and stabilize the global energy market during times of geopolitical tension. This move is often used as a tool to show strength and protect the economy from shocks caused by conflicts abroad, such as those involving Iran. It demonstrates how governments use physical resources to influence global politics and keep domestic fuel costs manageable.",
-      "why_it_matters": "The US is releasing huge amounts of stored oil to keep global energy prices stable during tense times. This move helps protect economies from sudden spikes in gas and heating costs.",
-      "other_side": "Some worry that using up reserves leaves the country unprepared for future emergencies. Others argue it might not stop prices from rising if global supply issues persist."
-    },
-    {
-      "headline": "South Korea Proposes 'Citizen Dividend' from AI Windfall",
-      "summary": "A South Korean official has proposed distributing AI-generated wealth to citizens through a 'national dividend,' sparking market anxiety. The suggestion to redistribute AI revenues has raised concerns about potential economic shifts and regulatory changes in the tech sector.",
-      "source": "Slashdot.org",
-      "original_title": "[Slashdot.org] South Korean official proposes 'citizen dividend' payouts from AI windfall — markets spooked by suggestion AI revenue should be redistributed to citizens — Kim Yong-beom, presidential chief of staff for policy, floated the idea of a \"national dividend\" in a Facebook post late Monday.",
-      "context": "South Korea is heavily invested in Artificial Intelligence technology, expecting it to generate huge amounts of wealth and boost its economy significantly. A government official recently suggested that instead of letting only tech companies keep all the profits from AI, the government should collect some of that wealth and distribute it directly to citizens as a \"dividend.\" This idea has scared investors because it implies that the government might tax tech companies more heavily or interfere with how they operate, which could reduce their profits. It raises a fundamental question about how societies should share the benefits of technological advancements between corporations and the general public.",
-      "why_it_matters": "South Korea wants to share the wealth created by AI robots directly with its citizens. This could change how societies handle technology by ensuring everyone benefits from automation.",
-      "other_side": "Businesses fear this idea will discourage innovation and investment in new tech. Critics say it might slow down economic growth by taxing success too heavily."
-    },
-    {
-      "headline": "Venture Global Secures LNG Supply Deal with TotalEnergies and Vitol",
-      "summary": "Venture Global has entered into offtake agreements to supply 1 million tonnes per annum of LNG to TotalEnergies and Vitol. These deals will be fulfilled using LNG produced from Venture Global's projects, marking significant commercial progress in the energy sector.",
-      "source": "Offshore Technology",
-      "original_title": "[Offshore Technology] Venture Global to supply 1mtpa of LNG to TotalEnergies and Vitol — Both the offtake deals will be fulfilled using LNG produced from Venture Global's projects.",
-      "context": "LNG stands for Liquefied Natural Gas, which is natural gas that has been cooled down until it turns into a liquid so it can be shipped across oceans in special tankers. Venture Global is a company that builds facilities to produce this gas, and they have signed agreements with two major international energy firms, TotalEnergies and Vitol, to sell them a large amount of LNG each year. These deals are important because they prove that Venture Global’s projects are ready to generate real revenue, not just theoretical plans. This represents a key step in the global energy transition, as countries look for cleaner-burning fuels like natural gas to replace coal and oil.",
-      "why_it_matters": "Big energy companies are locking in deals to buy large amounts of natural gas from a new supplier. This helps ensure there is enough fuel for homes and factories as the world shifts away from coal.",
-      "other_side": "Environmental groups argue that expanding natural gas use delays the switch to clean energy. They worry these long-term contracts lock in pollution for decades."
+      "original_title": "[GlobeNewswire] Baby Food Market to Surpass US$ 103.01 Billion by 2031 | Global Industry Research by The Insight Partners — Baby food market is on a strong growth trajectory, projected to rise from US$ 74.33 billion in 2024 to US$ 103.01 billion by 2031...",
+      "context": "Context pending.",
+      "why_it_matters": "The baby food industry is growing fast because parents are willing to spend more on healthy, convenient options for their kids. This trend reflects a broader shift toward premium, specialized products in daily life.",
+      "other_side": "Health experts often criticize baby food for being processed and lacking the nutritional benefits of homemade meals. They argue that the marketing drives unnecessary spending on products that aren't always healthier than fresh alternatives."
     }
   ]
 }

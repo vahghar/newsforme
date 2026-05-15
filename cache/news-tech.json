@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "World's First Manned Transforming 'Mecha' Robot Unveiled",
-      "summary": "A Chinese robotics firm has unveiled the world's first manned transforming robot, bridging the gap between science fiction and reality. This groundbreaking mechanical suit represents a significant leap in humanoid robotics and mechatronics engineering.",
-      "source": "Dailymail.com",
-      "original_title": "Real-life Pacific Rim! World's first manned transforming robot is unveiled - and it could be yours for $650,000",
-      "context": "For decades, giant robots have been a staple of Japanese anime and movies, capturing our imagination as powerful machines piloted by humans. In reality, building a suit that a person can wear and control is incredibly difficult because the human body is not designed to move like a machine, and balancing such heavy weight requires complex engineering. This new Chinese robot represents a major step forward in \"mechatronics,\" which is simply the combination of mechanical parts, electronics, and computer software working together. It shows that we are moving closer to a future where humans can physically interface with large machines, though it is still very far from the effortless movement seen in cartoons.",
-      "why_it_matters": "This robot looks like something from a movie, but it shows how fast our machines are getting smarter and more flexible. It could change jobs in factories or help in dangerous places where humans can't go safely.",
-      "other_side": "Some people worry these suits are too expensive to be useful. Others fear they might be used for military purposes instead of helping people."
+      "headline": "PortaRF Unifies HackRF and PortaPack with AI Voice Control",
+      "summary": "OpenSourceSDRLab has introduced the PortaRF, a single-board software-defined radio that integrates the HackRF One and PortaPack H4M into one standalone device. This new hardware supports transmitting and receiving radio signals from 1 MHz to 6 GHz and features AI voice control capabilities.",
+      "source": "CNX Software",
+      "original_title": "PortaRF single board SDR mixes HackRF One and PortaPack H4M hardware, adds AI voice control",
+      "context": "Software-defined radio is a technology that lets computers process radio signals instead of using traditional hardware, acting like a universal translator for wireless waves. The HackRF One is a popular, affordable tool that allows hobbyists to send and receive these signals, while the PortaPack is a handheld screen and battery pack that attaches to it. By combining them into one device with AI voice control, creators can now use their voice to command the radio, making it much easier to experiment with frequencies without needing a computer nearby. This unification simplifies the complex setup usually required for radio hacking and learning.",
+      "why_it_matters": "This new gadget makes it much easier for hobbyists to play with radio signals without needing a computer. It brings powerful tools into one small box, which could lead to more people learning how wireless technology works.",
+      "other_side": "Because this device can send and receive signals, there is a risk that people might use it to interfere with other electronics or break laws about radio usage."
     },
     {
-      "headline": "Škoda Warns of Data Breach Following Ecommerce Vulnerability",
-      "summary": "Automotive giant Škoda has issued a warning after a vulnerability in its online shop software allowed unauthenticated access to customer data. The incident highlights ongoing security challenges in automotive digital infrastructure and e-commerce platforms.",
+      "headline": "Apple Plans Curved Display Upgrade for 20th Anniversary iPhone",
+      "summary": "Reports indicate Apple is already developing a second iteration of the 'four-edge bending' display technology for its upcoming 20th-anniversary iPhone. This curved display design is expected to debut next year, following initial rumors about the device's screen specifications.",
+      "source": "MacRumors",
+      "original_title": "20th Anniversary iPhone's Curved Display to Improve a Year Later",
+      "context": "For two decades, Apple has relied on flat glass screens for its iPhones, creating a distinct rectangular shape that has become iconic in tech design. However, manufacturing curved screens is notoriously difficult because bending the delicate layers of glass and display panels without breaking them requires advanced engineering skills. As the company approaches its 20th anniversary, it aims to surprise fans by introducing a \"four-edge bending\" design, which curves the screen on all sides to create a seamless, futuristic look. This move represents a major shift in how smartphones are built, prioritizing aesthetic innovation over the familiar flat interface users have known for years.",
+      "why_it_matters": "A curved screen on an iPhone would make the phone look more modern and feel better in your hand. It shows Apple is pushing hard to make their devices stand out as they celebrate their 20th birthday.",
+      "other_side": "Some people worry that curved screens are fragile and might break easily if dropped. Others might find the shape uncomfortable to hold for long periods."
+    },
+    {
+      "headline": "AMDGPU Driver PR Prepares Linux 7.2 for HDMI 2.1 FRL",
+      "summary": "A new pull request for the AMDGPU/AMDKFD driver has been submitted to DRM-Next ahead of the Linux 7.2 kernel release. This update includes significant feature code aimed at enabling HDMI 2.1 Fixed Rate Link (FRL) support for compatible hardware.",
+      "source": "Phoronix",
+      "original_title": "New AMDGPU Driver Pull Request For Linux 7.2 Preps For HDML 2.1 FRL",
+      "context": "Linux is an open-source operating system used by many servers and developers, and its kernel is the core part that manages hardware communication. HDMI 2.1 is a modern video connection standard that allows for high-quality 4K or 8K video at very fast speeds, but older drivers often couldn't support its most advanced features like Fixed Rate Link. Fixed Rate Link is a method that stabilizes the data stream to prevent picture glitches during high-bandwidth transfers. By updating the AMD graphics driver code in the Linux kernel, developers are ensuring that future computers can fully utilize these high-speed video connections without stuttering or errors.",
+      "why_it_matters": "This update helps computers connect to high-quality TVs and monitors with better picture and sound. It ensures that Linux users can enjoy the latest video features without extra hassle.",
+      "other_side": "Older computers or screens might not support these new features, leaving some users behind. There could also be bugs in the new code that cause display issues for some users."
+    },
+    {
+      "headline": "Nvidia Surges as US Clears Chinese Firms for H200 AI Chips",
+      "summary": "Nvidia's stock rose in premarket trading after Reuters reported that the U.S. government has cleared approximately ten Chinese firms to purchase its H200 AI chips. This regulatory development contributes to Nvidia reaching a market valuation of $5.9 trillion.",
+      "source": "The Times of India",
+      "original_title": "S&P 500, Nasdaq futures rise to new highs as Nvidia jumps",
+      "context": "Nvidia makes the powerful computer chips that drive artificial intelligence, and these chips are in extremely high demand globally. The U.S. government previously restricted sales of its most advanced chips to China to maintain technological leadership, but recently allowed some companies to buy a slightly less powerful version called the H200. This decision relieved investors' fears that Nvidia was losing access to a massive market, causing its stock price to jump significantly. The approval highlights the delicate balance between national security concerns and the global business reality of supplying essential AI technology.",
+      "why_it_matters": "This news shows that big tech companies can still sell important chips to China despite government rules. It keeps the flow of money going for Nvidia and helps Chinese companies keep building AI tools.",
+      "other_side": "Critics argue that letting these chips through weakens national security and gives rivals an edge. It also raises questions about whether the rules are being enforced fairly."
+    },
+    {
+      "headline": "CMA Investigates Microsoft’s Business Software Ecosystem",
+      "summary": "The UK Competition and Markets Authority (CMA) has launched a strategic market status investigation into Microsoft. The probe aims to determine if Microsoft should be designated with strategic market status due to its dominance in the business software ecosystem.",
+      "source": "Www.gov.uk",
+      "original_title": "CMA launches strategic market status investigation into Microsoft’s business software ecosystem",
+      "context": "In the UK, the Competition and Markets Authority acts as a watchdog to ensure companies do not abuse their power to hurt consumers or other businesses. Microsoft dominates the market for business software, meaning most large companies rely on its products for daily operations. The CMA is now investigating whether this dominance gives Microsoft unfair advantages, such as bundling services together in ways that make it hard for competitors to survive. This probe is significant because it could lead to strict rules forcing Microsoft to change how it sells its software ecosystem to ensure fair competition.",
+      "why_it_matters": "The UK government is checking if Microsoft has too much power over business software. This could lead to stricter rules that force Microsoft to change how it sells its products.",
+      "other_side": "Microsoft argues that its software is just very good and popular, not unfair. They believe government interference could hurt innovation and raise prices for customers."
+    },
+    {
+      "headline": "Kymeta Partners with Red Cat for Autonomous Maritime Connectivity",
+      "summary": "Kymeta has joined the Red Cat Futures Initiative to enhance resilient connectivity for autonomous maritime operations. The partnership integrates Kymeta’s advanced communications technology into Blue Ops Variant 7 USVs, as demonstrated during exercises in Key West, Florida.",
+      "source": "GlobeNewswire",
+      "original_title": "Kymeta Joins Red Cat Futures Initiative to Advance Resilient Connectivity for Autonomous Maritime Operations",
+      "context": "Autonomous maritime operations involve using unmanned boats, known as Unmanned Surface Vehicles, to perform tasks like monitoring oceans or delivering goods without human pilots on board. These boats need reliable internet or satellite connections to receive commands and send back data, which is difficult to maintain in open water. Kymeta produces flat, lightweight satellite antennas that can connect to these boats easily, while Red Cat builds the autonomous vessels themselves. Their partnership ensures that these remote-controlled boats stay connected even in challenging environments, enabling safer and more efficient ocean operations.",
+      "why_it_matters": "This partnership helps unmanned boats stay connected even in rough seas. Better communication means these robots can work more safely and efficiently for shipping and research.",
+      "other_side": "Relying on remote connections can be risky if the signal drops or gets hacked. There are concerns about what happens if the technology fails during critical missions."
+    },
+    {
+      "headline": "Teleradiology Market Set to Grow Driven by AI and Cloud Solutions",
+      "summary": "The global teleradiology market is projected to expand at a CAGR of 21.53% from 2025 to 2031, fueled by advancements in artificial intelligence and cloud-based infrastructure. Philips and Radiology Partners are leading this growth, with the services segment holding a 70% market share.",
+      "source": "GlobeNewswire",
+      "original_title": "Teleradiology Research Report 2026: Global Market to Grow at a CAGR of 21.53% During 2025-2031 with Koninklijke Philips, Radiology Partners, and Teleradiology Solutions Leading",
+      "context": "Teleradiology is the practice of sending medical X-ray or scan images from one location to another for doctors to review remotely. Historically, this required complex physical infrastructure, but cloud computing now allows images to be stored and shared instantly over the internet. Artificial intelligence is further boosting this field by helping doctors spot abnormalities faster and more accurately than before. As healthcare systems adopt these digital tools, the market is growing rapidly because hospitals can share expertise across distances without needing expensive local equipment.",
+      "why_it_matters": "More people will be able to get medical scans read by doctors far away, especially in rural areas. AI will help spot problems faster, leading to quicker treatment for patients.",
+      "other_side": "Some worry that relying on AI for medical diagnoses could lead to mistakes if the software is wrong. There are also privacy concerns about storing sensitive health data in the cloud."
+    },
+    {
+      "headline": "Bluetti Launches Plug-and-Play Home Solar Power Systems",
+      "summary": "Bluetti has introduced a new 'plug-and-play' balcony solar system designed to simplify home solar power installation. The company claims this innovation addresses major barriers to adoption by making the setup process significantly easier for residential users.",
       "source": "TechRadar",
-      "original_title": "Škoda warns customers their data may have been breached following online shop hit",
-      "context": "Most people think of car companies as just manufacturers of metal vehicles, but modern cars are essentially computers on wheels that rely heavily on online stores for parts and services. When a company sells things online, they store personal information like names and addresses in digital databases, which are prime targets for hackers looking to steal data for identity theft or fraud. Škoda’s issue highlights a common problem where a small weakness in their website’s security code allowed strangers to bypass login protections and see private customer details. This incident serves as a reminder that even traditional industries must maintain strict digital hygiene to protect their customers from cybercrime.",
-      "why_it_matters": "This shows that even big car companies are not safe from online thieves stealing personal info. It reminds us that buying things online always carries a risk of our data being exposed.",
-      "other_side": "Critics say the company should have fixed the hole in their system before anyone got hurt. They argue that customers shouldn't have to worry about their privacy when shopping."
+      "original_title": "Bluetti says home solar power is now ‘plug-and-play’",
+      "context": "Traditional home solar power systems require professional installation, heavy wiring, and permits, which makes them expensive and difficult for renters or apartment dwellers to install. Bluetti’s new \"plug-and-play\" system simplifies this by creating a modular setup that connects directly to standard electrical outlets, similar to plugging in a lamp. This innovation removes the need for electricians and complex construction, allowing anyone to generate their own electricity on a balcony or small space. It represents a shift toward democratizing green energy by making it accessible to people who cannot install rooftop solar panels.",
+      "why_it_matters": "This system makes it super easy for regular homeowners to start using solar power. By removing the need for complex installation, more people can save money on electricity bills.",
+      "other_side": "Balcony solar systems might not generate enough power for large homes. Some renters or apartment dwellers might still face restrictions from landlords or building rules."
     },
     {
-      "headline": "T-Global Technology Partners with SiPearl for Next-Gen HPC Cooling",
-      "summary": "T-Global Technology has partnered with France's SiPearl to advance high-performance computing cooling technologies using two-phase liquid cooling modules. This collaboration aims to improve thermal management for next-generation HPC chips, addressing critical hardware efficiency issues.",
-      "source": "PRNewswire",
-      "original_title": "T-Global Technology Partners with France's SiPearl to Advance Next-Generation HPC Cooling Technologies",
-      "context": "High-performance computing involves using massive supercomputers to solve extremely difficult problems, such as modeling climate change or designing new medicines. These computers generate an enormous amount of heat because they are running thousands of processors at full speed, which can cause them to slow down or break if they get too hot. Traditional air cooling is often not enough for these next-generation chips, so engineers are turning to liquid cooling, which uses special fluids to absorb and carry away heat much more efficiently than air. This partnership aims to create better cooling systems to keep these powerful computers running smoothly without overheating.",
-      "why_it_matters": "Super-fast computers get very hot, so this new cooling method helps them run better without breaking. This means we can build smarter computers that solve harder problems faster.",
-      "other_side": "Some experts think liquid cooling is too complicated and costly for most businesses. They believe current air cooling is good enough for now."
+      "headline": "India’s EV Battery Demand Projected to Surge Tenfold by 2032",
+      "summary": "According to the Indian Electric Vehicle Society (IESA), India's electric vehicle battery demand is expected to increase tenfold to 200 GWh by 2032. This rapid growth highlights significant opportunities for component localization and supply chain development within the country.",
+      "source": "The Times of India",
+      "original_title": "India's EV battery demand to grow 10 times to 200 GWh by 2032: IESA",
+      "context": "India is rapidly adopting electric vehicles as part of its effort to reduce pollution and dependence on imported oil. Currently, the country lacks a massive domestic supply chain for the large batteries needed to power these cars, relying heavily on imports. The Indian Electric Vehicle Society predicts that demand will grow tenfold by 2032, which creates a huge opportunity for local manufacturers to build batteries within the country. This surge will likely transform India’s industrial landscape, encouraging investment in factories and technology to meet the exploding need for power storage.",
+      "why_it_matters": "India needs a huge amount of batteries for electric cars, which will boost local manufacturing jobs. This growth could make the country less dependent on importing parts from abroad.",
+      "other_side": "Mining materials for batteries can harm the environment and local communities. There is also a risk that the supply chain might not keep up with such fast demand growth."
     },
     {
-      "headline": "Wells Fargo Analysts Label AI Market a 'Euphoric' Bubble",
-      "summary": "Wells Fargo strategists have characterized the current AI investment landscape as a euphoric bubble, advising investors to ride the trend until it pops. This financial perspective on the tech sector underscores growing concerns about valuation sustainability in artificial intelligence stocks.",
-      "source": "Fortune",
-      "original_title": "Wells Fargo: AI is a ‘euphoric’ bubble and investors should ride it until it pops",
-      "context": "A financial \"bubble\" occurs when the price of something rises very quickly due to excitement and hype, rather than its actual long-term value or profit potential. The stock market has seen a huge surge in investment in artificial intelligence companies because everyone believes AI will change the world, leading to prices that some experts feel are unrealistically high. Wells Fargo analysts are warning that while AI is a promising technology, the current prices of these stocks might be inflated by pure enthusiasm rather than solid business results. Their advice suggests that investors should be careful, as the market could crash suddenly if the excitement fades or if companies fail to deliver on their promises.",
-      "why_it_matters": "This warning tells investors that AI stocks might be worth way more than they actually are. If the bubble bursts, people could lose a lot of money very quickly.",
-      "other_side": "Supporters say AI is the future and prices are high because the technology is truly revolutionary. They believe the hype is justified by real progress."
-    },
-    {
-      "headline": "Sony Xperia 1 VIII Debuts Major Redesign with Enhanced Telephoto Camera",
-      "summary": "Sony has unveiled the Xperia 1 VIII, featuring its first major physical redesign in years and a significantly more powerful telephoto camera system. Despite the hardware advancements, the flagship Android device remains unavailable for purchase in the US market.",
-      "source": "PCMag.com",
-      "original_title": "Sony Xperia 1 VIII Debuts Big Redesign, Adds More Powerful Telephoto Camera",
-      "context": "Smartphone cameras have become so advanced that many people no longer carry separate cameras, relying instead on their phones to take high-quality photos. Sony’s Xperia line is known for focusing heavily on camera quality, particularly \"telephoto\" lenses, which allow users to zoom in on distant subjects without losing clarity. The new model features a significant redesign and a much stronger zoom capability, aiming to compete with other top-tier phones like those from Apple and Samsung. However, despite these hardware improvements, Sony continues to struggle with sales in the United States, where consumers largely prefer iPhones or Samsung Galaxy devices.",
-      "why_it_matters": "Sony made a phone with a much better zoom camera, which is great for taking clear pictures of faraway things. However, US fans are left out because it won't be sold there.",
-      "other_side": "Many users feel ignored because major tech brands often skip the US market for new flagships. They argue that American customers deserve access to the best hardware too."
-    },
-    {
-      "headline": "Samsung Rolls Out Stable One UI 8.5 Update to Older Galaxy Devices",
-      "summary": "Samsung has officially released the stable One UI 8.5 update, bringing new features and performance improvements to previous-generation Galaxy smartphones. This software deployment extends the lifecycle and functionality of older devices through significant OS enhancements.",
-      "source": "Intomobile.com",
-      "original_title": "Samsung’s stable One UI 8.5 update officially lands on older Galaxy phones",
-      "context": "Smartphones typically receive software updates that add new features, fix bugs, and improve battery life, but older phones often stop getting these updates after a few years, making them feel slow or outdated. Samsung’s One UI is the custom software interface that runs on their Galaxy phones, and releasing a stable update for older models means they are extending the useful life of devices that might otherwise be discarded. This update brings modern features and performance boosts to previous-generation phones, allowing users to keep their current devices longer without needing to buy a new one. It reflects a growing industry trend toward supporting older hardware to reduce electronic waste and provide better value to customers.",
-      "why_it_matters": "Samsung is giving old phones new life with a software update, which saves money and reduces e-waste. It proves that older devices can still run smoothly and stay secure.",
-      "other_side": "Some critics say this is just a trick to make people keep using outdated phones longer. They argue it delays the need for everyone to buy newer models."
-    },
-    {
-      "headline": "Instructure Settles with Hackers After Massive Student Data Theft",
-      "summary": "Educational technology firm Instructure has reached a settlement with hackers responsible for a major breach of the Canvas platform. The incident exposed sensitive data from schools and universities, marking a significant cybersecurity failure in the ed-tech sector.",
-      "source": "Securityaffairs.com",
-      "original_title": "Instructure settles with hackers following massive student data theft",
-      "context": "Canvas is a widely used online platform that helps schools manage homework, grades, and communication between teachers and students, meaning it holds sensitive information about millions of young people. When hackers breach such systems, they can steal personal data, which can lead to serious privacy violations and potential risks for students and families. In this case, the company responsible for Canvas had to pay a settlement to the hackers, likely to prevent them from releasing more stolen data or causing further disruption. This event highlights the increasing vulnerability of educational technology and the critical need for schools to protect student information from cyberattacks.",
-      "why_it_matters": "Hackers stole private info from students and schools, showing how vulnerable education systems are. This forces schools to spend more money on security to protect kids' data.",
-      "other_side": "Some parents blame the school software company for not building a stronger digital wall. They feel that student safety should be the top priority over saving costs."
-    },
-    {
-      "headline": "YouTube Studio Experiences Outages and Errors for Creators",
-      "summary": "Creators are reporting intermittent 'Something Went Wrong' errors and operational issues within YouTube Studio, despite no widespread outage being confirmed. These technical glitches disrupt content management workflows for millions of users on the video platform.",
-      "source": "Ibtimes.com.au",
-      "original_title": "[Ibtimes.com.au] YouTube Studio Down for Creators? Latest Outage Reports, Fixes and What to Do on May 13, 2026",
-      "context": "YouTube Studio is the backend dashboard where content creators upload videos, check analytics, and manage their channels, serving as the central hub for millions of YouTubers. When creators report \"Something Went Wrong\" errors, it means the website is experiencing technical glitches that prevent them from accessing their tools or uploading new content. These intermittent issues can be frustrating because they disrupt the workflow of creators who rely on the platform for their livelihoods, even if the main video viewing site remains accessible. Such outages underscore the complexity of maintaining a global service that handles billions of requests every day.",
-      "why_it_matters": "When YouTube breaks, millions of creators can't manage their videos or earn money. This highlights how dependent artists are on just one big platform to survive.",
-      "other_side": "Some viewers don't care about the glitches as long as they can still watch videos. They think creators are too sensitive about minor technical hiccups."
-    },
-    {
-      "headline": "Lenzo Releases Critical Intel UHD Graphics Driver Updates for Windows",
-      "summary": "Lenovo has released new Intel UHD Graphics Driver versions (32.0.101.5972) for Windows 10, Windows 11, and Windows Server 2019. These updates are designed to fix various system issues, add new functions, and upgrade graphics performance for compatible Lenovo hardware.",
-      "source": "Softpedia.com",
-      "original_title": "Lenovo Intel UHD Graphics Driver 32.0.101.5972 for Windows 11 version 22H2",
-      "context": "Graphics drivers are small pieces of software that act as translators between your computer’s operating system and its graphics card, ensuring that images and videos display correctly on your screen. Intel UHD Graphics is a type of integrated graphics chip found in many everyday laptops, designed for basic tasks like web browsing and watching videos rather than high-end gaming. Lenovo released updates to these drivers to fix bugs, improve stability, and enhance performance, ensuring that users get the best possible visual experience from their hardware. Keeping these drivers up to date is essential for preventing screen glitches and ensuring that applications run smoothly.",
-      "why_it_matters": "Lenovo fixed bugs in their graphics drivers, making computers run smoother and look better. This small update helps users avoid crashes and enjoy clearer images on their screens.",
-      "other_side": "Tech enthusiasts often prefer waiting for bigger updates rather than fixing small glitches. They argue that constant minor patches can sometimes cause new problems."
-    },
-    {
-      "headline": "U.S.-China Tech Race Intensifies Amid Pentagon Budget Push",
-      "summary": "The U.S. is pushing for a massive 2027 Pentagon budget increase to modernize its high-tech military capabilities in response to China. This geopolitical maneuvering highlights the deepening technological rivalry and militarization of advanced tech resources between the two superpowers.",
-      "source": "Globalresearch.ca",
-      "original_title": "The U.S.-China Tech Race, Resource Wars, and the Cost of Militarization",
-      "context": "The United States and China are currently engaged in a intense competition to dominate emerging technologies like artificial intelligence, quantum computing, and advanced semiconductors. This rivalry is not just about economic power but also about national security, as both nations believe that controlling these technologies will give them a strategic military advantage. The U.S. Pentagon is seeking a larger budget to modernize its military capabilities, specifically to counter China’s rapid advancements in defense technology. This situation reflects a broader geopolitical shift where technological innovation is becoming a central front in international relations and potential conflict.",
-      "why_it_matters": "The US and China are racing to build the most advanced military tech, which increases global tension. This competition could lead to higher defense spending and more conflict worldwide.",
-      "other_side": "Some diplomats argue that cooperation between the two nations is better for world peace. They fear this arms race will drain money needed for social programs."
+      "headline": "New PyPI Package Adds Agent-Local SSH Orchestration Capabilities",
+      "summary": "A new package named portal-mcp-server has been added to PyPI, offering persistent bash, hash-protected editing, and SFTP capabilities. This tool enables multi-host orchestration over AsyncSSH, allowing agents to operate locally with enhanced security features.",
+      "source": "Pypi.org",
+      "original_title": "portal-mcp-server added to PyPI",
+      "context": "PyPI is a central library where programmers share Python software packages that others can download and use in their own projects. A new package called portal-mcp-server adds tools that allow automated computer programs, or agents, to securely log into multiple servers at once. This is useful for tasks that require managing several computers simultaneously, such as backing up data or running updates across a network. By adding security features like password protection and secure file transfer, the tool helps developers automate complex IT tasks safely without exposing sensitive information.",
+      "why_it_matters": "This tool helps computer programs talk to each other securely across different machines. It makes it easier for developers to manage multiple servers without typing commands manually.",
+      "other_side": "Giving programs automatic access to servers can be dangerous if the security is weak. Hackers could exploit these features to gain control over computer systems."
     }
   ]
 }
