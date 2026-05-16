@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "PortaRF Unifies HackRF and PortaPack with AI Voice Control",
-      "summary": "OpenSourceSDRLab has introduced the PortaRF, a single-board software-defined radio that integrates the HackRF One and PortaPack H4M into one standalone device. This new hardware supports transmitting and receiving radio signals from 1 MHz to 6 GHz and features AI voice control capabilities.",
-      "source": "CNX Software",
-      "original_title": "PortaRF single board SDR mixes HackRF One and PortaPack H4M hardware, adds AI voice control",
-      "context": "Software-defined radio is a technology that lets computers process radio signals instead of using traditional hardware, acting like a universal translator for wireless waves. The HackRF One is a popular, affordable tool that allows hobbyists to send and receive these signals, while the PortaPack is a handheld screen and battery pack that attaches to it. By combining them into one device with AI voice control, creators can now use their voice to command the radio, making it much easier to experiment with frequencies without needing a computer nearby. This unification simplifies the complex setup usually required for radio hacking and learning.",
-      "why_it_matters": "This new gadget makes it much easier for hobbyists to play with radio signals without needing a computer. It brings powerful tools into one small box, which could lead to more people learning how wireless technology works.",
-      "other_side": "Because this device can send and receive signals, there is a risk that people might use it to interfere with other electronics or break laws about radio usage."
+      "headline": "Microsoft Warns of Critical Exchange Zero-Day Flaw Under Active Attack",
+      "summary": "Microsoft has issued urgent mitigations for a high-severity vulnerability in Exchange Server that is currently being exploited in the wild. The flaw allows threat actors to execute arbitrary code via cross-site scripting, specifically targeting Outlook on the web users.",
+      "source": "BleepingComputer",
+      "original_title": "[BleepingComputer] Microsoft warns of Exchange zero-day flaw exploited in attacks — On Thursday, Microsoft shared mitigations for a high-severity Exchange Server vulnerability exploited in attacks that allow threat actors to execute arbitrary code via cross-site scripting (XSS) while targeting Outlook on the web users. [...]",
+      "context": "Imagine your email program is like a house, and hackers are trying to sneak in through a window they found unlocked. This \"zero-day\" flaw is a secret weakness in Microsoft Exchange Server that the company didn't even know about until hackers started using it, which is why it is called \"zero-day\" (because the company had zero days to fix it before the attack). The specific trick used here is called \"cross-site scripting,\" which is like a scammer slipping a fake note into your mailbox that looks real but actually contains instructions for a thief to steal your keys. Because this is happening \"in the wild,\" it means real criminals are actively breaking into people's accounts right now, so Microsoft is urgently telling everyone to patch their systems to lock that window.",
+      "why_it_matters": "This is a serious security warning. Hackers are actively using a hidden door in Microsoft's email system to steal data or take control of computers. If you use Outlook on the web, you need to update your software immediately to stay safe.",
+      "other_side": "Some users might find the urgent updates annoying or disruptive to their work. Others may worry that fixing this one hole could accidentally break other features in their email system."
     },
     {
-      "headline": "Apple Plans Curved Display Upgrade for 20th Anniversary iPhone",
-      "summary": "Reports indicate Apple is already developing a second iteration of the 'four-edge bending' display technology for its upcoming 20th-anniversary iPhone. This curved display design is expected to debut next year, following initial rumors about the device's screen specifications.",
-      "source": "MacRumors",
-      "original_title": "20th Anniversary iPhone's Curved Display to Improve a Year Later",
-      "context": "For two decades, Apple has relied on flat glass screens for its iPhones, creating a distinct rectangular shape that has become iconic in tech design. However, manufacturing curved screens is notoriously difficult because bending the delicate layers of glass and display panels without breaking them requires advanced engineering skills. As the company approaches its 20th anniversary, it aims to surprise fans by introducing a \"four-edge bending\" design, which curves the screen on all sides to create a seamless, futuristic look. This move represents a major shift in how smartphones are built, prioritizing aesthetic innovation over the familiar flat interface users have known for years.",
-      "why_it_matters": "A curved screen on an iPhone would make the phone look more modern and feel better in your hand. It shows Apple is pushing hard to make their devices stand out as they celebrate their 20th birthday.",
-      "other_side": "Some people worry that curved screens are fragile and might break easily if dropped. Others might find the shape uncomfortable to hold for long periods."
-    },
-    {
-      "headline": "AMDGPU Driver PR Prepares Linux 7.2 for HDMI 2.1 FRL",
-      "summary": "A new pull request for the AMDGPU/AMDKFD driver has been submitted to DRM-Next ahead of the Linux 7.2 kernel release. This update includes significant feature code aimed at enabling HDMI 2.1 Fixed Rate Link (FRL) support for compatible hardware.",
-      "source": "Phoronix",
-      "original_title": "New AMDGPU Driver Pull Request For Linux 7.2 Preps For HDML 2.1 FRL",
-      "context": "Linux is an open-source operating system used by many servers and developers, and its kernel is the core part that manages hardware communication. HDMI 2.1 is a modern video connection standard that allows for high-quality 4K or 8K video at very fast speeds, but older drivers often couldn't support its most advanced features like Fixed Rate Link. Fixed Rate Link is a method that stabilizes the data stream to prevent picture glitches during high-bandwidth transfers. By updating the AMD graphics driver code in the Linux kernel, developers are ensuring that future computers can fully utilize these high-speed video connections without stuttering or errors.",
-      "why_it_matters": "This update helps computers connect to high-quality TVs and monitors with better picture and sound. It ensures that Linux users can enjoy the latest video features without extra hassle.",
-      "other_side": "Older computers or screens might not support these new features, leaving some users behind. There could also be bugs in the new code that cause display issues for some users."
-    },
-    {
-      "headline": "Nvidia Surges as US Clears Chinese Firms for H200 AI Chips",
-      "summary": "Nvidia's stock rose in premarket trading after Reuters reported that the U.S. government has cleared approximately ten Chinese firms to purchase its H200 AI chips. This regulatory development contributes to Nvidia reaching a market valuation of $5.9 trillion.",
-      "source": "The Times of India",
-      "original_title": "S&P 500, Nasdaq futures rise to new highs as Nvidia jumps",
-      "context": "Nvidia makes the powerful computer chips that drive artificial intelligence, and these chips are in extremely high demand globally. The U.S. government previously restricted sales of its most advanced chips to China to maintain technological leadership, but recently allowed some companies to buy a slightly less powerful version called the H200. This decision relieved investors' fears that Nvidia was losing access to a massive market, causing its stock price to jump significantly. The approval highlights the delicate balance between national security concerns and the global business reality of supplying essential AI technology.",
-      "why_it_matters": "This news shows that big tech companies can still sell important chips to China despite government rules. It keeps the flow of money going for Nvidia and helps Chinese companies keep building AI tools.",
-      "other_side": "Critics argue that letting these chips through weakens national security and gives rivals an edge. It also raises questions about whether the rules are being enforced fairly."
-    },
-    {
-      "headline": "CMA Investigates Microsoft’s Business Software Ecosystem",
-      "summary": "The UK Competition and Markets Authority (CMA) has launched a strategic market status investigation into Microsoft. The probe aims to determine if Microsoft should be designated with strategic market status due to its dominance in the business software ecosystem.",
-      "source": "Www.gov.uk",
-      "original_title": "CMA launches strategic market status investigation into Microsoft’s business software ecosystem",
-      "context": "In the UK, the Competition and Markets Authority acts as a watchdog to ensure companies do not abuse their power to hurt consumers or other businesses. Microsoft dominates the market for business software, meaning most large companies rely on its products for daily operations. The CMA is now investigating whether this dominance gives Microsoft unfair advantages, such as bundling services together in ways that make it hard for competitors to survive. This probe is significant because it could lead to strict rules forcing Microsoft to change how it sells its software ecosystem to ensure fair competition.",
-      "why_it_matters": "The UK government is checking if Microsoft has too much power over business software. This could lead to stricter rules that force Microsoft to change how it sells its products.",
-      "other_side": "Microsoft argues that its software is just very good and popular, not unfair. They believe government interference could hurt innovation and raise prices for customers."
-    },
-    {
-      "headline": "Kymeta Partners with Red Cat for Autonomous Maritime Connectivity",
-      "summary": "Kymeta has joined the Red Cat Futures Initiative to enhance resilient connectivity for autonomous maritime operations. The partnership integrates Kymeta’s advanced communications technology into Blue Ops Variant 7 USVs, as demonstrated during exercises in Key West, Florida.",
-      "source": "GlobeNewswire",
-      "original_title": "Kymeta Joins Red Cat Futures Initiative to Advance Resilient Connectivity for Autonomous Maritime Operations",
-      "context": "Autonomous maritime operations involve using unmanned boats, known as Unmanned Surface Vehicles, to perform tasks like monitoring oceans or delivering goods without human pilots on board. These boats need reliable internet or satellite connections to receive commands and send back data, which is difficult to maintain in open water. Kymeta produces flat, lightweight satellite antennas that can connect to these boats easily, while Red Cat builds the autonomous vessels themselves. Their partnership ensures that these remote-controlled boats stay connected even in challenging environments, enabling safer and more efficient ocean operations.",
-      "why_it_matters": "This partnership helps unmanned boats stay connected even in rough seas. Better communication means these robots can work more safely and efficiently for shipping and research.",
-      "other_side": "Relying on remote connections can be risky if the signal drops or gets hacked. There are concerns about what happens if the technology fails during critical missions."
-    },
-    {
-      "headline": "Teleradiology Market Set to Grow Driven by AI and Cloud Solutions",
-      "summary": "The global teleradiology market is projected to expand at a CAGR of 21.53% from 2025 to 2031, fueled by advancements in artificial intelligence and cloud-based infrastructure. Philips and Radiology Partners are leading this growth, with the services segment holding a 70% market share.",
-      "source": "GlobeNewswire",
-      "original_title": "Teleradiology Research Report 2026: Global Market to Grow at a CAGR of 21.53% During 2025-2031 with Koninklijke Philips, Radiology Partners, and Teleradiology Solutions Leading",
-      "context": "Teleradiology is the practice of sending medical X-ray or scan images from one location to another for doctors to review remotely. Historically, this required complex physical infrastructure, but cloud computing now allows images to be stored and shared instantly over the internet. Artificial intelligence is further boosting this field by helping doctors spot abnormalities faster and more accurately than before. As healthcare systems adopt these digital tools, the market is growing rapidly because hospitals can share expertise across distances without needing expensive local equipment.",
-      "why_it_matters": "More people will be able to get medical scans read by doctors far away, especially in rural areas. AI will help spot problems faster, leading to quicker treatment for patients.",
-      "other_side": "Some worry that relying on AI for medical diagnoses could lead to mistakes if the software is wrong. There are also privacy concerns about storing sensitive health data in the cloud."
-    },
-    {
-      "headline": "Bluetti Launches Plug-and-Play Home Solar Power Systems",
-      "summary": "Bluetti has introduced a new 'plug-and-play' balcony solar system designed to simplify home solar power installation. The company claims this innovation addresses major barriers to adoption by making the setup process significantly easier for residential users.",
+      "headline": "Leaked Xbox Elite Series 3 and Cloud Controller Reveal New Hardware Designs",
+      "summary": "New leaks have exposed the designs for Microsoft's upcoming Xbox Elite Series 3 controller and a specialized cloud gaming controller. The Elite Series 3 features a removable battery, while the cloud controller sports an unconventional design aimed at enhancing remote play experiences.",
       "source": "TechRadar",
-      "original_title": "Bluetti says home solar power is now ‘plug-and-play’",
-      "context": "Traditional home solar power systems require professional installation, heavy wiring, and permits, which makes them expensive and difficult for renters or apartment dwellers to install. Bluetti’s new \"plug-and-play\" system simplifies this by creating a modular setup that connects directly to standard electrical outlets, similar to plugging in a lamp. This innovation removes the need for electricians and complex construction, allowing anyone to generate their own electricity on a balcony or small space. It represents a shift toward democratizing green energy by making it accessible to people who cannot install rooftop solar panels.",
-      "why_it_matters": "This system makes it super easy for regular homeowners to start using solar power. By removing the need for complex installation, more people can save money on electricity bills.",
-      "other_side": "Balcony solar systems might not generate enough power for large homes. Some renters or apartment dwellers might still face restrictions from landlords or building rules."
+      "original_title": "[TechRadar] Two new Xbox controllers have leaked online: an Xbox Elite Series 3 with a removable battery and an odd-looking cloud controller — The designs for two Xbox controllers have leaked online, offering a first look at Microsoft's new Xbox Elite Series 3 and a cloud gaming controller.",
+      "context": "For years, Xbox players have loved the \"Elite\" controllers because they feel more like professional sports equipment than standard game pads, offering extra buttons and better grips. These new leaks show two distinct paths: one version keeps the high-end gaming features but adds a removable battery so you don't have to wait hours to charge it, while the other is a weirdly shaped device made specifically for playing games over the internet rather than on a console. The cloud controller’s strange design is meant to make holding it comfortable when you are streaming games from a powerful computer to your living room screen. Essentially, Microsoft is trying to solve two different problems: making the best possible controller for hardcore gamers and creating a new tool for the future of internet-based gaming.",
+      "why_it_matters": "Gamers get better tools for playing games. The new controllers offer longer battery life and better comfort for long sessions. This pushes the industry to make hardware more convenient for everyone.",
+      "other_side": "Critics say these expensive upgrades are just a way to sell more gear. They argue that the core gaming experience hasn't really changed, so it is not worth the extra cost."
     },
     {
-      "headline": "India’s EV Battery Demand Projected to Surge Tenfold by 2032",
-      "summary": "According to the Indian Electric Vehicle Society (IESA), India's electric vehicle battery demand is expected to increase tenfold to 200 GWh by 2032. This rapid growth highlights significant opportunities for component localization and supply chain development within the country.",
+      "headline": "Rolling Stones Deploy Deepfake Technology for De-Aged Music Video",
+      "summary": "The Rolling Stones have utilized advanced deepfake technology to create de-aged versions of the band members in their latest music video. This marks a significant application of generative AI in mainstream music production and visual media.",
+      "source": "PetaPixel",
+      "original_title": "[PetaPixel] The Rolling Stones Use Deepfake Tech to De-Age Themselves in Music Video — The Rolling Stones' new music video features a de-aged version of the band created using deepfake technology.",
+      "context": "The Rolling Stones have been performing live for decades, and as the band members have aged, fans have noticed their appearance changing significantly on stage and in videos. To keep their visual brand consistent with their younger, iconic selves, they used \"deepfake\" technology, which is a type of artificial intelligence that can swap faces or alter appearances in video to look completely realistic. This isn't just about looking young; it represents a major shift in how music videos are made, moving from traditional filming to using generative AI to create visuals that didn't physically exist. This marks a controversial but significant moment where a legendary rock band embraces digital magic to preserve their legacy image for modern audiences.",
+      "why_it_matters": "AI is now being used to change how we see history and art. Bands can look young again without needing old footage. This opens up new creative possibilities but also raises questions about truth in media.",
+      "other_side": "Many people feel this is fake and disrespectful to the artists' real aging process. They worry that if we can fake faces in music videos, we might start faking them in news reports too."
+    },
+    {
+      "headline": "DJI Unveils Osmo Pocket 4P with Revolutionary Dual-Camera System",
+      "summary": "DJI has officially launched the Osmo Pocket 4P, introducing a dual-camera system for the first time in its popular pocket camera lineup. The new device aims to offer enhanced versatility and image quality for content creators.",
+      "source": "imaging resource",
+      "original_title": "[imaging resource] DJI Launches Osmo Pocket 4P With Dual Cameras at Cannes — Capping off a packed week of photography announcements, DJI has officially launched the Osmo Pocket 4P during the Cannes Film Festival in France. The new premium pocket camera introduces a dual-camera system for the first time in the Osmo Pocket lineup. The a…",
+      "context": "DJI is famous for making drones, but they also make small, handheld cameras called \"Osmo\" that are very popular with YouTubers and vloggers because they are easy to hold and stabilize. The new Osmo Pocket 4P is special because it is the first time DJI has put two cameras on this tiny device, allowing users to switch between different views without changing lenses. Having a dual-camera system means you can capture wide-angle shots of landscapes and close-up shots of people simultaneously or quickly swap between them for more creative freedom. This upgrade aims to give content creators professional-level versatility in a package that still fits in your pocket.",
+      "why_it_matters": "Making high-quality videos is getting easier for regular people. The new camera has two lenses, which means it can capture more angles at once. This helps creators make professional-looking content with less effort.",
+      "other_side": "Professional filmmakers might think this device is too simple for serious work. They may prefer larger, more complex cameras that offer more manual control over every detail."
+    },
+    {
+      "headline": "SmallRig Releases HawkLock Cage Kits for Canon EOS R6 V",
+      "summary": "SmallRig has launched a series of HawkLock Quick Release cage kits designed specifically for the Canon EOS R6 V camera. The kits offer modular configurations including top handles and V-mount battery plates to support professional videography workflows.",
+      "source": "Canonrumors.com",
+      "original_title": "[Canonrumors.com] SmallRig Launches Their HawkLock Cage Kits for the EOS R6 V — SmallRig has launched their HawkLock Quick Release cage kits for the Canon EOS R6 V. You have a choice between the cage on its own, a kit with a top handle and a third kit that includes the top handle as well as the V-mount battery plate. There is a small qua…",
+      "context": "Professional video cameras like the Canon EOS R6 V are expensive and complex tools that often need extra attachments to work properly in serious production environments. SmallRig makes \"cages,\" which are metal frames that wrap around the camera to provide mounting points for microphones, lights, and batteries, essentially turning a standalone camera into a complete studio rig. The new \"HawkLock\" kits use a quick-release system that lets filmmakers attach and detach these heavy accessories in seconds without needing tools, saving valuable time during shoots. This innovation helps videographers build custom setups tailored to their specific needs while keeping the camera secure and balanced.",
+      "why_it_matters": "Video makers can build custom setups that fit their specific needs. These kits let them attach batteries and handles easily. It makes filming smoother and more organized for pros.",
+      "other_side": "Beginners might find these add-ons confusing and too expensive. They may just want a simple camera without dealing with extra parts and wires."
+    },
+    {
+      "headline": "Bill Ackman Reveals Major New Investments in Microsoft Stock",
+      "summary": "Billionaire investor Bill Ackman disclosed significant new purchases of Microsoft stock across his hedge fund and closed-end fund. He cited the company's dominant positions in M365 and Azure as key drivers for his investment strategy.",
+      "source": "Business Insider",
+      "original_title": "[Business Insider] Billionaire investor Bill Ackman reveals new bets on Microsoft — Bill Ackman posted on X that he has purchased Microsoft stock for both his hedge fund and new closed-end fund, citing its ownership of M365 and Azure.",
+      "context": "Bill Ackman is one of the most famous investors in the world, known for picking stocks that he believes will make huge profits for his clients. He recently bought a large amount of Microsoft stock because he sees the company as a safe bet due to its dominance in two key areas: Microsoft 365, which is the software suite (like Word and Excel) that almost every business uses, and Azure, which is its cloud computing service that stores data and runs applications for other companies. By investing heavily, Ackman is signaling that he believes these core businesses will continue to grow steadily regardless of economic ups and downs. His move often influences other investors who look to him for guidance on which tech giants are truly solid long-term holds.",
+      "why_it_matters": "A famous investor is betting big on Microsoft's future success. He believes their cloud and office software will keep making money. This often makes other investors feel more confident about buying tech stocks.",
+      "other_side": "Some experts think Microsoft is already too big and expensive. They warn that buying stock now might be risky if the company slows down its growth in the future."
+    },
+    {
+      "headline": "Pershing Square Takes Stake in Microsoft Amid Tech Rally",
+      "summary": "Bill Ackman's Pershing Square hedge fund is set to disclose a new position in Microsoft, reinforcing confidence in the tech giant's market performance. This move aligns with broader institutional interest in major technology stocks.",
+      "source": "CNBC",
+      "original_title": "[CNBC] Ackman's Pershing Square takes stake in Microsoft — Bill Ackman's hedge fund Pershing Square will disclose a new ⁠position in Microsoft later in the day, the ​billionaire investor ​said on ​Friday.",
+      "context": "Pershing Square is the investment firm run by Bill Ackman, and when they buy stock in a major company, it is seen as a strong vote of confidence in that company's future. This news highlights that Ackman isn't just buying a little bit; he is taking a significant \"stake,\" meaning he owns a notable percentage of Microsoft shares. This happens during a broader trend where large institutional investors are piling money into big technology companies because they expect the tech sector to continue rising in value. It reinforces the idea that major financial players see Microsoft as a cornerstone of the modern economy, driven by its essential software and cloud services.",
+      "why_it_matters": "Big money is flowing into tech companies right now. When top investors buy shares, it shows they trust the market. This can help push stock prices up for everyone who owns them.",
+      "other_side": "Not everyone agrees that tech stocks are a safe bet. Some people fear a bubble is forming, meaning prices are too high and could crash soon."
+    },
+    {
+      "headline": "Rapido Secures $240 Million Funding Round to Expand Tech Infrastructure",
+      "summary": "Indian ride-hailing company Rapido has raised $240 million in a Prosus-led funding round, valuing the firm at $3 billion. The capital will be used to strengthen last-mile connectivity and invest heavily in technology and talent acquisition.",
+      "source": "BusinessLine",
+      "original_title": "[BusinessLine] Rapido bags $240 mn from Prosus-led round at $3bn valuation — The company plans to use the capital to expand across tier-II and smaller cities, strengthen its captain network, improve last-mile connectivity, and invest in technology, talent, and inclusivity initiatives, including onboarding more women captains",
+      "context": "Rapido is an Indian company similar to Uber or Lyft, but it originally focused on bike taxis, which are a popular and affordable way to get around crowded cities in India. They recently raised $240 million from investors, which values the entire company at $3 billion, showing that investors believe in its potential to grow even further. This money will be used to improve \"last-mile connectivity,\" which refers to solving the final part of a journey, such as getting someone from a bus stop to their home door, by expanding their network of bikes and cars. Additionally, they plan to hire more tech talent to build better apps and systems, aiming to become the leading transportation platform in the region.",
+      "why_it_matters": "India’s ride-hailing service is growing fast with new cash. This money will help improve apps and hire more staff. It shows that digital services are still expanding rapidly in emerging markets.",
+      "other_side": "Drivers and local workers might worry about job security or lower pay. Critics also point out that raising prices to cover costs could hurt everyday riders."
+    },
+    {
+      "headline": "Django Developers Survey 2026 Highlights Framework Trends",
+      "summary": "The Django Software Foundation has released the results of its 2026 Developer Survey, conducted in partnership with JetBrains. The report provides critical insights into the current state, usage patterns, and future directions of the Django web framework.",
+      "source": "Django-news.com",
+      "original_title": "[Django-news.com] Issue 337: Django Developers Survey 2026 — Will and Jeff are at PyCon US in Long Beach, California this week. Drop by the Django Software Foundation booth or the JetBrains booth and say hello. News Django Developers Survey 2026 The Django Software Foundation is once again partnering with JetBrains to…",
+      "context": "Django is a popular set of tools (called a framework) that programmers use to build websites quickly and efficiently, acting like a pre-built skeleton for web pages. The Django Software Foundation conducts an annual survey to ask developers how they are using the tool, what problems they face, and what features they want next. The 2026 results show trends in the coding community, such as whether more people are switching to newer technologies or sticking with Django because it is reliable. This report is crucial for understanding the health of the web development world, as it reveals what skills are in demand and how the industry is evolving year over year.",
+      "why_it_matters": "Web developers are sharing what tools they like best. This helps companies build better software based on real user habits. It guides the future of how websites are made.",
+      "other_side": "Some developers feel surveys ignore small but important issues. They may think the results only reflect popular trends and miss niche problems faced by smaller teams."
+    },
+    {
+      "headline": "Douglas Engelbart’s Legacy: How the Computer Mouse Changed Human-Computer Interaction",
+      "summary": "A retrospective on Douglas Engelbart’s visionary work from the 1960s highlights his creation of the computer mouse and collaborative editing systems. His innovations laid the foundational groundwork for modern interactive computing and user interface design.",
       "source": "The Times of India",
-      "original_title": "India's EV battery demand to grow 10 times to 200 GWh by 2032: IESA",
-      "context": "India is rapidly adopting electric vehicles as part of its effort to reduce pollution and dependence on imported oil. Currently, the country lacks a massive domestic supply chain for the large batteries needed to power these cars, relying heavily on imports. The Indian Electric Vehicle Society predicts that demand will grow tenfold by 2032, which creates a huge opportunity for local manufacturers to build batteries within the country. This surge will likely transform India’s industrial landscape, encouraging investment in factories and technology to meet the exploding need for power storage.",
-      "why_it_matters": "India needs a huge amount of batteries for electric cars, which will boost local manufacturing jobs. This growth could make the country less dependent on importing parts from abroad.",
-      "other_side": "Mining materials for batteries can harm the environment and local communities. There is also a risk that the supply chain might not keep up with such fast demand growth."
-    },
-    {
-      "headline": "New PyPI Package Adds Agent-Local SSH Orchestration Capabilities",
-      "summary": "A new package named portal-mcp-server has been added to PyPI, offering persistent bash, hash-protected editing, and SFTP capabilities. This tool enables multi-host orchestration over AsyncSSH, allowing agents to operate locally with enhanced security features.",
-      "source": "Pypi.org",
-      "original_title": "portal-mcp-server added to PyPI",
-      "context": "PyPI is a central library where programmers share Python software packages that others can download and use in their own projects. A new package called portal-mcp-server adds tools that allow automated computer programs, or agents, to securely log into multiple servers at once. This is useful for tasks that require managing several computers simultaneously, such as backing up data or running updates across a network. By adding security features like password protection and secure file transfer, the tool helps developers automate complex IT tasks safely without exposing sensitive information.",
-      "why_it_matters": "This tool helps computer programs talk to each other securely across different machines. It makes it easier for developers to manage multiple servers without typing commands manually.",
-      "other_side": "Giving programs automatic access to servers can be dangerous if the security is weak. Hackers could exploit these features to gain control over computer systems."
+      "original_title": "[The Times of India] In 1963, Douglas Engelbart imagined people physically controlling computers with their hands: And helped create the computer mouse — In the 1960s, Douglas Engelbart envisioned interactive computers. He developed the computer mouse, a wooden prototype with wheels, which allowed users to navigate screens with their hands. Engelbart also demonstrated collaborative editing and video conferenci…",
+      "context": "Douglas Engelbart was a visionary inventor in the 1960s who believed that computers should help humans think better together, not just do math faster. He invented the computer mouse, which replaced the difficult keyboard-only commands with a simple pointing device, allowing users to interact with screens visually. He also created early versions of collaborative editing, where multiple people could work on the same document at the same time, laying the groundwork for modern tools like Google Docs. His work fundamentally changed how we interact with technology, shifting computing from a niche activity for experts to an intuitive experience for everyone.",
+      "why_it_matters": "We owe our modern computers to one man’s idea from decades ago. The mouse changed how we talk to machines. Understanding this history helps us appreciate how far technology has come.",
+      "other_side": "Some argue that focusing on one person ignores the many others who helped. They believe technology grows from teamwork, not just single geniuses."
     }
   ]
 }
