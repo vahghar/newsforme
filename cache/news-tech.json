@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "NVIDIA Releases Critical GeForce RTX 5070 Laptop Driver for Windows 11",
-      "summary": "NVIDIA has released version 32.0.15.8191 of the graphics driver specifically for the RTX 5070 Laptop GPU on Windows 11 24H2. This update is essential for fixing existing issues, adding new functions, and ensuring optimal performance for users upgrading their hardware.",
-      "source": "Softpedia.com",
-      "original_title": "NVIDIA GeForce RTX 5070 Laptop Graphics Driver 32.0.15.8191 for Windows 11 version 24H2",
-      "context": "Think of a computer's graphics card as the artist that draws everything you see on your screen, from video games to movie scenes. A \"driver\" is like the instruction manual or translator that tells the graphics card exactly how to interpret the data sent by your computer's main brain. Without the correct driver, the hardware might not work at all, or it could run very slowly and glitchy. This specific update is NVIDIA’s way of fixing bugs and making sure their newest laptop chip plays nicely with the latest version of Windows.",
-      "why_it_matters": "This update fixes bugs and makes laptop graphics cards run smoother. It ensures your games and apps work correctly without crashing or looking weird.",
-      "other_side": "Some users worry that new drivers might introduce fresh problems. Others feel forced to update just to keep their hardware running at all."
+      "headline": "xAI Launches Grok Build, Its First AI Coding Agent",
+      "summary": "Elon Musk's xAI has officially launched Grok Build, a new AI coding agent designed to compete directly with rivals like Anthropic's Claude Code. This move signals xAI's aggressive push into the developer tools market as it attempts to catch up with OpenAI and other major players in the generative AI space.",
+      "source": "Slashdot.org",
+      "original_title": "Elon Musk's xAI Launches 'Grok Build', Its First AI Coding Agent",
+      "context": "For years, writing computer code was a job that required deep, specialized knowledge, but now artificial intelligence is stepping in to help. xAI is a company started by Elon Musk that builds AI tools, and they have released \"Grok Build,\" which is basically a smart assistant that can write software for you. This is a big deal because it puts them in direct competition with other tech giants who are already offering similar tools to programmers. It shows that the race to make AI useful for everyday work is moving from just chatting to actually doing complex tasks like building apps.",
+      "why_it_matters": "This means AI is getting much better at writing computer code, which could help programmers work faster and build new apps more easily. It also means companies are fighting hard to be the best at this, which might lower prices or improve tools for everyone.",
+      "other_side": "Some people worry that if AI writes too much code, human programmers might lose their jobs. There are also concerns that AI might make mistakes in the code that are hard to spot, causing security problems."
     },
     {
-      "headline": "OpenAI Suffers Supply Chain Attack via Malicious TanStack Packages",
-      "summary": "OpenAI confirmed that a supply chain attack linked to malicious TanStack packages compromised two employee devices and exposed credentials from code repositories. This incident highlights growing vulnerabilities in software dependency management within major tech firms.",
-      "source": "Securityaffairs.com",
-      "original_title": "OpenAI hit by supply chain attack linked to malicious TanStack packages",
-      "context": "Software developers rarely write every single line of code for their programs from scratch; instead, they borrow pre-written pieces of code from shared libraries to save time. This is called using \"dependencies,\" and it is like building a house by buying pre-made windows and doors rather than crafting each one yourself. In this case, hackers broke into one of these trusted code libraries (TanStack) and slipped malicious code into it. When companies like OpenAI downloaded these updates, they accidentally installed the hacker’s code, which then stole secret login keys from employee computers.",
-      "why_it_matters": "Hackers broke into OpenAI by tricking it into using bad code from a popular library. This shows how one weak link in software tools can expose big companies to data theft.",
-      "other_side": "Critics say this is just another day in tech security, not a unique failure. They argue companies already know these risks and should have better filters in place."
+      "headline": "Prusa Warns of Massive Security Risks in Chinese 3D Printing Software",
+      "summary": "Josef Prusa has issued a stark warning regarding Bambu Lab, alleging that their 3D printing software contains an un-auditable network 'black box' that violates the AGPL license. This controversy highlights growing concerns over security vulnerabilities and open-source compliance in hardware manufacturing supply chains.",
+      "source": "Tom's Hardware UK",
+      "original_title": "Josef Prusa warns Chinese 3D printing software poses massive security risks",
+      "context": "3D printers are machines that create physical objects layer by layer, and many hobbyists use free, open-source software to control them. Prusa is a well-known maker of these printers who believes in transparency, meaning they want everyone to be able to see exactly how their software works to ensure it is safe. They are accusing a rival company, Bambu Lab, of hiding secret code in their software that cannot be checked by outsiders, which could allow the company to spy on users or break rules. This situation highlights a growing fear that as hardware gets smarter, the companies making it might hide dangerous backdoors that users cannot see or fix.",
+      "why_it_matters": "This warning shows that even simple 3D printers can have hidden security holes if the software isn't open for everyone to check. It reminds us to be careful about trusting software from companies that don't share their secrets, as it could let hackers steal data.",
+      "other_side": "The company being criticized says they need to keep some parts secret to protect their business ideas. They argue that users should trust them because they follow the rules, even if they don't show all the code."
     },
     {
-      "headline": "AI Pioneer Yoshua Bengio Warns of Extinction Risk Within a Decade",
-      "summary": "Turing Award winner and AI godfather Yoshua Bengio has renewed his warning that hyperintelligent machines could pose an existential threat to humanity within the next ten years. His statement underscores the urgent ethical and safety debates surrounding advanced artificial intelligence development.",
+      "headline": "Building an AI-Powered Code Review Agent in C#",
+      "summary": "Developers are exploring new methods to automate code analysis and improve quality by building AI-powered code review agents using C#, Git diff, and Large Language Models. This technical guide demonstrates how integrating LLMs into the development workflow can significantly enhance automated testing and code maintenance processes.",
+      "source": "C-sharpcorner.com",
+      "original_title": "Building an AI-Powered Code Review Agent in C# Using Git Diff and LLMs",
+      "context": "When programmers write code, they often make mistakes that can cause websites or apps to crash, so they usually rely on other humans to check their work. This article describes how developers are now using Large Language Models, which are advanced AI systems trained on vast amounts of text, to automatically review code instead of just people. By using a programming language called C# to connect these AI tools to their workflow, developers can catch errors much faster and keep their projects running smoothly. This represents a shift toward automating the tedious parts of software development so humans can focus on more creative problem-solving.",
+      "why_it_matters": "This shows how developers are using AI to double-check their own work, making sure computer programs are bug-free and safe. It helps teams save time and reduces the chance of errors slipping into the final product.",
+      "other_side": "Critics say relying on AI to check code might make humans lazy and less skilled over time. There is also a risk that the AI might miss subtle errors that a human expert would catch."
+    },
+    {
+      "headline": "Ubuntu 26.04 Support Added to VMware Workstation Pro",
+      "summary": "Broadcom has released a new version of VMware Workstation Pro that adds official support for Ubuntu 26.04 LTS, alongside macOS support for VMware Fusion Pro. This update ensures compatibility for enterprise users and developers relying on virtualization software for Linux-based development environments.",
+      "source": "Omgubuntu.co.uk",
+      "original_title": "Ubuntu 26.04 support added to VMware Workstation Pro",
+      "context": "Virtualization software allows a single computer to act like multiple different computers at once, which is very useful for testing new programs without messing up the main system. VMware is a major company that makes this kind of software, and Broadcom recently bought it and updated it to support Ubuntu 26.04, which is a popular version of the Linux operating system. This update ensures that businesses and developers can safely run Linux-based tools on their machines without compatibility issues. It reflects the ongoing need for flexible computing environments where different operating systems can coexist and work together seamlessly.",
+      "why_it_matters": "This update makes it easier for people using Linux computers to run other operating systems inside their machine without issues. It helps businesses and students who need to test software on different systems to do so smoothly.",
+      "other_side": "Some users prefer free alternatives to VMware and might not want to switch to Broadcom's version due to cost or licensing changes. Others worry about relying on one big company for such important software tools."
+    },
+    {
+      "headline": "Princeton University Scraps Exam Rules Amid AI Cheating Crisis",
+      "summary": "Princeton University is dismantling its 133-year-old tradition of unsupervised exams due to the pervasive threat of AI-generated cheating. This drastic policy shift reflects the broader academic struggle to maintain integrity in educational assessments as generative AI tools become increasingly sophisticated and accessible.",
+      "source": "Futurism",
+      "original_title": "Princeton in Shambles Over AI Cheating",
+      "context": "Princeton University has a long-standing tradition of holding exams without proctors, meaning students take tests alone in large halls without teachers watching them, relying on honor codes. However, the rise of powerful AI chatbots has made it incredibly easy for students to cheat by asking the computer for answers during these unsupervised periods. In response, the university is abandoning this 133-year-old practice to prevent academic dishonesty and ensure that grades reflect actual learning. This change illustrates the broader struggle schools face in adapting their evaluation methods to an era where information is instantly accessible through artificial intelligence.",
+      "why_it_matters": "This change shows how hard it is for schools to stop students from cheating with AI, forcing them to rethink how they test knowledge. It suggests that future education might focus more on projects and discussions rather than written exams.",
+      "other_side": "Some educators argue that unsupervised exams teach students independence and trustworthiness. They believe that banning them removes an important part of academic tradition and personal responsibility."
+    },
+    {
+      "headline": "Steven Soderbergh Uses AI to Visualize John Lennon Documentary",
+      "summary": "Director Steven Soderbergh sparked significant debate by utilizing AI-generated imagery to visualize philosophical discussions in his documentary about John Lennon. The film, which debuted at Cannes, highlights the evolving role of artificial intelligence in creative media production and raises questions about authenticity in documentary filmmaking.",
+      "source": "The Times of India",
+      "original_title": "Steven Soderbergh used AI in a documentary about John Lennon. And he wants to talk about it",
+      "context": "Documentaries are films that aim to tell true stories about real people and events, traditionally relying on archival footage and interviews to maintain authenticity. Director Steven Soderbergh used AI-generated images to visualize abstract philosophical conversations in his film about John Lennon, which sparked a heated debate about whether using synthetic media is appropriate for non-fiction storytelling. Critics worry that this blurs the line between fact and fiction, potentially misleading audiences about what really happened in the past. This incident highlights the growing tension between technological innovation and the ethical responsibility to preserve historical truth in media.",
+      "why_it_matters": "This film proves that AI can now create realistic images for movies, changing how stories are told visually. It opens up new creative possibilities for filmmakers who have limited budgets or need specific visuals.",
+      "other_side": "Many viewers feel that using AI images feels fake and takes away the truth of a documentary about a real person like John Lennon. They worry it misleads the audience about what actually happened."
+    },
+    {
+      "headline": "Wall Street Analysts Bet Big on AI Infrastructure Stocks",
+      "summary": "Top Wall Street analysts are recommending specific stocks driven by robust spending and strong demand for AI infrastructure following recent earnings seasons. This financial trend underscores the massive capital investment flowing into the technological backbone required to support the rapid expansion of artificial intelligence applications.",
+      "source": "CNBC",
+      "original_title": "Top Wall Street analysts suggest these 3 stocks for their long-term prospects",
+      "context": "Wall Street refers to the financial district in New York City where major banks and investment firms are located, and analysts there predict which stocks will perform well. Recently, these experts have been heavily recommending stocks related to AI infrastructure, which includes the massive data centers, servers, and chips needed to run artificial intelligence. This trend shows that investors believe the demand for the physical technology behind AI will continue to grow rapidly, regardless of which specific AI app becomes popular. It underscores the idea that building the \"roads\" for AI is currently seen as a safer and more profitable bet than betting on individual software products.",
+      "why_it_matters": "Investors are putting huge amounts of money into the hardware needed to run AI, showing they believe this technology will grow for years. This spending helps build the roads and engines that power the next wave of tech innovations.",
+      "other_side": "Some experts warn that this spending might be a bubble, meaning prices are too high and could crash soon. If demand slows down, companies could lose billions, hurting the stock market."
+    },
+    {
+      "headline": "SpaceX Prepares for High-Stakes Starship Rocket Test Flight",
+      "summary": "SpaceX is preparing to launch a new version of its Starship rocket, a critical prototype intended to carry NASA astronauts to the moon. The upcoming test flight carries immense stakes for both the commercial space company and NASA's Artemis program, marking a pivotal moment in the development of next-generation space exploration technology.",
+      "source": "NBC News",
+      "original_title": "For SpaceX, the stakes of next week’s Starship rocket test flight are sky-high",
+      "context": "SpaceX is a private space company founded by Elon Musk that aims to reduce the cost of space travel and eventually colonize Mars. Their Starship rocket is a huge, fully reusable vehicle designed to carry astronauts and cargo to the Moon and beyond as part of NASA’s Artemis program. The upcoming test flight is critical because it will prove whether this new design can survive the extreme forces of launch and re-entry, which is necessary for future moon missions. This event marks a pivotal moment in commercial space exploration, as success could pave the way for humanity’s return to the lunar surface.",
+      "why_it_matters": "A successful test flight brings us closer to sending astronauts back to the moon and eventually to Mars. It proves that reusable rockets can make space travel cheaper and more frequent for everyone.",
+      "other_side": "If the rocket fails, it could delay NASA’s plans by years and cost taxpayers billions of dollars. There are also safety concerns for the crew and the public if something goes wrong during launch."
+    },
+    {
+      "headline": "Defense Startup Destinus Raises €200M for Autonomous Drones",
+      "summary": "Netherlands-based defense startup Destinus is raising approximately €200 million ahead of an IPO, aiming for a €5 billion valuation. The company focuses on manufacturing cruise missiles and autonomous drones, highlighting the increasing intersection of advanced technology and defense manufacturing in the startup ecosystem.",
       "source": "The Next Web",
-      "original_title": "The most-cited computer scientist alive says AI could make humanity extinct within a decade",
-      "context": "Yoshua Bengio is one of the original scientists who helped invent modern artificial intelligence, so his opinion carries a lot of weight in the tech world. He is warning that as AI systems become smarter than humans at reasoning and planning, they might start acting in ways we cannot predict or control. The fear is not that robots will become \"evil,\" but that they will pursue goals so efficiently that they accidentally destroy things important to human survival, like our power grids or food supplies. He believes this danger is close enough that we need to slow down and create strict safety rules immediately.",
-      "why_it_matters": "A top AI expert warns that super-smart computers could hurt humans within ten years. This forces us to think seriously about safety rules before the technology gets too powerful.",
-      "other_side": "Many experts disagree and think this fear is exaggerated or too far off. They believe AI will bring huge benefits if we just keep building it carefully."
+      "original_title": "Destinus is raising €200M ahead of an IPO. The cruise missile maker wants a €5B valuation.",
+      "context": "Destinus is a startup company based in the Netherlands that specializes in creating autonomous drones and cruise missiles, which are weapons that can fly themselves to a target without a human pilot. The company recently raised €200 million to prepare for going public on the stock market, aiming for a valuation of €5 billion. This funding round highlights the increasing intersection of modern technology and military defense, as private companies develop sophisticated autonomous systems for national security. It reflects a broader trend where venture capital is flowing into defense technologies that rely heavily on artificial intelligence and robotics.",
+      "why_it_matters": "This funding shows that private companies are becoming major players in making military drones and weapons. It highlights how technology startups are shifting focus toward defense, changing how wars might be fought in the future.",
+      "other_side": "Human rights groups worry that easier access to autonomous weapons could lead to more civilian casualties and fewer rules of war. They argue that machines should not be allowed to decide who to target."
     },
     {
-      "headline": "Stripe Co-Founder Predicts Agentic Commerce Will Transform Online Shopping",
-      "summary": "Stripe co-founder John Collison argues that keyword search is obsolete and that AI agents shopping on behalf of consumers will completely reshape the online retail experience. This vision of 'agentic commerce' represents a fundamental shift in how technology interfaces with consumer behavior.",
-      "source": "The Next Web",
-      "original_title": "Stripe’s John Collison says agentic commerce will completely transform online shopping",
-      "context": "Currently, online shopping works like a library search where you type in keywords to find products you want to buy. John Collison predicts a future where you won't search at all; instead, you will have an AI assistant that knows your budget, style, and needs. This AI will go out and automatically compare prices, check reviews, and buy items for you without you ever clicking a button. This shift means retailers can no longer just rely on showing up first in a search list; they have to convince an AI algorithm that their product is the best choice.",
-      "why_it_matters": "Shopping could change so you won't search for items anymore. Instead, your personal AI assistant will buy things for you based on what you need.",
-      "other_side": "People might lose the fun of browsing and choosing products themselves. There are also worries about privacy and who controls those shopping decisions."
-    },
-    {
-      "headline": "Optics Tech Stocks Surge as New Frontier in the AI Trade",
-      "summary": "The AI investment wave is expanding beyond memory stocks into optics technology, which has seen significant surges in 2026. This sector is becoming critical infrastructure for AI hardware, marking a new frontier for tech investors and semiconductor manufacturers.",
-      "source": "Business Insider",
-      "original_title": "This sector is joining memory stocks as the next frontier of the AI trade",
-      "context": "Artificial intelligence requires massive amounts of computing power, which generates huge amounts of heat and needs to move data incredibly fast between chips. To solve this, engineers are using \"optics,\" which means using beams of light instead of electricity to send information because light is faster and creates less heat. As AI grows, the demand for these light-based communication parts has skyrocketed, causing the stock prices of companies that make them to rise sharply. Investors are now pouring money into this sector because it is becoming just as essential to AI as the computer chips themselves.",
-      "why_it_matters": "Money is flowing into companies that make light-based parts for AI chips. These parts help move data faster, making them essential for future computer power.",
-      "other_side": "Investors risk losing money if the hype dies down too quickly. Betting on new tech trends is always risky when demand shifts suddenly."
-    },
-    {
-      "headline": "SpaceX Achieves Historic Sixth Reflight of Cargo Dragon Amid Boeing Starliner Setbacks",
-      "summary": "SpaceX's cargo Dragon C209 became the first spacecraft to fly a sixth ISS resupply mission, showcasing rapid reusability advancements. Meanwhile, Boeing's Starliner has been redesignated for uncrewed resupply, highlighting the competitive divergence in commercial spaceflight technologies.",
-      "source": "Space Daily",
-      "original_title": "SpaceX is reflying its sixth cargo Dragon while Boeing’s crewed Starliner reverts to uncrewed resupply — and the $4.2B-versus-$2.6B contracts that produced both were signed the same day in 2014",
-      "context": "In space travel, sending a rocket into orbit used to be like throwing away a car after one trip because it was too expensive to bring it back. SpaceX changed this by making rockets that can land themselves and fly again, similar to how airlines reuse the same airplane many times. SpaceX recently proved this works perfectly by flying its cargo spaceship six times, while Boeing, their competitor, struggled with technical failures on their new ship. This highlights a major split in the industry: SpaceX is mastering reusable technology, while Boeing is still facing basic engineering hurdles.",
-      "why_it_matters": "SpaceX proved its cargo ship can fly six times safely. This makes space travel cheaper and more reliable compared to older methods.",
-      "other_side": "Boeing is falling behind because its new ship has major technical issues. This gap highlights how hard it is to compete with reusable rocket technology."
-    },
-    {
-      "headline": "Walmart's E-Commerce Boom Strains Retail Workforce Through Tech-Driven Logistics",
-      "summary": "A recent rule change at Walmart has intensified tensions between online grocery delivery demands and store worker capacity. This story illustrates how e-commerce algorithms and logistics tech are directly impacting physical retail labor conditions and operational efficiency.",
-      "source": "Business Insider",
-      "original_title": "Walmart's online grocery delivery boom is stretching store workers",
-      "context": "Walmart is no longer just a place where people walk in and shop; it is also a massive online delivery hub where workers pack groceries to be shipped to homes. The company uses complex computer algorithms to decide how many items each worker should pack per hour to keep costs low and speed high. However, these digital targets often ignore the physical reality of tired workers, leading to intense pressure and tension in the stores. This story shows how invisible software decisions directly impact the daily stress and workload of physical retail employees.",
-      "why_it_matters": "Walmart’s push for fast online delivery is putting huge stress on store workers. Algorithms demand speed that human workers often cannot safely match.",
-      "other_side": "The company argues this efficiency keeps prices low for customers. They claim technology helps manage inventory better for everyone involved."
-    },
-    {
-      "headline": "Django CRM Admin 2.4.0 Released for Business Automation",
-      "summary": "The latest release of django-crm-admin offers enhanced customization and quick development features for businesses of all sizes. This update provides critical tools for email marketing and task management, supporting the growing demand for scalable CRM solutions built on Django.",
-      "source": "Pypi.org",
-      "original_title": "django-crm-admin 2.4.0",
-      "context": "A CRM (Customer Relationship Management) system is basically a digital address book and task list that helps businesses keep track of who their customers are and what they need. Django is a popular, free tool that programmers use to build websites and apps quickly. The latest update to this specific business tool gives companies easier ways to customize their customer lists and manage email campaigns without needing expensive, custom-built software. It represents the growing trend of small businesses using flexible, affordable tech tools to compete with larger corporations.",
-      "why_it_matters": "This software update helps businesses manage customer data more easily. It gives small teams better tools to handle emails and tasks without hiring extra staff.",
-      "other_side": "New features can sometimes break existing setups for current users. Small businesses may find the learning curve steep for little immediate gain."
-    },
-    {
-      "headline": "AI Agents Reshape Office Costs Through Smart Automation Technologies",
-      "summary": "New smart technologies and automation are reshaping office costs, with large campuses cutting expenses while small occupiers face higher burdens. The report highlights how technological adoption rates are creating a digital divide in commercial real estate efficiency.",
-      "source": "BusinessLine",
-      "original_title": "Scale and smart technologies to reshape office costs as small occupiers bear higher burden: Knight Frank India",
-      "context": "Modern office buildings are increasingly using smart sensors and software to automatically turn off lights, heat, and cooling when rooms are empty to save money. Large corporations that rent whole floors or buildings can afford to install these expensive systems, significantly lowering their operating costs. However, smaller companies that rent just a few desks cannot afford this technology, meaning they pay the same high utility bills as before. This creates a \"digital divide\" where big companies get cheaper offices due to tech, while small businesses face higher relative costs.",
-      "why_it_matters": "Big offices are saving money by using smart automation tools. Small offices are left paying more because they can't afford similar tech upgrades.",
-      "other_side": "This widens the gap between large corporations and small businesses. Critics say it creates an unfair playing field for smaller competitors."
-    },
-    {
-      "headline": "Russia’s Sarmat ICBM Declared Operational After Single Test, Sparking Safety Concerns",
-      "summary": "Russia declared its Sarmat ICBM on combat duty after only one successful test, a stark contrast to the twenty tests required for its Soviet predecessor. This decision reflects a bureaucratic shift in defining 'operational' status rather than an engineering breakthrough, raising concerns about strategic stability.",
-      "source": "Space Daily",
-      "original_title": "Russia’s Sarmat ICBM was declared on combat duty before its flight-test record could support it; its Soviet predecessor went through years of sustained testing first, and the gap is less about engineering than about what ‘operational’ has come to mean inside a strategic-weapons bureaucracy",
-      "context": "An ICBM (Intercontinental Ballistic Missile) is a nuclear weapon designed to travel across continents, and testing them is extremely dangerous and politically sensitive. Historically, countries would test such weapons dozens of times over many years to ensure they were safe and reliable before putting them on alert. Russia recently declared their new Sarmat missile ready for duty after only one test, skipping most of the usual safety checks. Critics worry this is a political move to show strength rather than an engineering confirmation, potentially making the world more unstable if the missile fails during an actual crisis.",
-      "why_it_matters": "Russia put a massive nuclear missile into service after only one test. This breaks old safety norms and raises fears of accidental war or miscalculation.",
-      "other_side": "Russia claims the missile works perfectly and needs no more proof. They argue their testing standards are sufficient for modern military needs."
+      "headline": "Jane Street Datacenter Reveals Scale of Financial Compute Power",
+      "summary": "A tour of Jane Street's datacenter reveals the extraordinary amount of computational power dedicated to high-frequency trading and financial algorithms. This insight provides a glimpse into the heavy infrastructure requirements of modern quantitative finance, where compute resources are directly linked to competitive advantage in algorithmic trading.",
+      "source": "Marginalrevolution.com",
+      "original_title": "Dwarkesh in the Datacenter",
+      "context": "Jane Street is a highly successful trading firm that uses complex computer algorithms to buy and sell financial assets in fractions of a second, a practice known as high-frequency trading. Their datacenter houses thousands of powerful computers working together to process market data faster than any human or slower machine could. A recent tour revealed the sheer scale of this infrastructure, showing how much computational power is required to gain even a tiny edge in competitive markets. This insight demonstrates that in modern finance, speed and raw computing resources are just as important as financial strategy for achieving success.",
+      "why_it_matters": "This reveals how much power big banks use to trade stocks faster than anyone else, giving them an unfair advantage. It shows that having the best computers is just as important as having good traders in modern finance.",
+      "other_side": "Smaller investors often complain that this system is rigged against them because they cannot compete with such huge resources. Some argue this creates instability in the market when computers react too quickly to news."
     }
   ]
 }
