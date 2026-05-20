@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "Bitcoin Plunges Below $77K as $672M in Crypto Liquidations Triggered by Bond Sell-Off",
-      "summary": "Bitcoin's price dropped below the $77,000 mark as massive liquidations totaling over $672 million swept the crypto market. This volatility was largely driven by a broader sell-off in government bonds, highlighting the increasing transmission of geopolitical and macroeconomic shocks through institutional ETF flows.",
-      "source": "Decrypt",
-      "original_title": "Bitcoin Slides Under $77K as Crypto Liquidations Top $672M Amid Bond Sell-Off",
-      "context": "Imagine the crypto market as a high-stakes casino where many people borrow money to bet on prices going up, a practice called \"leveraging.\" When the price of Bitcoin drops even slightly, these borrowers get forced to sell their assets to pay back their loans, which causes the price to drop further in a domino effect known as liquidation. This specific crash happened because investors were scared by changes in government bond markets, which are essentially loans people give to governments; when those become risky or less profitable, money flows out of risky bets like crypto. Essentially, big institutional players moved their money away from digital coins because they saw warning signs in the traditional financial system, triggering a chain reaction that wiped out hundreds of millions in leveraged bets.",
-      "why_it_matters": "Bitcoin prices are dropping fast because big investors are selling off government bonds. This shows that when the regular stock and bond markets get shaky, crypto gets hit hard too. It means your digital money is not as safe or separate from the rest of the economy as some people think.",
-      "other_side": "Some traders see this drop as a good chance to buy Bitcoin cheaply. They believe the price will bounce back up soon once the panic settles down."
-    },
-    {
-      "headline": "Standard Chartered Acquires Full Control of Zodia Custody’s Digital Asset Business",
-      "summary": "Standard Chartered has moved to take full control of Zodia Custody’s digital asset operations, significantly enhancing its competitive position in the institutional crypto custody sector. This strategic acquisition aligns with tightening regulatory trends and growing demand for secure digital asset management among institutional investors.",
-      "source": "Crypto Briefing",
-      "original_title": "Standard Chartered moves to take full control of Zodia Custody’s digital asset business",
-      "context": "In the world of cryptocurrency, holding onto your digital coins safely is a huge challenge because if you lose your private password keys, your money is gone forever, unlike a bank account you can recover. To solve this, specialized companies called \"custodians\" act like ultra-secure vaults for large investors who don't want to manage the security themselves. Standard Chartered, a massive traditional bank, bought out Zodia’s digital asset division to take full control of this secure storage service, signaling that big banks are finally ready to compete directly with crypto-native firms. This move helps bridge the gap between old-school finance and new digital assets, giving large institutions a trusted partner to hold their crypto while strict new rules make it harder for smaller, less regulated platforms to operate.",
-      "why_it_matters": "A major bank is taking over a crypto storage service to keep digital assets safe. This makes it easier for big companies to use cryptocurrency without fear of losing their money. It helps bring more serious, large-scale money into the crypto world.",
-      "other_side": "Critics worry that big banks making rules for crypto could stifle innovation. They fear that strict bank controls might make it harder for everyday people to use these technologies freely."
-    },
-    {
-      "headline": "Global Bond Markets Buckle as Investors Flee UK and US Government Debt",
-      "summary": "Government bonds across major economies are experiencing significant pressure, pushing borrowing costs to multi-year highs. Investors are selling off debt from both the UK and US due to mounting concerns over war-driven inflation and unsustainable government spending levels.",
-      "source": "Financial Post",
-      "original_title": "Reasons Why Investors Are Selling Government Bonds From UK to US",
-      "context": "Government bonds are basically IOUs that countries issue to borrow money from investors to fund things like roads, schools, and military spending. When investors feel worried about a country’s ability to pay back its debts or fear that inflation (rising prices) will eat away at their returns, they stop buying these bonds and start selling them. This recent sell-off in the UK and US happened because people are stressed about global conflicts driving up costs and governments spending too much money, making them demand higher interest rates to lend cash again. As borrowing costs rise, it becomes more expensive for everyone else, from homeowners getting mortgages to businesses expanding, creating a ripple effect of economic pressure across the globe.",
-      "why_it_matters": "Countries are finding it much more expensive to borrow money right now. This happens because investors are scared of high inflation and too much government spending. Higher borrowing costs can slow down economic growth and make loans pricier for everyone.",
-      "other_side": "Some economists argue that higher interest rates are necessary to stop prices from rising too fast. They believe this pain is needed to keep the economy stable in the long run."
-    },
-    {
-      "headline": "IMF Warns UK to Maintain Fiscal Discipline Amid Political Uncertainty",
-      "summary": "The International Monetary Fund has urged the UK government to adhere strictly to its fiscal plan to reduce borrowing, warning that there is limited room for tax increases. This advice comes as political rivals challenge Prime Minister Keir Starmer’s premiership, raising fears of potential shifts in economic policy.",
-      "source": "Financial Post",
-      "original_title": "IMF Tells UK to Stick to Fiscal Plan as Starmer Rivals Circle",
-      "context": "The International Monetary Fund (IMF) acts like a global financial doctor, watching over countries' economies to prevent crises and suggesting how they should manage their budgets. In this case, they are telling the UK government to stick to a strict plan of reducing debt because the country is already spending more than it earns, leaving little room to raise taxes without hurting citizens. This advice comes at a tense time when political opponents are challenging the current Prime Minister, raising fears that economic policies might change unpredictably. If the government wavers from its fiscal discipline during such uncertainty, investors might lose confidence, leading to higher borrowing costs and potential instability in the UK’s economy.",
-      "why_it_matters": "The UK government is being told to stick to its budget plan despite political fights. If they spend too much or raise taxes unexpectedly, it could hurt the country's credit rating. This pressure aims to keep the economy predictable for businesses and citizens.",
-      "other_side": "Political opponents argue that the current plan is too harsh on ordinary people. They believe the government should spend more to help those struggling with the cost of living."
-    },
-    {
-      "headline": "Abaxx Exchange Launches Silver Singapore Futures Contract",
-      "summary": "Abaxx Exchange is set to launch its Silver Singapore futures contract on May 22, 2026, targeting the industrial silver market. The new contract will be a 1,000 oz, four-nines purity silver instrument, providing new hedging and investment opportunities for participants in the commodities market.",
+      "headline": "YieldMax ETFs Announces Weekly Distributions for Group 1 ETFs",
+      "summary": "YieldMax ETFs has officially announced the weekly distribution schedules for its Group 1 Exchange Traded Funds. This update is critical for income-focused investors relying on these high-yield products for regular cash flow and portfolio management.",
       "source": "GlobeNewswire",
-      "original_title": "Abaxx to Launch Silver Singapore Futures on May 22, 2026",
-      "context": "Futures contracts are agreements made today to buy or sell a commodity, like silver, at a specific price on a future date, which helps businesses protect themselves against price swings. Abaxx Exchange is launching a new contract specifically for high-purity industrial silver, which is crucial for manufacturing electronics and solar panels, not just jewelry. By offering a standardized way to trade silver futures, they provide factories and investors with a tool to lock in prices and manage risk, ensuring they aren’t caught off guard by sudden shortages or spikes in cost. This development expands the options available to traders who want to bet on or hedge against the industrial demand for silver rather than just its value as a precious metal.",
-      "why_it_matters": "A new way to trade silver futures is launching, giving investors more tools. This allows companies to protect themselves against sudden changes in silver prices. It adds another option for people who want to invest in industrial metals.",
-      "other_side": "New financial products can be confusing and risky for average investors. There is a concern that complex contracts might lead to unexpected losses if not understood well."
+      "original_title": "[GlobeNewswire] YieldMax® ETFs Announces Weekly Distributions for Group 1 ETFs — YieldMax ETFs Announces Weekly Distributions for Group 1 ETFs...",
+      "context": "Context pending.",
+      "why_it_matters": "This gives people who invest for steady income a clear schedule for when they get paid. It helps them plan their monthly budgets and know exactly when cash will hit their accounts.",
+      "other_side": "High payouts often mean the fund is selling off assets or paying out more than it earns, which can shrink the total value of the investment over time. Investors might be tempted by the big checks but lose money on the principal."
     },
     {
-      "headline": "Bitget Completes Key Regulatory Registrations to Enter Mexican Market",
-      "summary": "Cryptocurrency exchange Bitget has successfully completed essential registrations with Mexico’s tax authority (SAT) and financial intelligence unit (UIF). This regulatory compliance allows Bitget to operate legally within Mexico’s virtual asset framework, expanding its global footprint in Latin America.",
-      "source": "Crypto Briefing",
-      "original_title": "Bitget Enters Mexico Market With SAT and UIF Registration",
-      "context": "Cryptocurrency exchanges are online platforms where people buy and sell digital currencies, but they face heavy scrutiny from governments concerned about illegal activities like money laundering. To operate legally in Mexico, Bitget had to register with two key agencies: one that handles taxes and another that monitors suspicious financial transactions, proving they are following local laws. Completing these registrations allows Bitget to officially serve Mexican customers without fear of being shut down, marking a significant step in bringing crypto into the mainstream legal framework. This expansion into Latin America shows that major exchanges are prioritizing compliance to build trust and grow their user base in regions with increasing interest in digital assets.",
-      "why_it_matters": "A crypto exchange is following the law to operate legally in Mexico. This step builds trust with users and regulators in a growing market. It shows that crypto companies are trying to fit into traditional financial systems.",
-      "other_side": "Some critics say that even with registration, crypto remains risky and unregulated in many ways. They worry that legal status does not guarantee that user funds are safe from hacks or fraud."
+      "headline": "Gold and Silver Prices Surge Amid Geopolitical Tensions",
+      "summary": "Precious metals saw significant movement with gold opening at $4,570.60 per troy ounce, up 0.3% from the previous close. The price action was driven by market reactions to the President calling off planned attacks on Iran, highlighting the ongoing volatility in commodity markets.",
+      "source": "Yahoo Entertainment",
+      "original_title": "[Yahoo Entertainment] Gold and silver prices today, Tuesday, May 19: Prices holding after president calls off planned attacks on Iran — Gold opened at $4,570.60 per troy ounce on Tuesday, up 0.3% from Monday's closing price of $4,558. The price of gold moved lower in early trading. Silver...",
+      "context": "Context pending.",
+      "why_it_matters": "When world leaders threaten conflict, people rush to buy gold and silver as a safe place to park their money. This shows how quickly global fear can change the value of everyday investments.",
+      "other_side": "Some experts argue that buying precious metals is a waste of money because they do not grow or pay dividends. They say you are just betting on panic rather than building real wealth."
     },
     {
-      "headline": "XRP Price Potential Surges as Analysts Spot Quiet Accumulation Phase",
-      "summary": "Market analysts suggest that XRP may see a significant price explosion toward $15 due to a period of 'quiet accumulation' by investors. Despite a lack of current retail hype, historical patterns indicate that this consolidation phase could precede a major upward move in the token's value.",
-      "source": "Cointelegraph",
-      "original_title": "XRP price may explode to $15 amid 'quiet accumulation,' analyst claims",
-      "context": "XRP is a digital currency created by Ripple Labs, often used by banks for fast international money transfers, and its price has been stuck in a low range for some time. Analysts believe that a period of \"quiet accumulation\" means that smart investors are secretly buying up XRP while regular retail traders have lost interest, similar to how a spring compresses before jumping. Historical data suggests that when trading volume dries up and price stabilizes after a long drop, it often precedes a sharp increase in value as buyers finally overwhelm sellers. This pattern leads experts to predict a potential surge toward $15, assuming the underlying technology continues to gain adoption despite the current lack of public hype.",
-      "why_it_matters": "Investors are quietly buying up XRP tokens, which might push the price up later. This pattern suggests that big players expect the value to rise significantly. It highlights how trading behavior can signal future market moves.",
-      "other_side": "Not everyone believes this prediction will come true. Skeptics point out that past patterns do not always repeat, and the price could stay low or drop further."
+      "headline": "Nissan Eyes Exporting Chinese-Made Electric Cars to Canada",
+      "summary": "Nissan Motor Co. is considering exporting electric vehicles manufactured in its Chinese joint venture to the Canadian market. This strategic move aligns with Canada's opening policies toward Chinese-made EVs and reflects broader shifts in global automotive supply chains and trade dynamics.",
+      "source": "Financial Post",
+      "original_title": "[Financial Post] Nissan Eyes Exporting Chinese-Made Electric Cars to Canada — Nissan Motor Co. is considering exporting cars built at a joint venture with its Chinese partner to Canada, which is opening up its market to electric vehicles made in China.",
+      "context": "Context pending.",
+      "why_it_matters": "This move could lower car prices for Canadian buyers by using cheaper parts and labor from China. It also shows how global trade rules are shifting to allow more cross-border business.",
+      "other_side": "Local car makers in Canada might struggle to compete with cheaper imported vehicles. Critics worry this could hurt local jobs and make the country dependent on foreign supply chains."
     },
     {
-      "headline": "India’s LPG Shortage Drives Up Gasoline Prices in California",
-      "summary": "A shrinking supply of alkylate, a motor fuel additive derived from LPG, is causing gasoline prices to rise in California. The shortage is primarily driven by reduced exports from India and other Asian markets, illustrating how international commodity supply chains directly impact regional fuel costs.",
-      "source": "BusinessLine",
-      "original_title": "How India’s LPG shortage is driving up California’s gasoline prices",
-      "context": "Alkylate is a chemical additive mixed into gasoline to make engines run smoother and cleaner, and it is produced using liquefied petroleum gas (LPG), commonly known as propane or butane. India, a major producer of LPG, has reduced its exports due to domestic shortages or policy changes, causing a ripple effect that reduces the supply of alkylate available globally. California relies heavily on this imported additive to maintain its fuel supply, so when the flow from Asia slows down, local refineries struggle to produce enough gasoline, driving up prices for drivers. This situation highlights how interconnected global supply chains are, where a shortage in one part of the world can directly impact the cost of living in another.",
-      "why_it_matters": "Analysis pending.",
-      "other_side": "Some argue that local factors like taxes and refinery issues play a bigger role. They believe blaming international supply chains oversimplifies the real causes of high gas prices."
+      "headline": "ACA Marketplace Deductibles Increase by Over $1K",
+      "summary": "The expiration of enhanced premium tax credits has led to a sharp increase in deductibles for Affordable Care Act Marketplace plans, rising by more than $1,000. Concurrently, enrollment has hit an all-time low, signaling significant financial pressure on consumers navigating health insurance costs.",
+      "source": "Techtarget.com",
+      "original_title": "[Techtarget.com] ACA Marketplace deductibles increased by over $1K: KFF — The expiration of enhanced premium tax credits is increasing ACA Marketplace deductibles as enrollment hits an all-time low, KFF reports.",
+      "context": "Context pending.",
+      "why_it_matters": "Health insurance is becoming much harder to afford for average families without government help. This forces people to choose between going without care or spending a huge chunk of their income on premiums.",
+      "other_side": "Some argue that higher costs force people to shop around for better deals and become more cost-conscious. However, most critics say this simply pushes sick people into debt or leaves them uninsured."
     },
     {
-      "headline": "TOYO Co. Reports Q1 2026 Financial Results and Reaffirms Guidance",
-      "summary": "Solar solution provider TOYO Co., Ltd announced its unaudited financial results for the first quarter ended March 31, 2026. Alongside the financial disclosure, the company reaffirmed its existing guidance for the year, signaling continued confidence in its operational performance within the solar energy sector.",
-      "source": "PRNewswire",
-      "original_title": "TOYO Co., Ltd Announces Unaudited and Unreviewed First Quarter 2026 Financial Results and Reaffirms Guidance",
-      "context": "TOYO Co. is a company that designs and installs solar energy systems, and reporting quarterly financial results is their way of showing investors how well their business is performing every three months. By reaffirming their guidance, they are telling shareholders that they still expect to meet their profit and revenue targets for the entire year, despite any short-term fluctuations. This confidence is crucial in the solar industry, which requires significant upfront investment and long-term planning, so steady signals help attract funding and support for future projects. Their Q1 results serve as a health check for the company, indicating whether their operational strategies are effectively converting solar installations into sustainable income.",
-      "why_it_matters": "A solar company is reporting good results and staying confident about its future. This gives investors hope that the renewable energy sector is growing steadily. It signals that clean energy projects remain financially viable.",
-      "other_side": "The solar industry still faces challenges like changing government subsidies. Critics note that reliance on policy support makes long-term profits uncertain."
+      "headline": "Boost Borrowing Power with a Healthy Credit Score",
+      "summary": "A strong credit score is identified as a key factor in lowering credit card interest rates and improving overall loan eligibility. Consumers with good credit can unlock better financial flexibility, higher credit limits, and superior loan terms, directly impacting their personal finance health.",
+      "source": "Livemint",
+      "original_title": "[Livemint] Boost your borrowing power: How a healthy credit score improves loan eligibility, unlocks credit card benefits — A strong credit score lowers credit card interest rates and improves borrowing power, helping consumers secure better loan terms, higher credit limits and greater financial flexibility.",
+      "context": "Context pending.",
+      "why_it_matters": "A good credit score acts like a golden ticket that lowers the cost of borrowing money for homes or cars. It gives regular people more freedom to spend without drowning in high interest fees.",
+      "other_side": "Relying too heavily on credit can lead to dangerous levels of debt if spending is not controlled. People might feel pressured to keep their score up instead of saving actual cash."
     },
     {
-      "headline": "NervGen Pharma Reports Q1 2026 Financials and Provides Business Updates",
-      "summary": "Clinical-stage biopharmaceutical company NervGen Pharma Corp released its first quarter 2026 financial results and provided updates on its business operations. The report details the company's progress in developing neuroreparative therapeutics for spinal cord injuries while outlining its current financial standing.",
+      "headline": "$541.12 Bn Testing, Inspection, and Certification Market Opportunity",
+      "summary": "The global Testing, Inspection, and Certification (TIC) market is projected to offer substantial opportunities worth $541.12 billion between 2026 and 2035. Growth is driven by stricter regulations in pharma and consumer goods, with Asia-Pacific leading due to regulatory harmonization and IoT security demands.",
       "source": "GlobeNewswire",
-      "original_title": "NervGen Reports First Quarter 2026 Financial Results and Provides Business Updates",
-      "context": "NervGen Pharma is a biotechnology company focused on developing drugs that can repair damaged nerves, particularly for patients with spinal cord injuries, a field known as neuroreparative therapy. Releasing their Q1 2026 financials provides transparency on how much money they are burning through research and how close they are to advancing their treatments to human trials. Business updates typically detail progress in clinical studies, partnerships, or regulatory approvals, which are critical milestones for a company whose value depends on scientific breakthroughs rather than immediate sales. This report helps investors assess whether NervGen is on track to deliver life-changing therapies or if they are facing delays that could impact their long-term viability.",
-      "why_it_matters": "A biotech company is sharing updates on its work to treat spinal cord injuries. This progress offers hope for patients with severe nerve damage. It shows continued investment in medical research for difficult conditions.",
-      "other_side": "Developing new drugs is expensive and often fails before reaching patients. Investors face high risks because many medical trials do not succeed as planned."
+      "original_title": "[GlobeNewswire] $541.12 Bn Testing, Inspection, and Certification (TIC) Market Opportunity Analysis and Forecasts, 2026-2035 Featuring Major Players - SGS, Bureau Veritas, and Intertek — The TIC market is expanding due to stricter regulations, driving demand in industries like pharma and consumer goods. Key growth areas include IoT security and biopharma. Asia-Pacific leads the market, aided by regulatory harmonization. Fragmentation and cost…",
+      "context": "Context pending.",
+      "why_it_matters": "As products get more complex, companies need third parties to check if they are safe and work correctly. This creates a huge new industry focused on quality control and safety standards globally.",
+      "other_side": "These extra checks add costs that companies pass on to consumers, making everyday goods more expensive. Small businesses may struggle to pay for these mandatory inspections."
+    },
+    {
+      "headline": "India’s Protein Boom Hits Whey Crisis as Prices Surge 4X",
+      "summary": "India's booming protein industry is facing a severe supply shock as raw whey prices have surged fourfold due to global shortages. This crisis is forcing Indian brands to raise prices significantly, impacting consumer affordability and highlighting vulnerabilities in the country's food import dependencies.",
+      "source": "The Times of India",
+      "original_title": "[The Times of India] India’s protein boom runs into a whey crisis as prices surge 4X, shortages loom — India's growing demand for protein products is clashing with a global supply shortage. Raw whey prices have surged dramatically, forcing Indian brands to increase prices. This impacts consumers aiming for daily protein intake. Geopolitical issues and increase…",
+      "context": "Context pending.",
+      "why_it_matters": "The price of protein supplements is skyrocketing because India relies on imported ingredients that are now scarce. This makes healthy eating options much less affordable for millions of people.",
+      "other_side": "Some producers argue that higher prices are necessary to cover rising shipping and raw material costs. They claim this is just a temporary market correction rather than a long-term crisis."
+    },
+    {
+      "headline": "Bowman Selected for PhilaPort’s $50 Million Cruise Terminal",
+      "summary": "Bowman Consulting Group has been selected to lead the waterside infrastructure design for the Port of Philadelphia’s $50 million cruise terminal capital program. This major infrastructure investment underscores significant capital expenditure in regional port facilities and logistics capabilities.",
+      "source": "GlobeNewswire",
+      "original_title": "[GlobeNewswire] Bowman Selected to Lead Waterside Infrastructure Design for PhilaPort’s $50 Million Cruise Terminal Capital Program — RESTON, Va., May 19, 2026 (GLOBE NEWSWIRE) -- Bowman Consulting Group Ltd. (NASDAQ: BWMN), a national engineering services and program management firm, today announced it is working with the Port of Philadelphia (“PhilaPort”) to lead the waterside design, per…",
+      "context": "Context pending.",
+      "why_it_matters": "Building a new cruise terminal boosts local tourism and creates jobs in construction and hospitality. It signals that the city expects more visitors and wants to be ready for them.",
+      "other_side": "Environmental groups often oppose large port expansions due to concerns about pollution and noise. Locals might worry about increased traffic and congestion in their neighborhoods."
+    },
+    {
+      "headline": "Liverpool Sets €20m Price Tag on Chiesa Ahead of Summer Exit",
+      "summary": "Liverpool FC has established a €20 million valuation for forward Federico Chiesa as he prepares for a potential summer departure. This transfer strategy marks a pivotal moment in the club's financial planning and squad rebuilding efforts for the upcoming season.",
+      "source": "Anfieldindex.com",
+      "original_title": "[Anfieldindex.com] Liverpool set €20m price tag on forward ahead of summer exit — Chiesa Exit Signals Change in Liverpool’s Summer StrategyLiverpool’s summer rebuild is beginning to gather pace and Federico Chiesa increasingly looks like one of the players heading towards the e...",
+      "context": "Context pending.",
+      "why_it_matters": "Setting a high price for a player tells other clubs what the team thinks he is worth. It helps the club manage its budget and decide which players to keep or sell.",
+      "other_side": "Fans might get upset if a popular player is sold too cheaply or kept too expensively. Other clubs may refuse to pay the asking price, leaving the player stuck at the current team."
+    },
+    {
+      "headline": "Idiopathic Pulmonary Fibrosis Market Forecasted Through 2035",
+      "summary": "A new report outlines the dynamics and opportunity analysis for the Idiopathic Pulmonary Fibrosis (IPF) market from 2026 to 2035. The therapeutic landscape is dominated by key players like Boehringer Ingelheim and Roche, driven by an aging population and increasing demand for effective antifibrotic treatments.",
+      "source": "GlobeNewswire",
+      "original_title": "[GlobeNewswire] Idiopathic Pulmonary Fibrosis Market Dynamics, Opportunity Analysis and Forecast Report 2026-2035: Therapeutic Landscape is Anchored by Two Key Products - Esbriet (Pirfenidone), and Ofev — The IPF market is expanding due to rising demand for effective treatments, driven by aging populations and medical innovations. Key players like Boehringer Ingelheim and Roche dominate with antifibrotic therapies, while biotech firms focus on novel, targeted …",
+      "context": "Context pending.",
+      "why_it_matters": "An aging population means more people will suffer from serious lung diseases like IPF. This drives research into better treatments and creates opportunities for medical companies to help patients live longer.",
+      "other_side": "New drugs are often extremely expensive, putting a heavy burden on healthcare systems and patients. Critics worry that profits from these treatments come before patient accessibility."
     }
   ]
 }
