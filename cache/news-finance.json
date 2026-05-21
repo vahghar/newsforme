@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "YieldMax ETFs Announces Weekly Distributions for Group 1 ETFs",
-      "summary": "YieldMax ETFs has officially announced the weekly distribution schedules for its Group 1 Exchange Traded Funds. This update is critical for income-focused investors relying on these high-yield products for regular cash flow and portfolio management.",
-      "source": "GlobeNewswire",
-      "original_title": "[GlobeNewswire] YieldMax® ETFs Announces Weekly Distributions for Group 1 ETFs — YieldMax ETFs Announces Weekly Distributions for Group 1 ETFs...",
-      "context": "Context pending.",
-      "why_it_matters": "This gives people who invest for steady income a clear schedule for when they get paid. It helps them plan their monthly budgets and know exactly when cash will hit their accounts.",
-      "other_side": "High payouts often mean the fund is selling off assets or paying out more than it earns, which can shrink the total value of the investment over time. Investors might be tempted by the big checks but lose money on the principal."
+      "headline": "Lingerfelt Closes $78.2M Sale of Ashton Logistics Park",
+      "summary": "Lingerfelt has finalized the disposition of the Ashton Logistics Park, a 523,407-square-foot industrial asset portfolio in Chesterfield County, Virginia. The transaction, completed on May 19, 2026, marks a significant real estate investment move by the firm.",
+      "source": "PRNewswire",
+      "original_title": "Lingerfelt Announces $78.2 Million Sale of Ashton Logistics Park",
+      "context": "Imagine a massive warehouse where companies store goods before selling them online or in stores; this is called \"logistics real estate.\" Lingerfelt is a company that buys, manages, and sells these types of large industrial buildings. They recently sold a huge warehouse complex in Virginia for over $78 million, which shows that investors are still very interested in buying properties used for shipping and storage. This sale matters because it reflects the ongoing demand for places to keep products close to customers, a trend that grew even stronger during the pandemic when everyone started shopping online more.",
+      "why_it_matters": "Selling big warehouses for nearly $80 million shows that companies still need places to store goods. This helps the seller get cash to invest in new projects and keeps the supply chain moving smoothly.",
+      "other_side": "Some might worry that selling off assets means the company is running out of room to grow. It also means they no longer own the land, so they have to pay rent if they want to use it later."
     },
     {
-      "headline": "Gold and Silver Prices Surge Amid Geopolitical Tensions",
-      "summary": "Precious metals saw significant movement with gold opening at $4,570.60 per troy ounce, up 0.3% from the previous close. The price action was driven by market reactions to the President calling off planned attacks on Iran, highlighting the ongoing volatility in commodity markets.",
+      "headline": "Multitude AG Acquires Majority Stake in Sortter Oy",
+      "summary": "European FinTech company Multitude AG has acquired a majority stake in Sortter Oy, expanding its digital lending and online banking services portfolio. This acquisition strengthens Multitude's position in serving consumers and SMEs across the European market.",
+      "source": "GlobeNewswire",
+      "original_title": "Multitude acquires majority stake in Sortter Oy",
+      "context": "Multitude AG is a European company that builds software for banks and lenders to help them manage money and loans digitally. Sortter Oy is another company that specializes in similar digital financial tools, particularly for small businesses and regular people. By buying most of Sortter, Multitude is essentially getting bigger and stronger so it can offer better services to more customers across Europe. This kind of purchase is common in the tech world, where larger companies buy smaller ones to combine their technology and grow their market share.",
+      "why_it_matters": "One company buying another in the tech world usually means more choices for regular people. This deal lets customers get loans and bank services more easily across Europe.",
+      "other_side": "Critics say that when big companies buy smaller ones, prices might go up because there is less competition. Smaller local banks could struggle to survive against this new giant."
+    },
+    {
+      "headline": "PDD Holdings to Report Q1 2026 Financial Results on May 27",
+      "summary": "PDD Holdings Inc. has announced it will release its unaudited financial results for the first quarter ended March 31, 2026, before U.S. markets open on May 27, 2026. Investors are closely watching for performance metrics from the e-commerce giant.",
+      "source": "GlobeNewswire",
+      "original_title": "PDD Holdings to Report First Quarter 2026 Unaudited Financial Results on May 27, 2026",
+      "context": "PDD Holdings is the parent company of Pinduoduo and Temu, two massive online shopping platforms that are becoming huge competitors to Amazon and other global retailers. Every three months, public companies like PDD must share their financial reports with the public to show how much money they made or lost. Investors are watching this specific report closely because it will reveal if their strategy of selling cheap goods is still working and making profit. These quarterly updates are critical because they help decide whether people should buy or sell shares of the company.",
+      "why_it_matters": "PDD Holdings is a huge online store, so its profits tell us how well people are spending money. If sales are down, it often means the economy is slowing down for everyone.",
+      "other_side": "Investors are nervous because bad news can make stock prices drop quickly. This worry can spread to other companies, making it harder for them to raise money too."
+    },
+    {
+      "headline": "Stock Yards Bancorp Declares $0.32 Quarterly Cash Dividend",
+      "summary": "Stock Yards Bancorp, Inc. has declared a quarterly cash dividend of $0.32 per common share, signaling continued shareholder returns. The Louisville-based bank continues to distribute profits to its shareholders through this regular dividend policy.",
+      "source": "GlobeNewswire",
+      "original_title": "Stock Yards Bancorp Declares Quarterly Cash Dividend Of $0.32 Per Common Share",
+      "context": "Stock Yards Bancorp is a local bank based in Louisville, Kentucky, which takes deposits from people and lends money out for things like homes and businesses. When a bank makes extra profit, it often shares some of that money directly with its shareholders, who are the people who own stock in the bank; this payment is called a dividend. By announcing a $0.32 dividend per share, the bank is showing that it is financially healthy enough to reward its owners with cash. This is a regular practice for many stable banks to keep investors happy and confident in the business.",
+      "why_it_matters": "When a bank pays you just for owning its stock, it shows the business is healthy and making real profit. This gives everyday investors a steady stream of extra cash without selling their shares.",
+      "other_side": "Paying out dividends means the bank has less money to save for emergencies or grow. If the economy gets tough, these payments might stop, leaving shareholders with nothing."
+    },
+    {
+      "headline": "AllianceBernstein, Brookfield, and Carlyle Launch Private-Markets Solution",
+      "summary": "AllianceBernstein, Brookfield Asset Management, and Carlyle have unveiled a collaborative turnkey private-markets solution designed specifically for defined contribution plans. This initiative aims to provide institutional-quality investment options to retirement plan participants.",
+      "source": "PRNewswire",
+      "original_title": "AllianceBernstein, Brookfield, and Carlyle Unveil Turnkey Private-Markets Solution for Defined Contribution Plans",
+      "context": "Many people save for retirement through workplace plans, such as 401(k)s, where their employer automatically takes a portion of their paycheck and invests it. Traditionally, these retirement funds could only invest in safe, simple stocks, but now three major investment firms are teaming up to offer access to \"private markets,\" which are investments in companies that are not publicly traded on the stock exchange. This new solution aims to give everyday retirement savers the same high-quality investment opportunities that wealthy institutions usually get. The goal is to potentially earn higher returns for retirees by diversifying where their saved money goes.",
+      "why_it_matters": "This move lets regular workers put their retirement savings into better, safer investments. It brings high-level financial tools to everyday people who usually cannot access them.",
+      "other_side": "Some experts argue that these complex investments are risky and hard to understand. Regular savers might lose money if they do not know what they are buying."
+    },
+    {
+      "headline": "Ola Electric Revenue Plunges 56% Despite Narrowing Losses",
+      "summary": "Ola Electric reported a sharp 56% year-on-year decline in revenue to ₹265 crore for Q4FY26, driven by lower vehicle deliveries and weak sales momentum. However, the company managed to cut its overall losses during the quarter, highlighting mixed financial health.",
+      "source": "BusinessLine",
+      "original_title": "Ola Electric cuts losses, but revenue plunges 56% in Q4FY26",
+      "context": "Ola Electric is an Indian company that makes electric scooters and bikes, aiming to replace gas-powered vehicles with cleaner alternatives. Recently, they reported that their sales dropped significantly by 56%, meaning fewer people bought their scooters compared to last year, which caused their total revenue to fall sharply. However, they also managed to spend less money on operations, so even though they made less money overall, they lost less cash than before. This mixed news suggests the company is struggling to sell as many units but is trying to become more efficient with its spending to survive tough competition.",
+      "why_it_matters": "Ola Electric is losing a lot of sales, which shows that demand for electric scooters might be cooling down. This warns other car makers that growth is not guaranteed forever.",
+      "other_side": "The company is still losing less money than before, which is a small win. They might be fixing their problems before the sales drop hurts them even more."
+    },
+    {
+      "headline": "OPC Energy Affirms A1.il Bond Rating with Positive Outlook",
+      "summary": "OPC Energy Ltd. announced that Midroog has affirmed its A1.il rating and revised the outlook from stable to positive. This upgrade reflects improved creditworthiness and confidence in the independent power producer's financial trajectory.",
+      "source": "PRNewswire",
+      "original_title": "OPC Energy Announces Midroog Affirms A1.il Rating for the Company and its Bonds; Outlook Revised from Stable to Positive",
+      "context": "OPC Energy is a company that generates electricity independently, meaning it does not belong to the government but sells power to the grid. Credit ratings are like report cards for companies, telling lenders how likely they are to pay back borrowed money; a higher rating means the company is seen as safer and more reliable. Midroog, a rating agency, upgraded OPC Energy’s outlook from stable to positive, indicating that experts believe the company’s financial health is improving. This positive signal helps the company borrow money at lower interest rates because lenders feel more confident about its future success.",
+      "why_it_matters": "Giving a power company a \"positive outlook\" means experts think it will do well soon. This makes it cheaper for them to borrow money, which helps them build more power plants.",
+      "other_side": "A rating change does not guarantee success, and markets can turn around fast. If things go wrong, the company could face higher costs again very quickly."
+    },
+    {
+      "headline": "HaysMac Acquires Green Square to Expand Corporate Finance Advisory",
+      "summary": "Accounting and advisory firm HaysMac has acquired Green Square to significantly bolster its corporate finance advisory capabilities. This strategic acquisition enhances HaysMac's service offerings and market presence in the advisory sector.",
       "source": "Yahoo Entertainment",
-      "original_title": "[Yahoo Entertainment] Gold and silver prices today, Tuesday, May 19: Prices holding after president calls off planned attacks on Iran — Gold opened at $4,570.60 per troy ounce on Tuesday, up 0.3% from Monday's closing price of $4,558. The price of gold moved lower in early trading. Silver...",
-      "context": "Context pending.",
-      "why_it_matters": "When world leaders threaten conflict, people rush to buy gold and silver as a safe place to park their money. This shows how quickly global fear can change the value of everyday investments.",
-      "other_side": "Some experts argue that buying precious metals is a waste of money because they do not grow or pay dividends. They say you are just betting on panic rather than building real wealth."
+      "original_title": "HaysMac acquires Green Square to bolster corporate finance advisory",
+      "context": "HaysMac is a firm that provides accounting services, helping businesses track their money and follow tax laws. Corporate finance advisory involves giving expert advice to companies on big financial decisions, such as merging with other firms or raising capital. By acquiring Green Square, a firm known for this advisory work, HaysMac is adding new expertise to its team without having to build those skills from scratch. This move allows HaysMac to offer a wider range of high-level financial services to its clients, making it a more competitive player in the business consulting world.",
+      "why_it_matters": "When accounting firms merge, they can offer bigger services to help businesses grow. This gives clients more options and expertise when they need to manage their money or plan for the future.",
+      "other_side": "Mergers often lead to job cuts as duplicate roles are removed. Clients might also feel like they are just a number to a larger, less personal corporation."
     },
     {
-      "headline": "Nissan Eyes Exporting Chinese-Made Electric Cars to Canada",
-      "summary": "Nissan Motor Co. is considering exporting electric vehicles manufactured in its Chinese joint venture to the Canadian market. This strategic move aligns with Canada's opening policies toward Chinese-made EVs and reflects broader shifts in global automotive supply chains and trade dynamics.",
-      "source": "Financial Post",
-      "original_title": "[Financial Post] Nissan Eyes Exporting Chinese-Made Electric Cars to Canada — Nissan Motor Co. is considering exporting cars built at a joint venture with its Chinese partner to Canada, which is opening up its market to electric vehicles made in China.",
-      "context": "Context pending.",
-      "why_it_matters": "This move could lower car prices for Canadian buyers by using cheaper parts and labor from China. It also shows how global trade rules are shifting to allow more cross-border business.",
-      "other_side": "Local car makers in Canada might struggle to compete with cheaper imported vehicles. Critics worry this could hurt local jobs and make the country dependent on foreign supply chains."
+      "headline": "Prabowo Orders Finance Minister to Shake Up Customs Leadership",
+      "summary": "Indonesian President Prabowo Subianto has instructed Finance Minister Purbaya Yudhi Sadewa to replace customs leadership if performance does not improve. This directive highlights the government's focus on fiscal efficiency and administrative accountability within the finance ministry.",
+      "source": "Antaranews.com",
+      "original_title": "Prabowo warns of customs leadership shake-up over performance",
+      "context": "Indonesia is a country in Southeast Asia where customs officers check goods entering and leaving the nation to collect taxes and prevent smuggling. President Prabowo Subianto has ordered his Finance Minister to replace the leaders of the customs agency if they do not improve their performance, highlighting a strict approach to government accountability. This directive shows that the government is worried about inefficiency or corruption within the customs system, which can cost the country significant tax revenue. It is a top-down effort to ensure that public officials are doing their jobs effectively and honestly.",
+      "why_it_matters": "The government is trying to stop corruption and waste in customs, which collects taxes on imports. Better efficiency means more tax money goes to public services instead of being lost.",
+      "other_side": "Changing leaders frequently can cause confusion and slow down border checks. Traders might face delays while new officials learn how to do their jobs properly."
     },
     {
-      "headline": "ACA Marketplace Deductibles Increase by Over $1K",
-      "summary": "The expiration of enhanced premium tax credits has led to a sharp increase in deductibles for Affordable Care Act Marketplace plans, rising by more than $1,000. Concurrently, enrollment has hit an all-time low, signaling significant financial pressure on consumers navigating health insurance costs.",
-      "source": "Techtarget.com",
-      "original_title": "[Techtarget.com] ACA Marketplace deductibles increased by over $1K: KFF — The expiration of enhanced premium tax credits is increasing ACA Marketplace deductibles as enrollment hits an all-time low, KFF reports.",
-      "context": "Context pending.",
-      "why_it_matters": "Health insurance is becoming much harder to afford for average families without government help. This forces people to choose between going without care or spending a huge chunk of their income on premiums.",
-      "other_side": "Some argue that higher costs force people to shop around for better deals and become more cost-conscious. However, most critics say this simply pushes sick people into debt or leaves them uninsured."
-    },
-    {
-      "headline": "Boost Borrowing Power with a Healthy Credit Score",
-      "summary": "A strong credit score is identified as a key factor in lowering credit card interest rates and improving overall loan eligibility. Consumers with good credit can unlock better financial flexibility, higher credit limits, and superior loan terms, directly impacting their personal finance health.",
-      "source": "Livemint",
-      "original_title": "[Livemint] Boost your borrowing power: How a healthy credit score improves loan eligibility, unlocks credit card benefits — A strong credit score lowers credit card interest rates and improves borrowing power, helping consumers secure better loan terms, higher credit limits and greater financial flexibility.",
-      "context": "Context pending.",
-      "why_it_matters": "A good credit score acts like a golden ticket that lowers the cost of borrowing money for homes or cars. It gives regular people more freedom to spend without drowning in high interest fees.",
-      "other_side": "Relying too heavily on credit can lead to dangerous levels of debt if spending is not controlled. People might feel pressured to keep their score up instead of saving actual cash."
-    },
-    {
-      "headline": "$541.12 Bn Testing, Inspection, and Certification Market Opportunity",
-      "summary": "The global Testing, Inspection, and Certification (TIC) market is projected to offer substantial opportunities worth $541.12 billion between 2026 and 2035. Growth is driven by stricter regulations in pharma and consumer goods, with Asia-Pacific leading due to regulatory harmonization and IoT security demands.",
-      "source": "GlobeNewswire",
-      "original_title": "[GlobeNewswire] $541.12 Bn Testing, Inspection, and Certification (TIC) Market Opportunity Analysis and Forecasts, 2026-2035 Featuring Major Players - SGS, Bureau Veritas, and Intertek — The TIC market is expanding due to stricter regulations, driving demand in industries like pharma and consumer goods. Key growth areas include IoT security and biopharma. Asia-Pacific leads the market, aided by regulatory harmonization. Fragmentation and cost…",
-      "context": "Context pending.",
-      "why_it_matters": "As products get more complex, companies need third parties to check if they are safe and work correctly. This creates a huge new industry focused on quality control and safety standards globally.",
-      "other_side": "These extra checks add costs that companies pass on to consumers, making everyday goods more expensive. Small businesses may struggle to pay for these mandatory inspections."
-    },
-    {
-      "headline": "India’s Protein Boom Hits Whey Crisis as Prices Surge 4X",
-      "summary": "India's booming protein industry is facing a severe supply shock as raw whey prices have surged fourfold due to global shortages. This crisis is forcing Indian brands to raise prices significantly, impacting consumer affordability and highlighting vulnerabilities in the country's food import dependencies.",
-      "source": "The Times of India",
-      "original_title": "[The Times of India] India’s protein boom runs into a whey crisis as prices surge 4X, shortages loom — India's growing demand for protein products is clashing with a global supply shortage. Raw whey prices have surged dramatically, forcing Indian brands to increase prices. This impacts consumers aiming for daily protein intake. Geopolitical issues and increase…",
-      "context": "Context pending.",
-      "why_it_matters": "The price of protein supplements is skyrocketing because India relies on imported ingredients that are now scarce. This makes healthy eating options much less affordable for millions of people.",
-      "other_side": "Some producers argue that higher prices are necessary to cover rising shipping and raw material costs. They claim this is just a temporary market correction rather than a long-term crisis."
-    },
-    {
-      "headline": "Bowman Selected for PhilaPort’s $50 Million Cruise Terminal",
-      "summary": "Bowman Consulting Group has been selected to lead the waterside infrastructure design for the Port of Philadelphia’s $50 million cruise terminal capital program. This major infrastructure investment underscores significant capital expenditure in regional port facilities and logistics capabilities.",
-      "source": "GlobeNewswire",
-      "original_title": "[GlobeNewswire] Bowman Selected to Lead Waterside Infrastructure Design for PhilaPort’s $50 Million Cruise Terminal Capital Program — RESTON, Va., May 19, 2026 (GLOBE NEWSWIRE) -- Bowman Consulting Group Ltd. (NASDAQ: BWMN), a national engineering services and program management firm, today announced it is working with the Port of Philadelphia (“PhilaPort”) to lead the waterside design, per…",
-      "context": "Context pending.",
-      "why_it_matters": "Building a new cruise terminal boosts local tourism and creates jobs in construction and hospitality. It signals that the city expects more visitors and wants to be ready for them.",
-      "other_side": "Environmental groups often oppose large port expansions due to concerns about pollution and noise. Locals might worry about increased traffic and congestion in their neighborhoods."
-    },
-    {
-      "headline": "Liverpool Sets €20m Price Tag on Chiesa Ahead of Summer Exit",
-      "summary": "Liverpool FC has established a €20 million valuation for forward Federico Chiesa as he prepares for a potential summer departure. This transfer strategy marks a pivotal moment in the club's financial planning and squad rebuilding efforts for the upcoming season.",
-      "source": "Anfieldindex.com",
-      "original_title": "[Anfieldindex.com] Liverpool set €20m price tag on forward ahead of summer exit — Chiesa Exit Signals Change in Liverpool’s Summer StrategyLiverpool’s summer rebuild is beginning to gather pace and Federico Chiesa increasingly looks like one of the players heading towards the e...",
-      "context": "Context pending.",
-      "why_it_matters": "Setting a high price for a player tells other clubs what the team thinks he is worth. It helps the club manage its budget and decide which players to keep or sell.",
-      "other_side": "Fans might get upset if a popular player is sold too cheaply or kept too expensively. Other clubs may refuse to pay the asking price, leaving the player stuck at the current team."
-    },
-    {
-      "headline": "Idiopathic Pulmonary Fibrosis Market Forecasted Through 2035",
-      "summary": "A new report outlines the dynamics and opportunity analysis for the Idiopathic Pulmonary Fibrosis (IPF) market from 2026 to 2035. The therapeutic landscape is dominated by key players like Boehringer Ingelheim and Roche, driven by an aging population and increasing demand for effective antifibrotic treatments.",
-      "source": "GlobeNewswire",
-      "original_title": "[GlobeNewswire] Idiopathic Pulmonary Fibrosis Market Dynamics, Opportunity Analysis and Forecast Report 2026-2035: Therapeutic Landscape is Anchored by Two Key Products - Esbriet (Pirfenidone), and Ofev — The IPF market is expanding due to rising demand for effective treatments, driven by aging populations and medical innovations. Key players like Boehringer Ingelheim and Roche dominate with antifibrotic therapies, while biotech firms focus on novel, targeted …",
-      "context": "Context pending.",
-      "why_it_matters": "An aging population means more people will suffer from serious lung diseases like IPF. This drives research into better treatments and creates opportunities for medical companies to help patients live longer.",
-      "other_side": "New drugs are often extremely expensive, putting a heavy burden on healthcare systems and patients. Critics worry that profits from these treatments come before patient accessibility."
+      "headline": "Fiscal Conservative Warns of Ignored Global Market Fire Alarm",
+      "summary": "Billionaire philanthropist John Arnold issued a stark warning about long-term government debt sustainability, describing the situation as an ignored fire alarm in global markets. His comments underscore growing concerns among fiscal conservatives regarding macroeconomic stability.",
+      "source": "Raw Story",
+      "original_title": "Fiscal conservative drops warning: 'A fire alarm is going off and everyone is ignoring it'",
+      "context": "John Arnold is a billionaire investor who is known for being very careful about how governments spend money and accumulate debt. He is warning that countries around the world are borrowing too much money, which creates a long-term risk similar to ignoring a fire alarm because the smoke seems far away right now. Fiscal conservatives like Arnold believe that if governments do not control their spending, it could lead to serious economic problems in the future, such as inflation or financial crises. His comments reflect a growing fear among some experts that current spending habits are unsustainable and need to be addressed before they cause damage.",
+      "why_it_matters": "Warning about national debt reminds us that borrowing too much can hurt future generations. It pushes leaders to think carefully about spending before it becomes unmanageable.",
+      "other_side": "Some economists say that worrying about debt now stops governments from helping people today. They argue that spending money on jobs and health is more important right now."
     }
   ]
 }
