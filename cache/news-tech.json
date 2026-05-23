@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "Meta Unveils Private Incognito Chat for Secure AI Conversations",
-      "summary": "Meta has launched a new Incognito Chat feature for WhatsApp and the Meta AI app, allowing users to have temporary AI conversations processed in a secure environment that Meta cannot access. This move addresses growing privacy concerns by ensuring that sensitive interactions remain private even from the platform provider.",
-      "source": "Fox News",
-      "original_title": "Meta AI launches private Incognito Chat",
-      "context": "Imagine if you could talk to a super-smart robot assistant, but you were worried it might record your secrets or sell your data to advertisers. For a long time, using AI meant trusting the company to keep your private thoughts safe, which many people found scary. Meta’s new \"Incognito\" mode is like putting on a disguise and talking in a soundproof room; the AI still helps you, but it forgets everything the moment you close the chat. This is a direct response to growing public fear that big tech companies are spying on users, so Meta is trying to prove they can be trusted by giving people total control over their digital privacy.",
-      "why_it_matters": "This gives people a safe space to talk to AI without the company saving their secrets. It builds trust by letting users delete their chat history so no one, not even Meta, can see it later.",
-      "other_side": "Some worry that total privacy makes it harder to stop bad actors from using AI for illegal things. If conversations are truly hidden, it might be tough to catch harmful behavior."
-    },
-    {
-      "headline": "White House Proposes Pre-Release Review of Advanced AI Models",
-      "summary": "The White House is reportedly considering an executive order that would require government agencies to review advanced AI models before their public release. This regulatory push aims to enhance safety and oversight of emerging artificial intelligence technologies as they become more powerful.",
-      "source": "pymnts.com",
-      "original_title": "White House Wants to Review AI Models Before Roll Out",
-      "context": "Artificial Intelligence is becoming incredibly powerful, capable of writing code, creating art, and even making decisions that affect millions of people. Because these systems are getting smarter so fast, there is a real fear that a poorly designed AI could accidentally cause harm, spread dangerous misinformation, or be used for cyberattacks before anyone notices. The White House is stepping in like a referee in a sports game, proposing rules that require companies to show their \"homework\" to the government before letting these powerful tools out into the wild. This isn't about stopping progress, but rather ensuring that as we build faster cars, we also install better brakes to keep everyone safe.",
-      "why_it_matters": "The government wants to check powerful AI tools before they hit the market to keep everyone safe. This could slow down new tech releases but might prevent dangerous mistakes or accidents.",
-      "other_side": "Critics say this will slow down innovation and give too much power to politicians. They argue that companies should be free to test and improve their own products without waiting for permission."
-    },
-    {
-      "headline": "US Government Awards $2 Billion to Quantum Computing Firms Including IBM",
-      "summary": "The US government has awarded $2 billion in funding to quantum computing companies, including IBM, signaling a strategic shift toward technological dominance in this critical sector. This investment underscores the national security importance of quantum innovation and its potential impact on global stability.",
-      "source": "Crypto Briefing",
-      "original_title": "US government awards $2B to quantum computing firms, including IBM",
-      "context": "Quantum computing is not just a faster version of the laptop you use today; it is a completely different type of machine that uses the strange laws of physics to solve problems that would take normal computers thousands of years to finish. Right now, countries are in a high-stakes race to see who can build the first truly powerful quantum computer because it could break current internet security codes or discover new medicines overnight. By giving billions of dollars to companies like IBM, the US government is trying to ensure its own scientists stay ahead of rivals like China, treating this technology as a matter of national survival rather than just a business opportunity.",
-      "why_it_matters": "The US is spending billions to win the race for super-fast quantum computers. This tech could solve huge problems in medicine and security, but it also changes how nations compete for power.",
-      "other_side": "Some fear this money grab widens the gap between rich countries and poor ones. Others worry that focusing only on military strength ignores other important uses for the technology."
-    },
-    {
-      "headline": "Anthropic Expands European Presence with New Milan Office Amid Rapid Growth",
-      "summary": "AI company Anthropic is opening a new office in Milan to support its rapidly expanding operations in the EMEA region, which has seen revenue grow ninefold year-on-year. The expansion reflects the company's strategy to deepen its commercial footprint in Italy and Europe amidst increasing demand for large-business AI accounts.",
+      "headline": "Austrian Startup REPS Raises $23.6M to Turn Road Traffic into Electricity",
+      "summary": "Tyrol-based REPS has secured significant funding to scale its technology that converts kinetic energy from road traffic into electricity. The company has already installed its first 'road power plant' at the Port of Hamburg and is now testing the economic viability of this novel energy harvesting method in other locations.",
       "source": "The Next Web",
-      "original_title": "Anthropic to open a Milan office, lining the Italy push up behind a Vatican-led repositioning",
-      "context": "Anthropic is one of the leading companies building safe and helpful artificial intelligence, similar to how Apple makes iPhones but focused entirely on software brains. They have seen their business grow nine times larger in just one year because businesses everywhere are desperate to use AI to save money and work faster. Opening an office in Milan is their way of planting a flag in Europe, showing that they are serious about serving customers in Italy and neighboring countries who want local support and languages. It reflects a global trend where AI is no longer just a Silicon Valley experiment, but a standard tool being adopted by regular companies across the world.",
-      "why_it_matters": "AI companies are moving fast into Europe to sell to big businesses. This shows that AI is no longer just a toy but a serious tool for making money in global markets.",
-      "other_side": "Local workers might lose jobs as companies rely more on automated systems. There are also concerns about European data laws clashing with American business practices."
+      "original_title": "[The Next Web] Austrian startup REPS raises $23.6m to turn road traffic into electricity",
+      "context": "Imagine trying to power a city by capturing the energy of cars driving over it, which sounds like science fiction but is actually a real engineering challenge. Traditional roads just let that movement energy disappear as heat and sound, but this Austrian company has built a special floor that acts like a giant generator, squeezing electricity out of every tire roll. They are now testing if this idea can make money by selling the power back to the grid, moving from a cool experiment to a practical solution for clean energy.",
+      "why_it_matters": "This technology turns the constant movement of cars into clean power. It could help cities generate electricity without needing more solar panels or wind turbines.",
+      "other_side": "Critics worry it might not make enough money to be worth the cost. They also fear it could damage roads or slow down traffic if not installed carefully."
     },
     {
-      "headline": "MakeMyTrip's AI Agent Myra Handles 80,000 Daily Conversations",
-      "summary": "MakeMyTrip reported that its AI agent, Myra, has scaled to handle 80,000 daily conversations and directly assisted with over 200,000 bookings in Q4FY26. The company highlighted that 45% of these users come from smaller cities, demonstrating the broadening adoption of AI-driven transactional services.",
-      "source": "MediaNama.com",
-      "original_title": "MakeMyTrip Q4FY26: Myra scales to 80,000 daily conversations, now a full transaction agent",
-      "context": "MakeMyTrip is a large travel agency that helps people book flights and hotels, and they recently built a digital assistant named Myra to handle customer questions automatically. Instead of waiting hours to talk to a human agent, customers can now chat with Myra, who has become so good at her job that she handles tens of thousands of conversations every single day. What makes this story interesting is that half of these users are from smaller towns, showing that advanced technology is finally reaching people outside of major cities who previously had less access to premium services. It proves that AI is moving beyond simple chatbots and is now actually helping people complete real purchases and plans.",
-      "why_it_matters": "AI is now helping regular people book trips, even those in small towns. This proves that smart assistants are becoming useful for everyday tasks, not just for tech experts.",
-      "other_side": "People might miss talking to real humans when they need help with complex plans. Over-reliance on bots could lead to errors if the system misunderstands what you want."
-    },
-    {
-      "headline": "Zuckerberg Rules Out Further Company-Wide Layoffs at Meta",
-      "summary": "Following significant workforce reductions, Meta CEO Mark Zuckerberg stated that he does not expect additional company-wide layoffs this year. This announcement aims to stabilize employee morale after the tech giant slashed thousands of jobs earlier in the year.",
-      "source": "TechRadar",
-      "original_title": "Zuckerberg promises he does not 'expect ​other company-wide layoffs this year' after slashing thousands of Meta jobs",
-      "context": "In recent years, many big technology companies fired thousands of workers to save money, which created a lot of stress and uncertainty among employees. Mark Zuckerberg, the boss of Meta, recently announced that he will stop firing people for now, which is a major relief for staff who were worried about losing their jobs again. This decision helps stabilize the company culture after a period of chaos, allowing workers to focus on building new products instead of worrying about whether they will be next in line for a pink slip. It signals that Meta believes it has cut enough costs and is ready to focus on growth and innovation rather than shrinking its workforce.",
-      "why_it_matters": "Telling workers they are safe helps boost morale after scary job cuts. It signals that Meta is stabilizing and focusing on growth rather than shrinking its team.",
-      "other_side": "Employees may still feel insecure because past cuts were sudden and harsh. Trust is hard to rebuild once people have been let go without warning."
-    },
-    {
-      "headline": "Valve’s Historical Struggles Offer Clues to Its Secretive Future Hardware Plans",
-      "summary": "An analysis of Valve's past challenges with hardware ventures like the Steam Controller provides insight into the company's upcoming secretive projects. Despite previous setbacks, Valve continues to innovate in gaming software and hardware, with recent successes like the Steam Deck hinting at future developments.",
-      "source": "Geeky Gadgets",
-      "original_title": "What Valve’s Past Struggles Reveal About Its Secretive Future",
-      "context": "Valve is the company behind Steam, the biggest platform for buying and playing PC video games, but they are known for being very secretive about what they are working on next. They have tried making physical hardware before, like controllers and gaming consoles, but some of those projects failed or were canceled, leaving fans confused about why they keep trying. However, their recent success with the Steam Deck, a portable gaming device, suggests they have learned from past mistakes and know how to make hardware that gamers actually want. Analysts look at these past struggles to guess what Valve might release next, knowing that when Valve finally shows something, it is usually a game-changer.",
-      "why_it_matters": "Valve’s history shows that even great companies struggle with new hardware. Watching them helps us guess what cool gaming gear might come next.",
-      "other_side": "Fans might get disappointed if Valve keeps delaying products or cancels projects. Past failures suggest that their next big idea might not work as well as hoped."
-    },
-    {
-      "headline": "New Budget Smartwatch Rogbid GeoX2 Promises Offline Maps and Rugged Design",
-      "summary": "The newly announced Rogbid GeoX2 smartwatch offers affordable access to premium features such as dual-band GPS, offline navigation, and 5 ATM water resistance. Designed for rugged use, it also includes an AMOLED display and an LED light, targeting budget-conscious consumers seeking durable wearable technology.",
+      "headline": "OnePlus Nord 6 Delivers High-End Performance at a Mid-Range Price",
+      "summary": "The newly released OnePlus Nord 6 smartphone offers performance levels comparable to high-end chips despite its mid-range pricing. Reviewers highlight its powerful hardware capabilities while noting specific considerations for potential buyers regarding its overall feature set.",
       "source": "Notebookcheck.net",
-      "original_title": "New affordable smartwatch promises offline maps and 5 ATM water ressistance",
-      "context": "Smartwatches used to be expensive luxury items that mostly tracked steps and showed notifications, but new budget models are changing that by offering serious outdoor features at a low price. The Rogbid GeoX2 is designed for people who hike, run, or travel and need reliable tools like offline maps that work without cell service and screens that are easy to read in bright sunlight. By including rugged designs and long battery life at an affordable cost, this watch targets everyday adventurers who don't want to spend hundreds of dollars on a brand-name device. It represents a shift where high-quality technology is becoming accessible to everyone, not just wealthy enthusiasts.",
-      "why_it_matters": "You can now get high-tech features like offline maps on a cheap watch. This makes advanced gadgets accessible to more people who don’t want to spend a lot.",
-      "other_side": "Cheap electronics often break faster or have worse customer support. Buyers might regret the purchase if the battery life or screen quality isn’t actually good."
+      "original_title": "[Notebookcheck.net] Why this mid-range smartphone beats even high-end chips",
+      "context": "For years, smartphone buyers faced a tough choice: pay a lot of money for a top-tier phone or save cash but settle for slower performance in cheaper models. OnePlus, a brand known for offering better specs for less money, is trying to break this rule again with their new Nord 6 model. By packing powerful computer chips into a device that costs much less than flagship phones, they are forcing other companies to compete on price while still delivering smooth, fast experiences for everyday tasks like gaming and video streaming.",
+      "why_it_matters": "This phone proves you do not need to spend a lot of money to get a fast device. It forces other companies to lower their prices to compete.",
+      "other_side": "Some buyers might miss out on premium features like better cameras. The phone may also heat up or drain its battery faster because of the powerful chip."
     },
     {
-      "headline": "NVIDIA Releases Critical Graphics Drivers for RTX 3070 and TITAN RTX",
-      "summary": "NVIDIA has released driver version 27.21.14.6236 for Windows 10, providing updates for both the GeForce RTX 3070 and TITAN RTX graphics cards. These updates are designed to fix existing issues, add new functions, and upgrade performance for users relying on these specific GPU models.",
-      "source": "Softpedia.com",
-      "original_title": "NVIDIA GeForce RTX 3070 Graphics Driver 27.21.14.6236 for Windows 10 version 1903 64-bit — The package provides the installation files for NVIDIA GeForce RTX 3070 Graphics Driver version 27.21.14.6236 .If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new functions, or just upgrade to the…",
-      "context": "A graphics card, or GPU, is the part of a computer responsible for drawing images, videos, and games on your screen, and it needs special software drivers to talk to the computer's main system. NVIDIA, the company that makes these cards, released an update to fix bugs and improve performance for older models like the RTX 3070 and TITAN RTX. Think of it like updating the operating system on your phone; even though the hardware hasn't changed, the software update makes the existing device run smoother, fix crashes, and sometimes even make games look better. This ensures that people who bought computers a few years ago don't feel left behind as new software demands more power.",
-      "why_it_matters": "Updating drivers fixes bugs and makes graphics cards run smoother. Gamers and designers get better performance without needing to buy new hardware.",
-      "other_side": "Frequent updates can sometimes cause new problems or crashes. Users might prefer stability over new features if the current setup works fine for them."
+      "headline": "Microsoft Allows Users to Disable Annoying Copilot Button in Office Apps",
+      "summary": "Microsoft is rolling out updates for Word, Excel, and PowerPoint that enable users to remove the floating Copilot button that has been appearing in recent weeks. This change addresses user feedback regarding the intrusive nature of the AI assistant's default placement in the interface.",
+      "source": "The Verge",
+      "original_title": "[The Verge] Microsoft is letting Office users remove an annoying Copilot button",
+      "context": "Microsoft recently started adding an artificial intelligence assistant button directly into popular programs like Word and Excel, assuming everyone would want it there. However, many users found the floating button annoying because it covered up their work and felt like an unwanted advertisement rather than a helpful tool. In response to this backlash, Microsoft is finally letting people hide the button, acknowledging that not everyone wants AI forced into their workspace and that user comfort matters more than pushing new features.",
+      "why_it_matters": "This change gives users control over their computer screens again. It shows that companies are listening when people complain about cluttered software.",
+      "other_side": "Some people think Microsoft should remove the button entirely, not just hide it. Others worry this feature is important for learning how to use new AI tools."
     },
     {
-      "headline": "Eclipse Tractus-X Releases SDK 0.8.0rc2 for Industry Data Spaces",
-      "summary": "Eclipse Tractus-X has released version 0.8.0rc2 of its Software Development KIT, serving as middleware for industry data spaces. This update supports developers in building secure and interoperable data exchange solutions within the automotive and industrial sectors.",
-      "source": "Pypi.org",
-      "original_title": "tractusx-sdk 0.8.0rc2 — Eclipse Tractus-X Software Development KIT - The Dataspace & Industry Foundation Middleware",
-      "context": "Car manufacturers and parts suppliers often struggle to share information securely because they use different computer systems that don't naturally \"speak\" to each other. Eclipse Tractus-X is a project created to build a common digital language, or toolkit, that allows these different companies to exchange data safely and efficiently. The recent update to their software kit helps developers build applications that can connect car factories, suppliers, and repair shops without risking data leaks or technical errors. This is crucial for the future of smart cars, where vehicles need to constantly share information with the rest of the industrial network to operate safely and efficiently.",
-      "why_it_matters": "Car makers can now share data securely with each other using new tools. This helps build smarter cars and safer roads by connecting different brands’ systems.",
-      "other_side": "Sharing data between companies raises privacy concerns for drivers. There is also a risk that technical glitches could disrupt vehicle operations if not managed carefully."
+      "headline": "Qualcomm Unveils Snapdragon X2 Series AI PCs in Malaysia",
+      "summary": "Qualcomm has officially launched its Snapdragon X2 Series platform in Malaysia, expanding its lineup of AI-powered personal computers. The new processors focus on enhanced performance, improved gaming support, and more robust on-device AI experiences for consumers.",
+      "source": "SoyaCincau.com",
+      "original_title": "[SoyaCincau.com] Qualcomm brings Snapdragon X2 series AI PCs to Malaysia",
+      "context": "Qualcomm is a major company that makes the computer brains, or processors, found in many laptops and phones, especially those running on Windows. They have just released a new generation of these chips designed specifically to handle artificial intelligence tasks right on the device, without needing to connect to the internet. This launch in Malaysia is part of a global push to make computers smarter and faster at things like translating languages or editing photos instantly, giving consumers more power in their everyday devices.",
+      "why_it_matters": "This launch brings faster, smarter computers to more people in Malaysia. It helps local gamers and workers get better tools without buying expensive imported brands.",
+      "other_side": "These computers might not work well with older software programs. Users might find them harder to fix if they break compared to standard PCs."
+    },
+    {
+      "headline": "AI Agents Expose Vulnerabilities in Legacy Enterprise Security Systems",
+      "summary": "Enterprises are struggling to keep pace with the rapid adoption of AI agents, which are increasingly exploiting weaknesses in traditional security setups. This lag creates escalating data risks as organizations fail to update their defenses against modern, AI-driven threats.",
+      "source": "TechRadar",
+      "original_title": "[TechRadar] How AI agents are wrecking havoc in legacy security setups and enterprises are catching up",
+      "context": "Most businesses still use old-school security systems that were built to stop human hackers using simple tricks like phishing emails. However, modern artificial intelligence agents are smart enough to find tiny, hidden weaknesses in these outdated defenses that humans would never notice. This creates a dangerous gap where companies are vulnerable to data theft because their security tools are too slow and rigid to keep up with the rapid, automated attacks generated by AI technology.",
+      "why_it_matters": "Old security systems are failing against new AI attacks. Companies must upgrade their defenses now or risk losing private customer data.",
+      "other_side": "Some experts say upgrading every system is too expensive for small businesses. They argue that simpler security rules might be safer than complex tech."
+    },
+    {
+      "headline": "JPMorgan Globally Implements AI Tools in Investment Banking",
+      "summary": "JPMorgan is widely deploying artificial intelligence tools across its global investment banking operations, signaling a major shift in industry practices. The bank plans to hire more AI specialists while reducing reliance on traditional bankers, mirroring broader trends toward automation in finance.",
+      "source": "The Times of India",
+      "original_title": "[The Times of India] JPMorgan rolls out AI tools in investment banking globally, senior banker says",
+      "context": "Investment banking has traditionally been a high-stress industry relying heavily on large teams of human analysts to crunch numbers and spot trends. JPMorgan Chase, one of the world's largest banks, is now replacing much of that manual work with artificial intelligence tools that can process information faster and more accurately than people. This shift means the bank will hire fewer traditional bankers and more tech specialists, signaling a major change in how the financial industry operates and values human labor.",
+      "why_it_matters": "Banks are using AI to do jobs humans used to do. This will likely change many finance careers and make services faster for customers.",
+      "other_side": "Human bankers might lose their jobs to machines. There is also a risk that AI could make bad investment choices without human oversight."
+    },
+    {
+      "headline": "UK Launches First AI-Powered Fertility Clinic Using Advanced Technologies",
+      "summary": "Avenues has opened the UK's first fertility clinic that utilizes artificial intelligence at nearly every stage of the patient journey. From sperm selection to ultrasound analysis, the clinic leverages state-of-the-art tech to assist patients, with early success stories highlighting the impact of AI on treatment outcomes.",
+      "source": "Dailymail.com",
+      "original_title": "[Dailymail.com] Inside the UK's first AI-powered fertility clinic using state-of-the-art technologies to help women get pregnant - as one couple says 'artificial intelligence allowed us to hold our baby in our arms'",
+      "context": "Fertility treatments are often emotionally draining and involve complex medical decisions where small details can impact success rates. A new clinic in the UK is using artificial intelligence to analyze everything from sperm quality to ultrasound images, removing some of the guesswork and human error from the process. By letting computers handle the detailed analysis, doctors can provide more precise care, giving patients a higher chance of success and reducing the stress associated with choosing the best treatment options.",
+      "why_it_matters": "AI is helping couples have babies by picking the healthiest sperm. This could increase success rates for families trying to conceive.",
+      "other_side": "Some people feel it is wrong to use machines to choose life traits. Others worry about privacy and who owns the genetic data collected."
+    },
+    {
+      "headline": "GoPro Introduces New MISSION 1 Series Cameras for Professional Video",
+      "summary": "GoPro has expanded its camera fleet with the launch of the MISSION 1 series, including the MISSION 1, MISSION 1 PRO, and MISSION 1 PRO ILS. The company released new footage showcasing the capabilities of these devices, targeting professional videographers and content creators.",
+      "source": "Newsshooter",
+      "original_title": "[Newsshooter] GoPro MISSION 1 Series Footage",
+      "context": "GoPro became famous for making rugged cameras that could survive extreme sports, but professional video creators needed something more versatile for serious film work. To fill this gap, they launched the MISSION 1 series, which offers higher quality video and features tailored for filmmakers who need reliable, high-performance gear. This move shows how action camera brands are expanding beyond just adventure sports to compete in the broader market of professional content creation and storytelling.",
+      "why_it_matters": "New cameras give creators better video quality for professional work. This makes high-end filmmaking tools more accessible to independent artists.",
+      "other_side": "Professional filmmakers might stick to bigger, more reliable gear. These cameras could be too fragile or expensive for casual users."
+    },
+    {
+      "headline": "G.Skill Showcases New DDR5 Memory Solutions for AI and Gaming at Computex",
+      "summary": "G.SKILL is set to demo multiple new DDR5 memory solutions designed for PC enthusiasts, servers, AI applications, and high-performance workstations at Computex 2026. The company will also host its annual OC World Cup event, highlighting advancements in performance overclocking memory.",
+      "source": "Techpowerup.com",
+      "original_title": "[Techpowerup.com] (PR) G.Skill to Demo New Memory Solutions for Gaming, Server, AI & Workstation Applications, Host OC World Cup 2026 at Computex",
+      "context": "Computer memory, or RAM, is like a desk space for your computer; the bigger the desk, the more projects you can work on at once without slowing down. G.SKILL is a company that builds these memory sticks, and they are showing off new versions that are faster and more efficient, specifically designed to help computers run heavy artificial intelligence programs and games smoothly. Their showcase at Computex highlights how hardware makers are constantly improving these components to meet the growing demand for faster, more powerful personal computers.",
+      "why_it_matters": "Faster memory lets computers run AI and games much smoother. This pushes the whole tech industry to build faster devices for everyone.",
+      "other_side": "Regular users might not notice a big difference in daily tasks. Upgrading old computers with this new memory can be costly and complicated."
+    },
+    {
+      "headline": "Tesla Recalls Over 14,000 Model Ys Due to Missing Certification Stickers",
+      "summary": "Tesla is issuing a recall for 14,575 Model Y vehicles produced between November 2025 and April 2026 because they may be missing required certification labels. This administrative oversight necessitates the recall to ensure all vehicles meet regulatory compliance standards.",
+      "source": "Electrek",
+      "original_title": "[Electrek] Tesla is recalling 14,575 Model Ys because they may be missing a sticker",
+      "context": "Every car sold must have specific labels proving it meets government safety and environmental rules, similar to how food products need nutrition facts. Tesla accidentally shipped thousands of Model Y vehicles without these required stickers, which is a paperwork error rather than a mechanical failure. The recall is simply a fix to go back and attach the missing labels so the cars are legally compliant, ensuring owners don't face issues when registering or insuring their vehicles.",
+      "why_it_matters": "Tesla must fix missing labels to follow government safety rules. This ensures all cars on the road meet basic legal standards.",
+      "other_side": "Missing stickers do not affect how the car drives or feels. Many drivers see this as a waste of time and money for no real safety gain."
     }
   ]
 }
