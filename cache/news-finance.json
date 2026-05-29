@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "ECB Vice President Warns of Iran War Impact on Growth Ahead of June Rate Decision",
-      "summary": "European Central Bank Vice President Luis de Guindos has urged the bank to consider the severe economic drag caused by the Iran war when deciding on interest rates in June. This highlights growing concerns among central bankers about geopolitical risks destabilizing European economic growth and inflation targets.",
-      "source": "Financial Post",
-      "original_title": "Guindos Says ECB Must Consider Weaker Growth in June Decision",
-      "context": "The European Central Bank is the group that controls money and interest rates for countries using the Euro, like Germany and France. Interest rates are basically the price of borrowing money; when they are high, it is expensive for businesses to grow, but it helps keep prices from rising too fast. An \"Iran war\" refers to a major military conflict involving Iran, which is a large country in the Middle East. If a war breaks out there, it can cut off oil supplies, causing gas and electricity prices to spike across Europe, which makes life more expensive and slows down the economy, forcing the bank to think carefully before changing interest rates.",
-      "why_it_matters": "The war in Iran is making it harder for Europe to keep its economy growing steadily. If prices for oil and goods stay high, regular people will have to pay more for everyday items, and the bank may keep borrowing costs high. This could slow down business hiring and make life tighter for families.",
-      "other_side": "Some experts argue that the war's direct impact on European inflation might be smaller than feared. They believe other factors, like energy efficiency improvements, are doing more to stabilize prices than the conflict itself."
+      "headline": "Space Stocks Surge on SpaceX IPO Buzz, Sparking Short Squeeze Fears",
+      "summary": "Rocket Lab and AST SpaceMobile are experiencing significant retail trading volume and potential short squeezes driven by the anticipation of a SpaceX IPO. This surge mirrors previous market dynamics seen in the EV sector, highlighting speculative interest in the space industry's financial prospects.",
+      "source": "Yahoo Finance",
+      "original_title": "RKLB, ASTS Are Crushing Retail Space Trade On SpaceX IPO Buzz — But One Tiny Underdog Could Be The Real Moonshot",
+      "context": "Context pending.",
+      "why_it_matters": "People are betting big on space companies because they think SpaceX might go public soon. This excitement could make stock prices jump, but it also means investors might lose money if the hype fades too quickly.",
+      "other_side": "Critics say this is just gambling, not real investing. They warn that buying stocks based on rumors is risky and often leads to big losses when the truth comes out."
     },
     {
-      "headline": "RBI Intervenes Heavily in Forex Markets, Selling Record $53.13 Billion in FY26",
-      "summary": "The Reserve Bank of India executed its highest level of forex intervention in a decade, selling $53.13 billion in the spot market to stabilize the rupee. The central bank's outstanding net forward sales position also widened to an all-time high, signaling aggressive measures to manage currency volatility.",
-      "source": "BusinessLine",
-      "original_title": "RBI’s forex intervention in spot and forward market in FY26 highest in a decade",
-      "context": "The Reserve Bank of India is India’s central bank, which acts like the manager of the country’s money supply. When people talk about \"forex,\" they mean foreign currency, specifically US dollars, which are needed to buy things from other countries. The Indian Rupee is the local money, and if its value drops too much compared to the dollar, imported goods become very expensive for regular people. To stop this from happening, the bank sells its own stash of US dollars to buy Rupees, which helps keep the value of the Rupee stable and prevents prices from skyrocketing due to currency changes.",
-      "why_it_matters": "India is spending a massive amount of money to keep its local currency strong against the dollar. This helps keep import costs lower and prevents sudden price spikes for fuel and food. It shows how much effort countries go to in order to protect their citizens from global money swings.",
-      "other_side": "Critics say that constantly fighting currency drops drains a country’s savings. They worry that using up so much cash reserves leaves the country vulnerable if a real financial crisis hits later."
-    },
-    {
-      "headline": "Traders Flee Bitcoin for Stablecoins as USDT and USDC Dominance Rises",
-      "summary": "Crypto traders are increasingly preferring stable dollars over bitcoin, leading to a surge in the dominance of USDT and USDC. This shift indicates a risk-off sentiment within the digital asset market as investors seek stability amid broader economic uncertainties.",
-      "source": "CoinDesk",
-      "original_title": "Traders once again prefer dollars over bitcoin. USDT, USDC dominance rises.",
-      "context": "Bitcoin is a digital money that changes value wildly, sometimes losing half its worth in a short time, which scares many investors who want safety. Stablecoins are a different type of digital money, like USDT or USDC, that are tied directly to the US dollar so their value stays steady at one dollar each. When traders move their money from Bitcoin into these stablecoins, it means they are worried about the market crashing and want to keep their cash safe without actually taking it out of the crypto system. This shift shows that investors are feeling nervous and prefer holding something predictable rather than gambling on volatile assets during uncertain economic times.",
-      "why_it_matters": "People are moving away from risky digital coins like Bitcoin toward stable digital dollars. This shows that investors are scared of big market crashes and want to keep their money safe and steady. It signals a shift in mood where caution is taking over excitement in the crypto world.",
-      "other_side": "Some traders believe this is just a temporary pause before Bitcoin goes back up. They argue that avoiding risk means missing out on huge profits when the market eventually recovers."
-    },
-    {
-      "headline": "Central Bank Warns Iran War Will Test Resilience of Irish Borrowers",
-      "summary": "The Central Bank of Ireland has issued a stark warning that the shock from the Iran war will test the resilience of Irish borrowers against potential disorderly corrections in global stock prices. The authority highlighted the interconnected risks posed by AI-driven valuation surges and geopolitical instability to the local financial sector.",
-      "source": "The Irish Times",
-      "original_title": "Iran war shock will ‘test resilience’ of Irish borrowers, says Central Bank",
-      "context": "The Central Bank of Ireland watches over banks and loans in Ireland to make sure the financial system doesn’t collapse. \"Borrowers\" are people or businesses who have taken out loans, usually to buy homes or run companies. A \"war in Iran\" can cause global stock markets to crash suddenly, which might make the value of investments drop sharply. If Irish borrowers have borrowed too much money and their investments lose value at the same time, they might not be able to pay back their loans, causing problems for the local banks and the wider economy.",
-      "why_it_matters": "The war in Iran is causing worry about whether Irish families can handle paying back their home loans. If stock markets drop suddenly because of global fear, people might lose jobs or savings, making it hard to pay banks. This highlights how global events can directly threaten local household finances.",
-      "other_side": "Bank officials might be exaggerating the danger to prepare borrowers for any outcome. Some argue that Irish homeowners have saved enough cash to handle small bumps without panicking."
-    },
-    {
-      "headline": "Federal Reserve Chair Proposes Communication Reforms to Reshape Market Dynamics",
-      "summary": "Federal Reserve Chair Kevin Warsh has proposed significant reforms to the Fed's communication strategy, which could fundamentally alter how markets react to monetary policy signals. Analysts suggest that less frequent updates might increase volatility by amplifying the impact of each individual statement.",
-      "source": "Crypto Briefing",
-      "original_title": "Federal Reserve Chair Kevin Warsh proposes communication reforms that could reshape market dynamics",
-      "context": "The Federal Reserve is the central bank of the United States, and it sets rules for how much it costs to borrow money in America. \"Communication reforms\" mean changing how often and what the Fed leaders say about their plans, because businesses and investors listen closely to every word they say. If the Fed decides to talk less frequently, markets might get confused or react strongly to each single statement, causing stock prices to jump up and down more than usual. This change aims to make the system less dependent on constant updates, but it risks making the economy feel more unstable because investors won’t have as much clear information to guide them.",
-      "why_it_matters": "The head of the US Federal Reserve wants to change how often he talks to the public about money rules. If he speaks less, the market might get jumpy every time he finally does talk. This could make investing more stressful for everyone as they try to guess what the bank will do next.",
-      "other_side": "Supporters think less talking would actually calm things down by reducing noise. They believe fewer updates would stop investors from overreacting to every little word or hint."
-    },
-    {
-      "headline": "National Bank of Canada Beats Earnings Expectations and Hikes Dividend",
-      "summary": "National Bank of Canada reported strong second-quarter earnings driven by robust performance in its personal and commercial banking units. The bank exceeded analyst expectations and announced a dividend hike while lowering credit loss provisions, reflecting improved financial health.",
-      "source": "Financial Post",
-      "original_title": "National Bank beats expectations, hikes dividend as it lowers credit loss provisions",
-      "context": "The National Bank of Canada is a major company that lends money to individuals and businesses and keeps their savings safe. \"Earnings\" refer to the profit the bank made after paying all its costs, and beating expectations means they made more money than experts predicted. A \"dividend\" is a portion of those profits that the bank pays out directly to the people who own shares of the company. By raising this payment and lowering the amount of money they set aside for potential bad loans, the bank is showing that it feels confident about its health and wants to reward its shareholders with more cash.",
-      "why_it_matters": "A major Canadian bank made more profit than expected and gave shareholders more money. This shows that even with high interest rates, traditional banks are still finding ways to earn cash. It gives confidence that the banking sector remains healthy and profitable.",
-      "other_side": "Some analysts worry that these profits are just short-term gains from high interest rates. They fear that if rates drop soon, the bank’s earnings could fall quickly too."
-    },
-    {
-      "headline": "Streamex Launches Decentralized Liquidity Infrastructure for Tokenized Securities",
-      "summary": "Streamex Corp. and Orca have launched a 24/7 decentralized secondary liquidity infrastructure designed for tokenized real-world assets. The inaugural asset for this new platform is GLDY, marking a significant step forward in bringing traditional commodity liquidity to blockchain-based markets.",
-      "source": "Financial Post",
-      "original_title": "Streamex Corp. and Orca Announce Launch of 24/7 Decentralized Secondary Liquidity Infrastructure for Tokenized Securities; GLDY the Inaugural Asset",
-      "context": "Tokenized securities are traditional investments, like stocks or bonds, that are converted into digital tokens on a blockchain, which is a secure digital ledger. \"Liquidity\" means how easy it is to buy or sell an asset quickly without changing its price too much; traditionally, some investments are hard to sell outside of normal business hours. Streamex and Orca created a system that allows these digital tokens to be traded 24 hours a day, seven days a week, just like cryptocurrency. This innovation brings the convenience of instant, round-the-clock trading to traditional assets, making it easier for investors to move their money whenever they want.",
-      "why_it_matters": "A new system allows people to buy and sell parts of real-world assets, like commodities, on the blockchain anytime. This makes it easier for regular investors to access markets that were once only for big institutions. It brings old-school finance into the modern digital age.",
-      "other_side": "Critics point out that blockchain systems can still be risky and prone to hacking. They worry that new users might lose money if the technology fails or if scams are involved."
-    },
-    {
-      "headline": "Johannesburg Residents Face Sharp Tariff Hikes Amid Budget Shortfalls",
-      "summary": "Cash-strapped residents of Johannesburg are facing significant increases in utility tariffs following a R7.7 billion budget hike by the city. These hikes come despite the municipality failing to meet its current financial targets, raising concerns about affordability and fiscal sustainability.",
-      "source": "News24",
-      "original_title": "News24 | Johannesburg residents hit with sharp tariff hikes in new R97.1bn budget",
-      "context": "Johannesburg is a major city in South Africa, and its residents pay monthly fees called tariffs for essential services like water and electricity. A \"budget shortfall\" happens when the city government spends more money than it collects in taxes and fees, leaving it with very little cash. To fix this lack of money, the city raises the prices (tariffs) for utilities, even though many residents are already struggling financially. This creates a difficult situation where people need basic services but cannot afford the new higher prices, leading to concerns about whether the city can manage its finances responsibly.",
-      "why_it_matters": "Residents in Johannesburg are facing higher bills for water and electricity because the city is short on cash. This hurts low-income families who already struggle to pay for basics. It shows how local government money problems directly impact daily life for citizens.",
-      "other_side": "City leaders argue that raising prices is the only way to fix broken pipes and keep services running. They claim that without more revenue, the city’s infrastructure would collapse completely."
-    },
-    {
-      "headline": "SOLOWIN Holdings Explores Stablecoin Applications via MOU with The BENEFIT Company",
-      "summary": "SOLOWIN Holdings has announced a memorandum of understanding with The BENEFIT Company to explore applications for stablecoins in financial services. As a leading fintech firm, SOLOWIN aims to leverage this partnership to integrate digital currency solutions into broader commercial offerings.",
+      "headline": "Nordic American Tankers Raises Dividend Amid Strongest Market Conditions in Decades",
+      "summary": "Nordic American Tankers Ltd announced a dividend increase to 22 cents per share for Q1 2026, citing robust market conditions for the tanker industry. The company highlighted its continued prosperity and strong financial performance relative to historical benchmarks.",
       "source": "GlobeNewswire",
-      "original_title": "SOLOWIN HOLDINGS (AXG) Announces AX Coin’s MOU with The BENEFIT Company to Explore Stablecoin Applications",
-      "context": "SOLOWIN Holdings is a financial technology company that uses technology to improve how money services work. A stablecoin is a digital currency designed to keep a steady value, usually linked to the US dollar, avoiding the wild swings seen in cryptocurrencies like Bitcoin. By signing a memorandum of understanding, SOLOWIN is formally exploring how to use these stable digital dollars in their business services. This partnership aims to make transactions faster, cheaper, and more efficient by using modern digital currency tools instead of traditional banking methods.",
-      "why_it_matters": "A fintech company is looking into using stable digital coins to improve its financial services. This could make sending and receiving money faster and cheaper for customers. It shows how traditional finance companies are trying to adopt crypto tools to stay competitive.",
-      "other_side": "Skeptics question whether stablecoins are truly safe or regulated enough for serious business. They worry that relying on unproven digital money could lead to fraud or loss of funds."
+      "original_title": "Nordic American Tankers Ltd (NYSE: NAT) – Report as per March 31, 2026 – NAT continues to prosper and raises its dividend. Market conditions for NAT are now the best for several decades.",
+      "context": "Context pending.",
+      "why_it_matters": "Shipping companies are making more money because the market for moving goods by sea is very strong right now. This means companies can pay their owners more cash, which is good for investors who own shares.",
+      "other_side": "Some worry that high prices won't last forever. If shipping costs drop later, these extra payments to owners might disappear quickly."
     },
     {
-      "headline": "FTI Consulting Appoints Senior Managing Director to Expand Transactions Practice",
-      "summary": "FTI Consulting has appointed Damon Yousefy as a Senior Managing Director to strengthen its Transactions practice within the Corporate Finance segment. This move underscores the firm's commitment to expanding its capabilities in handling complex financial transactions and advisory services.",
+      "headline": "India's Edible Oil Import Bill Hits ₹1.7 Trillion as Self-Sufficiency Fades",
+      "summary": "India has become the world’s largest importer of edible oils, spending ₹1.7 trillion in FY26, marking a stark reversal from its past self-sufficiency. This massive import dependence highlights significant shifts in the country's agricultural trade balance and consumer market dynamics.",
+      "source": "Livemint",
+      "original_title": "Oiling point: How India went from Dhara to edible oil import dependence",
+      "context": "Context pending.",
+      "why_it_matters": "India is spending a huge amount of money to buy cooking oil from other countries instead of growing it itself. This shows a big change in how people eat and puts pressure on the country's budget and food supply.",
+      "other_side": "Growing more oil at home would take time and money. Relying on imports keeps prices stable for now but makes the country dependent on foreign sellers."
+    },
+    {
+      "headline": "GURU Organic Energy to Report Q2 2026 Financial Results",
+      "summary": "Canada’s leading organic energy drink brand, GURU Organic Energy Corp., is scheduled to release its second-quarter financial results for the period ending April 30, 2026. The report will provide key insights into the company's revenue and profitability trends.",
+      "source": "Financial Post",
+      "original_title": "GURU Organic Energy to Report Second Quarter 2026 Results",
+      "context": "Context pending.",
+      "why_it_matters": "Investors are waiting to see if this energy drink company is actually making a profit or just spending money. Their next report will show if the brand is growing or struggling in a crowded market.",
+      "other_side": "New drink brands often fail to keep customers interested. If sales slow down, the company could run into trouble paying its bills."
+    },
+    {
+      "headline": "Century Fire Protection Expands Through Strategic Acquisitions of GSC and Titan",
+      "summary": "FirstService Corporation’s subsidiary, Century Fire Protection, has acquired GSC Fire & Security and Titan Fire Protection to broaden its service capabilities and scale in existing markets. These tuck-under acquisitions are designed to enhance the company's competitive positioning and operational reach.",
+      "source": "Financial Post",
+      "original_title": "Century Fire Protection Acquires GSC Fire & Security and Titan Fire Protection",
+      "context": "Context pending.",
+      "why_it_matters": "A big fire safety company is buying smaller rivals to become the biggest player in town. This helps them offer more services and save money by working together.",
+      "other_side": "Buying other companies can be messy and expensive. If the new teams do not get along, it could hurt the quality of service for customers."
+    },
+    {
+      "headline": "Malaysia Increases Domestic Gas Use as Power Demand Hits Record Highs",
+      "summary": "Soaring electricity demand driven by heatwaves and data center growth has pushed Malaysia to increase domestic natural gas consumption for power generation. As the world’s fifth-largest LNG exporter, this shift impacts both local energy pricing and export strategies.",
+      "source": "OilPrice.com",
+      "original_title": "Malaysia Boosts Domestic Gas Use as Power Demand Hits Record Highs",
+      "context": "Context pending.",
+      "why_it_matters": "Malaysia needs more gas to power its homes and new computer centers because electricity use is skyrocketing. This shift affects how much gas they can sell to other countries and changes local energy prices.",
+      "other_side": "Using more local gas for power means less is available for export. This could reduce income from selling gas abroad if global demand stays high."
+    },
+    {
+      "headline": "Fulfillment Services Market Projected to Reach $159.36 Billion by 2030",
+      "summary": "A new market analysis reports that the global fulfillment services market is poised for significant growth, driven by e-commerce expansion and demand for advanced warehouse automation. Key opportunities lie in AI-driven solutions and sustainable logistics practices through 2030.",
       "source": "GlobeNewswire",
-      "original_title": "FTI Consulting Grows Transactions Practice With Appointment of Damon Yousefy as Senior Managing Director",
-      "context": "FTI Consulting is a firm that helps other companies solve complex business problems, such as mergers, bankruptcies, or legal disputes. A \"Senior Managing Director\" is a top-level executive who leads teams and handles high-stakes client relationships. The \"Transactions practice\" refers to the part of the business that advises clients on buying, selling, or restructuring companies. By hiring Damon Yousefy, FTI is bringing in an experienced leader to help handle more complicated financial deals, showing that the firm wants to grow its ability to guide major corporate changes.",
-      "why_it_matters": "A top consulting firm hired a senior expert to help businesses handle complex financial deals. This suggests that companies are actively looking for help to manage mergers, sales, and restructuring. It indicates that the market for professional advice is growing as businesses navigate change.",
-      "other_side": "Some observers think hiring senior staff is just a way to charge higher fees to clients. They argue that the firm might be expanding too fast without having enough actual work to support the new hires."
+      "original_title": "Fulfillment Services Global Market Analysis Report 2026: $159.36 Bn Opportunities, Trends, Competitive Landscape, Strategies, and Forecasts, 2020-2025, 2025-2030F, 2035F",
+      "context": "Context pending.",
+      "why_it_matters": "More people are shopping online, so companies that store and ship packages are growing fast. This trend will create many jobs and drive new technology for faster deliveries.",
+      "other_side": "Building more warehouses can hurt the environment and raise rent prices. Local communities might suffer from increased truck traffic and noise."
+    },
+    {
+      "headline": "Silicon Anode Battery Market Set to Surpass $31.27 Billion by 2035",
+      "summary": "The global silicon anode battery market is forecasted to exceed $31.27 billion by 2035, reflecting strong growth in battery technology investments. This expansion is fueled by increasing demand for higher capacity batteries across various end-user applications.",
+      "source": "GlobeNewswire",
+      "original_title": "Silicon Anode Battery Market Size to Surpass USD 31.27 Billion by 2035 | Research by SNS Insider",
+      "context": "Context pending.",
+      "why_it_matters": "Batteries that hold more charge are becoming cheaper and better, which will help electric cars go further. This technology is key to reducing pollution and changing how we travel.",
+      "other_side": "Making these new batteries requires rare materials that are hard to mine. This could lead to supply shortages or environmental damage from mining operations."
+    },
+    {
+      "headline": "Kelly Announces Participation in Upcoming Investor Conferences",
+      "summary": "Kelly, a global workforce strategy provider, has announced its participation in several upcoming investor conferences to engage with shareholders and analysts. This move aims to highlight the company's strategic initiatives and financial outlook to the investment community.",
+      "source": "GlobeNewswire",
+      "original_title": "Kelly Announces Participation in Upcoming Investor Conferences",
+      "context": "Context pending.",
+      "why_it_matters": "A staffing company is meeting with investors to explain its future plans and show it is doing well. This helps build trust with people who have put money into the business.",
+      "other_side": "These meetings are often just marketing events designed to look good. The actual financial results might not be as impressive as the presentations suggest."
+    },
+    {
+      "headline": "Midland Exploration Identifies Anomalies at Caniapisc Gold Project",
+      "summary": "Midland Exploration Inc. completed an induced polarization geophysical survey on its Caniapisc Au project, identifying several promising anomalies. These preliminary results suggest potential for further gold discovery and value creation at the site.",
+      "source": "GlobeNewswire",
+      "original_title": "Midland Completes an Induced Polarization Geophysical Survey and Identifies Several Anomalies on Its Caniapisc Au Project",
+      "context": "Context pending.",
+      "why_it_matters": "A mining company found signs of gold deep underground, which could lead to a major discovery. If true, this would make the company very valuable and boost the local economy.",
+      "other_side": "Finding signs is not the same as finding gold. Many mines look promising but turn out to be empty, wasting time and money for investors."
     }
   ]
 }
