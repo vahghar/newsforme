@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "SpaceX's Record $75bn IPO Signals New Era for OpenAI and Anthropic Listings",
-      "summary": "SpaceX is set to price the largest stock-market debut in history, raising approximately $75 billion at a valuation near $1.75 trillion. This monumental event is viewed as a critical precursor and indicator for the future public listings of other major tech entities like OpenAI and Anthropic.",
-      "source": "The Next Web",
-      "original_title": "What SpaceX’s record IPO really means for the OpenAI and Anthropic listings behind it",
-      "context": "An Initial Public Offering, or IPO, is when a private company sells shares of itself to the public for the first time, allowing everyday people to become partial owners. SpaceX has been a secretive, privately held company for years, meaning only a few insiders could buy its stock, but this massive IPO opens the door for regular investors to participate in its growth. This event is significant because it sets a high bar for valuation, suggesting that other giant artificial intelligence companies like OpenAI and Anthropic might soon follow suit and go public. Understanding this helps you see how the financial world is shifting from keeping tech giants private to bringing their massive value into the open stock market.",
-      "why_it_matters": "SpaceX is becoming one of the most valuable companies in the world by selling shares to the public. This sets a big example for other private tech giants, like OpenAI, to do the same. It shows that huge, secretive tech firms are ready to share their profits with everyday investors.",
-      "other_side": "Some people worry this makes the stock market too risky for normal folks. If these companies fail or lose value, regular investors could lose a lot of money quickly."
+      "headline": "Economists Push Fed Rate-Cut Expectations Into 2027",
+      "summary": "A Bloomberg News survey reveals that economists have significantly delayed their expectations for Federal Reserve interest-rate cuts, now anticipating that rates will remain steady through the middle of next year. This shift signals growing caution among financial experts regarding the timeline for monetary easing amid persistent economic conditions.",
+      "source": "Financial Post",
+      "original_title": "[Financial Post] Economists Push Rate-Cut Expectations Into 2027, Survey Shows",
+      "context": "The Federal Reserve is the central bank of the United States, and its main job is to keep the economy stable by controlling how much it costs to borrow money. When the Fed raises interest rates, borrowing becomes expensive, which slows down spending and helps lower inflation, but it can also slow down job growth. Recently, experts thought the Fed would start lowering these rates soon to help the economy breathe easier, but new data shows prices are still rising stubbornly. Because of this, economists now believe the Fed will keep rates high for much longer than expected, likely until 2027, meaning consumers and businesses will face high borrowing costs for several more years.",
+      "why_it_matters": "Borrowing money will stay expensive for a long time. This makes it harder for people to buy houses or for businesses to grow, which can slow down the whole economy.",
+      "other_side": "Some experts think keeping rates high is necessary to stop prices from rising too fast. They believe waiting is better than risking a return of high inflation."
     },
     {
-      "headline": "Digital Asset Secures $355 Million Funding to Revolutionize Traditional Finance",
-      "summary": "Canton creator Digital Asset has secured a massive $355 million investment from prominent firms including a16z, Citadel Securities, and an Abu Dhabi fund. This significant capital injection underscores growing institutional confidence in blockchain technology's potential to transform traditional financial systems.",
+      "headline": "India Faces Budget Deficit Miss as Oil Shock Strains Public Finances",
+      "summary": "India is projected to miss its budget deficit target for the first time since 2021, driven by the severe impact of oil supply shocks on government coffers. As the world's third-largest crude importer, the nation is struggling to contain fiscal pressures, necessitating difficult adjustments to its public finance strategy.",
+      "source": "OilPrice.com",
+      "original_title": "[OilPrice.com] India Set to Miss Budget Deficit Target as Oil Shock Strains Public Finances",
+      "context": "A budget deficit happens when a government spends more money than it brings in through taxes and other income. India relies heavily on importing oil because it does not produce enough of it domestically to meet its huge energy needs. When global oil prices spike, the cost of fuel for transportation, manufacturing, and electricity skyrockets, forcing the government to spend significantly more just to keep basic services running. This unexpected financial strain has pushed India past its planned spending limits, creating a gap between what it earns and what it must pay out, which forces leaders to make difficult choices about cutting other programs or raising taxes.",
+      "why_it_matters": "India has to spend more money to buy expensive oil, leaving less cash for schools and roads. This forces the government to make tough choices about how to spend public funds.",
+      "other_side": "Critics argue that relying on oil imports makes the country vulnerable to global price swings. They suggest investing more in local energy sources to avoid these future shocks."
+    },
+    {
+      "headline": "SpaceX Shareholders Face Reality of Ownership Dilution at IPO",
+      "summary": "As SpaceX prepares for its initial public offering, a significant number of existing shareholders may discover they hold no actual equity in the company. This development highlights complex structural issues and potential dilution risks that could impact investor returns when the space company finally goes public.",
+      "source": "Fortune",
+      "original_title": "[Fortune] When SpaceX starts trading, some ‘shareholders’ will discover they own nothing at all",
+      "context": "An Initial Public Offering, or IPO, is when a private company sells shares of itself to the public for the first time, allowing regular people to buy ownership stakes. SpaceX is currently a private company owned by its founders and early investors, who hold special types of stock that are not yet available to the general public. As the company prepares to go public, complex rules about how different classes of stock convert into standard shares mean that some early owners might see their percentage of ownership shrink dramatically or become worthless if they don't meet specific conditions. This situation highlights the risk that buying into a company before it goes public doesn't always guarantee a profit, as structural changes can dilute what early investors actually own.",
+      "why_it_matters": "People who invested early in SpaceX might get a smaller slice of the pie than they expected. This shows that buying into private companies carries hidden risks that regular investors often miss.",
+      "other_side": "Supporters say this dilution is normal for fast-growing companies needing new cash. They believe the company's huge future value will still make their shares worth a lot."
+    },
+    {
+      "headline": "Futu Founder Accelerates Global Expansion Following $273M Penalty",
+      "summary": "Leaf Li, founder of fintech firm Futu, is intensifying global expansion efforts following a substantial $273 million regulatory penalty. This strategic pivot underscores the increasing regulatory hurdles facing Chinese fintech companies and their urgent need to diversify market strategies beyond domestic constraints.",
       "source": "Crypto Briefing",
-      "original_title": "Canton creator Digital Asset secures $355 million from a16z, Citadel Securities and Abu Dhabi fund in latest raise",
-      "context": "Traditional finance relies on old computer systems that are slow, expensive, and often require middlemen to verify transactions between banks. Digital Asset is a company building new software infrastructure that uses blockchain technology, which is like a shared digital ledger that records transactions securely without needing a central authority. Their recent funding round shows that major investment firms believe this technology can make global money transfers faster and cheaper than current methods. This context explains why investors are pouring money into crypto-related tech, hoping it will replace or upgrade the outdated systems currently used by big banks.",
-      "why_it_matters": "A company called Digital Asset got a huge amount of money to make blockchain work better for banks. This means big financial players trust this technology to change how we handle money. It could make sending and storing cash faster, cheaper, and safer for everyone.",
-      "other_side": "Critics say blockchain is still too new and unstable to replace old banking systems. They worry it could be used for illegal activities or crash if the technology isn't ready yet."
+      "original_title": "[Crypto Briefing] Futu founder Leaf Li accelerates global expansion after $273M penalty",
+      "context": "Futu is a financial technology company that helps people trade stocks and manage money online, originally growing very popular in China. The company recently had to pay a massive $273 million fine to regulators because it violated rules about how it operates and protects customer data within China. Instead of retreating from the market after such a heavy penalty, the founder is pushing harder to expand into international markets where regulations might be different or less restrictive. This move shows how strictly governments are watching tech companies that handle money, forcing them to diversify their operations globally to survive and grow despite local legal troubles.",
+      "why_it_matters": "The founder is moving quickly to find new customers after being fined heavily. This highlights how strict rules are changing the landscape for tech companies operating across borders.",
+      "other_side": "Some observers worry that rushing expansion could lead to more mistakes or legal trouble. They argue that fixing internal problems should come before growing globally."
     },
     {
-      "headline": "Turkey Holds Interest Rates Steady Despite Grim Inflation Outlook",
-      "summary": "Turkey’s central bank has maintained its main interest rate unchanged for the third consecutive time, citing a cooling economy and subdued demand for hard currency. This decision comes despite a challenging inflation backdrop, reflecting the bank's cautious approach amid economic headwinds.",
-      "source": "Financial Post",
-      "original_title": "Turkey Extends Rates Pause Despite Grim Inflation Outlook",
-      "context": "Interest rates are the cost of borrowing money; when they go up, loans become more expensive, which usually slows down spending and lowers inflation. Turkey’s central bank keeps rates steady to avoid shocking an economy that is already struggling with high prices and a weak currency. By not raising rates further, they hope to prevent businesses and consumers from cutting back too drastically, even though prices continue to rise rapidly. This situation highlights the difficult balancing act governments face when trying to control inflation without causing a recession or job losses.",
-      "why_it_matters": "Turkey decided not to raise interest rates even though prices are going up fast. This choice aims to keep the economy from slowing down too much. However, it might mean prices stay high for shoppers for a longer time.",
-      "other_side": "Many experts believe raising rates is the only way to stop prices from rising. Keeping them low could hurt the country's currency and make life more expensive for ordinary citizens."
+      "headline": "Vertiv Completes ThermoKey Acquisition to Boost AI Data Center Capacity",
+      "summary": "Vertiv has finalized its acquisition of ThermoKey, a move designed to strengthen its thermal management capabilities and manufacturing footprint in Europe, the Middle East, and Africa. This strategic purchase aims to support the growing demand for high-density computing infrastructure required by the expanding AI sector.",
+      "source": "PRNewswire",
+      "original_title": "[PRNewswire] Vertiv Completes Acquisition of ThermoKey, Expanding Heat Rejection Portfolio for AI Data Centers",
+      "context": "Artificial Intelligence requires massive computer servers that generate an enormous amount of heat while working, which can cause them to overheat and shut down if not cooled properly. Vertiv is a company that specializes in building the cooling systems and power infrastructure needed to keep these data centers running safely. By buying ThermoKey, a European company with expertise in cooling technology, Vertiv is expanding its ability to build these critical cooling solutions closer to where AI companies are setting up their new facilities. This acquisition is a direct response to the booming demand for AI computing power, ensuring that the hardware supporting AI has the necessary physical infrastructure to operate without melting down.",
+      "why_it_matters": "AI computers get very hot and need special cooling systems to work properly. Buying this company helps ensure there is enough cooling technology to support the rapid growth of artificial intelligence.",
+      "other_side": "Critics point out that merging companies can be messy and slow down innovation. They worry that focusing on hardware might distract from developing better software solutions."
     },
     {
-      "headline": "IMF Warns Nepal to Monitor Crypto Surge Amid Rising Usage Despite Ban",
-      "summary": "The International Monetary Fund has urged Nepal to closely monitor the rapid rise in cryptocurrency usage, which continues to grow despite existing bans. This warning highlights global concerns over unregulated crypto adoption and its potential implications for financial stability.",
-      "source": "Decrypt",
-      "original_title": "IMF Urges Nepal Monitor Crypto as Usage Rises Despite Ban",
-      "context": "Cryptocurrency allows people to send money directly to each other online without using a bank, which makes it very attractive in countries with strict capital controls or unstable currencies. Nepal has banned crypto to protect its national currency and prevent money laundering, yet people continue to use it because it offers privacy and ease of use. The International Monetary Fund is warning that this underground usage creates risks because the government cannot track where the money is going or tax it properly. This story illustrates the global challenge of regulating digital assets that operate across borders and outside traditional banking systems.",
-      "why_it_matters": "Nepal is seeing more people use crypto even though it is banned there. The global money group warns this is dangerous because there are no rules to protect users. This highlights how hard it is to stop new money trends once they start growing.",
-      "other_side": "Some argue that banning crypto doesn't work because people will find ways around it anyway. They believe regulating it might be safer than trying to hide it from the public."
+      "headline": "Summit Hotel Properties Announces CFO Departure",
+      "summary": "Summit Hotel Properties has announced that Executive Vice President and Chief Financial Officer William Conkling will depart the company effective June 15, 2026. This management transition marks a significant leadership change for the real estate investment trust as it navigates its operational strategy.",
+      "source": "PRNewswire",
+      "original_title": "[PRNewswire] SUMMIT HOTEL PROPERTIES ANNOUNCES MANAGEMENT TRANSITION",
+      "context": "A Chief Financial Officer, or CFO, is the executive responsible for managing all of a company's finances, including budgeting, reporting, and financial planning. Summit Hotel Properties is a business that owns and manages hotels, structured as a Real Estate Investment Trust, which means it must pay out most of its profits to shareholders. The departure of William Conkling from this key role creates uncertainty about who will steer the company's financial strategy during a potentially challenging time for the hospitality industry. Leadership changes in finance roles often signal shifts in how a company plans to handle debt, invest in new properties, or navigate economic downturns.",
+      "why_it_matters": "A top financial leader is leaving a major hotel company, which creates uncertainty. Investors may worry about how this change affects the company's ability to manage its money wisely.",
+      "other_side": "Some see this as a fresh start that brings in new ideas and energy. They believe leadership changes are natural and can lead to positive improvements over time."
     },
     {
-      "headline": "Hexagon Nutrition Set for Stock Market Debut with Moderate Gains Expected",
-      "summary": "Hexagon Nutrition, a key player in the nutrition and wellness sector, is preparing for its initial public offering tomorrow. Market analysts anticipate moderate listing gains, signaling investor interest in the company's entry into the public markets.",
-      "source": "Nextipoindia.com",
-      "original_title": "Hexagon Nutrition Shares Set To Debut Tomorrow With Moderate Listing Gains Expected",
-      "context": "When a private company goes public through an IPO, it lists its shares on a stock exchange so that anyone can buy a small piece of ownership. Hexagon Nutrition is entering this stage after growing successfully in the private market, where investors were limited to wealthy individuals and firms. Market analysts expect moderate gains because investors are cautious but interested in the health and wellness industry, which tends to be stable. This event marks a transition for the company from being owned by a few private backers to being accountable to thousands of public shareholders.",
-      "why_it_matters": "Hexagon Nutrition is selling its first shares to the public to raise money for growth. Investors are interested because health and wellness products are popular right now. This gives everyday people a chance to own a piece of a growing business.",
-      "other_side": "New stocks can be unpredictable and sometimes drop in value after they launch. Investors might pay too much if they get excited without checking if the company is truly profitable."
-    },
-    {
-      "headline": "US Tariffs Warned to Slash GDP by 4% and Employment by Over 3%",
-      "summary": "A government analysis has warned that proposed US tariffs could lead to a significant economic downturn, potentially reducing GDP by up to 4% and causing employment to drop by more than 3%. These figures highlight the severe macroeconomic risks associated with protectionist trade policies.",
-      "source": "RTE",
-      "original_title": "Research warned of negative implications from US tariffs",
-      "context": "Tariffs are taxes imposed on goods imported from other countries, designed to make foreign products more expensive so that local businesses can compete better. However, economists warn that these taxes often lead to higher prices for consumers and can trigger trade wars where other countries retaliate with their own tariffs. A 4% drop in GDP would mean the entire economy shrinks significantly, leading to fewer jobs and less income for families across the country. This context shows why protectionist policies, while intended to help domestic industries, can sometimes cause broader economic harm by disrupting global supply chains.",
-      "why_it_matters": "The US government warns that new taxes on imported goods could hurt the economy badly. It could shrink the total amount of goods produced and cause job losses. This suggests that protecting local industries might cost workers their jobs instead of saving them.",
-      "other_side": "Supporters say these taxes protect American jobs from unfair foreign competition. They believe forcing companies to buy local helps build a stronger domestic economy in the long run."
-    },
-    {
-      "headline": "Ultra-Rich Family Offices Pivot to Space Startups Beyond SpaceX",
-      "summary": "Family offices managing the wealth of ultra-high-net-worth individuals are increasingly investing in space startups independent of Elon Musk's ventures. This trend indicates a broadening of private capital interest in the commercial space sector beyond its most famous pioneer.",
-      "source": "CNBC",
-      "original_title": "How family offices are investing in the final frontier beyond SpaceX",
-      "context": "Space exploration used to be dominated by government agencies like NASA, but recently, private companies have begun launching satellites and rockets for profit. Ultra-rich family offices are groups of wealthy families who manage their collective wealth and invest in various ventures to grow their fortune over generations. They are now funding smaller space startups to diversify beyond well-known giants like SpaceX, betting on new technologies in satellite internet or space tourism. This trend indicates that space is becoming a mainstream investment sector, moving from government projects to a competitive commercial marketplace.",
-      "why_it_matters": "Very wealthy families are investing in space companies other than SpaceX. This shows that space travel is becoming a serious business with many different players. It means more innovation and competition in exploring space beyond just one famous leader.",
-      "other_side": "Space projects are incredibly expensive and risky with no guarantee of profit. Critics worry this money could be better spent solving urgent problems on Earth, like poverty or climate change."
-    },
-    {
-      "headline": "Trump's Inflation Remarks Spark Market Anxiety Among Republicans",
-      "summary": "President Trump's casual comments regarding inflation, which recently rose to 4.2 percent, have caused concern among Republican analysts and market observers. His flippant attitude toward rising prices contrasts sharply with the serious economic implications for consumers and investors.",
-      "source": "Raw Story",
-      "original_title": "Trump 'giving Republicans heartburn' with 'flippant' remarks on crucial topic: analyst",
-      "context": "Inflation measures how much the prices of everyday goods and services rise over time, eroding the purchasing power of money. When political leaders downplay rising inflation, it can create uncertainty among investors who rely on stable economic data to make decisions about stocks and bonds. Republican analysts are concerned because ignoring inflation can lead to poor policy choices that hurt the average consumer’s wallet. This story highlights the tension between political messaging and economic reality, showing how leadership attitudes can influence market confidence.",
-      "why_it_matters": "Trump's comments about inflation caused worry among his own supporters. When leaders downplay rising prices, it can shake confidence in the economy. This shows how much political words can affect how people feel about their wallets.",
-      "other_side": "Some argue that politicians should focus on long-term growth rather than short-term price changes. They believe constant worry about small price bumps creates unnecessary panic among voters."
-    },
-    {
-      "headline": "Porter Airlines Launches New Route, Expanding Regional Connectivity",
-      "summary": "Porter Airlines has inaugurated a new nonstop service between Ottawa and Deer Lake, becoming the sole carrier connecting these two destinations. This expansion marks a strategic move to capture regional travel demand and enhance its network footprint.",
-      "source": "Financial Post",
-      "original_title": "Porter Takes off With New Service Between Ottawa and Deer Lake",
-      "context": "Regional airlines connect smaller cities to larger hubs, providing essential travel options for communities that might otherwise lack direct flight access. Porter Airlines is expanding its network by adding a nonstop route between Ottawa and Deer Lake, which reduces travel time and boosts local tourism and business. Being the sole carrier on this route gives them a monopoly advantage, as passengers have no other direct flight options. This expansion reflects a common strategy in the airline industry to capture niche markets and increase revenue by serving underserved regional destinations.",
-      "why_it_matters": "Porter Airlines added a new route connecting two cities directly. This gives travelers a better option and boosts local travel in the region. It shows how airlines compete to offer more convenience to passengers.",
-      "other_side": "Adding new routes costs a lot of money and fuel. If not enough people buy tickets, the airline could lose money on flights that don't fill up."
-    },
-    {
-      "headline": "Hemp Industry Urges Congressional Action on Tax Policy Before Window Closes",
-      "summary": "Industry leaders warn that Congress must act quickly on hemp tax policy this summer, as the window to shape favorable regulations is closing. The outcome will determine significant financial losses or gains for the industrial hemp sector, impacting its viability and growth.",
+      "headline": "Medallion Bank Installs New CEO Amid Leadership Transition",
+      "summary": "Medallion Bank has announced a major executive transition with Don Poulton retiring as CEO and joining the board as Risk Committee Chair. Justin Haley has been promoted to Chief Executive Officer, signaling a new chapter in the bank's corporate governance and strategic direction.",
       "source": "GlobeNewswire",
-      "original_title": "The Hemp Tax: Why Industrial Hemp Can’t Afford to Sit This One Out[",
-      "context": "Industrial hemp is a variety of the cannabis plant grown for fiber, seeds, and oil, distinct from marijuana because it contains very little THC, the psychoactive compound. Farmers and businesses in this sector face uncertainty due to complex tax laws that can make it difficult to profitably grow and sell hemp products. Congress needs to clarify these regulations before a specific deadline, or the industry could face severe financial penalties that threaten its survival. This context explains why timely legislative action is crucial for the hemp industry to remain viable and compete fairly in the agricultural market.",
-      "why_it_matters": "Hemp farmers need quick help with tax laws before time runs out. If Congress doesn't act, the industry could face huge financial losses. This decision will determine whether hemp farming stays profitable or struggles to survive.",
-      "other_side": "Some lawmakers think hemp taxes should be treated like any other crop without special rules. They argue that giving special breaks to hemp creates an unfair advantage over other farmers."
+      "original_title": "[GlobeNewswire] Medallion Bank Announces CEO Transition",
+      "context": "Medallion Bank is a small but significant bank known for issuing credit cards, particularly those with high interest rates and fees, often targeting people with lower credit scores. The transition of leadership from Don Poulton to Justin Haley represents a shift in how the bank manages risk and interacts with federal banking regulators. Poulton’s move to a risk committee role suggests the bank is focusing heavily on compliance and safety as it faces increasing scrutiny over its lending practices. This change signals a new era for the bank where strategic direction may prioritize regulatory stability and long-term sustainability over aggressive growth.",
+      "why_it_matters": "A bank is getting a new boss to guide its future direction and safety. This transition aims to keep the institution stable while adapting to changes in the financial world.",
+      "other_side": "Long-time employees might feel uneasy about losing the current leader's experience. There is always a risk that a new leader might make costly strategic errors."
+    },
+    {
+      "headline": "Norbit Secures NOK 225 Million Manufacturing Contract",
+      "summary": "Norbit has announced the receipt of a significant manufacturing order valued at approximately NOK 225 million from its segment PIR. This contract reinforces the company's position in its core markets and contributes to its revenue pipeline for the current fiscal period.",
+      "source": "GlobeNewswire",
+      "original_title": "[GlobeNewswire] NORBIT – Contract worth NOK 225 million received",
+      "context": "Norbit is a Norwegian company that designs and manufactures equipment for railways and transportation systems, helping trains move safely and efficiently. The \"PIR\" segment mentioned refers to a specific division within the company focused on power and infrastructure solutions for these transit networks. Securing a contract worth 225 million Norwegian Krone indicates strong demand for their technology in modernizing rail systems, which is crucial as many countries upgrade their aging infrastructure. This win boosts the company's revenue and confirms its competitive position in the global market for smart transportation technology.",
+      "why_it_matters": "The company won a big order, which means it will earn more money soon. This success proves that customers still trust its products and want to work with them.",
+      "other_side": "Competitors might try to undercut prices to win back business next time. The company also faces the pressure of delivering quality work on time to keep the client happy."
+    },
+    {
+      "headline": "Elivaas Targets New Funding Round for Aggressive Villa Expansion",
+      "summary": "Holiday home operator Elivaas is preparing for a new fundraising round to fuel an ambitious expansion plan targeting 1,200 villas by year-end. The company aims to capitalize on India's growing interest in second homes, leveraging professional management services to capture emerging market opportunities.",
+      "source": "The Times of India",
+      "original_title": "[The Times of India] Holiday home operator Elivaas plans new funding round; targets 1,200 villas",
+      "context": "Elivaas is a business model that allows people to buy villas in India but then rents them out to tourists when the owners aren't using them, providing professional management services. The company is raising new money to aggressively expand its portfolio to 1,200 villas by the end of the year, betting on a growing trend of Indians investing in second homes for leisure and rental income. This strategy relies on the assumption that there will be enough travelers willing to stay in these managed properties to generate consistent revenue for both the company and the villa owners. It reflects a broader shift in emerging markets where real estate is being combined with hospitality services to create passive income streams.",
+      "why_it_matters": "The company wants to build many new vacation homes to meet rising demand. This expansion could create jobs and boost the local economy in popular holiday spots.",
+      "other_side": "Building so many homes quickly might strain local resources like water and waste management. Residents could also face higher housing costs if vacation rentals take over available properties."
+    },
+    {
+      "headline": "Azerbaijan Reports Per Capita GDP Growth to $7,400 in 2025",
+      "summary": "Azerbaijan's Finance Minister disclosed that the country's GDP per capita increased to 12,600 manat, equivalent to approximately $7,400, in 2025. This statistical update reflects the nation's economic performance and provides key insights into the financial health of its population during the discussion of the draft budget.",
+      "source": "Trend.az",
+      "original_title": "[Trend.az] Azerbaijani minister discloses per capita GDP growth in 2025",
+      "context": "GDP per capita is a measure used to estimate the average economic output per person in a country, giving an idea of the general standard of living. Azerbaijan, a country rich in oil and gas, has seen its average income rise to about $7,400 per person, which is a significant increase from previous years. This growth is largely driven by higher global energy prices and increased production, which boosts the national economy and government revenues. However, this statistic also serves as a baseline for the government to plan its future budget, balancing the windfall from energy exports with long-term investments in other sectors of the economy.",
+      "why_it_matters": "The average person in Azerbaijan is earning more money each year. This suggests that the country's economy is growing and people have more purchasing power.",
+      "other_side": "Some critics note that wealth might not be spread evenly among all citizens. They warn that average numbers can hide the fact that some groups are still struggling financially."
     }
   ]
 }
