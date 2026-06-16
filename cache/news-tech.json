@@ -1,97 +1,16 @@
 {
   "category": "tech",
   "page": 1,
-  "count": 10,
+  "count": 1,
   "stories": [
     {
-      "headline": "Amazon Defends Data Center Water Usage with Striking Efficiency Stats",
-      "summary": "Amazon has released new data claiming its data centers consume a negligible fraction of U.S. water resources, specifically comparing its 2.5 billion gallons of annual usage for cooling against the 3.3 trillion gallons used for lawn irrigation. The company highlights significant improvements in water efficiency metrics to counter environmental concerns regarding its massive infrastructure.",
-      "source": "Tom's Hardware UK",
-      "original_title": "Amazon says its data centers consume only 0.075% of the water Americans use for watering their lawns and gardens — company also boasts of its improvements in water efficiency",
-      "context": "Data centers are massive buildings filled with thousands of computer servers that store and process the internet's data, from your emails to streaming videos. These computers generate a huge amount of heat while working, so they need powerful cooling systems, often using water, to keep from overheating and shutting down. Amazon is responding to public worry that these facilities are using too much of our precious water supply by showing that their usage is actually very small compared to everyday things like watering lawns. This comparison helps put their environmental impact into perspective for people who might think tech companies are draining local water reserves.",
-      "why_it_matters": "Big tech companies use huge amounts of water to keep their servers cool. Showing that their usage is small compared to things like watering lawns helps them avoid strict rules and public anger. This sets a standard for how much water other tech firms might be allowed to use in the future.",
-      "other_side": "Critics argue that comparing tech usage to lawn irrigation is misleading. They say it ignores the fact that data centers are often built in areas already facing severe droughts, making any extra water use harmful to local communities."
-    },
-    {
-      "headline": "Lawmakers Struggle to Curb Expansion of AI Data Centers",
-      "summary": "Despite growing public opposition and legislative attempts to restrict or investigate the proliferation of AI data centers, congressional efforts have largely stalled. Lawmakers are facing significant hurdles in pushing back against the rapid expansion of these energy-intensive facilities, which are critical to AI infrastructure but increasingly controversial in local communities.",
-      "source": "The Daily Caller",
-      "original_title": "Some Congressional Lawmakers Have Attempted To Push Back Against AI Data Centers — But They Haven’t Gotten Far",
-      "context": "Artificial Intelligence requires enormous amounts of computing power, which is provided by specialized buildings called data centers that consume vast amounts of electricity and water to stay cool. As the demand for AI grows, companies are rushing to build more of these facilities, often in areas where local residents are concerned about strain on power grids and water supplies. Lawmakers want to slow this rapid expansion down to protect their communities, but they are finding it difficult because these data centers are seen as essential for the future economy and technological leadership. This creates a tug-of-war between the need for new technology infrastructure and the desire to maintain control over local resources and quality of life.",
-      "why_it_matters": "AI needs massive buildings to run, but these buildings use too much power and space. If laws don't stop this growth, local neighborhoods could suffer from blackouts and lost land. This story shows how hard it is for governments to control fast-moving technology.",
-      "other_side": "Supporters say these data centers are essential for the future of computing and jobs. They argue that blocking them would slow down innovation and hurt the economy more than helping the environment."
-    },
-    {
-      "headline": "AI Transforms Legal Practice: Lawyer Wins $6M Verdict Using AI Tools",
-      "summary": "Mark Lanier, who secured a landmark $6 million verdict against Meta and Google, revealed that artificial intelligence was central to his trial preparation, allowing him to condense 30 hours of work into just 10. This case highlights the growing integration of AI tools in high-stakes legal environments and their potential to drastically alter workflow efficiency in professional services.",
-      "source": "The Next Web",
-      "original_title": "The lawyer who won a $6 million verdict against Meta says AI let him do 30 hours of work in 10",
-      "context": "Legal cases against giant technology companies like Meta and Google can involve millions of pages of documents, emails, and messages that lawyers must review to find evidence. Traditionally, this process, known as discovery, takes human teams months or even years to complete manually, costing firms and clients a fortune in time and money. In this specific case, lawyer Mark Lanier used artificial intelligence software to quickly scan and summarize 30 hours worth of work into just 10 hours, allowing him to build a stronger case faster than ever before. This victory shows how AI is no longer just a futuristic concept but a practical tool that can drastically change how complex legal battles are fought and won.",
-      "why_it_matters": "This case proves that AI can do heavy lifting in serious legal battles. It shows lawyers can save time and money by using smart tools instead of doing everything by hand. This could change how all professional services work, making them faster and cheaper.",
-      "other_side": "Some people worry that relying on AI might lead to mistakes or bias. They fear that if lawyers trust machines too much, they might miss important details that a human would catch."
-    },
-    {
-      "headline": "Small IT Centers Pivot to Become AI Governance Hubs",
-      "summary": "Analysts predict that small IT centers are undergoing a strategic transformation to become specialized hubs for AI governance, particularly for mission-critical tasks. This shift aims to address the need for human oversight and regulatory compliance as AI agents take on more complex responsibilities, ensuring that critical operations remain under controlled, governed frameworks.",
-      "source": "BusinessLine",
-      "original_title": "Small IT centres to morph into AI governance hubs",
-      "context": "As artificial intelligence becomes smarter and starts making decisions on its own, there is a growing fear that it might make mistakes or act in ways that are harmful or illegal if left unchecked. To prevent this, small IT centers are changing their role from just fixing computers to becoming \"governance hubs,\" which are places dedicated to monitoring AI behavior and ensuring it follows rules and ethical standards. This shift is necessary because as AI agents take on more important tasks, humans need a structured way to oversee them, similar to how we have regulators for banks or food safety. It represents a move toward keeping human control firmly in place even as machines become more autonomous and capable.",
-      "why_it_matters": "As AI gets smarter, we need humans to watch over it closely. Small IT teams are stepping up to make sure AI follows the rules and doesn't go rogue. This creates a new type of job focused on safety and control rather than just coding.",
-      "other_side": "Critics say adding layers of human oversight slows things down too much. They believe it makes AI less useful because it takes too long to get approval for every action."
-    },
-    {
-      "headline": "Unity Releases Comprehensive Sci-Fi Weapon Pack for Game Developers",
-      "summary": "Unity.com has introduced a new collection featuring over 20 sci-fi weapons, tactical gear, and storage props optimized for game development projects. The pack includes rigged firearms and modular items designed to streamline the creation of futuristic assets, offering developers high-quality, ready-to-use components for enhancing sci-fi and futuristic game environments.",
-      "source": "Unity.com",
-      "original_title": "Sci-FI Weapon Pack VOL.1 by Brighters Studio",
-      "context": "Video game developers spend a lot of time creating realistic-looking objects like guns, armor, and tools for players to use in virtual worlds, which can be tedious and expensive to design from scratch. Unity, a popular platform that helps creators make games, released a pre-made collection of sci-fi items so developers don't have to start every asset from zero. These \"rigged\" items are already set up to move and interact correctly within a game engine, saving creators hours of technical work and allowing them to focus on storytelling and gameplay instead. This tool helps level the playing field by giving smaller teams access to high-quality graphics that were previously only available to large studios with big budgets.",
-      "why_it_matters": "Game makers now have easy access to high-quality sci-fi items like guns and gear. This speeds up the creation process and lets smaller teams make games that look as good as big studio releases. It lowers the barrier to entry for creative developers.",
-      "other_side": "Some players worry that using pre-made assets makes games look generic and boring. They feel that unique, hand-crafted designs are better for storytelling and immersion than stock items."
-    },
-    {
-      "headline": "SpaceX Post-IPO Market Dynamics and Fed Policy Take Center Stage",
-      "summary": "Investor focus is shifting toward the market implications following SpaceX's IPO, alongside Kevin Warsh's first meeting as Federal Reserve chair. These events are set to influence broader financial trends, with particular attention on how monetary policy adjustments and major tech valuations interact in the current economic landscape.",
-      "source": "Yahoo Entertainment",
-      "original_title": "SpaceX IPO afterglow, Kevin Warsh's first Fed meeting, and a potential US-Iran deal: What to watch this week",
-      "context": "SpaceX, the rocket company founded by Elon Musk, recently went public by selling shares to investors for the first time, which allows regular people to buy a piece of the company and potentially profit from its success. At the same time, Kevin Warsh has taken over as the chair of the Federal Reserve, the central bank of the United States that controls interest rates and influences how much money is available in the economy. Investors are watching both events closely because high interest rates can make borrowing money expensive for companies like SpaceX, while a successful IPO can signal confidence in the tech sector. The interaction between government monetary policy and major corporate valuations determines whether stock prices go up or down in the current market.",
-      "why_it_matters": "SpaceX going public changes how investors view private tech giants. At the same time, the Federal Reserve is adjusting interest rates, which affects how much money costs to borrow. Together, these events shape where money flows in the economy.",
-      "other_side": "Some experts think focusing on one company's IPO distracts from bigger economic issues. They argue that interest rate changes have a much larger impact on everyday people than stock market moves."
-    },
-    {
-      "headline": "Meta Faces Legal Scrutiny Over Social Media Addiction Amid AI Integration",
-      "summary": "A recent $6 million verdict against Meta highlights ongoing legal challenges regarding social media addiction, coinciding with increased scrutiny of how tech giants integrate AI into user engagement strategies. The case underscores the growing legal risks associated with platform design and the ethical implications of algorithmic influence on user behavior.",
-      "source": "The Next Web",
-      "original_title": "The lawyer who won a $6 million verdict against Meta says AI let him do 30 hours of work in 10",
-      "context": "There have been long-standing concerns that social media platforms are designed to be addictive, keeping users scrolling for hours which can harm mental health, especially among young people. A recent court case resulted in a large financial penalty for Meta, the parent company of Facebook, highlighting that these platforms could be held legally responsible for designing features that exploit user psychology. Now, as Meta integrates more artificial intelligence into its apps to show users more engaging content, critics worry that AI might make these addictive loops even stronger and harder to break. This legal scrutiny forces tech giants to rethink how they balance making money from user attention with the responsibility of not harming their users' well-being.",
-      "why_it_matters": "Courts are starting to hold social media companies responsible for how addictive their apps are. With AI making content even more engaging, this legal pressure could force changes in app design. It protects users from being manipulated by algorithms.",
-      "other_side": "Tech companies argue that users choose to use their apps freely. They say blaming the platform for addiction ignores personal responsibility and free speech rights."
-    },
-    {
-      "headline": "Tech Giants Navigate Regulatory Pressures as AI Governance Evolves",
-      "summary": "As AI technology advances, companies like Amazon and Meta are facing intensified regulatory scrutiny over data usage, environmental impact, and societal effects. The emergence of dedicated AI governance hubs and legislative pushback indicates a shifting landscape where technical innovation must be balanced with robust oversight and public accountability.",
-      "source": "BusinessLine",
-      "original_title": "Small IT centres to morph into AI governance hubs",
-      "context": "For years, technology companies operated with very little oversight, but as AI becomes more powerful and integrated into daily life, governments and the public are demanding stricter rules on how data is used and how algorithms behave. Companies like Amazon and Meta are now facing pressure not just from lawmakers trying to pass new laws, but also from internal teams creating \"governance hubs\" to self-regulate and ensure compliance before problems arise. This shift means that innovation can no longer happen in a vacuum; every new feature or product must be evaluated for its potential impact on privacy, safety, and society. It marks a new era where technical progress must be balanced with accountability and transparency to maintain public trust.",
-      "why_it_matters": "Analysis pending.",
-      "other_side": "Business leaders warn that too many rules will kill innovation. They claim that strict regulations will make it harder to build new technologies and compete globally."
-    },
-    {
-      "headline": "Amazon Highlights Water Efficiency in Data Center Operations",
-      "summary": "In response to environmental concerns, Amazon has published detailed statistics demonstrating the minimal water footprint of its data center operations relative to other common uses like lawn irrigation. This move is part of a broader strategy by tech firms to transparently communicate their sustainability efforts and justify their resource consumption amidst expanding infrastructure needs.",
-      "source": "Tom's Hardware UK",
-      "original_title": "Amazon says its data centers consume only 0.075% of the water Americans use for watering their lawns and gardens — company also boasts of its improvements in water efficiency",
-      "context": "Tech giants like Amazon are under intense scrutiny for their environmental footprint, particularly regarding how much water they use to cool the servers in their massive data centers. Critics argue that using billions of gallons of water is unsustainable, especially in regions facing droughts, leading to protests and negative publicity for the industry. Amazon responded by releasing detailed statistics comparing their water use to common activities like lawn irrigation to show that their impact is actually quite small in the grand scheme of things. This strategy aims to reassure the public and regulators that the company is being transparent about its resource consumption and is actively working to improve its efficiency.",
-      "why_it_matters": "Amazon is trying to show that its environmental impact is manageable. By sharing clear numbers, they hope to keep customers happy and avoid fines. This transparency helps build trust with people who care about climate change.",
-      "other_side": "Environmental groups say these stats don't tell the whole truth. They argue that even small amounts of water waste add up when you consider the total number of data centers worldwide."
-    },
-    {
-      "headline": "AI Tools Revolutionize Trial Preparation for Landmark Tech Verdicts",
-      "summary": "The successful use of AI in securing a $6 million verdict against major tech platforms demonstrates the tool's capacity to enhance legal strategy and efficiency. This development signals a potential shift in how legal professionals approach complex cases involving technology, leveraging AI for deeper analysis and faster preparation times.",
-      "source": "The Next Web",
-      "original_title": "The lawyer who won a $6 million verdict against Meta says AI let him do 30 hours of work in 10",
-      "context": "Preparing for a major lawsuit involves sifting through an overwhelming amount of information, a task that traditionally requires armies of lawyers working long hours to find relevant facts. The recent $6 million verdict against major tech platforms demonstrated that artificial intelligence can perform this tedious analysis much faster and often more accurately than humans alone. By using AI to condense weeks of research into days, lawyers can focus their energy on crafting persuasive arguments rather than just organizing documents. This success story suggests that AI will become a standard part of legal practice, fundamentally changing how justice is served by making complex cases more accessible and efficient.",
-      "why_it_matters": "Lawyers are winning big cases by using AI to find evidence faster. This proves that technology can help justice be served more efficiently. It encourages other fields to adopt similar tools to improve results.",
-      "other_side": "Opponents fear that AI might hide biases or errors in legal reasoning. They worry that juries won't understand how the tool reached its conclusions, leading to unfair verdicts."
+      "headline": "Nuvei Acquires Payoneer in $2.75B Digital Payments Deal",
+      "summary": "Nuvei Corp has agreed to acquire Nasdaq-listed Payoneer Global Inc. for $2.75 billion, marking its first acquisition since going private in 2024. This major transaction solidifies Nuvei's position as a dominant force in the global digital payments and financial technology sector.",
+      "source": "Biztoc.com",
+      "original_title": "[Biztoc.com] Nuvei strikes $2.75-billion deal for Payoneer in first acquisition since going private in 2024 — Digital payments giant Nuvei Corp. has struck a deal to buy Nasdaq-listed Payoneer Global Inc. PAYO-Q for US$2.75-billion, the first acquisition by the Montreal technology company since it was taken private in 2024.\nNuvei said it would purchase New York-based…",
+      "context": "Imagine two companies that help people send and receive money across the internet, like digital versions of Western Union but for online businesses. Payoneer is a well-known service that helps freelancers and small businesses get paid by big clients in other countries, while Nuvei is a larger company that provides the technical \"plumbing\" for many different types of online payments. When one company buys another for billions of dollars, it is usually because the buyer wants to grow faster by using the other company's customers and technology instead of building everything from scratch. This deal means Nuvei is combining its strong infrastructure with Payoneer’s large network of users to become a bigger, more powerful player in the global money-transfer industry, making it harder for smaller competitors to keep up.",
+      "why_it_matters": "This deal combines two big players in online money transfers, creating a giant that can handle payments for businesses worldwide. It means companies will have more choices and potentially faster ways to move money across borders. In the future, this could make global trade smoother and cheaper for everyone.",
+      "other_side": "Critics worry that merging these companies reduces competition, which might lead to higher fees for customers. There is also the risk that the two companies struggle to work together smoothly after such a huge merger."
     }
   ]
 }
