@@ -1,16 +1,97 @@
 {
   "category": "tech",
   "page": 1,
-  "count": 1,
+  "count": 10,
   "stories": [
     {
-      "headline": "Nuvei Acquires Payoneer in $2.75B Digital Payments Deal",
-      "summary": "Nuvei Corp has agreed to acquire Nasdaq-listed Payoneer Global Inc. for $2.75 billion, marking its first acquisition since going private in 2024. This major transaction solidifies Nuvei's position as a dominant force in the global digital payments and financial technology sector.",
+      "headline": "Persistent Systems Expands Nearshore AI and Cloud Capabilities in Mexico",
+      "summary": "Persistent Systems celebrated a decade of growth in Mexico, focusing on strengthening nearshore capabilities to support enterprise transformation. The expansion highlights increased demand for AI-enabled engineering, cloud modernization, and same-time-zone delivery services for global enterprises across the Americas.",
+      "source": "PRNewswire",
+      "original_title": "Persistent Celebrates 10 Years of Growth in Mexico, Strengthening Nearshore Capabilities to Advance Enterprise Transformation Across the Americas",
+      "context": "Many large companies hire outside teams to handle their computer work, a practice known as outsourcing. Historically, businesses sent this work to countries far away to save money, but that created delays because of time zone differences. Now, companies are moving these services closer to home, specifically to Mexico, so the workers can be online at the same time as clients in the United States. This shift allows for faster communication and better teamwork while still keeping costs lower than hiring local staff.",
+      "why_it_matters": "Companies are moving their tech work to Mexico to be closer to the US and Canada. This creates jobs in Mexico and helps businesses fix their computer systems faster because they share the same time zone. It shows a big shift in where global tech services are getting done.",
+      "other_side": "Some worry this move might hurt job opportunities in other countries. There are also concerns about whether local workers get paid fairly or if the benefits only go to big corporations."
+    },
+    {
+      "headline": "Reddit's Four-Year Hunt for 'Celebrity Number Six' Reveals Facial Recognition Ethics",
+      "summary": "A Reddit post seeking to identify a mysterious photo sparked an international four-year search involving facial recognition technology. The case highlights significant issues regarding photo copyright infringement and the ethical implications of using biometric data for identification.",
+      "source": "PetaPixel",
+      "original_title": "Reddit Spent Years Trying to Find Mysterious Photo Known as ‘Celebrity Number Six’",
+      "context": "The internet has made it incredibly easy to share photos, but it has also blurred the lines of privacy and ownership. For years, people have used facial recognition software to identify strangers in pictures, often without asking for permission or considering the impact on the person being identified. This specific case became famous because it turned a simple photo mystery into a long, invasive search that raised serious questions about who owns your image and whether it is ethical to use technology to track down private individuals. It serves as a warning about how digital tools can be used to bypass personal boundaries.",
+      "why_it_matters": "This story shows how dangerous it is to use facial recognition on social media. It proves that once your face is online, strangers can track you without your permission. This could change how we think about privacy and safety on the internet.",
+      "other_side": "Some people argue that finding missing persons or solving crimes is more important than privacy. They believe technology should help catch bad guys or find lost people, even if it means less personal secrecy."
+    },
+    {
+      "headline": "Port of Vancouver Pilots Electric Semi Trucks for First-Mile Delivery",
+      "summary": "The Port of Vancouver has launched a pilot program featuring electric Peterbilt 579EV Class 8 trucks for container-hauling routes. This data-sharing initiative aims to measure the real-world benefits of electric drayage trucks on first-mile delivery efficiency.",
+      "source": "Electrek",
+      "original_title": "The first mile: Port of Vancouver launches new electric semi truck pilot",
+      "context": "Trucks that haul shipping containers from ports to warehouses create a lot of pollution and noise in busy city areas. To fight climate change and improve air quality, many cities are looking for ways to replace old diesel trucks with cleaner electric ones. The Port of Vancouver is testing this by letting electric trucks run their regular routes to see if they work as well as gas-powered ones in real-world conditions. This experiment helps determine if switching to electric vehicles is a practical solution for reducing carbon emissions in heavy industry.",
+      "why_it_matters": "Moving heavy trucks to electric power helps clean up the air at busy ports. This test will show if electric trucks can handle real work just as well as gas ones. If it works, it could lower pollution and save money on fuel for shipping companies.",
+      "other_side": "Critics say electric trucks are still too expensive to buy for most businesses. They also worry that charging them all day might strain the local power grid if not managed carefully."
+    },
+    {
+      "headline": "TechRadar Curates Top Tech Gifts Under $50 for Father's Day",
+      "summary": "TechRadar released a guide highlighting unmissable tech gifts under $50 suitable for Father's Day. The selection includes practical gadgets such as smart alarm clocks and rechargeable air dusters, emphasizing items that will arrive in time for the holiday.",
+      "source": "TechRadar",
+      "original_title": "12 unmissable tech gifts under $50 that will definitely arrive in time for Father's Day",
+      "context": "Father's Day is a holiday where people look for thoughtful gifts to show appreciation for the fathers and father figures in their lives. In recent years, there has been a huge boom in small, useful gadgets that solve everyday problems without costing a fortune. Tech websites curate lists of these affordable items to help shoppers find high-quality products like smart clocks or cleaning tools that fit within a strict budget. This trend reflects a desire for practicality and convenience in gift-giving rather than expensive luxury items.",
+      "why_it_matters": "This highlights how affordable tech gifts can still be useful and fun. It shows that you don't need to spend a lot of money to give something practical. This trend encourages smart spending during holidays instead of buying expensive junk.",
+      "other_side": "Some people feel pressured to buy gadgets they don't actually need. They argue that these lists push consumerism and create waste when people buy cheap items that break quickly."
+    },
+    {
+      "headline": "Amazon Prime Day Deals Highlight Top Tech Products for Summer Savings",
+      "summary": "Amazon Prime Day offers significant savings on top products from June 23 to 26, with a focus on smart shopping strategies. The event provides opportunities to discover standout deals and discounts on various tech items beyond just the annual sale period.",
+      "source": "The-independent.com",
+      "original_title": "Make big savings on top products this Amazon Prime Day and beyond",
+      "context": "Amazon Prime Day is a massive annual shopping event where Amazon offers deep discounts to its members to encourage spending and loyalty. Unlike regular sales, this event happens over just a few days, creating a sense of urgency that drives people to buy things they might not normally purchase. While it started as a way to celebrate Amazon’s birthday, it has grown into a major retail phenomenon that influences how consumers shop for electronics and household goods throughout the summer. Shoppers use strategies like setting alerts to catch the best deals before they expire.",
+      "why_it_matters": "Big sales like Prime Day teach us how to shop smarter by waiting for discounts. It forces companies to keep prices competitive to win customers. This helps shoppers save money but also trains them to always wait for a sale before buying anything.",
+      "other_side": "These sales often trick people into buying things they don't need just because they look cheap. Critics say it creates fake urgency and makes people spend more than they planned."
+    },
+    {
+      "headline": "Brother Releases Updated Driver for DCP-J552DW Printer on Windows 10",
+      "summary": "Brother has released version 1.5.0 of the driver for the DCP-J552DW printer, specifically for Windows 10 users. The update ensures proper functionality and compatibility, requiring administrator privileges for installation.",
+      "source": "Softpedia",
+      "original_title": "Brother DCP-J552DW Printer Driver 1.5.0 for Windows 10",
+      "context": "Printers are complex machines that need special instructions, called drivers, to talk correctly to computers running different operating systems like Windows. Over time, software updates can break these connections, causing printers to stop working properly or lose features. Brother, the company that makes the printer, releases updates to fix these bugs and ensure the device continues to function smoothly with the latest computer versions. Installing these updates requires permission from the computer owner to prevent unauthorized changes to the system.",
+      "why_it_matters": "Keeping old printers working with new computers is important for saving money. It stops businesses from throwing away good hardware just because of software updates. This extends the life of devices and reduces electronic waste.",
+      "other_side": "Updating drivers can sometimes cause more problems than it solves. Users might struggle with installation steps or face bugs that make the printer stop working temporarily."
+    },
+    {
+      "headline": "New Python Package Improves Data Extraction from Software Development Systems",
+      "summary": "A new package named talentsavvy-improveteam version 0.53.150 has been published to PyPI.org. It provides scripts designed for extracting data from software development systems, aiding in more efficient data management for development teams.",
+      "source": "Pypi.org",
+      "original_title": "[Pypi.org] talentsavvy-improveteam 0.53.150 — Scripts for data extraction scripts from software development systems",
+      "context": "Software developers spend a lot of time writing code, but they also need to keep track of all the data about their projects, such as who did what task and when. Manually collecting this information is slow and prone to errors, so programmers create tools to automate the process. A new software package has been released to help teams automatically pull this important data from their development systems into one place. This makes it easier for managers to understand how their teams are performing without wasting hours on manual paperwork.",
+      "why_it_matters": "Better tools for organizing code help software teams build apps faster. It reduces the time spent fixing messy data, which saves companies money. This makes the whole process of creating new technology smoother and less stressful for developers.",
+      "other_side": "New tools can be hard to learn and might confuse teams used to old methods. There is also a risk that extracting too much data could lead to security leaks if not handled properly."
+    },
+    {
+      "headline": "Wall Street Braces for Fed Rate Decision as Nasdaq Futures Climb",
+      "summary": "Stock market futures for the S&P 500 and Nasdaq rose as investors awaited the Federal Reserve's rate decision. The climb reflects market anticipation surrounding Jerome Powell's first meeting as Fed chair and its potential impact on economic policy.",
+      "source": "Slashdot.org",
+      "original_title": "Stock market today: S&P 500, Nasdaq futures climb as Wall Street braces for Fed rate decision - Yahoo Finance",
+      "context": "The Federal Reserve is the central bank of the United States, and it controls interest rates, which determine how much it costs to borrow money. When interest rates go up, borrowing becomes expensive, which can slow down the economy; when they go down, borrowing is cheaper, which can stimulate growth. Investors watch these decisions closely because they directly affect stock prices and the overall health of the market. Anticipation around the Fed Chair’s first major meeting creates tension in the financial world as people try to guess which direction the economy will head.",
+      "why_it_matters": "Interest rate decisions affect how much it costs to borrow money for everyone. When rates go up, loans for houses and cars become more expensive. This news helps regular people understand why their bank accounts and credit cards might change soon.",
+      "other_side": "Some experts believe the market is reacting too strongly to small changes. They warn that panic buying or selling stocks based on rumors can hurt long-term savings for average investors."
+    },
+    {
+      "headline": "Vanguard Value ETF vs. Schwab Total Market ETF: A Tech-Enabled Investment Comparison",
+      "summary": "Investors are comparing the Vanguard Value ETF (VTV) with the Schwab U.S. Broad Market ETF (SCHB) to decide between targeted value strategies and broad-market exposure. This analysis leverages financial technology tools to evaluate how each ETF captures different segments of the U.S. economy.",
       "source": "Biztoc.com",
-      "original_title": "[Biztoc.com] Nuvei strikes $2.75-billion deal for Payoneer in first acquisition since going private in 2024 — Digital payments giant Nuvei Corp. has struck a deal to buy Nasdaq-listed Payoneer Global Inc. PAYO-Q for US$2.75-billion, the first acquisition by the Montreal technology company since it was taken private in 2024.\nNuvei said it would purchase New York-based…",
-      "context": "Imagine two companies that help people send and receive money across the internet, like digital versions of Western Union but for online businesses. Payoneer is a well-known service that helps freelancers and small businesses get paid by big clients in other countries, while Nuvei is a larger company that provides the technical \"plumbing\" for many different types of online payments. When one company buys another for billions of dollars, it is usually because the buyer wants to grow faster by using the other company's customers and technology instead of building everything from scratch. This deal means Nuvei is combining its strong infrastructure with Payoneer’s large network of users to become a bigger, more powerful player in the global money-transfer industry, making it harder for smaller competitors to keep up.",
-      "why_it_matters": "This deal combines two big players in online money transfers, creating a giant that can handle payments for businesses worldwide. It means companies will have more choices and potentially faster ways to move money across borders. In the future, this could make global trade smoother and cheaper for everyone.",
-      "other_side": "Critics worry that merging these companies reduces competition, which might lead to higher fees for customers. There is also the risk that the two companies struggle to work together smoothly after such a huge merger."
+      "original_title": "Vanguard VTV vs. Schwab SCHB: How Value Stocks Compare to a Total Stock Market ETF",
+      "context": "Investing in the stock market can be overwhelming, so many people use Exchange-Traded Funds (ETFs), which are baskets of many different stocks bundled together. Some investors prefer \"value\" funds, which focus on companies that seem undervalued or stable, while others prefer \"broad market\" funds that spread their money across almost every type of company. Financial technology tools now make it easy to compare these two approaches side-by-side to see which one might perform better historically. This helps everyday investors decide whether to play it safe with steady companies or bet on the entire economy’s growth.",
+      "why_it_matters": "Comparing investment funds helps everyday people choose safer ways to grow money. It shows that mixing different types of stocks can reduce risk. This empowers individuals to make informed choices instead of guessing where to put their savings.",
+      "other_side": "Picking the wrong fund can lead to losing money if the market drops. Many beginners don't understand the fees involved, which can eat away at profits over time without them realizing it."
+    },
+    {
+      "headline": "Scientific Study Explains Bone Conduction Effects on Voice Perception",
+      "summary": "Research clarifies why recorded voices sound different to their owners due to bone conduction amplifying lower frequencies. This scientific explanation addresses the common phenomenon where individuals find their recorded voice alien compared to how they perceive it internally.",
+      "source": "Space Daily",
+      "original_title": "Your own voice sounds different to other people than it sounds to you, because the version you hear is reaching your inner ear partly through the bones of your skull, which amplify lower frequencies that everyone else cannot hear — and the recorded version that strikes most people as alien when they first hear it is in fact the only version of their voice anyone else has ever known — There is a specific moment, usually in childhood or early adolescence, when most people first hear a recording of their own voice and discover, with mild horror, that it does not sound the way they expected. The voice on the recording is thinner. Higher. More…",
+      "context": "When you speak, you hear your own voice through two paths: sound waves traveling through the air to your ears, and vibrations traveling through the bones of your skull. The bone path amplifies deeper, lower sounds, making your voice sound richer and more resonant to you than it actually is. When you hear a recording, you only hear the air-traveling sound, which lacks those low-frequency boosts, making it sound thinner and unfamiliar. This scientific explanation clarifies why most people dislike hearing their recorded voice, as it does not match the internal experience they are used to.",
+      "why_it_matters": "Understanding why our recorded voice sounds weird helps reduce self-consciousness. It proves that hearing yourself talk is physically different from how others hear you. This simple science fact can boost confidence in public speaking or recording videos.",
+      "other_side": "Some people might overthink this and become obsessed with how they sound. Focusing too much on this difference can make social interactions awkward or anxiety-inducing for sensitive individuals."
     }
   ]
 }
