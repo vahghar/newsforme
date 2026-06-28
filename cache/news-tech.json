@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "South Korea's AI Stocks Crash, Halting Trading on Kospi",
-      "summary": "Heavyweights Samsung Electronics and SK Hynix, which dominate the Kospi index, fell approximately 9% each, dragging the broader market down by 8%. The sharp decline in AI-related equities forced the exchange to trigger circuit breakers, halting trading for roughly 20 minutes.",
+      "headline": "Mom of 7 Runs an AI-Powered Household",
+      "summary": "Jesse Genet, a former startup CEO, has integrated multiple AI agents into her daily life to manage household tasks. One such agent, named 'Claire,' autonomously handles grocery ordering without explicit requests, showcasing the practical application of autonomous AI agents in domestic settings.",
+      "source": "Newser",
+      "original_title": "Mom of 7 Runs an AI-Powered Household",
+      "context": "Imagine having a personal assistant that doesn't just wait for you to ask a question, but actually notices when your milk is empty and buys more on its own. This story highlights the shift from \"chatbots\" that just talk to \"agents\" that take action. For years, AI was like a very smart library book—you had to know exactly what to ask to get an answer. Now, it is becoming more like a helpful roommate who sees a mess and cleans it up without being told, raising big questions about how much control we really want to give to machines in our private homes.",
+      "why_it_matters": "This shows that AI is moving from just chatting to actually doing chores. It could save families time and stress by handling boring tasks like shopping automatically.",
+      "other_side": "Relying on machines for daily life might make people less capable of managing their own homes. There are also big worries about privacy and data security when AI watches your habits."
+    },
+    {
+      "headline": "Anthropic's Mythos 5 Is Available Again, No Timeline for Fable 5",
+      "summary": "Anthropic has made its most advanced AI model, Mythos 5, available again to selected partners. However, users of the Fable 5 model have been given no timeline for when it will become available again, highlighting the selective rollout strategies of major AI developers.",
+      "source": "PCMag.com",
+      "original_title": "Anthropic's Mythos 5 Is Available Again, No Timeline for Fable 5",
+      "context": "In the race to build smarter computers, companies like Anthropic are constantly releasing new versions of their brain-like software, but they don't let everyone use them at once. Think of this like a video game where the newest, most powerful level is only available to a few top players or friends first, while regular users have to wait indefinitely for their turn. This creates a sense of exclusivity and urgency, as tech companies try to balance making money with keeping their most advanced tools safe from misuse by the general public.",
+      "why_it_matters": "Top AI companies are keeping their best tools secret to stay ahead of rivals. This means regular users might not get access to the smartest tech for a long time.",
+      "other_side": "Keeping models private helps companies protect their money-making secrets. However, it slows down progress because fewer people can test and improve the technology."
+    },
+    {
+      "headline": "The Next Generation of AI Won’t Be Powered by Better Models Alone",
+      "summary": "Industry leaders at the AI Engineer World’s Fair are shifting focus from just improving models to developing autonomous agents and applications. Experts argue that the future of AI depends on these broader ecosystem developments rather than model capabilities alone.",
+      "source": "The Next Web",
+      "original_title": "The next generation of AI won’t be powered by better models alone",
+      "context": "For a long time, everyone thought the only way to make AI better was to make its \"brain\" bigger and smarter, but experts now realize that a smart brain is useless if it can't do anything on its own. The industry is shifting focus from just creating a talking computer program to building \"agents\" that can actually go out and perform tasks, like booking flights or coding software, without constant human hand-holding. It’s the difference between having a genius who sits silently in a room versus a genius who goes out and builds things for you, which is seen as the real future of technology.",
+      "why_it_matters": "The focus is shifting from just making smarter brains to building helpful helpers. This means AI will soon do more work for us on its own, not just answer questions.",
+      "other_side": "Some experts worry this shift is too early and the basic models aren't ready yet. They fear we are chasing hype instead of fixing real problems with current tech."
+    },
+    {
+      "headline": "OpenAI Unveils GPT-5.6 AI Models with Phased Rollout and Stronger Safety Checks",
+      "summary": "OpenAI has released its latest AI model family, GPT-5.6, featuring variants named Sol, Terra, and Luna. The rollout will be gradual across ChatGPT, the API, and Codex, with enhanced safety measures and advanced reasoning modes like Max and Ultra.",
       "source": "The Times of India",
-      "original_title": "South Korea’s favourite AI stocks slide again, drag Kospi index down 8% — Heavyweights Samsung Electronics and SK Hynix, which together account for more than half of Kospi's market cap, fell around 9% each on Friday, forcing the exchange to trigger circuit breakers and halt trading for roughly 20 minutes.",
-      "context": "Context pending.",
-      "why_it_matters": "This shows how risky the current AI boom is. When big tech companies like Samsung drop in value, it can wipe out billions of dollars from investors' savings very quickly. It warns us that betting everything on AI is a high-stakes gamble that can crash just as fast as it rises.",
-      "other_side": "Some investors see this crash as a good chance to buy stocks at a discount. They believe AI is the future and that prices will bounce back up soon, making this a temporary setback rather than a permanent loss."
+      "original_title": "OpenAI unveils GPT-5.6 AI models with phased rollout and stronger safety checks",
+      "context": "OpenAI is the company behind ChatGPT, and they are releasing a new update called GPT-5.6, which is essentially a major software upgrade for their main artificial intelligence model. They are rolling it out slowly, like testing a new car engine on a few tracks before letting everyone drive it, to make sure it doesn't break anything or say something dangerous. This update includes stricter safety rules to prevent the AI from generating harmful content, showing that as these models get more powerful, companies are under huge pressure to keep them safe and reliable for everyday users.",
+      "why_it_matters": "New AI versions are getting smarter but also safer with better checks. This helps prevent bad or harmful content from being generated by the system.",
+      "other_side": "Slowing down releases to add safety features can frustrate users who want new tools now. Critics also argue these safety checks might limit how creative or useful the AI can be."
     },
     {
-      "headline": "OpenAI IPO Delay Sends SoftBank and Tech Stocks Tumbling",
-      "summary": "Reports that OpenAI is leaning toward delaying its initial public offering until next year have caused significant volatility in the tech sector. SoftBank shares plummeted as a major investor, while other tech giants like Oracle also saw their stock prices drop amid growing fears about the timeline for OpenAI's market entry.",
-      "source": "Slashdot.org",
-      "original_title": "SoftBank’s Shares Tumble After Report of OpenAI’s IPO Delay - Bloomberg.com — Bloomberg.com OpenAI Leans Toward Waiting Until Next Year for I.P.O.The New York Times OpenAI IPO Fears Drag Down Oracle and Other Tech StocksBarron's OpenAI leans toward waiting until next year for I…",
-      "context": "Context pending.",
-      "why_it_matters": "OpenAI is one of the most important players in artificial intelligence. Delaying its public listing means there is less new money flowing into the tech market right now, which makes other tech stocks feel nervous and less valuable. It slows down the excitement around AI investments for now.",
-      "other_side": "Critics argue that delaying the launch allows OpenAI to fix any remaining problems before going public. They believe a stronger, more stable company will be worth more money in the long run than rushing to sell shares too early."
+      "headline": "Intel Arc Graphics Driver 32.0.101.6104 Released for Windows",
+      "summary": "Intel has released a new graphics driver update for its Arc series GPUs on Windows 10. This update aims to fix various issues, add new functions, and upgrade the system to the latest available version for optimal performance.",
+      "source": "Softpedia.com",
+      "original_title": "Intel Arc Graphics Driver 32.0.101.6104 for Windows 10 Vibranium 64-bit",
+      "context": "Your computer's graphics card, or GPU, is like the artist that draws everything you see on your screen, and Intel makes one of the popular brands of these cards called Arc. A \"driver\" is simply a small piece of software that acts as a translator between the operating system (like Windows) and the hardware, telling the card exactly how to draw images correctly. When Intel releases a new driver version, it is usually to fix bugs where games might crash or look weird, ensuring that the hardware performs at its best potential for gamers and creators.",
+      "why_it_matters": "Better drivers mean your computer games and videos run smoother and faster. It fixes bugs that might have been causing crashes or lag on your screen.",
+      "other_side": "Updating software always carries a small risk of breaking something else on your PC. Users often have to wait to see if the fix causes new issues before installing it."
     },
     {
-      "headline": "Micron Earnings Reveal the High Price Tag of the AI Boom",
-      "summary": "Micron's exceptional earnings report highlighted the escalating costs associated with the artificial intelligence boom, showing how memory chipmakers are capitalizing on severe supply bottlenecks. The data underscores the financial burden AI demand places on big tech companies and device buyers as infrastructure costs skyrocket.",
+      "headline": "Trump Threatens 100% Tariff on EU Countries Imposing Digital Tax",
+      "summary": "Former President Trump has threatened steep tariffs on EU nations implementing digital service taxes, a move that could significantly impact global tech giants' operations. This potential escalation in trade tensions poses risks to international markets and tech company revenues.",
+      "source": "Crypto Briefing",
+      "original_title": "Trump threatens 100% tariff on EU countries imposing digital tax",
+      "context": "Tariffs are taxes that one country charges on goods coming from another country, often used as a political tool to punish other nations or protect local businesses. In this case, former President Trump is threatening to tax European countries heavily because those countries want to charge tech giants like Google and Facebook for doing business there. This is part of a long history of trade wars where countries try to gain leverage over each other, potentially leading to higher prices for consumers and complicated diplomatic fights between major global powers.",
+      "why_it_matters": "Trade wars can make goods more expensive for everyone in both countries. Tech companies might lose money if they have to pay extra taxes to sell abroad.",
+      "other_side": "Tariffs protect local industries from foreign competition. Supporters say this forces other countries to play fair and stop taxing American businesses unfairly."
+    },
+    {
+      "headline": "Scientists Mull Controversial Plan to Steer Hurricanes",
+      "summary": "A new study published in PLOS Water suggests that technology is nearing the capability to disrupt or steer natural disasters like hurricanes. While some view this as science fiction, researchers are exploring the feasibility of using technology to mitigate such extreme weather events.",
       "source": "Biztoc.com",
-      "original_title": "The AI boom now has a price tag — and Micron just sent the bill: Chart of the Day — Micron's blowout earnings did not just revive the AI trade. They showed how expensive it is becoming.\nThe memory chipmaker is getting paid first because AI demand is running into a supply bottleneck. The harder question is who pays next: Big Tech, device buye…",
-      "context": "Context pending.",
-      "why_it_matters": "Making AI requires expensive computer chips, and Micron’s report proves these costs are going up fast. This means companies building AI tools have to spend more money, which could lead to higher prices for the apps and services we use every day. The cost of the AI revolution is becoming harder to ignore.",
-      "other_side": "Supporters say that high demand proves AI is useful and necessary. They argue that spending more on better chips leads to faster, smarter technology that saves time and money in other areas, making the extra cost worth it."
+      "original_title": "Scientists mull controversial plan to steer hurricanes",
+      "context": "Hurricanes are massive, powerful storms driven by warm ocean water, and for centuries, humans have been helpless against them until they pass. Scientists are now exploring controversial ideas about whether we could use technology, such as heating the ocean surface or seeding clouds, to weaken or steer these storms away from populated areas. While this sounds like science fiction, it stems from a growing desperation to protect communities from increasingly severe weather events caused by climate change, even if the methods are risky and unproven.",
+      "why_it_matters": "We might soon be able to stop natural disasters before they cause damage. This could save thousands of lives and billions of dollars in property loss.",
+      "other_side": "Messing with weather is risky and could cause storms in different places. Many scientists think it is too dangerous and unpredictable to try controlling nature."
     },
     {
-      "headline": "FinOps Strategies Evolve to Manage Soaring AI Token Costs",
-      "summary": "Chief Information Officers are increasingly turning to FinOps frameworks to navigate the complex and rapidly scaling costs of AI adoption. As usage-based tokenomics become prevalent, organizations must balance aggressive AI integration with strict spending controls to prevent budget overruns.",
-      "source": "Techtarget.com",
-      "original_title": "FinOps for AI: How CIOs are navigating tokenomics — CIOs must balance AI adoption with controlled spending -- a feat complicated by fast-scaling, usage-based AI costs. FinOps is expanding its scope to help manage that complexity.",
-      "context": "Context pending.",
-      "why_it_matters": "Using AI costs a lot of money, especially when you pay for every small action or \"token.\" Companies are now having to watch their budgets closely to avoid running out of cash. This forces businesses to be smarter about which AI tools they use and how much they spend.",
-      "other_side": "Some experts believe that strict budget controls might slow down innovation. If companies cut back on AI spending to save money, they might fall behind competitors who are willing to spend freely to build better features."
+      "headline": "TCL Showcases QLED vs 4K LED vs Google TV Models for Indian Homes in 2026",
+      "summary": "TCL is expanding its smart TV range in India with five new models covering various screen sizes and technologies, including QLED and 4K LED options. These devices feature Google TV integration, targeting diverse consumer needs in the residential market for 2026.",
+      "source": "Lokmattimes.com",
+      "original_title": "TCL QLED vs 4K LED vs Google TV: Five models for Indian homes in 2026 - www.lokmattimes.com",
+      "context": "TCL is a major electronics company trying to sell televisions to families in India, a market with diverse needs and budgets. They are introducing new models that use different screen technologies, like QLED which offers brighter colors, and standard LED, along with Google TV which lets users stream apps like Netflix easily. This expansion shows how global tech companies are tailoring their products to specific regions, offering a range of options from basic to high-end so that more people can afford smart entertainment in their homes.",
+      "why_it_matters": "More TV choices mean consumers can find screens that fit their budget and needs. New tech like QLED offers better colors and picture quality for home entertainment.",
+      "other_side": "Constantly releasing new models makes old TVs feel outdated very quickly. This creates more electronic waste as people throw away working devices to buy upgrades."
     },
     {
-      "headline": "Robotics Startup FieldAI Surpasses $100 Million Revenue Milestone",
-      "summary": "FieldAI, a developer of software enabling robots to operate in hazardous environments like mines and construction sites, has achieved $100 million in revenue. Backed by investors including Bezos Expeditions, the company's growth signals increasing commercial viability for industrial robotics solutions.",
-      "source": "Biztoc.com",
-      "original_title": "Robotics startup FieldAI has hit a $100 million milestone — FieldAI builds software for all kinds of robots.\nFieldAI\nFieldAI says it has topped $100 million in revenue and customer contracts.\nThe startup's software helps robots operate in mines, on construction sites, and in factories.\nInvestors, including Bezos Exped…",
-      "context": "Context pending.",
-      "why_it_matters": "FieldAI’s success shows that robots are no longer just science fiction; they are making real money in dangerous jobs. This proves that investing in industrial robots is a safe bet for the future of work. It encourages more companies to use robots to keep humans safe from harm.",
-      "other_side": "Workers worry that these robots will take their jobs away, especially in tough industries like mining. They fear that automation will leave many people unemployed without enough new opportunities to replace those lost roles."
+      "headline": "ITASCA MCP Server Added to PyPI for Simulation Workflows",
+      "summary": "A new Model Context Protocol (MCP) server for ITASCA software, including PFC, FLAC3D, and 3DEC, has been added to PyPI. This tool facilitates the integration of ITASCA simulation workflows into AI-driven environments, enhancing engineering simulation capabilities.",
+      "source": "Pypi.org",
+      "original_title": "itasca-mcp added to PyPI",
+      "context": "ITASCA is specialized software used by engineers to simulate how ground and rocks behave under stress, which is crucial for building safe tunnels and dams. The \"Model Context Protocol\" (MCP) is a new standard that allows different software programs to talk to each other easily, and adding an MCP server means engineers can now connect their complex simulations directly to AI tools. This integration allows AI to help analyze engineering data faster, bridging the gap between traditional heavy-duty engineering calculations and modern artificial intelligence capabilities.",
+      "why_it_matters": "Connecting engineering software with AI speeds up complex design work. Engineers can use smart tools to solve hard problems faster than doing it all by hand.",
+      "other_side": "Integrating new systems can be tricky and require extra training for staff. There is also a risk that relying on AI simulations might lead to errors if the data is wrong."
     },
     {
-      "headline": "Wall Street Chip Stocks Slide Despite Previous Rally",
-      "summary": "U.S. chip stocks retreated sharply as futures tied to the tech-heavy Nasdaq led Wall Street losses, reversing a recent rally driven by Micron. Apple's price hikes have stoked fears that high costs may dampen the AI trade, putting renewed pressure on semiconductor manufacturers.",
-      "source": "Biztoc.com",
-      "original_title": "Wall St futures fall as chip stocks resume slide after Micron-led rally — U.S. chip stocks retreat after Apple price hikes stoke fears over AI trade\nJune 26 (Reuters) - Futures tied to the tech-heavy Nasdaq led Wall Street losses on Friday, as chip stocks came under renewed pressure after a sharp rally in the previous session, whil…",
-      "context": "Context pending.",
-      "why_it_matters": "Chip makers rely on selling to big phone and computer brands. When Apple raises prices, people buy fewer devices, which means chip companies sell fewer parts. This creates a ripple effect that hurts the entire tech supply chain and lowers stock values.",
-      "other_side": "Investors think this dip is just a short pause in a long upward trend. They believe that demand for AI and smart devices will grow again soon, so buying now is a smart move before prices go back up."
-    },
-    {
-      "headline": "Toyota-Backed Air Taxi Achieves Critical 100 km/h Flight Milestone",
-      "summary": "SkyDrive's SD-05 multicopter, backed by Toyota, successfully demonstrated stable flight at 100 km/h, proving its wingless design can handle real aerodynamic loads. This achievement advances Japan's JCAB certification process and keeps the company on track for a potential commercial launch in 2028.",
-      "source": "New Atlas",
-      "original_title": "Toyota-backed air taxi hits 100 km/h, speeding toward commercial debut — Toyota-backed SkyDrive's SD-05 multicopter has achieved stable flight at 100 km/h (62 mph), proving its wingless design handles real aerodynamic loads. The milestone feeds Japan's JCAB certification process and keeps 2028 commercial launch in sight, if regula…",
-      "context": "Context pending.",
-      "why_it_matters": "Flying taxis could change how we travel by cutting down traffic jams in cities. Reaching higher speeds safely is a major step toward making this real within the next few years. It opens the door for a new kind of transportation that is faster and possibly cleaner.",
-      "other_side": "Many people are worried about the noise and safety risks of flying vehicles over neighborhoods. There are also concerns about who can afford these rides, fearing they will only be for the rich while regular people stay stuck in traffic."
-    },
-    {
-      "headline": "Google Gemini's New Computer Control Feature Sparks Security Concerns",
-      "summary": "Google has enabled Gemini to control user computers directly, but security experts warn that this capability exposes AI agents to hidden traps on the open web. Hackers are already targeting these agentic systems, raising urgent questions about the safety of autonomous AI navigation.",
-      "source": "Search Engine Journal",
-      "original_title": "Google Gemini Can Now Control Your Computer. Hackers Are Already Targeting AI Agents via @sejournal, @martinibuster — Google warns that websites can expose AI agents to hidden traps for agentic AI navigating the open web.\nThe post Google Gemini Can Now Control Your Computer. Hackers Are Already Targeting AI Agents appeared first in Search Engine Journal.",
-      "context": "Context pending.",
-      "why_it_matters": "Giving AI control over your computer is convenient but very dangerous. Hackers can trick the AI into doing harmful things, like stealing passwords or deleting files. This highlights a major security flaw that needs to be fixed before we trust AI with our personal data.",
-      "other_side": "Tech companies argue that users can control these settings and choose not to give AI full access. They believe that with proper warnings and user choices, the benefits of having an AI assistant outweigh the potential risks."
-    },
-    {
-      "headline": "Global Firms Commit $90 Billion to India Amid Geopolitical Shifts",
-      "summary": "Major global corporations have pledged over $90 billion in investments in India, with Amazon leading with $48 billion committed through 2030. These massive inflows, including significant contributions from AirTrunk and Saint-Gobain, reflect a strategic pivot toward India despite broader geopolitical uncertainties.",
-      "source": "BusinessLine",
-      "original_title": "Global firms commit over $90 bn investment in India amid geopolitical uncertainty — Among the biggest investments are $48 billion by Amazon up to 2030, $30 billion by Australian data centre operator AirTrunk and 1 billion euros by Saint-Gobain",
-      "context": "Context pending.",
-      "why_it_matters": "India is becoming a major hub for global business, attracting huge amounts of foreign money. This investment creates jobs and helps build better infrastructure in the country. It also shows that companies are looking for new places to grow as markets in other countries become crowded.",
-      "other_side": "Local critics worry that foreign companies will take over local businesses and push out small Indian entrepreneurs. They fear that the profits will mostly go back to foreign headquarters instead of staying in the local economy."
-    },
-    {
-      "headline": "AIM Discontinued: Secure Alternatives for Modern Messaging",
-      "summary": "With AOL Instant Messenger officially discontinued, users are migrating to secure alternatives that prioritize privacy and encryption. This shift highlights the ongoing evolution of communication technologies as legacy platforms fade and new security-focused messaging services gain traction.",
-      "source": "Addictivetips.com",
-      "original_title": "AIM Discontinued – 6 Secure Alternatives to AIM — AIM, aka AOL Instant Messenger, is now a relic of the past, but if you’re searching for the best alternatives to AIM, you can keep the chat going with these 6 alternative messaging services. While each of our featured messengers is geared for security to keep…",
-      "context": "Context pending.",
-      "why_it_matters": "Old messaging apps are disappearing, forcing everyone to move to newer, more secure platforms. This shift protects our private conversations from being read by hackers or advertisers. It marks the end of an era and the start of a focus on digital privacy.",
-      "other_side": "Some users miss the simplicity and familiarity of the old apps. They find the new secure options confusing to use or worry that the new platforms might collect their data in different ways, even if they claim to be private."
+      "headline": "ITASCA MCP Server Version 0.6.0 Released for Simulation Workflows",
+      "summary": "Version 0.6.0 of the itasca-mcp package is now available on PyPI, providing an MCP server for ITASCA software simulation workflows. This release supports PFC, FLAC3D, and 3DEC, enabling more seamless interaction between AI agents and geotechnical simulation tools.",
+      "source": "Pypi.org",
+      "original_title": "itasca-mcp 0.6.0",
+      "context": "This story is closely related to the previous one, focusing on a specific update (version 0.6.0) to the tool that connects ITASCA engineering software with AI systems. By updating this connection layer, developers are fixing bugs and improving how smoothly AI agents can interact with complex geological simulations. It represents the ongoing process of refining new technologies so that professionals can rely on them for critical tasks, ensuring that the bridge between old-school engineering software and new-school AI is stable and efficient.",
+      "why_it_matters": "Software updates keep engineering tools working smoothly with the latest AI. This ensures professionals can continue using advanced simulations without interruption.",
+      "other_side": "Frequent updates can be annoying and sometimes introduce new bugs. Users may prefer stability over new features, especially in critical engineering projects."
     }
   ]
 }
