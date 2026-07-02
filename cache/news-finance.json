@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "UK Antitrust Regulator Forces Apple to Allow Third-Party Payments",
-      "summary": "Britain’s antitrust regulator has proposed banning Apple from restricting developers to its own payment systems, mandating that third-party payment options be available outside the App Store. This move aims to curb Apple's monopoly power and foster competition in digital marketplaces.",
-      "source": "9to5Mac",
-      "original_title": "[9to5Mac] Apple may have to allow 3rd-party app payments and Apple Pay rivals in UK — Britain’s antitrust regulator has proposed forcing Apple to allow developers to link to third-party payment options to purchase apps and subscriptions outside of the App Store.",
-      "context": "For years, Apple has operated its iPhone App Store like a private kingdom where it sets all the rules, including forcing users to pay for digital goods through Apple’s own system, which takes a significant cut of the money. This practice has drawn the anger of competitors and consumer protection groups who argue that Apple is using its massive size to unfairly block other payment companies from doing business. The UK’s antitrust regulator is now stepping in to break this monopoly by forcing Apple to let developers offer cheaper or different payment options directly to customers, aiming to create a fairer playing field where competition can thrive.",
-      "why_it_matters": "This forces Apple to let people pay for apps using other methods, not just Apple's own system. It lowers costs for developers and gives users more choices, which could lead to cheaper apps and better services for everyone.",
-      "other_side": "Apple argues that its strict payment system keeps iPhones safe from scams and viruses. Critics say this safety comes at the cost of higher prices and less freedom for consumers."
+      "headline": "SpaceX Valuation Surges Past $2 Trillion Post-IPO",
+      "summary": "SpaceX's post-IPO frenzy has pushed its valuation beyond $2 trillion, with a price-to-sales ratio exceeding 115x. This milestone highlights the growing intersection of traditional finance and crypto, potentially influencing corporate treasury strategies and broader market dynamics.",
+      "source": "Crypto Briefing",
+      "original_title": "[Crypto Briefing] SpaceX stock price to sales ratio exceeds 115x as post-IPO frenzy pushes valuation past $2 trillion — SpaceX's IPO highlights the growing intersection of traditional finance and crypto, potentially influencing corporate treasury strategies and market dynamics.",
+      "context": "Context pending.",
+      "why_it_matters": "SpaceX is now worth more than most countries' economies. This shows how much investors believe in space travel and private companies. It could change how regular people invest in big tech and space projects.",
+      "other_side": "Some experts say this price is way too high. They worry it is a bubble that will pop, causing huge losses for anyone who bought in at the top."
     },
     {
-      "headline": "DBS Bank Identifies AI Arms Race as Driver of Multi-Year Capex Supercycle",
-      "summary": "DBS Bank reports that the global AI competition is fueling a sustained supercycle of capital expenditure extending far beyond semiconductors into energy, networking, and data centers. The bank projects that sovereign AI investments and rising power demand will create significant long-term financial opportunities.",
+      "headline": "Investing in Children's Future: A Guide to PPF Accounts",
+      "summary": "Parents can utilize Public Provident Fund (PPF) accounts for their minor children to secure long-term financial stability through compounding over a 15-year maturity period. The article outlines key constraints, such as the annual contribution limit of ₹1.5 lakh across all minor accounts.",
       "source": "The Times of India",
-      "original_title": "[The Times of India] The $1 trillion AI 'arms race' is fueling a hidden supercycle and it's not just chips — DBS Bank says the global AI arms race is driving a multi-year capex supercycle extending beyond semiconductors into energy, networking, infrastructure and data centres. The bank expects AI spending, sovereign AI investments and rising power demand to create n…",
-      "context": "The current boom in artificial intelligence is not just about writing software; it requires massive physical infrastructure like giant data centers and powerful computer chips to function. Banks are noticing that this demand is so huge that it is creating a \"supercycle,\" which is a long period of intense spending on building these facilities, buying energy, and upgrading networks. This trend is expected to last for many years because countries and companies are in a fierce race to build the best AI systems, driving up costs and investment opportunities far beyond just the tech sector.",
-      "why_it_matters": "The fight to build the best AI is causing companies to spend huge amounts of money on power and buildings. This spending boom will create many new jobs in energy and construction for years to come.",
-      "other_side": "Some experts worry this massive spending is a bubble that could burst if AI doesn't make enough profit. They also fear it will drain too much electricity, hurting regular households and the environment."
+      "original_title": "[The Times of India] Investing for your child's future through PPF? Here's what every parent should know before opening a PPF account",
+      "context": "Context pending.",
+      "why_it_matters": "This gives parents a safe way to save money for their kids' future. It uses compound interest to grow savings over many years. It helps families plan for education or major life events without high risk.",
+      "other_side": "The money is locked away for fifteen years. You cannot touch it easily if you have an emergency. This lack of access can be a problem for some families."
     },
     {
-      "headline": "FCA Unveils Landmark Crypto Reforms to Solidify UK as Digital Asset Hub",
-      "summary": "The UK's Financial Conduct Authority (FCA) has revealed a comprehensive set of new rules designed to strengthen the nation's position as a global leader in digital assets. These reforms aim to provide regulatory clarity while enhancing consumer protection in the crypto sector.",
-      "source": "Retailbankerinternational.com",
-      "original_title": "[Retailbankerinternational.com] FCA issues UK crypto reforms – industry reaction — FCA reveals a set of landmark crypto rules designed to strengthen the UK’s position as a global digital assets hub",
-      "context": "Cryptocurrency started as a mysterious, unregulated way to send money online, often associated with illegal activities due to a lack of oversight. The UK’s financial watchdog wants to change this image by creating clear, strict rules that protect everyday people from scams while allowing legitimate businesses to operate safely. By setting these standards early, the UK hopes to attract global crypto companies to set up shop there, positioning itself as a safe and modern leader in the new digital economy.",
-      "why_it_matters": "New rules make it safer and clearer to buy and sell digital money like Bitcoin in the UK. This encourages more businesses to move there, creating jobs and making the country richer through tech innovation.",
-      "other_side": "Hardliners argue these rules are still too weak to stop criminals from using crypto for illegal deals. Others worry that heavy regulation might push these businesses away to countries with looser laws."
+      "headline": "Circle CEO Addresses Revenue Challenges Amid Stock Drop",
+      "summary": "Circle CEO Jeremy Allaire discussed the challenges facing the Open Standard Dollar (OUSD) after its token, CRCL, fell by 16%. The company may face margin pressure if OUSD's revenue-sharing model gains traction, which could impact profitability despite USDC's strong market position.",
+      "source": "Crypto Briefing",
+      "original_title": "[Crypto Briefing] Circle CEO Jeremy Allaire addresses challenges for Open Standard Dollar after CRCL falls 16% — Circle may face margin pressure if OUSD's revenue-sharing model gains traction, impacting profitability despite USDC's strong market position.",
+      "context": "Context pending.",
+      "why_it_matters": "Circle makes money from digital dollars, but their stock is dropping. This shows that even popular crypto companies face hard times. It warns investors that profits are not guaranteed in this sector.",
+      "other_side": "Critics argue the company is spending too much on new products. They believe the focus should be on making the main product cheaper and more stable first."
     },
     {
-      "headline": "New York Life Launches Onchain High-Yield Bond Fund via Centrifuge",
-      "summary": "Asset manager New York Life is entering the tokenization space by launching a high-yield corporate bond fund on the blockchain through partnership with Centrifuge. This move signals Wall Street's expansion beyond tokenized Treasuries into more complex fixed-income products.",
-      "source": "CoinDesk",
-      "original_title": "[CoinDesk] New York Life makes tokenization debut with onchain high-yield bond fund with Centrifuge — The $807 billion asset manager is bringing a high-yield corporate bond strategy onto blockchain with Centrifuge as Wall Street expands beyond tokenized Treasury funds.",
-      "context": "Traditionally, buying bonds (which are essentially loans you make to companies) involves slow paperwork and middlemen who take fees. New York Life is now using blockchain technology, which is like a shared digital ledger that records transactions securely and instantly, to sell these bonds. This move is significant because it shows that major Wall Street firms are moving beyond simple government bonds into more complex investments, proving that this new digital method is reliable enough for serious financial products.",
-      "why_it_matters": "Big banks are now putting traditional loans onto the blockchain, making them faster and easier to trade. This brings old-school finance into the modern digital age, potentially lowering costs for borrowers and investors.",
-      "other_side": "Skeptics point out that blockchain technology is still prone to hacking and technical glitches. There is also concern that this could make the financial system more complex and harder for average people to understand."
+      "headline": "Low-Volatility Mutual Funds: Expert Advice on Market Cushioning",
+      "summary": "Experts weigh in on low-volatility mutual funds, which aim to cushion investors against market downturns while maintaining equity exposure. The analysis helps determine whether this strategy aligns with individual investment goals and risk tolerance.",
+      "source": "Livemint",
+      "original_title": "[Livemint] Low-volatility mutual funds: Should you invest? Here's what experts say",
+      "context": "Context pending.",
+      "why_it_matters": "These funds help protect your money when the stock market goes down. They offer a safer ride during scary economic times. This is good for people who are afraid of losing their savings.",
+      "other_side": "These funds often make less money than normal stocks. When the market goes up, you miss out on big gains. You trade potential profit for safety."
     },
     {
-      "headline": "EU Slashes Import Quotas on UK Steel by Nearly a Quarter",
-      "summary": "The European Union has reduced import quotas for British steel by nearly 25%, impacting UK steelmakers and prompting calls for continued negotiations with Brussels. This trade adjustment highlights ongoing economic tensions and regulatory divergences between the UK and EU post-Brexit.",
-      "source": "POLITICO.eu",
-      "original_title": "[POLITICO.eu] EU slashes import quotas on UK steel by nearly a quarter — British steelmakers push ministers to continue talks with Brussels to realize more generous country-specific quotas.",
-      "context": "After Brexit, the UK left the European Union’s single market, meaning trade rules between them had to be rewritten from scratch. Steel is a strategic industry, and the EU has decided to lower the amount of British steel allowed into Europe without extra tariffs, likely due to concerns about unfair subsidies or environmental standards. This reduction hurts UK steelmakers who relied on easy access to European customers and highlights how economic relationships are still being renegotiated years after the political split.",
-      "why_it_matters": "The EU is buying less steel from the UK, which hurts British factories and workers. This shows how trade rules are still causing friction between the UK and Europe after Brexit, potentially raising prices for goods.",
-      "other_side": "The EU claims this is necessary to protect its own steelmakers from unfair competition. They argue that without limits, cheap imports could put local European jobs at risk."
+      "headline": "Nifty Historical Performance Shows July Resilience",
+      "summary": "Historical data indicates that the Nifty index has delivered positive returns in 18 of the past 25 Julys. Current optimism is driven by monsoon expectations, earnings forecasts, easing crude prices, and improving foreign investment flows following June's gains.",
+      "source": "The Times of India",
+      "original_title": "[The Times of India] Nifty delivered positive returns for 18 of 25 years in July",
+      "context": "Context pending.",
+      "why_it_matters": "History shows the market usually does well in July. This gives investors hope for the rest of the year. It suggests that buying now might be a smart move based on past trends.",
+      "other_side": "Past performance does not promise future results. Bad weather or bad news could still ruin the month. Relying only on history can be risky if conditions change."
     },
     {
-      "headline": "Financial Services Market Talk: Rosebank, Bridgepoint, and Robinhood Insights",
-      "summary": "This roundup provides critical market analysis on key financial services entities including Rosebank Industries, Bridgepoint, and Robinhood Markets. It offers investors essential insights into recent performance trends and strategic developments within the sector.",
+      "headline": "US-Iran Negotiations Could Reshape Global Markets",
+      "summary": "Evolving negotiations between the US and Iran regarding a potential 2026 nuclear agreement are expected to reshape geopolitical dynamics. These developments have significant implications for global markets and regional stability amid ongoing uncertainties.",
+      "source": "Crypto Briefing",
+      "original_title": "[Crypto Briefing] US-Iran negotiations shape potential 2026 nuclear agreement — The evolving US-Iran negotiations could reshape geopolitical dynamics, impacting global markets and regional stability amid ongoing uncertainties.",
+      "context": "Context pending.",
+      "why_it_matters": "Peace talks between the US and Iran can lower global tensions. Lower tension means oil prices might stay stable. This helps keep costs down for everyday goods and travel.",
+      "other_side": "If talks fail, conflict could return quickly. War scares investors and drives up fuel prices. Uncertainty makes it hard for businesses to plan for the future."
+    },
+    {
+      "headline": "American Families Hoard Cash at Opportunity Cost",
+      "summary": "A growing number of American families are hoarding cash, potentially leaving significant returns on the table. Financial experts analyze the reasons behind this trend and provide strategies to optimize idle capital for better financial outcomes.",
       "source": "Biztoc.com",
-      "original_title": "[Biztoc.com] Financial Services Roundup: Market Talk — Find insight on Rosebank Industries, Bridgepoint, Robinhood Markets and more in the latest Market Talks covering Financial Services.",
-      "context": "This story is less about a specific event and more about a general market update for three different financial companies: Rosebank, Bridgepoint, and Robinhood. Investors watch these companies closely because they represent different parts of the financial world, from private equity to online trading apps. The report summarizes their recent performance to help investors understand whether money is flowing into or out of these sectors based on their latest business strategies and earnings.",
-      "why_it_matters": "This story is just a summary of market news about specific companies like Robinhood. It does not reveal any major new trends or events that would change how money works globally.",
-      "other_side": "Investors might find this useful for tracking their own stocks, but casual readers get no real insight here. It is essentially filler content with no deep impact on the general public."
+      "original_title": "[Biztoc.com] American families are hoarding piles of cash, but leaving money on the table. Here's why, and how to make it all back",
+      "context": "Context pending.",
+      "why_it_matters": "Keeping cash under the mattress loses value over time. Inflation eats away at what that money can buy. Moving cash to investments helps families build wealth instead of watching it shrink.",
+      "other_side": "Some people prefer having cash ready for emergencies. They do not trust banks or the stock market. Safety and easy access matter more to them than extra growth."
     },
     {
-      "headline": "Regulators Urge Apple and Google to Offer Alternative Payment Paths in UK",
-      "summary": "British regulators have formally urged Apple and Google to allow developers to steer users toward alternative payment methods outside their respective app stores. The Competition and Markets Authority aims to increase competition and reduce fees for consumers and developers alike.",
-      "source": "Biztoc.com",
-      "original_title": "[Biztoc.com] Apple and Google Urged to Offer Alternative UK Payment Paths — British regulators want Apple and Google to let developers steer users to payment methods beyond the company’s app stores.",
-      "context": "Just like Story 1, this involves the UK government trying to stop tech giants from charging high fees for app payments, but here the focus is on both Apple and Google. Regulators believe that when developers have no choice but to use the app store’s payment system, they pass those high costs on to consumers in the form of higher prices. By urging these companies to offer alternative paths, regulators hope to lower prices for users and give smaller developers a better chance to compete fairly.",
-      "why_it_matters": "Regulators want Apple and Google to stop forcing developers to use expensive payment systems. This should lower fees for app creators, who might then pass those savings on to you as lower app prices.",
-      "other_side": "Tech giants claim their systems are secure and easy to use for everyone. They argue that letting outside payments in could open the door to fraud and malware on phones."
+      "headline": "Iran Leadership Transition Threatens Market Stability",
+      "summary": "Following the death of Khamenei, uncertainty surrounding Iran's leadership transition looms large. This political instability is expected to destabilize regional politics and influence global economic dynamics, creating volatility in financial markets.",
+      "source": "Crypto Briefing",
+      "original_title": "[Crypto Briefing] Iran mourns Khamenei after US-Israeli airstrike, leadership transition looms — Iran's leadership transition uncertainty may destabilize regional politics and markets, influencing global geopolitical and economic dynamics.",
+      "context": "Context pending.",
+      "why_it_matters": "A change in Iran's leader creates confusion and fear. Investors hate uncertainty because it leads to wild price swings. This instability can hurt global markets and energy supplies.",
+      "other_side": "New leaders might bring fresh ideas and stability. Change can sometimes lead to better relations with neighbors. Not all transitions result in chaos or war."
     },
     {
-      "headline": "UK Watchdog Proposes New Rules for Apple and Google App Stores",
-      "summary": "The UK's Competition & Markets Authority has opened a consultation on proposed rules that would mandate greater control for app developers over payment methods. These regulations seek to dismantle current restrictions imposed by tech giants to ensure fairer market practices.",
-      "source": "Biztoc.com",
-      "original_title": "[Biztoc.com] UK watchdog proposes new rules for Apple, Google — The UK's Competition & Markets Authority (CMA) on Tuesday opened a consultation on proposed rules mandating that Google and Apple grant app developers more control over payment methods and mobile ...",
-      "context": "The UK’s Competition and Markets Authority is currently asking for public feedback on new rules that would force Apple and Google to let app creators control their own payment methods. Currently, these tech giants lock developers into their own ecosystems, making it difficult for anyone else to enter the market. If these rules are passed, it would fundamentally change how mobile apps work, shifting power away from the platform owners and giving more freedom and profit potential to the actual creators of the software.",
-      "why_it_matters": "The UK government is trying to break the power of Apple and Google over app stores. This aims to create a fairer playing field where small developers can compete with big tech companies.",
-      "other_side": "Opponents say this interferes too much with how private companies run their businesses. They warn that too many rules could stifle innovation and make apps harder to develop."
+      "headline": "Wheels India Capitalizes on EV Penetration Growth",
+      "summary": "Wheels India's CMD reports strong growth in its air suspension and windmill component businesses, driven by the increasing penetration of electric vehicles. Strategic investments are further bolstering the company's expansion in these high-demand sectors.",
+      "source": "BusinessLine",
+      "original_title": "[BusinessLine] Growing penetration of EVs driving Wheels India’s air suspension business, says CMD",
+      "context": "Context pending.",
+      "why_it_matters": "Electric vehicles are becoming more common. Companies making parts for them are seeing big growth. This shows where the future of transportation and jobs is heading.",
+      "other_side": "The EV market is very competitive and risky. Prices for batteries and parts can drop fast. If demand slows down, these companies could lose money quickly."
     },
     {
-      "headline": "Senator Gallego Faces Federal Probe Over Campaign Finance Breaches",
-      "summary": "Senator Ruben Gallego is under federal investigation for potential violations of campaign finance rules regarding trips funded through political money. This probe highlights increasing scrutiny on political spending compliance within the US government.",
-      "source": "Newser",
-      "original_title": "[Newser] Senator Reportedly Faces Campaign Spending Probe — Sen. Ruben Gallego seems to be back under a federal microscope, but this time over how he spent political money. The Arizona Democrat is being investigated by the Justice Department for possible breaches of campaign finance rules tied to trips funded through …",
-      "context": "In US politics, there are very strict laws about how much money candidates can spend and where that money comes from, designed to prevent corruption. Senator Ruben Gallego is under investigation because he may have used campaign funds for personal trips or expenses that were not allowed under these rules. This probe is part of a broader trend of increased scrutiny on politicians’ financial behavior, ensuring that public office holders follow the same legal boundaries as everyone else regarding money management.",
-      "why_it_matters": "A US Senator is being investigated for possibly misusing campaign money. This shows that politicians are facing stricter checks on how they spend public funds, which helps build trust in government.",
-      "other_side": "Supporters of the Senator might claim the probe is politically motivated to hurt his career. Critics counter that no one should be above the law, regardless of their political party."
-    },
-    {
-      "headline": "Israel's Finance Minister Pushes Immediate Settlement Expansion in Gaza",
-      "summary": "Israel's Finance Minister Bezalel Smotrich announced plans to build three settlements in Gaza immediately, pending Prime Minister Netanyahu's approval. This move has significant implications for regional stability and international financial aid conditions related to Israel.",
-      "source": "Haaretz",
-      "original_title": "[Haaretz] Smotrich: Israel ready to build three settlements in Gaza 'immediately' — Touring the Gaza border, the far-right finance minister said the plan is awaiting PM Netanyahu's approval. 'We must establish a belt of Jewish settlements that will serve as a security buffer for  Israeli communities'",
-      "context": "The conflict in Gaza has led to complex international negotiations involving aid, security, and borders. Israel’s Finance Minister is pushing to immediately build new settlements in Gaza, which would expand Israeli control over the territory and likely violate international agreements or peace plans. This move creates tension not just militarily but financially, as foreign donors and governments often tie their aid packages to specific political conditions, meaning this expansion could impact Israel’s access to crucial international funding.",
-      "why_it_matters": "Building new settlements in Gaza could worsen tensions and affect foreign aid to Israel. This decision impacts global peace efforts and could lead to economic sanctions or reduced support from other countries.",
-      "other_side": "Proponents argue these settlements are necessary for Israel's long-term security and history. Opponents say they violate international law and make peace negotiations impossible by expanding conflict zones."
+      "headline": "Greek Ports Emerge as Strategic Energy and Security Hubs",
+      "summary": "Greek ports are being analyzed as critical security and energy hubs within the Eastern Mediterranean's new architecture. Participants highlighted their strategic importance and prospects for further development in the region's evolving infrastructure landscape.",
+      "source": "Naftemporiki.gr",
+      "original_title": "[Naftemporiki.gr] Greek ports as strategic security and energy hubs in the Eastern Mediterranean",
+      "context": "Context pending.",
+      "why_it_matters": "Greek ports are becoming key spots for energy and security. This boosts Greece's role in global trade. It brings investment and jobs to the region while strengthening supply chains.",
+      "other_side": "Focusing on military or energy hubs can cause local tensions. Neighboring countries might feel threatened by this shift. It could lead to political disputes in the area."
     }
   ]
 }
