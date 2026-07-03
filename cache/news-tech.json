@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "Microsoft Accelerates Post-Quantum Cryptography Shift to 2029",
-      "summary": "Microsoft has announced an acceleration of its quantum-safe security roadmap, moving the timeline for replacing existing encryption standards to 2029. This decision is driven by rapid advances in quantum computing research that threaten current cryptographic methods.",
-      "source": "Internet",
-      "original_title": "[Internet] Microsoft Accelerates Post-Quantum Cryptography Shift to 2029 — Microsoft on Tuesday said it's accelerating its quantum safe security roadmap, stating technology advances in quantum computing are making it essential to replace existing encryption standards sooner than previously expected.\n\n\"Advances in quantum research an…",
-      "context": "Imagine your house has a lock that you believe is impossible to pick, but a new type of super-key is being invented that could open it instantly. This \"super-key\" is quantum computing, a powerful new type of computer that works differently than the ones we use today and can break the standard digital locks (encryption) that protect our bank accounts and secrets. Microsoft realized that waiting too long to upgrade these locks would leave everyone vulnerable once these quantum computers become strong enough, so they are rushing to install new, unbreakable security measures by 2029. This shift is necessary because current security methods rely on math problems that are hard for regular computers but easy for quantum ones, so we must switch to new methods before the old ones fail.",
-      "why_it_matters": "Computers are getting so powerful that they could break the digital locks we use to protect passwords and bank accounts. Moving to new, unbreakable security codes by 2029 keeps your private data safe from future hackers with super-computers.",
-      "other_side": "Some experts worry that rushing this change too fast could cause glitches in old software. They also point out that building these new secure systems is very expensive for companies."
+      "headline": "Apple's 'Hide My Email' Service Exposes User Data Despite Known Vulnerability",
+      "summary": "Apple's privacy-focused Hide My Email service has been found to reveal users' actual email addresses with minimal effort, a flaw the company reportedly knew about for a year but failed to fix. This security lapse undermines a core privacy feature for millions of iOS and macOS users.",
+      "source": "Tom's Hardware UK",
+      "original_title": "Apple's Hide My Email service reportedly reveals users' actual email addresses with little effort",
+      "context": "Context pending.",
+      "why_it_matters": "Apple promised to keep your email address private when you sign up for websites, but a bug let that secret slip. This breaks the trust millions of people place in their devices, making them feel unsafe sharing personal info online. If companies can't protect basic privacy, people may stop using these services altogether.",
+      "other_side": "Some argue that fixing every small bug takes time and resources away from building new features. Others might say that if you use free services, some data exposure is just part of the deal."
     },
     {
-      "headline": "Nvidia CEO Predicts Marvell Technology as Next Trillion-Dollar Company",
-      "summary": "Nvidia CEO Jensen Huang has publicly identified Marvell Technology as the next potential trillion-dollar company, highlighting the critical role of semiconductor infrastructure in the AI era. This endorsement underscores the intense competition and valuation shifts within the tech hardware sector.",
-      "source": "Yahoo Entertainment",
-      "original_title": "[Yahoo Entertainment] Nvidia's CEO Jensen Huang Just Called Marvell Technology The Next Trillion-Dollar Company. But Is It the Better Stock to Buy? — ",
-      "context": "Nvidia is currently the most famous company making the special chips that power artificial intelligence, acting like the engine supplier for the entire tech world. Jensen Huang, the boss of Nvidia, is pointing to Marvell Technology as the next big player because Marvell makes the specialized parts that help data move quickly between these powerful chips and storage systems. Think of it like this: if Nvidia makes the fast cars, Marvell makes the high-performance tires and suspension that keep those cars from crashing at high speeds. By predicting Marvell will be worth a trillion dollars, Huang is signaling that the companies building the underlying infrastructure for AI are just as valuable as the ones building the flashy applications.",
-      "why_it_matters": "This shows how much money investors are betting on the chips that power artificial intelligence. If Marvell grows as predicted, it could change who holds the most power in the tech world.",
-      "other_side": "Critics say predicting a company will be worth a trillion dollars is just hype and often wrong. Many startups fail to live up to big promises made by famous CEOs."
+      "headline": "Palantir CEO Alex Karp Condemns AI Industry as 'Insane' in Heated Clash with OpenAI",
+      "summary": "Palantir CEO Alex Karp launched a scathing critique of the broader AI industry, specifically targeting OpenAI and Anthropic, describing the current state of development as 'effing insane.' His comments highlight growing tensions and ethical concerns within the tech sector regarding rapid AI advancement.",
+      "source": "TechRadar",
+      "original_title": "‘Something has gone completely wrong’: Palantir CEO Alex Karp slams OpenAI, says AI industry is \"effing insane\"",
+      "context": "Context pending.",
+      "why_it_matters": "Top tech leaders are openly fighting about how fast artificial intelligence is moving. This public clash shows that even experts don't agree on whether we are going too fast or too slow. It warns us that AI development is becoming more chaotic and less controlled.",
+      "other_side": "Critics say this drama is just good marketing to get attention and raise stock prices. They argue that the industry needs speed to stay competitive globally, so arguing isn't as bad as it looks."
     },
     {
-      "headline": "Defense Startups Raid Auto and Fracking Sectors for Tech-Driven Weapons Output",
-      "summary": "Silicon Valley-style startups are disrupting the traditional defense industry by sourcing components from the automotive and fracking sectors to accelerate weapons production. This shift leverages advanced supply chain technologies and high-efficiency manufacturing to meet soaring demand for rocket motors and missile systems.",
-      "source": "The Times of India",
-      "original_title": "[The Times of India] Defence startups raid auto and fracking sectors for parts to speed weapons output — Soaring demand for rocket ​motors used to power missiles and other weapons has spurred new thinking about supply ​chains. Seeking big returns, Silicon Valley-style startups are now taking on defense companies that have long dominated the industry, pulled into…",
-      "context": "Traditionally, making weapons was a slow, secretive process handled only by huge, old-fashioned government contractors who built things one by one. However, modern wars now require massive amounts of ammunition and drones very quickly, creating a huge shortage that traditional factories cannot fill alone. New, agile startups are stepping in by borrowing manufacturing tricks from everyday industries like car making and oil drilling, which are already experts at building things cheaply and in huge volumes. They are using these high-speed production lines to churn out missile parts and rocket motors much faster than before, changing how war materials are made from scratch.",
-      "why_it_matters": "Using car and oil industry parts makes weapons cheaper and faster to build. This changes how wars are fought by making military gear more like everyday consumer products.",
-      "other_side": "People are worried that mixing civilian factories with war production could be dangerous. There are also concerns about safety standards when companies switch from making cars to missiles."
+      "headline": "SoftBank Revives $10 Billion OpenAI-Backed Loan with Personal Guarantee",
+      "summary": "SoftBank has restructured a $10 billion loan secured against its stake in OpenAI, offering personal guarantees to lenders to secure the deal. This financial maneuver underscores the massive capital demands of AI infrastructure and SoftBank's continued heavy investment in the technology sector.",
+      "source": "The Next Web",
+      "original_title": "SoftBank revives $10bn OpenAI-backed loan with a new sweetener for lenders",
+      "context": "Context pending.",
+      "why_it_matters": "A huge company is betting its own money to keep funding AI projects. This shows how desperate big investors are to stay in the AI race, even if it means taking huge financial risks. It highlights that building AI requires massive amounts of cash, not just ideas.",
+      "other_side": "Some experts worry this is a dangerous gamble that could lead to bankruptcy if AI doesn't make money fast enough. They believe pouring so much money into one area creates an unstable bubble that could burst."
     },
     {
-      "headline": "Solplanet Unveils Human-Centric AI at Intersolar 2026",
-      "summary": "Solplanet is debuting 'Human-Centric AI' innovations at Intersolar Europe 2026, expanding its integrated energy ecosystem with smart technology solutions. This move highlights the growing convergence of artificial intelligence and renewable energy management systems.",
+      "headline": "Google Hit with €4.1 Billion Fine for Antitrust Violations on Android",
+      "summary": "European regulators have fined Google €4.1 billion for using its dominance in the Android market to block competitors, reinforcing the EU's strict antitrust stance. The ruling is expected to influence global regulatory approaches and force significant changes in tech industry practices.",
+      "source": "Crypto Briefing",
+      "original_title": "Google fined €4.1B for blocking rivals with Android",
+      "context": "Context pending.",
+      "why_it_matters": "The government is stepping in to stop Google from bullying other app makers. This sets a strong rule that big tech companies cannot just crush their competitors unfairly. It forces all tech firms to play fair, which could lead to better choices for consumers.",
+      "other_side": "Tech companies argue that these rules hurt innovation by making it harder to build secure and smooth products. They claim that being strict with rules slows down progress and makes it harder to compete in the global market."
+    },
+    {
+      "headline": "AI Adoption Drives Massive Job Losses in Finance and Tech Sectors",
+      "summary": "The finance and technology sectors have shed approximately 28,000 jobs monthly due to increasing automation and AI adoption. Experts warn that these losses in high-paying roles could exacerbate economic inequality and impact consumer spending in major urban centers.",
+      "source": "Crypto Briefing",
+      "original_title": "Finance and tech sectors shed 28,000 jobs monthly amid AI adoption",
+      "context": "Context pending.",
+      "why_it_matters": "Computers are now doing jobs that used to pay well, causing many people to lose their work. This shift hurts regular families who rely on those salaries to buy food and homes. It raises a scary question about what humans will do for money in the future.",
+      "other_side": "Some economists say new jobs will pop up to replace the lost ones, like they always have in history. They argue that automation makes life cheaper and easier, which helps everyone in the long run."
+    },
+    {
+      "headline": "Ukraine Deploys War Robots to Carry Heavy Machine Guns, Reducing Troop Exposure",
+      "summary": "Ukrainian forces are now mounting M2 Browning machine guns onto robotic platforms to carry heavy loads into battle, significantly reducing the physical burden and exposure risk for soldiers. This deployment marks a significant integration of autonomous robotics into conventional military operations.",
+      "source": "Business Insider",
+      "original_title": "Ukraine's robots are carrying the heavy century-old M2 Browning machine gun into battle so troops don't have to",
+      "context": "Context pending.",
+      "why_it_matters": "Robots are now going into dangerous fights instead of human soldiers. This saves lives by keeping people out of harm's way during conflicts. It marks a major change in how wars are fought, making machines the frontline workers.",
+      "other_side": "Human rights groups worry that using robots in war removes human empathy from killing decisions. They fear this could make starting wars easier because leaders won't have to send their own children to die."
+    },
+    {
+      "headline": "Defense Tech Sector Faces Reality Check as Boom Meets Brutal Economics",
+      "summary": "Venture capital is flooding into defense technology, but industry analysts warn that the sector's long timelines and harsh economics may lead to a bubble. The report questions whether current investment levels are sustainable given the unique challenges of defense contracting.",
+      "source": "Fortune",
+      "original_title": "Defense tech could be entering its awkward teenage years. Is the boom a bubble?",
+      "context": "Context pending.",
+      "why_it_matters": "Lots of money is flowing into companies that make military tech, but it might be too much. Experts warn that this could create a fake boom that crashes later, wasting investor cash. It shows that war technology is becoming a hot but risky business bet.",
+      "other_side": "Supporters say that national security is too important to worry about short-term profits. They argue that investing heavily now ensures safety and keeps the country ahead of other nations."
+    },
+    {
+      "headline": "Android 17 QPR1 Beta 6 Introduces Major Terminal App Upgrades",
+      "summary": "The latest Android 17 beta update brings significant power-user enhancements to the Linux Terminal app, including customizable keyboard shortcuts. These improvements aim to boost productivity on tablets and desktops, bridging the gap between mobile and professional computing environments.",
+      "source": "Android Authority",
+      "original_title": "Android 17 QPR1 Beta 6 brings a major power-user upgrade to the Terminal app",
+      "context": "Context pending.",
+      "why_it_matters": "Android phones are getting tools that were once only for powerful computers. This lets users do serious work, like coding or managing files, directly on their mobile devices. It blurs the line between a phone and a laptop, giving people more freedom.",
+      "other_side": "Regular users might find these features confusing and unnecessary for simple tasks like texting. Critics say focusing on power users ignores the needs of the majority who just want easy-to-use apps."
+    },
+    {
+      "headline": "Data Center Heat Exchanger Market Projected to Reach $14.4 Billion by 2032",
+      "summary": "A new market report forecasts that the data center heat exchanger market will grow substantially, driven by the cooling needs of hyperscale facilities. The expansion reflects the intensifying infrastructure demands of global data processing and AI computing capabilities.",
       "source": "PRNewswire",
-      "original_title": "[PRNewswire] Solplanet Brings \"Human-Centric AI\" to Intersolar 2026 — Landmark innovations expand Solplanet's integrated energy ecosystem to debut at Intersolar Europe 2026 in Munich MUNICH, July 1, 2026 /PRNewswire/ -- Solplanet, the globally trusted solar and energy storage brand, is marking its participation at Intersolar Eu…",
-      "context": "Solar panels have always been simple devices that just convert sunlight into electricity, but managing that power efficiently across a whole home or city used to require complex manual adjustments. Solplanet is introducing \"Human-Centric AI,\" which means they are adding smart computer brains to their energy systems that learn how people actually live and adjust power usage automatically. Instead of forcing users to understand technical settings, the system predicts when you will need energy and optimizes solar power to save money and reduce waste without you having to think about it. This represents a shift from hardware-only solutions to intelligent ecosystems that make renewable energy easier and more convenient for average people to use.",
-      "why_it_matters": "Smart AI can help homes use solar energy more efficiently, saving money and cutting pollution. This makes green power easier for regular people to manage without needing experts.",
-      "other_side": "Some worry that adding more AI to energy grids creates new cybersecurity risks. Others fear it might make systems too complex for average users to understand or fix."
+      "original_title": "Data Center Heat Exchangers Market worth $14.40 billion by 2032 - Exclusive Report by MarketsandMarkets™",
+      "context": "Context pending.",
+      "why_it_matters": "Computers generate huge amounts of heat, so we need better ways to cool them down. As AI grows, the demand for cooling parts will explode, creating a new multi-billion dollar market. This shows that physical hardware limits are becoming a major bottleneck for digital growth.",
+      "other_side": "Some environmentalists worry that building more cooling infrastructure uses too much energy and water. They argue that we should focus on making software more efficient instead of just adding more hardware."
     },
     {
-      "headline": "Roche Establishes Second Digital Tech Hub in India",
-      "summary": "Roche has opened a second digital technology hub in Hyderabad, focusing on biostatistics, ERP, and medical safety applications. This expansion complements its existing Pune site and reflects the increasing integration of digital tech into life sciences and healthcare operations.",
-      "source": "BusinessLine",
-      "original_title": "[BusinessLine] Roche adds second digital tech hub in India, at Hyderabad — Roche has established a second digital technology hub in Hyderabad to complement its Pune site, focusing on biostatistics, ERP, medical safety and life sciences applications.",
-      "context": "Roche is a massive global company that makes medicines and medical tests, but behind every pill or test result is a mountain of digital data that needs to be organized and kept safe. To handle this growing amount of information, they are opening a second technology center in India, specifically in Hyderabad, to work on software that tracks patient safety and manages business operations. India has become a major hub for tech talent, allowing Roche to hire skilled workers who can build the digital tools needed to keep healthcare systems running smoothly. This expansion shows that modern medicine is no longer just about chemistry; it is equally about advanced software and data management to ensure treatments are effective and secure.",
-      "why_it_matters": "Putting more tech teams in India helps healthcare companies work faster and smarter. It brings high-tech jobs to India while giving global patients better medical services.",
-      "other_side": "Local critics argue that these hubs might not create enough good jobs for everyone. There are also concerns about data privacy when health records are handled by large foreign corporations."
-    },
-    {
-      "headline": "Quanta Releases NVIDIA RTX PRO 3000 Blackwell Driver for Windows 11",
-      "summary": "Quanta has released a new graphics driver package for the NVIDIA RTX PRO 3000 Blackwell Generation Laptop GPU, designed for Windows 11 version 25H2. This update aims to fix various issues and enhance performance for users of this specific hardware configuration.",
-      "source": "Softpedia.com",
-      "original_title": "[Softpedia.com] Quanta NVIDIA RTX PRO 3000 Blackwell Generation Laptop GPU Graphics Driver 32.0.15.9166 for Windows 11 version 25H2 — The package provides the installation files for Quanta NVIDIA RTX PRO 3000 Blackwell Generation Laptop GPU Graphics Driver version 32.0.15.9166.If the driver is already installed on your system, updating (overwrite-installing) may fix various issues, add new …",
-      "context": "A graphics driver is like a translator between your computer’s operating system and its video card, ensuring that games and apps display images correctly and smoothly. Quanta, a company that builds laptops, released an update for this translator specifically for machines using NVIDIA’s latest Blackwell chips, which are designed for high-end professional work. Without this update, users might experience glitches, crashes, or slower performance because their computer wouldn’t know how to properly communicate with the new, powerful hardware. This fix is crucial for professionals who rely on these laptops for heavy tasks like video editing or 3D design, ensuring their tools run without interruption.",
-      "why_it_matters": "New drivers make gaming laptops run smoother and last longer on battery life. This helps gamers get the best performance out of their expensive hardware.",
-      "other_side": "Updating software can sometimes break other programs or cause computer crashes. Users often hate waiting for fixes after buying new, pricey equipment."
-    },
-    {
-      "headline": "Smartwatch Showdown: Suunto, Garmin, and Huawei Tested for Outdoor Adventures",
-      "summary": "A comprehensive comparison test evaluated the Suunto Vertical 2, Garmin Fenix 8 Pro, and Huawei Watch Fit 5 Pro for outdoor durability and performance. The review identifies which smartwatch offers the best balance of features and reliability for summer adventures.",
-      "source": "Dailymail.com",
-      "original_title": "[Dailymail.com] I put three of the best smartwatches to the ultimate outdoor test - here's the one I'd buy for summer adventures — I put three of the best smartwatches out there -  the Suunto Vertical 2, the Garmin Fenix 8 Pro, and the Huawei Watch Fit 5 Pro - to the ultimate side-by-side test.",
-      "context": "Smartwatches used to be simple timepieces or basic fitness trackers, but they have evolved into rugged computers designed to survive harsh outdoor conditions like rain, mud, and extreme temperatures. Companies like Suunto, Garmin, and Huawei are competing fiercely to see which watch can best guide hikers and adventurers through difficult terrain while lasting for days on a single charge. This comparison test looks beyond just looks or price to see which device truly performs reliably when you are miles away from civilization and help. It highlights how technology has moved from being purely digital to being an essential survival tool for people who explore nature.",
-      "why_it_matters": "Comparing watches helps hikers and campers pick gear that won’t fail them in emergencies. Reliable tools keep adventurers safe when they are far from help.",
-      "other_side": "Reviews can be biased if the testers have sponsors or personal favorites. Also, expensive features might not matter if you only use basic functions like telling time."
-    },
-    {
-      "headline": "Mass Effect Board Game Expansion Announced for 2027",
-      "summary": "Modiphius Entertainment has officially announced a new expansion for the Mass Effect Board Game titled Priority: Hagalaz, set to release in 2027. This development marks a significant return for the franchise's tabletop gaming presence.",
-      "source": "Screen Rant",
-      "original_title": "[Screen Rant] Mass Effect Is Officially Returning In 2027 — Modiphius Entertainment announces an expansion for Mass Effect The Board Game - Priority: Hagalaz.",
-      "context": "The Mass Effect video game series was hugely popular for its deep story and space exploration, leading fans to want more ways to experience that universe outside of playing on a screen. Modiphius Entertainment, a company known for making tabletop role-playing games, announced a new expansion pack called \"Priority: Hagalaz\" that allows groups of friends to play out new adventures together using dice and character sheets. This release marks a return to physical board gaming for the franchise, appealing to fans who enjoy the social and imaginative aspects of storytelling over digital gameplay. It shows how successful video game franchises continue to grow by expanding into different formats that let fans engage with the lore in new, creative ways.",
-      "why_it_matters": "Bringing back popular video game stories in board form lets fans enjoy them offline. It builds a community of players who like talking and playing together in person.",
-      "other_side": "Board games require more setup time than clicking buttons on a screen. Some fans feel that physical games cannot capture the excitement of the original video game."
-    },
-    {
-      "headline": "Soundcore P30i Earbuds Drop to $18 in Limited-Time Deal",
-      "summary": "Certified refurbished Soundcore P30i noise-cancelling earbuds are available for $18 on eBay, marking the lowest price seen for the model. The deal includes free shipping and applies a promo code for Anker's refurbished audio product line.",
-      "source": "Dealnews.com",
-      "original_title": "[Dealnews.com] Certified Refurb Soundcore P30i Noise Cancelling Earbuds for $18, ending today + free shipping — For only last day at eBay, the Soundcore P30i earphones are down to $18 after applying promo code \"SUNSHINE20\" at checkout. It's the lowest price we've seen for this model. A new pair costs $30 at Amazon. These are certified refurbished by Anker itself and in…",
-      "context": "Soundcore P30i earbuds are wireless headphones known for blocking out background noise, but buying brand-new electronics can often be expensive for budget-conscious consumers. Anker, the company that makes Soundcore, sells \"refurbished\" items, which are returned products that have been inspected, cleaned, and repaired to look and work like new. eBay is currently offering these certified pre-owned earbuds for just $18, which is a significant discount compared to the original retail price. This deal allows buyers to get high-quality audio technology at a fraction of the cost, proving that second-hand electronics can be a smart financial choice without sacrificing performance.",
-      "why_it_matters": "Cheap refurbished electronics let people save money while reducing waste. Buying used items helps the planet by keeping old gadgets out of landfills.",
-      "other_side": "Refurbished items might not last as long as brand-new ones. Buyers also risk getting stuck with poor customer service if something goes wrong later."
-    },
-    {
-      "headline": "IDA Ireland Secures 190 Foreign Investments Amid Global Competition",
-      "summary": "IDA Ireland reported securing 190 investments from foreign companies in the first half of the year, despite intensifying global competition. This achievement highlights the country's continued attractiveness as a hub for international business and technology investment.",
-      "source": "RTE",
-      "original_title": "[RTE] IDA secures 190 investments in H1 despite competition — IDA Ireland helped secure 190 investments by foreign companies into the country during the first six months of the year, despite what it called a \"backdrop of intensifying global competition\" for investment.",
-      "context": "Ireland has spent decades trying to attract international businesses to set up offices there by offering favorable tax rates and a highly educated English-speaking workforce. IDA Ireland is the government agency responsible for bringing these foreign companies into the country, and they recently secured 190 new investments despite fierce competition from other nations. These investments mean that global corporations are choosing Ireland as a base for their European operations, bringing jobs and economic growth to the region. This success demonstrates that even in a crowded global market, specific national strategies can still effectively draw major players in technology and finance.",
-      "why_it_matters": "Bringing foreign businesses to Ireland creates jobs and boosts the local economy. It proves that small countries can compete globally by offering good deals and stability.",
-      "other_side": "Some locals worry that too many foreign companies raise housing prices. There are also concerns that profits go back home instead of staying in the local community."
+      "headline": "Hanshow Unveils Smart Cart Ecosystem to Revolutionize In-Store Retail Tech",
+      "summary": "Hanshow showcased its smart cart ecosystem at the Consumer Goods Forum Global Summit, aiming to reimagine the in-store value chain through digital solutions. The initiative represents a key technological shift in physical retail, integrating digital tools directly into the shopping experience.",
+      "source": "PRNewswire",
+      "original_title": "Hanshow Spotlights Smart Cart Ecosystem at CGF Global Summit 2026, Reimagining the In-Store Value Chain",
+      "context": "Context pending.",
+      "why_it_matters": "Shopping carts are getting smart screens and sensors to track what you buy. This changes how stores manage inventory and how customers shop, making it faster and more digital. It brings the online shopping experience into the physical store aisles.",
+      "other_side": "Shoppers might feel uncomfortable being tracked closely while they browse items. Privacy advocates worry that this data collection could be misused or sold to advertisers without clear consent."
     }
   ]
 }
