@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "GMKtec Unveils EVO-X3 AI Workstation Powered by AMD Ryzen AI Max+ 395",
-      "summary": "GMKtec has launched the EVO-X3, a compact desktop workstation designed for developers and AI professionals requiring high-performance local AI processing. The system is driven by the AMD Ryzen AI Max+ 395 processor, targeting users who need robust computational power for intensive workloads.",
-      "source": "Techpowerup.com",
-      "original_title": "(PR) GMKtec Launches EVO-X3 AI Workstation with AMD Ryzen AI Max+ 395",
-      "context": "For years, most people used their home computers just for browsing the web, watching videos, or playing games, which didn't require much brainpower. However, modern artificial intelligence programs are incredibly heavy and need massive amounts of computing power to run smoothly. In the past, you had to send your data to huge, expensive data centers in the cloud to get these AI tasks done, but now companies like AMD are making chips powerful enough to do this work right on your own desk. This new GMKtec machine is essentially a super-powered mini-computer that lets developers and creators run complex AI tools locally, giving them faster results and better privacy without relying on internet connections to giant servers.",
-      "why_it_matters": "This new computer lets people run powerful artificial intelligence programs right on their own desks. It means you don't need to send your data to a giant cloud server to get smart answers, which keeps your information private and makes work faster.",
-      "other_side": "These small machines can still get very hot and use a lot of electricity. Also, they are likely expensive, so only professionals or rich hobbyists might afford them instead of regular users."
-    },
-    {
-      "headline": "Kuaishou's Kling AI Secures $2.8 Billion Funding Backed by Alibaba and Tencent",
-      "summary": "Chinese tech giant Kuaishou's AI video unit, Kling AI, has raised over 19 billion yuan ($2.80 billion) in a major funding round. The investment, supported by industry leaders Alibaba and Tencent, values the AI video arm at $15 billion pre-money, highlighting significant confidence in generative video technology.",
-      "source": "The Times of India",
-      "original_title": "Alibaba, Tencent back Kuaishou's Kling AI in $2.8 billion fundraise",
-      "context": "China has become a global leader in creating digital content, with apps like Kuaishou allowing millions of users to share short videos daily. To keep users engaged, these platforms are investing heavily in \"generative AI,\" which is technology that can create entirely new images or videos from simple text descriptions rather than just editing existing ones. This specific project, Kling AI, has attracted billions of dollars from tech giants like Alibaba and Tencent because they see video creation as the next big frontier in entertainment and advertising. The massive funding round shows that big investors believe AI-generated video will soon replace traditional filming methods for many types of media.",
-      "why_it_matters": "Big tech companies are betting huge amounts of money on AI that creates videos. This shows that making digital video content is becoming a major business, which could change how movies and ads are made in the future.",
-      "other_side": "Critics worry this will flood the internet with fake or misleading videos. There is also fear that real actors and video creators could lose their jobs to these cheap, automated tools."
-    },
-    {
-      "headline": "Dutch Military Invests Tens of Millions in Intelic’s Drone Command Software",
-      "summary": "The Netherlands’ Ministry of Defence has committed tens of millions of euros to Intelic to develop unified drone command software. This three-year deal aims to enable interoperability between drones from different manufacturers, drawing strategic lessons from conflicts such as the war in Ukraine.",
-      "source": "The Next Web",
-      "original_title": "Dutch military backs Intelic’s drone software with tens of millions of euros",
-      "context": "In recent conflicts, particularly in Ukraine, small, cheap drones have changed warfare by allowing soldiers to see over hills and drop small explosives with precision. Before this, militaries mostly used large, expensive aircraft for surveillance, but the war proved that swarms of smaller drones are harder to stop and more flexible. The Dutch military realized they were buying different types of drones from different companies that couldn't talk to each other, which made coordination difficult during missions. By paying Intelic to build a single control system, they are trying to create a \"universal remote\" that can manage any brand of drone, ensuring their forces can work together seamlessly in future conflicts.",
-      "why_it_matters": "The Dutch military is spending millions to make drones from different brands talk to each other. This prepares them for modern wars where using many different types of flying robots together is key to winning.",
-      "other_side": "Some people worry this makes war easier to start because it is less risky for soldiers. Others fear that better drone control could lead to more accidents or mistakes on the battlefield."
-    },
-    {
-      "headline": "Investors Pour Money into Tech Stocks Following Market Dip",
-      "summary": "Global equity fund inflows have risen as investors capitalize on market pullbacks to increase their positions in technology stocks. This trend indicates strong investor confidence in the tech sector's resilience and future growth potential despite recent volatility.",
+      "headline": "AI-Proof Jobs: Why Embracing Tech May Be Your Best Defense",
+      "summary": "New research challenges the narrative that AI solely causes mass layoffs, suggesting that employees at companies actively embracing AI technology may actually be safer from displacement. This finding highlights a complex relationship between technological adoption and job security in the modern workforce.",
       "source": "Biztoc.com",
-      "original_title": "Global equity fund inflows rise as investors add tech stocks after market dip",
-      "context": "The stock market is like a giant scoreboard that shows how much people are willing to pay for shares of public companies, and it often goes up and down based on fear or excitement. When prices drop suddenly, some investors panic and sell, but others see this as a \"sale\" where they can buy high-quality technology companies at a cheaper price. Recently, despite worries about inflation and interest rates, many investors decided that technology firms will likely grow and make money in the long run anyway. This behavior, known as \"buying the dip,\" shows that people still believe tech companies are essential to the future economy and worth holding onto even when the market gets shaky.",
-      "why_it_matters": "People are buying more tech company stocks after prices dropped. This shows that investors still believe technology companies will grow and make money, even when the market feels shaky.",
-      "other_side": "Buying high when others are scared can be risky if the economy gets worse. If tech profits slow down, these stock prices could crash just as fast as they rose."
+      "original_title": "Want an AI-proof job? New research says you may be safer at companies embracing the technology — Want an AI-proof job? New research says you may be safer at companies embracing the technology",
+      "context": "For a long time, people have been terrified that robots and smart computers would take all their jobs, leaving humans unemployed. However, recent studies show that workers who learn to use these new AI tools are actually safer because they become more valuable to their companies. Instead of replacing the worker, the AI acts like a powerful calculator or assistant that helps them do their work faster and better. This means that rather than fighting technology, embracing it is the best way to keep your job secure in the modern workplace.",
+      "why_it_matters": "This changes how we think about job safety. Instead of fearing AI will take all jobs, workers who learn to use it might actually keep their positions. It suggests that adapting to new tools is the best way to stay employed in the future.",
+      "other_side": "Critics argue this just shifts the burden to employees. They say companies might use this logic to force staff to do more work for the same pay, using AI as a tool to squeeze out more productivity without hiring more people."
     },
     {
-      "headline": "SaaS Industry Evolution: How AI is Reshaping Software-as-a-Service Models",
-      "summary": "Analysis suggests that the SaaS sector is not becoming obsolete but is instead evolving through the integration of artificial intelligence. Many firms are leveraging AI to strengthen their market position and adapt to changing customer demands, signaling a new phase in software delivery.",
-      "source": "TechRadar",
-      "original_title": "Is the SaaSpocalypse over? And if so, what comes next?",
-      "context": "Software-as-a-Service, or SaaS, is how most businesses buy software today by paying a monthly subscription instead of buying a permanent copy on a disk. For a long time, these programs were static, meaning they did exactly what they were programmed to do and required humans to do all the manual work inside them. Now, companies are adding artificial intelligence directly into these subscriptions so the software can write emails, analyze data, or solve problems automatically. This shift means that SaaS is not dying out; instead, it is becoming smarter and more helpful, transforming from simple digital filing cabinets into active assistants that reduce the workload for employees.",
-      "why_it_matters": "Software that you rent online is changing by adding smart AI features. This means the programs you use every day will become smarter and help you work faster without needing to buy new software.",
-      "other_side": "Companies might raise their prices because AI costs money to run. Users might also feel forced to share more personal data with these programs so the AI can learn how to help them."
-    },
-    {
-      "headline": "Corporate Leaders Prioritize AI Workflow Integration Over Model Selection",
-      "summary": "Industry executives emphasize that successful AI adoption hinges on redesigning internal workflows and building organizational resilience rather than simply choosing the latest frontier models. This shift highlights a maturation in how enterprises approach artificial intelligence implementation.",
-      "source": "The Times of India",
-      "original_title": "Cos keen to take bite of AI, but security and RoI hold them from sinking teeth",
-      "context": "A few years ago, many business leaders thought that simply buying the newest, smartest artificial intelligence model would automatically fix their company's problems. They spent millions on fancy software without changing how their employees actually worked day-to-day, which often led to confusion and wasted money. Experts now realize that AI is only useful if it fits naturally into existing routines, such as automating boring tasks so staff can focus on creative work. This change in mindset shows that companies are moving past the hype phase and focusing on practical improvements, like training staff and redesigning processes, to get real value from the technology.",
-      "why_it_matters": "Bosses are realizing that just buying smart AI tools isn't enough. They need to change how their teams work daily to actually benefit from the technology, which leads to better efficiency and less waste.",
-      "other_side": "Changing how people work is hard and often causes stress or confusion. Employees might resist new systems, leading to lower morale and slower progress during the switch."
-    },
-    {
-      "headline": "Raspberry Pi Makes Headlines at New York Fashion Week with Wearable Tech",
-      "summary": "A Raspberry Pi device was featured prominently at New York Fashion Week, showcasing the versatility of single-board computers in high-profile events. This appearance underscores the growing integration of open-source hardware into diverse industries beyond traditional computing.",
-      "source": "Raspberrypi.com",
-      "original_title": "Raspberry Pi Weekly Issue #536 - A Raspberry Pi went down the runway at New York Fashion Week?!",
-      "context": "Raspberry Pi started as a tiny, inexpensive computer board designed to teach children how to code and understand electronics in schools around the world. Over time, hobbyists and engineers discovered that because it is so small and cheap, they could put it inside almost anything, from weather stations to robot cars. New York Fashion Week is usually about high-end clothing and luxury brands, but featuring a Raspberry Pi highlights how everyday technology is becoming invisible yet essential in modern design. This appearance signals that open-source hardware, which anyone can study and modify, is no longer just for nerds but is becoming a standard tool for innovators in creative industries like fashion and art.",
-      "why_it_matters": "Small, cheap computers are now being used in fashion shows. This proves that tech hardware is becoming part of everyday culture and art, not just for coding or office work.",
-      "other_side": "Using fragile electronics in loud, crowded events like fashion weeks risks breaking the gear. It also raises questions about whether this is just a marketing stunt with no real practical use."
-    },
-    {
-      "headline": "PlayStation Plus July 2026 Lineup Revealed by Sony",
-      "summary": "Sony has officially announced the monthly games available for PlayStation Plus subscribers in July 2026. The reveal includes three new titles added to the service, continuing the platform's strategy of expanding its library for gaming enthusiasts.",
+      "headline": "Steam Machine Returns: Pre-Orders Open for Gaming Hardware",
+      "summary": "The Steam Machine is officially available for pre-order in the Philippines through GameXtreme, marking a significant return for Valve's dedicated gaming hardware. The offering includes the 512GB model paired with the Steam Controller, appealing to PC gaming enthusiasts looking for console-like experiences.",
       "source": "Yugatech.com",
-      "original_title": "PlayStation Plus games unveiled for July 2026",
-      "context": "Sony’s PlayStation Plus is a subscription service similar to Netflix, but instead of movies, it gives gamers access to a library of video games for a monthly fee. To keep subscribers happy and encourage them to stay signed up, Sony adds new popular titles every month as part of the deal. Announcing the lineup for July 2026 early helps build excitement and gives players time to plan what they want to play before the month starts. This strategy relies on the idea that consistent value and a growing collection of games will keep the gaming community loyal to the PlayStation ecosystem over competitors.",
-      "why_it_matters": "Sony is adding new games to its subscription service to keep players happy. This helps gamers get more value for their monthly fee and keeps them playing on PlayStation consoles longer.",
-      "other_side": "Subscribers might feel pressured to play games they don't like just to \"get their money's worth.\" If the games aren't good, people might cancel their subscriptions and stop paying."
+      "original_title": "Steam Machine now available for pre-order at GameXtreme",
+      "context": "Valve is the company behind Steam, which is basically the biggest online store for PC video games. They previously tried selling a special computer box called the \"Steam Machine\" to let people play PC games on their living room TVs like they would with a console, but it didn't sell well initially. Now, they are bringing it back with pre-orders starting in the Philippines, offering a version with plenty of storage space and a unique controller. This return shows that gamers still want a simple, plug-and-play way to enjoy their large library of PC games without setting up a complex desktop computer.",
+      "why_it_matters": "It brings PC gaming power into living rooms again. Gamers can now get a powerful computer that looks and acts like a simple game console. This gives players more choice in how they play their favorite games at home.",
+      "other_side": "Some fans worry about compatibility and cost. They point out that building a custom PC is often cheaper and more flexible than buying a dedicated machine that might become outdated quickly."
     },
     {
-      "headline": "UST Recognized as One of the World’s Most Ethical Software Companies",
-      "summary": "Software company UST has been named among the world’s most ethical companies for 2026 by Ethisphere. It stands out as the only privately held company on this exclusive elite list, highlighting its commitment to ethical business practices within the tech sector.",
-      "source": "BusinessLine",
-      "original_title": "Ethisphere names UST among world’s most ethical companies in 2026",
-      "context": "In the business world, \"ethics\" refers to doing the right thing, such as treating workers fairly, protecting customer data, and avoiding corruption, rather than just making a profit at any cost. Ethisphere is an organization that studies companies worldwide and awards those who have proven track records of strong moral standards and responsible governance. UST being named one of the most ethical companies is significant because it is privately held, meaning it doesn't have to answer to stock market shareholders who often demand quick profits over long-term stability. This recognition tells clients and partners that UST prioritizes integrity and trust, which is increasingly important in an industry where data privacy and security are major concerns.",
-      "why_it_matters": "A software company won an award for being honest and fair in business. This encourages other tech firms to treat workers and customers well, setting a higher standard for the whole industry.",
-      "other_side": "Awards like this can sometimes be used just for good publicity rather than real change. Customers might still face poor service or bugs despite the company's \"ethical\" label."
+      "headline": "Robinhood Chain Hits $50M TVL Days After Mainnet Launch",
+      "summary": "Robinhood Chain has achieved over $50 million in Total Value Locked (TVL) shortly after its mainnet launch, signaling strong initial interest in tokenized equity trading. However, the rapid growth comes with looming regulatory challenges that could impact the future of global, 24/7 financial markets.",
+      "source": "Crypto Briefing",
+      "original_title": "Robinhood Chain surpasses $50M in TVL just days after mainnet launch",
+      "context": "Robinhood is a popular app that lets regular people buy stocks and crypto easily, and they recently launched their own blockchain network called \"Robinhood Chain.\" A blockchain is like a public digital ledger that records transactions securely without needing a bank, and \"Total Value Locked\" just means how much money people have put into this system. The fact that $50 million was deposited so quickly shows huge interest in trading traditional stocks on this new, always-open digital network. However, governments are worried because this kind of global, 24/7 trading might break existing financial laws designed to protect investors.",
+      "why_it_matters": "It makes buying stocks easier and faster around the clock. People can trade shares of real companies anytime, not just during business hours. This could change how global money markets work by never truly closing.",
+      "other_side": "Regulators are worried about fairness and safety. They fear that trading non-stop could lead to more scams or crashes because there is no time for the market to calm down or for rules to be enforced properly."
     },
     {
-      "headline": "New PyPI Package CloudCompliance Simplifies SOC2 Evidence Generation",
-      "summary": "A new package named cloudcompliance has been added to the Python Package Index (PyPI). It serves as a SOC2 compliance evidence generator specifically designed for Terraform AWS infrastructure, aiding developers in maintaining security standards.",
-      "source": "Pypi.org",
-      "original_title": "cloudcompliance added to PyPI",
-      "context": "When software developers build websites or apps, they must follow strict security rules called SOC2, which ensure that customer data is kept safe and private. Proving that they follow these rules usually involves gathering tons of paperwork and logs, which is tedious, time-consuming, and prone to human error. CloudCompliance is a new tool written in Python that automatically collects this proof for companies using Amazon Web Services, turning a manual nightmare into an automated process. This helps developers save time and reduces the risk of accidentally failing a security audit, making it easier for tech companies to prove they are trustworthy to their customers.",
-      "why_it_matters": "A new tool helps programmers prove their software is secure and safe. This makes it easier for companies to follow strict security rules, protecting user data from hackers and leaks.",
-      "other_side": "Relying on automated tools might give a false sense of security if the code has hidden flaws. Developers might skip careful manual checks because they trust the tool too much."
+      "headline": "Adult AI Chatbot Boom Collapses Due to Creator Control Issues",
+      "summary": "PCMag reports that the adult industry's rush into AI chatbots and 'digital twins' has ended prematurely, exposing severe issues regarding creator control over likenesses and earnings. The collapse highlights the ethical and practical failures of monetizing digital replicas without adequate safeguards for workers.",
+      "source": "PCMag.com",
+      "original_title": "All Hype, No Stamina: Why the Adult AI Chatbot Boom Finished Prematurely",
+      "context": "Recently, many companies in the adult entertainment industry rushed to create AI chatbots that mimic real performers, hoping to make easy money from digital replicas. These \"digital twins\" allow users to chat with an AI version of a star, but it turned out that the original creators had no control over how their faces or voices were used. The industry is now collapsing because the performers realized they were losing control of their own likenesses and not getting paid fairly for this new use of their identity. This situation highlights the serious ethical problems of using artificial intelligence to copy people without their permission or proper safeguards.",
+      "why_it_matters": "It shows the dangers of copying people’s faces and voices without permission. When companies try to sell digital versions of actors, it can hurt the real workers’ ability to earn a living. This forces a conversation about who owns a person’s image online.",
+      "other_side": "Some tech supporters argue that these tools help creators reach more fans. They believe that as long as the technology is used correctly, it can be a new way for artists to make money from their likeness without doing extra work."
+    },
+    {
+      "headline": "Indian IT Sector Faces Muted Growth Amid AI Spending Pressures",
+      "summary": "Major Indian IT firms are projected to report subdued earnings growth due to macroeconomic uncertainty and shifting client spending patterns toward AI infrastructure. This trend reflects broader global tech sector adjustments as companies balance innovation costs with traditional service revenue.",
+      "source": "The Times of India",
+      "original_title": "Indian IT firms likely to report muted Q1 growth amid AI spending, macro uncertainty",
+      "context": "India has a massive industry that provides IT services and software support to companies all over the world, often called the \"back office\" of global tech. Recently, these Indian firms are seeing slower growth because big clients are changing how they spend money, focusing heavily on building new AI infrastructure instead of maintaining old systems. This shift means there is less work for traditional software services, causing earnings to drop across the sector. It reflects a broader trend where companies are cutting back on routine tech jobs to pour their budgets into developing new artificial intelligence tools.",
+      "why_it_matters": "It shows how big tech companies are changing what they buy. Instead of paying for general computer support, they are spending heavily on AI hardware. This shift means traditional IT jobs may grow slower as money moves to new technologies.",
+      "other_side": "Workers worry this means fewer jobs or lower pay. They fear that if clients stop paying for old services, companies will cut staff or freeze wages to cover the high cost of building AI systems."
+    },
+    {
+      "headline": "Intel Shifts Older CPUs to Legacy Support Model",
+      "summary": "Intel has moved its 11th through 14th Gen processor graphics drivers to a legacy software support model, affecting Atom, Pentium, and Celeron lines as well. This change means users will no longer receive the latest feature enhancements or bug fixes for these older hardware generations.",
+      "source": "Softpedia.com",
+      "original_title": "Intel Core i9-13900E CPU Graphics Driver 32.0.101.7088",
+      "context": "Intel makes the main processors, or brains, for most computers, and they usually promise to update the software drivers that help these parts work correctly. They recently decided to stop providing new feature updates and bug fixes for their older processors, specifically the 11th through 14th generations, moving them to a \"legacy\" status. This means if you have an older computer, it will still work, but you won't get improvements that make newer hardware run smoother or more securely. This change forces users to either accept older software versions or upgrade to newer computers to get the latest support from the manufacturer.",
+      "why_it_matters": "It means older computers will stop getting important security updates. If your PC is a few years old, it might become easier for hackers to break in over time. Users need to know when it is time to upgrade their machines for safety.",
+      "other_side": "Some users feel this is unfair to those on a budget. They argue that perfectly good hardware should still receive basic fixes, and forcing upgrades wastes money and creates more electronic trash."
+    },
+    {
+      "headline": "Critical Flaw Found in Confidential Computing's Core Trust Mechanism",
+      "summary": "A significant vulnerability has been identified in Attested TLS, a core component of confidential computing that verifies identity during handshakes. Researchers warn that the fundamental trust mechanism may be broken with no immediate fix available, posing risks to secure cloud environments.",
+      "source": "Theregister.com",
+      "original_title": "Confidential computing's core trust mechanism is broken. The fix may not exist",
+      "context": "Confidential computing is a security method that keeps data encrypted even while it is being processed in the cloud, ensuring that no one can peek at sensitive information. Attested TLS is a key part of this system that acts like a secure handshake, verifying that two computers talking to each other are truly who they say they are. Researchers recently found a major flaw in this verification process, meaning the fundamental trust mechanism could be broken. This is dangerous because it could allow hackers to trick secure cloud environments, potentially exposing private data that was supposed to be completely hidden.",
+      "why_it_matters": "It puts private data at risk in the cloud. Many businesses store secret information online, relying on special locks to keep it safe. If the main lock mechanism is broken, hackers could potentially see sensitive company secrets.",
+      "other_side": "Experts note that no system is ever 100% perfect. They suggest that while this flaw is serious, it highlights the need for constant testing rather than proving that cloud security is useless."
+    },
+    {
+      "headline": "Factory Workers Replaced by Robots Spark Union Outrage",
+      "summary": "A major union has expressed fury after 1,000 factory workers were replaced by just 50 robots, highlighting the accelerating pace of automation in manufacturing. This incident underscores the growing tension between corporate efficiency goals and labor rights in an increasingly automated economy.",
+      "source": "Futurism",
+      "original_title": "Major Union Livid After 1,000 Factory Workers Were Replaced With 50 Robots",
+      "context": "Factories around the world are increasingly using robots to do repetitive tasks faster and cheaper than human workers can. A recent incident where 1,000 workers were replaced by just 50 robots has sparked anger among labor unions who feel these changes are happening too quickly and unfairly. The union argues that this rapid automation threatens the livelihoods of thousands of people who rely on factory jobs for their income. This conflict highlights the growing tension between businesses wanting to maximize efficiency and profits and workers demanding fair treatment and job security in an automated economy.",
+      "why_it_matters": "It shows how fast robots are taking over manual jobs. Factories can now run with very few humans, which boosts profits but hurts workers. This trend will likely continue, forcing society to rethink how we support displaced workers.",
+      "other_side": "Business leaders argue that automation lowers costs for everyone. They claim that cheaper goods benefit consumers and that robots handle dangerous tasks, keeping humans safer from injury."
+    },
+    {
+      "headline": "WPBeginner Celebrates 17 Years with Major Community Giveaway",
+      "summary": "WPBeginner marks its 17th anniversary by launching a $10,000 prize giveaway to thank its community of website owners and web professionals. The milestone event celebrates nearly two decades of providing WordPress tutorials and support to small businesses and developers.",
+      "source": "Wpbeginner.com",
+      "original_title": "WPBeginner Turns 17 Years Old – We’re Doing a Giveaway ($10,000 in Prizes)",
+      "context": "WPBeginner is a website that has spent the last 17 years teaching people how to build and manage websites using WordPress, which is a popular tool for creating sites without coding knowledge. To celebrate this long history, they are giving away $10,000 to their community of small business owners and developers who rely on their tutorials. This milestone marks nearly two decades of helping everyday people launch their online presence during the early days of the internet boom. The giveaway is a way to thank the community that helped grow WordPress into one of the most widely used platforms for websites today.",
+      "why_it_matters": "It supports small business owners who build websites. By giving back to its community, the site helps thousands of people start their own online presence. This keeps the web diverse and allows small shops to compete with big brands.",
+      "other_side": "Some critics see giveaways as a marketing trick. They argue that the main goal is to attract more users to the platform so the company can eventually sell ads or premium services to those same users."
+    },
+    {
+      "headline": "Small Business Leverages AI for Rapid Mental Health Platform Launch",
+      "summary": "Here Now Health successfully launched a mental health platform for foster children by heavily integrating AI technologies to accelerate development. This case study demonstrates how non-tech-native businesses can utilize artificial intelligence to quickly scale operations and address critical social needs.",
+      "source": "Yahoo Entertainment",
+      "original_title": "For one small business, AI was key to a quick start and expansion",
+      "context": "Here Now Health is a small organization focused on supporting foster children, but they did not originally have the technical expertise to build complex software platforms. By integrating artificial intelligence into their development process, they were able to create a mental health platform much faster and more efficiently than they could have alone. This project shows how non-tech companies can use AI as a powerful tool to solve social problems and scale their operations quickly. It demonstrates that AI is not just for giant tech corporations but can be leveraged by smaller groups to address critical needs like mental health care.",
+      "why_it_matters": "It proves that small groups can solve big social problems fast. Using AI helped a tiny team build a mental health app for vulnerable kids in record time. This shows technology can be a powerful tool for good when used with heart.",
+      "other_side": "Privacy advocates worry about sensitive health data. They fear that rushing an app built with AI might lead to mistakes or leaks that could harm the very children it is meant to help."
     }
   ]
 }
