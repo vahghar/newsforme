@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "Scientists Program Human Cells to Compute Like Software for Cancer Targeting",
-      "summary": "Researchers at Hebrew University have successfully programmed human cells to compute biologically, allowing them to respond autonomously to disease-related molecular signals. This breakthrough in RNA trans-splicing suggests that future medicines could be designed with the same logic as software, marking a significant convergence of biology and computational science.",
-      "source": "TechRadar",
-      "original_title": "[TechRadar] 'Future medicines may be designed much like software' — How scientists programmed human cells to compute like tiny processors and target cancer using RNA trans-splicing — Hebrew University researchers programmed human cells to compute biologically and respond autonomously to disease-related molecular signals internally.",
-      "context": "Imagine if your body’s cells could think and solve problems like a computer program does. Scientists have found a way to rewrite the instructions inside human cells using RNA, which is the molecule that tells cells how to build proteins. By programming these cells to recognize specific signs of cancer, they can make them react automatically to fight the disease, turning biology into a form of living software that targets illness with precision.",
-      "why_it_matters": "This is like giving your body's own cells a computer brain to fight cancer. Instead of using harsh chemicals, doctors could send in tiny biological robots that only attack sick cells. It could make cancer treatment much safer and more effective for everyone.",
-      "other_side": "Some experts worry about the risks of changing human biology this way. If these programmed cells go wrong, they could cause new health problems that are hard to fix."
+      "headline": "GLM-4.7-Flash: Why a 30B Model Struggles on Mini PCs",
+      "summary": "An analysis of the GLM-4.7-Flash model reveals that performance bottlenecks on mini PCs are not due to weights or quantization, but rather stem from its specific attention design and runtime architecture. This highlights critical challenges in deploying large language models with 3 billion active parameters on edge hardware.",
+      "source": "HackerNoon",
+      "original_title": "null — GLM-4.7-Flash is a 30B model with 3B active params, so why did it crawl on my mini PC? Not the weights, not the quant. The attention design, and the runtime.",
+      "context": "Context pending.",
+      "why_it_matters": "This shows that making powerful AI run on small, cheap computers is much harder than just buying the right hardware. It forces developers to rethink how they build software so it actually works on everyday devices instead of just giant servers.",
+      "other_side": "Some experts argue that mini PCs are not meant for heavy AI tasks anyway. They believe users should stick to cloud computing for complex jobs to avoid slow performance."
     },
     {
-      "headline": "Zuckerberg Tests Meta Smart Glasses on Jet Ski, Predicts Smartphone Replacement",
-      "summary": "Mark Zuckerberg demonstrated the capabilities of his $800 Meta smart glasses by taking business calls while jet skiing, claiming the audio quality was indistinguishable from a standard call. Despite Reality Labs posting a $19.2 billion loss, Zuckerberg remains convinced that smart glasses will eventually replace smartphones as the primary computing device.",
-      "source": "Fortune",
-      "original_title": "[Fortune] Mark Zuckerberg takes business calls on a jet ski wearing his $800 Meta glasses—and insists ‘the other person could not tell’ — Zuckerberg is convinced smart glasses will replace the smartphone—and he's spending billions to prove it, even as Reality Labs posts a $19.2 billion loss.",
-      "context": "For decades, smartphones have been our primary way of checking messages, browsing the internet, and staying connected. Mark Zuckerberg, the boss of Meta (the company behind Facebook), believes this bulky phone habit is outdated and wants us to switch to smart glasses instead. He is testing these glasses heavily, even in extreme situations like jet skiing, to prove they are durable and useful enough to replace the device we currently hold in our hands every day.",
-      "why_it_matters": "Mark Zuckerberg believes glasses will soon replace phones as our main tech tool. This means we might stop staring at screens and start interacting with the world through augmented reality. It changes how we work, talk, and see information every day.",
-      "other_side": "Critics say people won't want to wear cameras and trackers all the time. Privacy concerns are huge, and many find the current technology too expensive or awkward to use daily."
+      "headline": "Beelink EQi Wildcat Lake Review: Intel's Entry-Level AI PC",
+      "summary": "A detailed teardown and review of the Beelink EQi mini PC, powered by Intel's Core 3 304 processor featuring a 15 TOPS AI accelerator. The device offers configurations with up to 32GB of soldered LPDDR5 memory, marking a significant step in accessible AI-capable hardware.",
+      "source": "CNX Software",
+      "original_title": "Beelink EQi Wildcat Lake Core 3 304 mini PC review – Part 1: Specifications, unboxing, teardown, and first boot",
+      "context": "Context pending.",
+      "why_it_matters": "Cheap, small computers are finally getting the power needed for basic AI tasks like voice assistants or photo editing. This makes smart technology accessible to more people who cannot afford expensive laptops.",
+      "other_side": "Critics say these entry-level chips are too weak for serious work. They warn that marketing them as \"AI PCs\" might mislead buyers into thinking they can do more than they actually can."
     },
     {
-      "headline": "Google Integrates AI Visibility Directly Into SEO Tools",
-      "summary": "Google has officially filed AI visibility under search, signaling a strategic shift to integrate AI metrics directly into its SEO tools rather than treating them as a separate workstream. This move encourages marketers to stop allocating distinct budgets and quarterly reports for AI visibility, suggesting that AI optimization is becoming intrinsic to standard search engine optimization.",
-      "source": "Nohacks.co",
-      "original_title": "[Nohacks.co] Google Put AI Visibility Inside The SEO Tool On Purpose via @sejournal, @slobodanmanic — Google filed AI visibility under search. Stop treating it as a separate workstream with its own budget and its own quarterly report.",
-      "context": "Search Engine Optimization, or SEO, is the practice of tweaking websites so they show up higher when people search for things on Google. Recently, Google has started using Artificial Intelligence to generate direct answers to questions right on the search page, which changes how people find information. To help businesses adapt, Google is now including \"AI visibility\" metrics directly into their standard tools, signaling that optimizing for AI answers is no longer a separate task but part of everyday website management.",
-      "why_it_matters": "Google is saying that AI is now just part of normal search results. Businesses no longer need special strategies for AI; they just need to do good search engine optimization. This simplifies things for marketers but makes competition even tougher.",
-      "other_side": "Some worry that AI answers hide the real websites we need to visit. If users only read AI summaries, smaller businesses might lose traffic because their sites never get clicked on."
+      "headline": "UBTECH and Unitree Expand Humanoid Robot Operations in China",
+      "summary": "Two leading humanoid robot developers, UBTECH and Unitree Robotics, have established operations in Tianjin's Economic-Technological Development Area. This move marks a landmark breakthrough for the humanoid robotics sector, signaling intensified industrial scaling and strategic investment in automation.",
+      "source": "GlobeNewswire",
+      "original_title": "Two Leading Humanoid Robot Firms Set Up Operations in Tianjin Economic-Technological Development Area",
+      "context": "Context pending.",
+      "why_it_matters": "China is moving fast to mass-produce human-like robots for factories and homes. This shift could change how industries operate by replacing human workers with machines that look and act more like people.",
+      "other_side": "Labor groups worry this will lead to massive job losses for low-skilled workers. Others fear that relying on humanoid robots creates new safety risks and ethical problems we are not ready to handle."
     },
     {
-      "headline": "Top NotebookLM Alternatives: A Comparison of Leading AI Tools",
-      "summary": "An analysis of various AI tools similar to NotebookLM reveals distinct differences in target audiences and workflow applications. The comparison helps users determine which alternative platforms offer the best value and functionality for their specific needs, highlighting the competitive landscape in generative AI productivity software.",
-      "source": "CNET",
-      "original_title": "[CNET] NotebookLM Alternatives: Which Similar AI Tools Are Worth Your Time? — These tools are similar but aimed at different audiences and workflows. Here's how they compare.",
-      "context": "NotebookLM is a popular AI tool created by Google that helps users organize notes and summarize documents by listening to them. As more companies release similar AI assistants for productivity, it has become confusing for consumers to know which one actually fits their specific work style. This comparison guide breaks down the differences between these tools, helping people decide whether they need a simple note-taker or a complex research assistant without wasting money on features they won't use.",
-      "why_it_matters": "There are many AI tools that do similar jobs, so users need to pick the right one. This comparison helps people save money by finding the best fit for their specific work style. It shows that one size does not fit all in AI productivity software.",
-      "other_side": "With so many options, it can be overwhelming and confusing for average users. Many tools look similar on paper, making it hard to know which one actually delivers value without wasting time testing them."
+      "headline": "Keel Infrastructure Appoints Digital Realty Veteran as President",
+      "summary": "Keel Infrastructure has appointed Ganesh Aiyer as President, leveraging his 25 years of experience in data center and technology sectors from his role at Digital Realty Trust. This appointment underscores the strategic focus on commercial growth and infrastructure expansion within the tech real estate space.",
+      "source": "Financial Post",
+      "original_title": "Keel Infrastructure Appoints Ganesh Aiyer as President",
+      "context": "Context pending.",
+      "why_it_matters": "The tech industry needs more physical space for servers as AI and data usage grow. Hiring experienced leaders helps companies build these facilities faster to keep up with global demand for internet services.",
+      "other_side": "Environmental activists argue that building more data centers uses too much electricity and water. They say this expansion hurts climate goals by increasing the tech sector's carbon footprint."
     },
     {
-      "headline": "Refurbished 2020 MacBook Pro Offers High-End Specs at Budget Price",
-      "summary": "The 2020 MacBook Pro continues to hold up well in terms of performance, featuring a sharp Retina display, Magic Keyboard, and four Thunderbolt 3 ports. Refurbished units are now available for approximately $399.99, offering all-day battery life and professional-grade hardware at a fraction of the original cost.",
-      "source": "Popular Science",
-      "original_title": "[Popular Science] The 2020 MacBook Pro still holds up — and this refurbished one is $399.99 — This refurbished MacBook Pro delivers a sharp Retina display, Magic Keyboard, four Thunderbolt 3 ports, and all-day battery life at a fraction of its original price.",
-      "context": "Apple’s MacBook Pro laptops are known for being powerful but also very expensive when bought new. However, the 2020 model was released several years ago and still has strong performance, good battery life, and high-quality screens, making it a great value for budget-conscious buyers. Refurbished stores now sell these used-but-tested computers for around $400, allowing students or professionals to get high-end hardware at a price similar to cheap, low-quality new laptops.",
-      "why_it_matters": "Buying used high-end laptops is a great way to save money without losing performance. The 2020 MacBook Pro is still fast enough for most jobs today. This helps students and professionals get good tech on a tight budget.",
-      "other_side": "Used electronics can have hidden issues like worn-out batteries or old parts. You also miss out on the latest features and security updates that come with brand-new models."
+      "headline": "Application Resilience: The Hidden Backbone of the Digital Economy",
+      "summary": "An analysis of ZEVENET highlights that application resilience is becoming a strategic priority often overlooked in favor of cloud migration and AI adoption. The piece argues that the underlying infrastructure must be robust enough to support the heavy loads generated by modern digital transformations.",
+      "source": "Skudonet.com",
+      "original_title": "ZEVENET: The Invisible Infrastructure Behind the Digital Economy: Why Application Resilience Is Now a Strategic Priority",
+      "context": "Context pending.",
+      "why_it_matters": "As more businesses move online, their computer systems must stay strong and not crash under pressure. Ignoring this basic stability can cause huge money losses and frustrate customers when websites go down.",
+      "other_side": "Many companies think focusing on new features like AI is more important than fixing old systems. They risk ignoring stability until a major failure forces them to pay attention."
     },
     {
-      "headline": "Crypto Trading Frenzy Erupts After Mbappé’s World Cup Goal",
-      "summary": "Kylian Mbappé's record-breaking World Cup goal triggered a volatile surge in crypto trading, affecting everything from meme coins to prediction markets. This event highlights the increasingly speculative intersection between major sports achievements and digital asset markets, demonstrating how real-world events can instantly impact cryptocurrency valuations.",
-      "source": "Crypto Briefing",
-      "original_title": "[Crypto Briefing] Mbappé’s record-breaking World Cup goal sparks crypto trading frenzy from meme coins to prediction markets — Mbapp's World Cup impact highlights the volatile intersection of sports achievements and speculative crypto markets, influencing trading behaviors.",
-      "context": "Cryptocurrency markets are famous for being unpredictable and reacting wildly to news, often driven by hype rather than actual value. When famous soccer player Kylian Mbappé scored a historic goal during the World Cup, traders instantly bet on related digital coins and prediction markets, causing prices to spike or crash in seconds. This event shows how sports moments are now financially linked to digital assets, where a single athletic achievement can trigger massive buying and selling frenzies online.",
-      "why_it_matters": "Sports events can now instantly move financial markets like cryptocurrency. A single goal can cause prices to skyrocket or crash in seconds. This shows how connected entertainment and finance have become.",
-      "other_side": "This kind of trading is extremely risky and unpredictable. Most people lose money when they try to bet on random events like sports scores instead of investing wisely."
-    },
-    {
-      "headline": "Tennessee Guard Graduates First Unmanned Aircraft Master Trainers",
-      "summary": "Twelve Tennessee Army National Guard Soldiers completed the inaugural Small Unmanned Aircraft System Master Trainer Course, establishing a new capability for unmanned aerial operations. This training initiative marks a significant step in modernizing military drone capabilities by creating certified instructors who can train other soldiers in unmanned systems.",
-      "source": "Globalsecurity.org",
-      "original_title": "[Globalsecurity.org] Tennessee Guard hosts first unmanned aircraft master trainer course — Twelve Tennessee Army National Guard Soldiers became the first graduates of the Tennessee Army National Guard's inaugural Small Unmanned Aircraft System Master Trainer Course at the Volunteer Training Site in Smyrna, June 29, establishing a new capability to …",
-      "context": "Military drones have become essential for modern warfare, but operating them safely requires specialized training that goes beyond just flying them. The Tennessee Army National Guard recently graduated its first group of soldiers who are certified to teach others how to use small unmanned aircraft systems. This creates a self-sustaining training loop within the military, ensuring that drone technology spreads quickly and correctly among troops without relying solely on outside experts.",
-      "why_it_matters": "The military is training its own soldiers to teach drone operations. This speeds up the adoption of new technology within the armed forces. It ensures that drone skills stay up-to-date and are shared effectively across units.",
-      "other_side": "Relying heavily on drones raises ethical questions about warfare and safety. There are concerns about accidents and the potential for misuse if these systems fall into the wrong hands."
-    },
-    {
-      "headline": "Pypi Releases pysolarcell 1.4.2 for Solar Simulation",
-      "summary": "The Python Package Index (PyPI) has released version 1.4.2 of pysolarcell, a software tool designed for simulating solar cell performance. This update provides developers and researchers with updated algorithms and features for modeling photovoltaic systems, contributing to the open-source ecosystem for renewable energy technology.",
+      "headline": "joshua-agent 1.20.2: Autonomous Gated Software Sprints",
+      "summary": "The release of joshua-agent 1.20.2 introduces autonomous gated software sprints that define teams via YAML and automate deployment workflows. It integrates with major LLM CLIs like Claude Code and Aider to auto-deploy on GO signals and auto-revert on CAUTION or REVERT decisions.",
       "source": "Pypi.org",
-      "original_title": "[Pypi.org] pysolarcell 1.4.2 — Solar cell simulation software",
-      "context": "Solar energy relies on complex math to predict how much electricity a panel will produce based on sunlight and weather conditions. Developers use special computer programs, like the one recently updated on PyPI (a library of free code for programmers), to simulate these scenarios before building real solar farms. This update improves the accuracy of those simulations, helping engineers design better solar systems that can generate more power efficiently by understanding exactly how solar cells behave under different stresses.",
-      "why_it_matters": "New software updates help scientists design better solar panels. By simulating how solar cells work, they can improve energy efficiency. This supports the global push toward cleaner and renewable energy sources.",
-      "other_side": "Software alone cannot solve the physical challenges of building solar farms. Real-world issues like land use, manufacturing costs, and weather conditions still limit how much solar power we can actually use."
+      "original_title": "joshua-agent 1.20.2 — Autonomous gated software sprints. Define your team in YAML — dev, bug-hunter, QA. Gate agent issues GO/CAUTION/REVERT. Auto-deploy on GO, auto-revert on REVERT. Self-learning wiki across cycles. Works with Claude Code, Aider, Codex, or any LLM CLI. Shall we …",
+      "context": "Context pending.",
+      "why_it_matters": "Software teams are starting to let artificial intelligence handle routine coding and testing tasks automatically. This speeds up development but also raises questions about whether humans are losing control over critical code changes.",
+      "other_side": "Security experts worry that automated systems might make mistakes or introduce bugs without anyone noticing. They argue that human oversight is still essential to prevent costly errors in production."
     },
     {
-      "headline": "New Fallout Solo RPG Launches for Tabletop Gaming",
-      "summary": "A new official solo tabletop RPG based on the Fallout franchise is now available for preorder, set to launch later in the summer. This solo adventure allows fans to explore the Wasteland independently, expanding the gaming universe beyond video games into physical tabletop formats with detailed mechanics and narrative structures.",
-      "source": "Screen Rant",
-      "original_title": "[Screen Rant] Fallout: Wasteland Wanderer Is An Official Solo RPG You Can Play Now — A new solo Fallout tabletop RPG is coming later this summer, and preorders are open now. Here’s why you should have this one on your radar.",
-      "context": "The Fallout video game series is famous for its post-apocalyptic setting where players survive in a ruined world filled with mutants and radiation. Now, fans can experience this story through a tabletop role-playing game, which means sitting around a table with friends (or alone) using dice and rulebooks to create their own adventures. This new solo RPG allows players to explore the wasteland independently, bringing the deep storytelling and mechanics of the video games into a physical, imaginative format.",
-      "why_it_matters": "Fans can now play out Fallout stories on their own without needing a group. This expands the game beyond video screens into physical tabletop fun. It offers a new way for fans to engage with their favorite universe creatively.",
-      "other_side": "Tabletop games require time, space, and often other players to set up. For some, buying physical books and dice is less convenient than just playing a digital game on a computer."
+      "headline": "Prebuilt RISC-V64 Binaries for GCC, PyTorch, and Kubernetes",
+      "summary": "A new GitHub project provides prebuilt binaries for essential development tools including GCC, PyTorch, and Kubernetes specifically optimized for RISC-V64 architecture. This initiative significantly lowers the barrier to entry for developers working with RISC-V processors by providing ready-to-use software stacks.",
+      "source": "Github.com",
+      "original_title": "Show HN: Prebuilt RISC-V64 Binaries for GCC, PyTorch, Kubernetes, and More",
+      "context": "Context pending.",
+      "why_it_matters": "New computer chips called RISC-V are becoming easier to use because ready-made tools are now available. This opens the door for more innovation and less reliance on expensive, foreign-made processor technology.",
+      "other_side": "Some developers prefer sticking with established chip types because they have better support and fewer compatibility issues. Switching to newer architectures can be risky and time-consuming for large projects."
     },
     {
-      "headline": "C Programmers Criticized for Readability Crimes in New Code",
-      "summary": "A recent critique highlights concerning trends in C programming where developers are prioritizing obscure techniques over code readability. The article warns that such practices lead to confusing and difficult-to-maintain codebases, urging the community to adhere to clearer standards to prevent technical debt and security vulnerabilities.",
-      "source": "Theregister.com",
-      "original_title": "[Theregister.com] C programmers commit fresh crimes against readability — Prepare to be befuddled and bamboozled – and probably bewitched",
-      "context": "C is an old but powerful programming language used to build everything from operating systems to video games, but it requires careful writing to avoid errors. Recently, some programmers have been criticized for writing confusing code using obscure tricks just to look clever, rather than making their work easy for others to read and fix. Experts warn that this bad habit leads to \"technical debt,\" meaning the software becomes harder to maintain and more likely to break or have security holes later on.",
-      "why_it_matters": "Writing clear code is crucial for keeping software secure and easy to fix. When programmers use confusing tricks, it creates \"technical debt\" that slows down future work. Prioritizing readability prevents bugs and security holes from piling up.",
-      "other_side": "Some developers argue that clever, compact code is more efficient and impressive. They believe focusing too much on simple language might slow down development or reduce performance in complex systems."
+      "headline": "Smart Home Devices: From Skepticism to Utility",
+      "summary": "A practical evaluation of four popular smart home devices reveals their true utility after initial skepticism. The review demonstrates how these technologies can effectively integrate into daily life when properly configured, challenging the notion that they are merely gimmicks.",
+      "source": "How-To Geek",
+      "original_title": "I thought these 4 smart home devices were stupid until I actually used them",
+      "context": "Context pending.",
+      "why_it_matters": "Smart home gadgets are proving they can actually make daily life easier when set up correctly. This shifts public opinion from seeing them as useless toys to useful tools that save time and energy.",
+      "other_side": "Privacy advocates remain concerned about devices constantly listening and recording inside homes. They warn that convenience should not come at the cost of personal security and data privacy."
+    },
+    {
+      "headline": "Unemployment Rises Amid Tech Job Cuts",
+      "summary": "The national unemployment rate has risen to 5%, driven largely by significant job cuts within the technology sector. This trend reflects ongoing restructuring and consolidation efforts in the tech industry, impacting the broader labor market statistics.",
+      "source": "The Irish Times",
+      "original_title": "Unemployment rises to 5% amid tech job cuts",
+      "context": "Context pending.",
+      "why_it_matters": "Tech companies are cutting jobs to save money, which pushes overall unemployment rates higher. This trend signals a tough job market for workers and suggests the industry is prioritizing profits over hiring.",
+      "other_side": "Some economists believe these cuts are just a temporary cleanup after years of over-hiring. They argue that the industry will eventually stabilize and start hiring again once efficiency improves."
+    },
+    {
+      "headline": "TransMedics Invests in PAD Aviation for Organ Logistics Network",
+      "summary": "TransMedics Group has completed a strategic investment in PAD Aviation to establish a dedicated air logistics network for organ transplantation across Europe. This move leverages private aviation technology to enhance the speed and reliability of medical supply chains.",
+      "source": "PRNewswire",
+      "original_title": "TransMedics Group Announces Completion of Strategic Investment in PAD Aviation service GmbH",
+      "context": "Context pending.",
+      "why_it_matters": "Using private planes to transport organs saves critical time in medical emergencies. This innovation could directly save more lives by ensuring transplants happen before organs stop working.",
+      "other_side": "Environmentalists criticize the use of private jets for logistics due to high carbon emissions. They argue that sustainable ground or rail transport should be prioritized even if it takes slightly longer."
     }
   ]
 }
