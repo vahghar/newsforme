@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "Venezuela's Healthcare System Crumbles Under Quake and Economic Collapse",
-      "summary": "A devastating earthquake has exacerbated Venezuela's already precarious healthcare crisis, pushing the system to the brink of collapse. The disaster compounds the immense stress on citizens already suffering from severe economic instability and limited medical resources.",
-      "source": "NPR",
-      "original_title": "A spirit of resilience helps Venezuelans face healthcare challenges after the quakes",
-      "context": "Context pending.",
-      "why_it_matters": "People in Venezuela are facing a double disaster. First, the ground shook with a strong earthquake. Second, their country’s economy is failing, so hospitals lack medicine and staff. This means sick and injured people have nowhere safe to go for help.",
-      "other_side": "Some argue that natural disasters happen everywhere. They believe the main problem is poor government planning over many years, not just this one event. Fixing the economy is the only real way to save lives long-term."
+      "headline": "UAE's Orbitworks Launches Sovereign Satellite Constellation",
+      "summary": "UAE-based company Orbitworks is deploying a homegrown satellite constellation to mass-manufacture commercial satellites. This initiative aims to establish sovereign space capabilities for the United Arab Emirates, marking a significant step in the nation's technological and strategic autonomy.",
+      "source": "CNN",
+      "original_title": "[CNN] UAE’s Orbitworks is putting a homegrown satellite constellation into orbit | CNN Business",
+      "context": "For decades, space was dominated by a few powerful nations like the US and Russia, who built their own satellites using massive government budgets. The United Arab Emirates wanted to stop relying on other countries for space technology and instead build its own fleet of satellites to control its own communications and data. Orbitworks is the local company tasked with this goal, acting like a domestic factory that mass-produces these high-tech eyes in the sky. This move allows the UAE to have total independence and security over its space assets, rather than renting them from foreign providers.",
+      "why_it_matters": "The UAE is building its own fleet of satellites to control its own space technology. This means they won't have to rely on other countries for critical communications and data, giving them more power and independence in the future.",
+      "other_side": "Building a space program from scratch is incredibly expensive and risky. Critics might argue that this money could be better spent on urgent local needs like healthcare or education instead of high-tech space projects."
     },
     {
-      "headline": "Trump's Greenland Ambitions Ignite Global Arctic Power Struggle",
-      "summary": "The United States' interest in controlling Greenland has intensified geopolitical tensions, drawing in Russia and China as they expand their presence in the Arctic. This strategic move highlights the island's critical location between North America and Europe amid growing international competition.",
-      "source": "The Times of India",
-      "original_title": "Why does Trump want Greenland? All about the Arctic island of just 56,000 mostly Inuit people at the center of a global power struggle",
-      "context": "Context pending.",
-      "why_it_matters": "The US wants to buy Greenland because it sits in a very important spot in the Arctic. As ice melts, new shipping routes open up. This makes Greenland key for trade and military power, causing other big countries like Russia and China to get worried.",
-      "other_side": "Critics say buying land from another country is an old-fashioned idea. Many people in Greenland do not want to be sold or controlled by the US. They fear losing their own culture and independence."
+      "headline": "Sony Bank Clears US Regulator Hurdle for Dollar Stablecoin",
+      "summary": "Sony Bank has successfully cleared a key regulatory hurdle with the Office of the Comptroller of the Currency (OCC) for its new dollar-pegged stablecoin. The lender's US subsidiary, Connectia Trust, is now positioned to issue the stablecoin once final regulatory conditions are met, signaling growing institutional adoption in the crypto space.",
+      "source": "Decrypt",
+      "original_title": "[Decrypt] Sony Bank Clears OCC Hurdle for Dollar Stablecoin",
+      "context": "Digital money, often called cryptocurrency, has been growing fast, but banks were hesitant to join in because they feared strict government rules and potential fraud. A \"stablecoin\" is a type of digital cash that is tied directly to the US dollar so its value doesn't jump up and down like Bitcoin. Sony Bank, a major financial institution, got special permission from a top US banking regulator to issue this stablecoin, which is a huge deal because it shows big traditional banks are finally being allowed to use crypto tools safely. This clears the way for everyday people and businesses to use Sony’s digital money with the same trust they have for regular bank deposits.",
+      "why_it_matters": "A major bank like Sony is now allowed to issue a digital coin that stays equal to the US dollar. This shows that big, traditional businesses are starting to trust and use crypto tools, which could make digital money safer and more common for everyday people.",
+      "other_side": "Some experts worry that banks entering the crypto world could lead to stricter government control over personal money. There are also concerns that if something goes wrong with these new digital coins, regular savers could lose their funds."
     },
     {
-      "headline": "China's Militarized Cargo Ships Pose New Maritime Security Threat to US Ports",
-      "summary": "Senator Todd Young warns that China is retrofitting cargo vessels with missiles and drone systems capable of targeting major US ports like Houston. This development raises urgent concerns about national security and the potential for asymmetric warfare against American infrastructure.",
-      "source": "Fox News",
-      "original_title": "SEN TODD YOUNG: The hidden danger China’s ships could bring to our shores",
-      "context": "Context pending.",
-      "why_it_matters": "A US Senator says China is hiding weapons on regular cargo ships. These ships could park near US ports and attack them with drones or missiles. This creates a scary new way for enemies to hurt American cities without using a traditional army.",
-      "other_side": "Experts say these claims might be exaggerated to scare people. Cargo ships are busy moving goods, not fighting wars. It is hard to prove that companies are secretly building warships out of delivery trucks."
+      "headline": "AEON Expands Agentic Commerce Infrastructure into Bolivia",
+      "summary": "AEON has expanded its payment infrastructure into Bolivia by integrating the country's national QR payment standard, OpenBCB. This deployment anchors global agentic commerce in South America, enabling seamless transactions for users scanning local QR codes through AEON's settlement layer.",
+      "source": "PRNewswire",
+      "original_title": "[PRNewswire] AEON Expands to Bolivia, Deploying OpenBCB National QR Rails to Anchor Global Agentic Commerce",
+      "context": "In many parts of the world, people pay for things by scanning a simple QR code on their phone, similar to how you might scan a menu at a restaurant. Bolivia recently created its own national standard for these codes, called OpenBCB, to make sure everyone’s payment apps could talk to each other without confusion. AEON is a company that builds the invisible digital plumbing that connects different payment systems together across borders. By connecting their system to Bolivia’s new standard, AEON allows users to scan local codes and pay seamlessly, effectively bringing modern, automated shopping infrastructure to South America.",
+      "why_it_matters": "A new payment system is being set up in Bolivia to make buying things easier using just phone scans. This helps local businesses get paid faster and connects them to a global network of automated shoppers and sellers without needing complex banking setups.",
+      "other_side": "Relying on a single foreign company for national payment standards can be risky if their system goes down. Local critics might also worry that this technology favors big international corporations over small, local shop owners who may not understand the tech."
     },
     {
-      "headline": "Trump Administration Abruptly Cancels Teen Pregnancy Prevention Grants",
-      "summary": "The Trump administration has suddenly terminated funding for teen pregnancy prevention programs, leaving health departments and nonprofits scrambling. Grantees report that the cuts were unexpected, disrupting months of adaptation to new executive orders and threatening vital community health initiatives.",
-      "source": "NPR",
-      "original_title": "Trump administration abruptly cancels grants for teen pregnancy prevention",
-      "context": "Context pending.",
-      "why_it_matters": "The government suddenly stopped paying for programs that help teens avoid pregnancy. These groups help young people stay healthy and finish school. Cutting their money hurts families who rely on this free advice and care.",
-      "other_side": "Supporters of the cut say the government should not pay for sex education. They believe parents, not politicians, should teach kids about relationships. They think public money should go elsewhere."
+      "headline": "Bybit Launches Automated Portfolio Trading Hub in Dubai",
+      "summary": "Bybit, the world's second-largest cryptocurrency exchange by trading volume, has launched the Combo Bot Hub in Dubai. This new centralized platform supports automated portfolio-based trading strategies across both crypto and traditional finance markets, expanding its global fintech footprint.",
+      "source": "PRNewswire",
+      "original_title": "[PRNewswire] Bybit Launches Combo Bot Hub, Expanding Automated Portfolio Trading Across Crypto and TradFi Markets",
+      "context": "Cryptocurrency trading can be very stressful and complicated, requiring constant watching of screens to decide when to buy or sell. Bybit, one of the biggest platforms for trading digital coins, created a tool called the Combo Bot Hub to automate these decisions for users. Instead of humans making every move, the software follows pre-set rules to buy and sell assets automatically, much like an autopilot for your money. Launching this in Dubai highlights the company's strategy to expand into global financial hubs where people are looking for smarter, less hands-on ways to manage their investments.",
+      "why_it_matters": "A huge crypto trading platform is launching a tool that automatically manages money across different markets. This makes it easier for average investors to try out complex investment strategies without needing to be an expert trader or watch the screen all day.",
+      "other_side": "Automated trading can sometimes make bad decisions very quickly during market crashes, leading to big losses. People who don't understand how these bots work might lose money without realizing why it happened."
     },
     {
-      "headline": "Microsoft Lays Off Thousands in Major Corporate Restructuring",
-      "summary": "Microsoft has announced layoffs affecting 4,800 employees, offering severance packages of up to 39 weeks' pay to those impacted. The cuts are part of a broader strategy to streamline costs and pivot resources toward significant AI investments within the company.",
-      "source": "Livemint",
-      "original_title": "Microsoft layoff: Employees offered up to 39 weeks' pay, stock vesting; here's who gets what",
-      "context": "Context pending.",
-      "why_it_matters": "Microsoft is firing thousands of workers to save money. They want to spend that cash on Artificial Intelligence (AI). This shows how fast tech companies are changing to keep up with new computer powers.",
-      "other_side": "Workers say being fired after years of hard work is unfair. They worry that AI will take even more jobs soon. Many feel the company cares more about profits than people."
+      "headline": "Canada Celebrates 50 Years of World Heritage Commitment",
+      "summary": "The National Trust for Canada is inviting citizens to celebrate 50 years of the country's commitment to protecting World Heritage Sites. Free, family-friendly events are being held across Canada this July to spotlight these heritage places and the stories behind them.",
+      "source": "Financial Post",
+      "original_title": "[Financial Post] 50 Years of Canada’s Commitment to World Heritage: National Trust for Canada Invites the Country to Celebrate",
+      "context": "In 1975, Canada joined an international agreement called the World Heritage Convention, which is a global promise to protect places of outstanding beauty or historical importance, like ancient ruins or unique natural parks. For fifty years, the country has worked to identify and safeguard these special sites from development or damage. The National Trust for Canada is now organizing celebrations to remind citizens why these locations matter and to encourage families to visit and learn about the history hidden within them. It is a birthday party for the country’s ongoing effort to preserve its shared cultural and natural legacy for future generations.",
+      "why_it_matters": "Canada is celebrating fifty years of protecting special historical and natural sites for everyone to enjoy. These events remind people of their shared history and encourage families to appreciate and care for the unique places that define the country's identity.",
+      "other_side": "Some locals feel that tourism focused on heritage sites can damage the very places it tries to protect. There are also concerns that free events might not reach everyone equally, leaving out communities that are far from city centers."
     },
     {
-      "headline": "Switzerland Advances to World Cup Quarter-Finals Amid Market Optimism",
-      "summary": "Switzerland's progression to the World Cup quarter-finals has boosted market confidence and altered perceptions in global football dynamics. Captain Granit Xhaka praised the team as a 'special generation,' highlighting the cultural and economic impact of their sporting success.",
-      "source": "Crypto Briefing",
-      "original_title": "Switzerland reaches World Cup quarter-finals, Xhaka praises “special generation”",
-      "context": "Context pending.",
-      "why_it_matters": "Switzerland won a big soccer match and moved closer to winning the World Cup. This win made people feel proud and happy. It also helped boost confidence in local businesses and markets.",
-      "other_side": "Some fans think soccer is just a game, not serious news. They argue that spending money on sports does not fix real problems like healthcare or jobs. Others say one win does not change global politics."
-    },
-    {
-      "headline": "Upfront Diagnostics Launches Global Board to Combat Stroke Care Delays",
-      "summary": "Cambridge-based medtech company Upfront Diagnostics has established a global medical advisory board to accelerate innovations in stroke care. The initiative aims to significantly reduce the time to treatment, addressing a critical bottleneck in emergency neurological care worldwide.",
+      "headline": "Former BCCI CEO Joins Board of Flash Sports & Media Holdings",
+      "summary": "Rahul Johri, the former CEO of the Board of Control for Cricket in India who oversaw the IPL and led the sale of media rights for over USD 3 billion, has joined the board of Flash Sports & Media Holdings. His appointment brings nearly 35 years of global cricket and media leadership to the NASDAQ-listed company.",
       "source": "GlobeNewswire",
-      "original_title": "Upfront Diagnostics Announces Global Medical Advisory Board to Accelerate Efforts in Reducing Time to Stroke Care",
-      "context": "Context pending.",
-      "why_it_matters": "A company created a new team to speed up stroke treatment. Strokes are medical emergencies where time is life. Faster diagnosis means more people survive without brain damage.",
-      "other_side": "Doctors say we already know how to treat strokes quickly. The real issue is getting ambulances to hospitals faster. New boards do not fix traffic jams or slow emergency services."
+      "original_title": "[GlobeNewswire] Former BCCI CEO Rahul Johri Joins Board of Flash Sports & Media Holdings, Inc. (NASDAQ: FLZH)",
+      "context": "Cricket is one of the most popular sports in India, and the Board of Control for Cricket in India (BCCI) is the organization that runs all the major tournaments and manages the sport's business side. Rahul Johri, the former head of this organization, was responsible for selling the rights to broadcast these games, which brought in billions of dollars for the sport. He is now joining the board of a publicly traded media company called Flash Sports & Media Holdings to help guide its future growth. His deep experience in managing both the game and the massive profits it generates makes him a valuable leader for any company involved in sports entertainment.",
+      "why_it_matters": "A top cricket executive is joining the board of a public sports media company. His experience helps the company make smarter decisions about how to sell TV rights and grow the sport, potentially bringing more money and attention to cricket fans worldwide.",
+      "other_side": "Bringing in a former CEO from a powerful sports board might create conflicts of interest or bias. Fans might worry that the focus will shift too much toward making money rather than improving the game for players and supporters."
     },
     {
-      "headline": "Evogene and Tel Aviv University Partner for AI Drug Discovery Breakthrough",
-      "summary": "Evogene and Tel Aviv University's Blavatnik Center have announced a joint initiative to accelerate AI-driven small-molecule drug discovery. This collaboration leverages world-class experimental infrastructure and computational chemistry capabilities to advance Israel's academic innovation ecosystem.",
-      "source": "PRNewswire",
-      "original_title": "Evogene and Tel Aviv University's Blavatnik Center for Drug Discovery Announce Joint Initiative to Accelerate AI-Driven Small-Molecule Drug Discovery",
-      "context": "Context pending.",
-      "why_it_matters": "Two groups are using AI to find new medicines faster. AI can look at millions of chemical options in seconds. This could lead to cures for diseases much quicker than before.",
-      "other_side": "Skeptics say AI cannot replace human doctors and scientists. Medicine needs careful testing in real life, not just on computers. Relying too much on machines might lead to unsafe drugs."
+      "headline": "Bitdeer Breaks Ground on $36 Million Tech Facility in Nevada",
+      "summary": "Bitdeer Technologies Group has broken ground on a new 187,000-square-foot advanced electronics manufacturing facility in Sparks, Nevada. The $36 million investment will create 70 high-tech jobs and support the company's role as a world-leading provider of AI and Bitcoin mining infrastructure.",
+      "source": "GlobeNewswire",
+      "original_title": "[GlobeNewswire] Bitdeer to Open $36 Million Advanced Tech Manufacturing Facility in Sparks, Bringing 70 High-Tech Jobs to Nevada",
+      "context": "Mining for Bitcoin and training artificial intelligence computers both require huge amounts of specialized electronic equipment, which used to be made mostly in Asia. Bitdeer is a company that provides the hardware needed for these two energy-intensive industries and decided to bring some of that manufacturing back to the United States. They are building a large factory in Nevada to produce these advanced electronics locally, which will create jobs and reduce shipping times for their customers. This investment shows a growing trend of tech companies setting up physical production bases in the US to support the booming demand for AI and crypto infrastructure.",
+      "why_it_matters": "A tech company is building a large factory in Nevada to make parts for AI and Bitcoin mining. This creates good-paying jobs and boosts the local economy while supporting the growing demand for the computer chips needed to run artificial intelligence.",
+      "other_side": "Factories that support Bitcoin mining use a lot of electricity, which can strain local power grids. Environmental groups often criticize this because mining crypto consumes massive amounts of energy that could be used for cleaner purposes."
     },
     {
-      "headline": "Ottobock Expands Neuro-Orthotics Portfolio Through Fesia Acquisition",
-      "summary": "Ottobock has acquired Fesia Technology to expand its portfolio of functional electrical stimulation products used in neurorehabilitation. This strategic move strengthens Ottobock's position in providing advanced solutions for patients requiring complex orthotic support.",
-      "source": "Medical Device Network",
-      "original_title": "Ottobock expands neuro-orthotics portfolio with Fesia Technology acquisition",
-      "context": "Context pending.",
-      "why_it_matters": "A company bought another firm to make better leg braces. These devices use electricity to help people walk again after nerve damage. This helps patients regain movement and live more independently.",
-      "other_side": "High-tech braces are very expensive. Not everyone can afford them, even if they need them. This widens the gap between rich and poor patients who get care."
+      "headline": "TIME Partners with Contentstack for AI-Driven Digital Publishing",
+      "summary": "Iconic brand TIME has partnered with Contentstack to advance its digital publishing platform using agentic digital experiences. The collaboration aims to build the future of AI-driven audience experiences, leveraging Contentstack's CMS capabilities to redefine how TIME engages with its global readership.",
+      "source": "Financial Post",
+      "original_title": "[Financial Post] TIME Partners with Contentstack to Advance Its Digital Publishing Platform",
+      "context": "Traditional magazines like TIME used to publish articles in print and then put them online, but today’s readers expect personalized experiences tailored just for them. To achieve this, TIME partnered with Contentstack, a company that provides the software backbone for websites and apps. This partnership uses artificial intelligence to automatically organize content and deliver it to readers in the most engaging way possible, acting like a smart assistant for publishing. The goal is to make reading TIME feel more interactive and relevant, keeping audiences hooked in an era where attention spans are short and competition for views is fierce.",
+      "why_it_matters": "TIME magazine is using smart AI software to change how articles are shown to readers. This means you might see news that fits your interests better, making reading faster and more personal, which helps the magazine keep readers engaged in a crowded digital world.",
+      "other_side": "Using AI to decide what you read can create \"echo chambers\" where you only see opinions you already agree with. Critics argue this reduces exposure to diverse viewpoints and makes it harder for people to understand different sides of an issue."
     },
     {
-      "headline": "AerCap Secures Lease Deals with China Southern for Freight Fleet Expansion",
-      "summary": "AerCap Holdings has signed lease agreements with China Southern Air Logistics for three Boeing 777-300ERSF converted freighters. This deal supports the expansion of China Southern's cargo operations and reflects ongoing demand in the global air freight market.",
-      "source": "PRNewswire",
-      "original_title": "AerCap Cargo Signs Lease Agreements with China Southern Group for Three Boeing 777-300ERSF Converted Freighters",
-      "context": "Context pending.",
-      "why_it_matters": "A leasing company signed a deal to rent cargo planes to China Southern. More planes mean more goods can be shipped around the world. This keeps stores stocked and prices stable for everyday items.",
-      "other_side": "Flying planes creates a lot of pollution. Critics say we should ship goods by train or boat instead. Relying on air freight harms the environment too much."
+      "headline": "Stantec to Release Second Quarter 2026 Financial Results",
+      "summary": "Global leader in sustainable design and engineering Stantec will release its second quarter 2026 financial results on August 12, 2026. The company will host a conference call on August 13 to discuss performance metrics, highlighting its ongoing operations as a publicly traded entity on the TSX and NYSE.",
+      "source": "Financial Post",
+      "original_title": "[Financial Post] Stantec to release second quarter 2026 results on August 12, 2026 and host conference call on August 13, 2026",
+      "context": "Stantec is a large international company that designs sustainable buildings, bridges, and environmental solutions, and it is owned by shareholders who want to know how well the business is doing. Every three months, public companies like Stantec must release a report card of their finances, known as quarterly results, to show if they are making money or losing it. The upcoming release in August 2026 will detail their performance over the second quarter, including expenses and profits, which helps investors decide whether to buy or sell stock in the company. This routine disclosure is a standard part of how public companies maintain transparency and trust with the financial markets.",
+      "why_it_matters": "An engineering firm is sharing its latest financial numbers to show how well it is doing. Investors and partners use this info to decide if they should trust the company with future projects, ensuring that sustainable design work continues to get funded.",
+      "other_side": "Quarterly financial reports often focus too much on short-term profits rather than long-term goals. This pressure can sometimes force companies to cut corners on safety or sustainability just to meet immediate earnings targets."
+    },
+    {
+      "headline": "Corrosion Protection Coatings Market Projected to Reach USD 21.77 Billion",
+      "summary": "The global corrosion protection coatings market is projected to hit USD 21.77 billion by 2035, driven by sustainable industrial coatings and infrastructure demand. The U.S. market is expected to reach USD 3.62 billion, while Europe will attain USD 5.57 billion, reflecting significant regional growth in low-VOC coating adoption.",
+      "source": "GlobeNewswire",
+      "original_title": "[GlobeNewswire] Corrosion Protection Coatings Market Size to Hit USD 21.77 Billion by 2035 as Sustainable Industrial Coatings Gain Momentum | SNS Insider",
+      "context": "Metal rusts and degrades over time when exposed to weather, which can destroy bridges, pipelines, and buildings if not protected. To prevent this, industries use special paints and coatings that act as a shield against corrosion, and the demand for these products is rising as infrastructure ages globally. The market for these protective coatings is expected to grow significantly by 2035 because governments and companies are investing heavily in maintaining existing structures rather than building new ones. Additionally, there is a shift toward \"low-VOC\" coatings, which are safer for the environment and human health, driving further innovation and sales in this sector.",
+      "why_it_matters": "The industry for paint that stops metal from rusting is growing fast as we build more infrastructure. This growth supports jobs and ensures that bridges, pipes, and buildings last longer, saving money on repairs and keeping public structures safe.",
+      "other_side": "Making these protective coatings often involves chemicals that can harm the environment if not handled carefully. As demand rises, there is a risk that pollution from manufacturing could increase unless strict green rules are enforced."
     }
   ]
 }
