@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "Tragedy in Spain: 13-Year-Old Boy Killed in Fountain Collapse During World Cup Celebrations",
-      "summary": "A 13-year-old Spanish boy died when a fountain collapsed during celebrations for Spain's victory against Argentina in the World Cup. The incident occurred in the Salamanca province, casting a somber shadow over the national joy and highlighting safety concerns at public gatherings.",
+      "headline": "UN Warns Conflicts and Energy Shocks Threaten Global Hunger",
+      "summary": "The head of a UN agency has issued a stark warning that ongoing conflicts and disruptions to global energy markets are driving up the costs of fuel, fertilizer, and food. These compounding crises threaten to push millions of additional people into severe hunger worldwide.",
+      "source": "Yahoo Entertainment",
+      "original_title": "Conflicts and energy shocks threaten progress against global hunger, UN agency head warns",
+      "context": "Food security has always been fragile, but it relies heavily on three things: stable weather, affordable energy, and peace. When wars break out, they destroy farms and block shipping routes, while high oil prices make it expensive to run tractors and create fertilizer. This specific warning highlights how these separate problems are crashing into each other, making it impossible for poor countries to buy the basic ingredients needed to survive. It is a reminder that a conflict halfway across the world can directly put an empty plate in front of someone on the other side.",
+      "why_it_matters": "War and high energy prices are making basic survival tools like fuel and fertilizer too expensive for many countries. This means food will cost more, pushing millions of people into hunger because they simply cannot afford to eat.",
+      "other_side": "Some argue that blaming conflicts and energy markets ignores other causes of hunger, like poor local farming or corruption, which are harder to fix but just as important. Critics say this view lets governments off the hook for not managing their own food supplies better."
+    },
+    {
+      "headline": "Iran War Grinds to Halt in Critical Strait of Hormuz",
+      "summary": "As the war with Iran continues, merchant shipping in the Strait of Hormuz has effectively stopped due to missile threats replacing normal trade activity. A controversial proposal to charge tolls for safe passage is gaining traction as the primary solution to restore this vital energy corridor.",
+      "source": "Fortune",
+      "original_title": "Money talks—as the Iran war continues, options for the Strait of Hormuz are coalescing around one solution – tolls",
+      "context": "The Strait of Hormuz is a narrow strip of water between Iran and Oman that acts as a global chokepoint for oil shipments. Roughly one-fifth of all the world’s petroleum passes through this tiny channel every single day, making it critical for keeping factories running and cars moving everywhere. When military tensions rise here, ships stop coming because the risk of being hit by missiles is too high, causing global panic over fuel shortages. The idea of charging \"tolls\" is a controversial attempt to pay private security forces to protect ships, but it raises huge legal and moral questions about who gets to control such vital public waters.",
+      "why_it_matters": "The Strait of Hormuz is a busy waterway where a huge chunk of the world’s oil passes through. Stopping ships there threatens to spike gas prices everywhere and disrupts the global economy by cutting off energy supplies.",
+      "other_side": "Charging tolls for safe passage could be seen as unfair or illegal by international law, potentially causing more diplomatic fights. Some experts worry it might encourage more piracy or attacks rather than stopping them."
+    },
+    {
+      "headline": "Trump Admin Redirects Foreign Aid Toward Right-Wing Causes",
+      "summary": "The Trump administration's State Department is actively prioritizing foreign aid grants for right-wing causes, including support for white South Africans and anti-communist organizations. This shift marks a significant realignment of US diplomatic assistance and geopolitical priorities.",
+      "source": "Salon",
+      "original_title": "Trump admin pushes foreign aid grants toward right-wing causes",
+      "context": "Foreign aid is money and resources that wealthy nations send to poorer countries to help with development, disaster relief, or political stability. Historically, this money was given based on need or strategic alliances to keep peace, but recent shifts show it being used as a tool to support specific political ideologies abroad. By directing funds toward right-wing groups or controversial causes like supporting white South Africans during apartheid-era tensions, the US is using its wallet to influence global politics rather than just helping people survive. This changes the entire purpose of aid from humanitarian help to a weapon of political preference.",
+      "why_it_matters": "The US is changing who gets help abroad, focusing on groups that share its political views rather than general humanitarian needs. This shift could weaken relationships with traditional allies and change how the world sees American leadership.",
+      "other_side": "Critics say this approach ignores urgent human suffering in favor of political goals, which can make the US look selfish. Others argue that tying aid to politics makes it less effective at solving real problems on the ground."
+    },
+    {
+      "headline": "Arctic Sea Ice Plunges to Record Low as Melting Pause Ends",
+      "summary": "A new study reveals that Arctic sea ice has reached record low levels, signaling the end of a previous pause in melting trends. The exceptionally diminished ice coverage this year highlights accelerating environmental changes in the polar regions.",
+      "source": "Dailymail.com",
+      "original_title": "Arctic sea ice plunges to a record low: Study reveals how 'pause' in melting has ended - with 'exceptionally' diminished levels this year",
+      "context": "Arctic sea ice acts like a giant white mirror for the Earth, reflecting sunlight back into space and keeping the planet cool. For decades, scientists have watched this ice shrink due to global warming, but there was a brief period where the melting seemed to slow down, giving some hope. That pause has now ended, and the ice is melting faster than ever recorded, which means less sunlight is being reflected and more heat is being absorbed by the dark ocean water. This creates a dangerous feedback loop where warmer water melts more ice, leading to even higher temperatures and rising sea levels around the world.",
+      "why_it_matters": "Record-low Arctic ice means rising sea levels and extreme weather patterns that affect everyone, not just people near the poles. This signals that climate change is speeding up, requiring faster action to protect homes and food supplies.",
+      "other_side": "Some claim that natural cycles explain ice changes better than human activity, suggesting we are overreacting to normal variations. Others worry that focusing only on ice ignores immediate local environmental issues that need attention now."
+    },
+    {
+      "headline": "Andhra Pradesh and UAE Forge Food Export Alliance",
+      "summary": "India's Andhra Pradesh state and the United Arab Emirates have announced plans to establish a dedicated food cluster to boost horticulture exports. The initiative aims to create a robust export value chain for produce such as mangoes, bananas, and cocoa to global markets.",
+      "source": "BusinessLine",
+      "original_title": "Andhra Pradesh, UAE discuss food cluster to boost horticulture exports",
+      "context": "Andhra Pradesh is a state in India known for its fertile land and ability to grow large amounts of fruits and vegetables, while the UAE is a wealthy nation in the Middle East with a high demand for fresh food but limited farmland. They have joined forces to create a specialized supply chain that moves produce like mangoes and bananas from Indian farms directly to UAE supermarkets without losing quality. This partnership helps Indian farmers earn more money by accessing richer markets, while ensuring that people in the UAE have reliable access to fresh, affordable food. It is a modern example of how trade agreements can benefit both the seller’s economy and the buyer’s food security.",
+      "why_it_matters": "India and the UAE are teaming up to sell more fresh produce globally, which can boost farmers' incomes and create jobs. This partnership helps build a reliable supply chain so fresh food reaches international markets faster and cheaper.",
+      "other_side": "Small farmers might struggle to meet strict export standards, leaving them behind while big companies profit. Environmentalists also worry that increasing production could lead to overuse of water and pesticides in the region."
+    },
+    {
+      "headline": "World Cup Tourism Success Attributed to US Policy Stability",
+      "summary": "The US Travel Association credited President Trump for both enacted policies and strategic inactions that prevented chaos during the 2026 World Cup. Industry executives described these measures as equally important to the event's success as a tourism and diplomatic win.",
+      "source": "Fox News",
+      "original_title": "World Cup chaos avoided by Trump moves he didn’t make, ‘equally as important’ as actions taken: travel exec",
+      "context": "Hosting a massive international event like the World Cup requires strict border controls, visa processing, and security coordination to ensure millions of fans can travel safely. The US Travel Association argues that the stability provided by current policies prevented chaos, allowing tourists to enter smoothly and spend money without fear of sudden rule changes or political unrest. This view suggests that consistent government action, even if it means doing nothing to disrupt the status quo, is just as valuable as active legislation when it comes to maintaining confidence in the tourism industry. It frames political predictability as a key ingredient for economic success during global events.",
+      "why_it_matters": "The US used policy stability to ensure the World Cup ran smoothly, showing how government actions directly impact major global events. This success boosts tourism revenue and improves the country’s image as a reliable host for international gatherings.",
+      "other_side": "Some fans felt that political interference took away from the pure spirit of the game and made it feel too commercialized. Critics also argue that blaming policy for success ignores the hard work of organizers and volunteers."
+    },
+    {
+      "headline": "Augustus Secures $180M to Dollarize Global Finance",
+      "summary": "Augustus has raised $180 million in Series B funding led by Tiger Global to expand access to the US dollar for international fintechs and banks. The company aims to provide financial institutions worldwide with direct, programmable access to dollar accounts through a modern banking infrastructure.",
+      "source": "PRNewswire",
+      "original_title": "Augustus Announces $180M Series B at $1B Valuation to Give International Fintechs and Banks Access to the US Dollar",
+      "context": "The US dollar is the world’s main currency for international business, meaning most countries need dollars to buy things like oil, cars, or technology. However, getting access to dollar accounts can be difficult and slow for banks in other countries, often requiring multiple middlemen who charge high fees. Augustus is a financial technology company that builds digital bridges to give these foreign banks direct, instant access to dollar accounts, similar to how you might use an app to send money instantly. Their new funding allows them to expand this service, making global trade faster and cheaper by removing the old-fashioned banking barriers that currently exist.",
+      "why_it_matters": "A new company is raising money to make it easier for banks worldwide to use the US dollar digitally. This could speed up international money transfers and help businesses grow by removing old banking barriers.",
+      "other_side": "Relying more on one currency might give the US too much power over global finance, affecting other economies. Privacy advocates worry that easier digital access could lead to more surveillance of personal financial data."
+    },
+    {
+      "headline": "Crypto Industry Bets on Sports Marketing via World Cup Sponsorships",
+      "summary": "Spain's victory in the 2026 FIFA World Cup underscores how major sporting events have become the primary marketing battleground for the crypto industry. The massive investment in football sponsorships reflects the sector's strategic bet on sports-driven engagement.",
+      "source": "Crypto Briefing",
+      "original_title": "Spain’s World Cup win highlights why major sporting events are becoming crypto’s biggest marketing battleground",
+      "context": "Cryptocurrency is a digital form of money that operates online without a central bank, and it has struggled to gain trust among regular people due to its volatility and past scandals. To fix this image, crypto companies are spending billions to sponsor major sports events like the World Cup, hoping to associate their brands with excitement, teamwork, and national pride. This strategy aims to make crypto seem mainstream and safe by linking it to beloved athletes and teams, rather than just tech enthusiasts. It reflects a desperate push by the industry to normalize itself in the public eye through mass marketing.",
+      "why_it_matters": "Crypto companies are spending huge amounts on sports ads to gain trust and attract regular users. This strategy aims to bring digital money into the mainstream by associating it with popular, trusted events like the World Cup.",
+      "other_side": "Many experts believe these ads hide the risks and volatility of crypto investments from everyday fans. Critics say this marketing exploits sports loyalty to sell unstable products that can lose value quickly."
+    },
+    {
+      "headline": "Lamine Yamal Makes History as Youngest World Cup Winner",
+      "summary": "Lamine Yamal became the fourth-youngest player in history to win the FIFA World Cup at just 19 years old. His achievement with Spain during the 2026 tournament marks a significant milestone in international football history.",
+      "source": "Crypto Briefing",
+      "original_title": "Lamin Yamal becomes fourth-youngest World Cup winner at 19",
+      "context": "Lamine Yamal is a Spanish football player who rose to fame incredibly quickly, playing at a professional level while still a teenager. In football, age matters because younger players are expected to be raw talent, not seasoned veterans, so winning a major tournament like the World Cup at 19 is exceptionally rare. His achievement highlights a shift in sports where young athletes are being trusted with huge responsibilities earlier than ever before. This milestone not only cements his place in history but also signals a new era where youth and experience are blending in top-level competition.",
+      "why_it_matters": "A 19-year-old winning the World Cup shows that young talent can compete at the highest level earlier than ever. This inspires younger athletes worldwide and changes how teams scout and develop new players.",
+      "other_side": "Some worry that putting too much pressure on teenagers harms their mental health and long-term careers. Others argue that relying on young stars might reduce the value of experience and teamwork in older players."
+    },
+    {
+      "headline": "FIFA World Cup Delivers Record-Breaking Global Spectacle",
+      "summary": "The 2026 FIFA World Cup featured 1,039 players from 48 nations competing across 16 venues, resulting in 308 goals scored. This expanded tournament format set new records for participation and global viewership, solidifying its status as the world's premier sporting event.",
       "source": "Al Jazeera English",
-      "original_title": "World Cup: Spanish boy, 13, killed in fountain collapse during celebrations",
-      "context": "The World Cup is the biggest soccer tournament in the world, held every four years, where nations compete for global glory and immense pride. When Spain won recently, fans naturally flooded public squares to celebrate, often setting up large screens and temporary structures like stages or fountains to enhance the party atmosphere. Tragically, these temporary setups are not always built to withstand the weight of thousands of excited people jumping or leaning on them, leading to sudden collapses. This incident highlights the dangerous gap between festive enthusiasm and structural safety, reminding us that even joyful gatherings require strict engineering checks to prevent loss of life.",
-      "why_it_matters": "This tragedy shows how dangerous large, excited crowds can be. It forces cities to check if public structures like fountains are safe for people to gather around. Future events will likely have stricter safety rules to prevent similar accidents.",
-      "other_side": "Some might argue that the blame lies with the organizers for not managing the crowd better. Others may say it is a rare accident and not enough to change how we celebrate sports victories."
-    },
-    {
-      "headline": "Escalating Conflict: US Renewed Strikes on Iran Amid Intensified Regional Attacks",
-      "summary": "Tensions have surged as the US resumed strikes on Iran following a brief pause, while Iran intensified attacks on US bases and Kuwaiti desalination facilities. This rapid escalation signals a dangerous new phase in the conflict with significant geopolitical implications.",
-      "source": "Nakedcapitalism.com",
-      "original_title": "Iran War: Brief US Pause Followed by Renewed Strikes as Iran Intensifies Attacks on Bases and Kuwait Desalination; Continued Speculation About US Operation",
-      "context": "The Middle East has long been a region of complex political tensions involving several countries with competing interests and historical grievances. Recently, a cycle of retaliation began where one side attacked targets, prompting the other to strike back, creating a dangerous spiral of violence that threatens to spread across borders. The United States and Iran have been adversaries for decades, meaning any direct military clash between them risks dragging in allies from both sides and disrupting global oil supplies. This escalation is particularly alarming because it moves beyond proxy wars into direct conflict, raising fears of a much larger regional war that could destabilize the entire world economy.",
-      "why_it_matters": "This escalation raises the risk of a much larger war in the Middle East. It makes oil prices unstable and affects the cost of living for everyone. Countries around the world are forced to pick sides or stay very careful.",
-      "other_side": "Critics say that striking Iran might make them more angry and violent, not less. Some argue that diplomacy is still possible and that military action only solves nothing."
-    },
-    {
-      "headline": "China's Kimi K3 AI Model Halts Subscriptions Amid Overwhelming Global Demand",
-      "summary": "China's leading AI model, Kimi K3, has suspended new subscriptions after demand overwhelmed its capacity. This event underscores the intense global competition in artificial intelligence and China's rapidly expanding technological infrastructure.",
-      "source": "Abcnews.com",
-      "original_title": "China's new AI model halts new subscriptions as demand swamps capacity",
-      "context": "Artificial Intelligence (AI) refers to computer systems that can perform tasks usually requiring human intelligence, such as understanding language or recognizing images. Kimi K3 is a powerful new AI tool developed by a Chinese company that has gained massive popularity because it can process huge amounts of information quickly and accurately. When so many people try to use a new digital service at once, it can overwhelm the computer servers that power it, forcing companies to temporarily pause new sign-ups to keep the system running for existing users. This event shows just how hungry the world is for advanced AI tools and how difficult it is for tech companies to build enough infrastructure to meet that sudden, explosive demand.",
-      "why_it_matters": "This proves that everyone wants AI tools right now. It shows that technology companies are racing hard to build faster and better systems. Users will face long waits as companies try to keep up with this huge demand.",
-      "other_side": "Some worry that this rush leads to poor quality or buggy software. Others fear that too much focus on speed means safety checks are being skipped."
-    },
-    {
-      "headline": "Coca-Cola Unveils Sweeping New Global Brand Identity",
-      "summary": "Coca-Cola has introduced a comprehensive global brand refresh aimed at unifying its iconic identity across international markets. This strategic move reflects broader trends in global corporate branding and marketing adaptation.",
-      "source": "Printmag.com",
-      "original_title": "Coca-Cola Unveils a New Global Brand Identity",
-      "context": "Coca-Cola is one of the most recognizable brands on Earth, known for its red logo and classic bottle shape that have remained largely unchanged for over a century. In today’s fast-changing digital world, companies often update their visual style to stay relevant to younger generations and to look consistent across different countries and social media platforms. By refreshing its brand identity, Coca-Cola is trying to modernize its image while keeping the core elements that people already love and trust. This move reflects a broader trend where global corporations tweak their appearance to feel more contemporary without losing the history that makes them iconic.",
-      "why_it_matters": "Big brands are changing their look to stay relevant to younger buyers. This move helps Coca-Cola sell more by feeling fresh and modern. It shows how companies must constantly update themselves to keep customers happy.",
-      "other_side": "Fans of the old logo might feel sad about losing tradition. Critics often say these changes are just expensive tricks to sell more soda without improving the product."
-    },
-    {
-      "headline": "Khaby Lame Appointed Global Brand Ambassador for Holafly",
-      "summary": "The world's most-followed TikTok creator, Khaby Lame, has joined Holafly as a global brand ambassador. This partnership leverages Lame's massive international reach to promote seamless travel connectivity to millions of users worldwide.",
-      "source": "GlobeNewswire",
-      "original_title": "The world's most-followed TikTok creator, Khaby Lame, joins Holafly as Global Brand Ambassador",
-      "context": "Khaby Lame is a social media star who became famous for his silent comedy videos mocking overly complicated life hacks, gaining hundreds of millions of followers worldwide. Brands like Holafly, which sells mobile internet plans for travelers, look for influencers with massive reach to promote their services to potential customers. By partnering with Khaby, Holafly hopes to tap into his global audience and use his friendly, relatable image to make their service seem easy and trustworthy. This partnership illustrates how modern marketing relies heavily on internet celebrities who can connect with millions of people instantly through short video clips.",
-      "why_it_matters": "Companies now rely on internet stars to reach millions of people quickly. This deal shows how social media fame can turn into real business power. Travel apps will use Khaby’s fans to get new users easily.",
-      "other_side": "Some people think influencers are not trustworthy experts on travel. Others worry that relying on one person is risky if they get into trouble later."
-    },
-    {
-      "headline": "Coca-Cola Crafts 'Our FIFA World Cup' Campaign for Chinese Fans",
-      "summary": "Despite the Chinese national team's absence from the pitch, Coca-Cola launched a targeted campaign titled 'Our FIFA World Cup' to engage Chinese fans. The initiative highlights the intersection of global sports events and localized marketing strategies.",
-      "source": "PRNewswire",
-      "original_title": "From Sponsor to Co‑creator: How Coca‑Cola Crafted \"Our FIFA World Cup\" for Chinese Fans",
-      "context": "The FIFA World Cup is a soccer tournament that captures the attention of billions of people, regardless of whether their national team is playing. Even though China’s men’s soccer team did not qualify for the recent tournament, Chinese consumers still have a deep passion for the sport and the global excitement it generates. Coca-Cola launched a specific campaign called \"Our FIFA World Cup\" to engage these fans by focusing on the shared joy of watching rather than just supporting a home team. This strategy highlights how global brands tailor their messages to local audiences, finding ways to include everyone in the celebration even if they aren't directly competing.",
-      "why_it_matters": "This shows how global brands adapt their ads for local cultures. Even without their team playing, Coca-Cola wants Chinese fans to feel included. It highlights the huge money involved in World Cup marketing.",
-      "other_side": "Some might see this as just another way to push products during a holiday. Critics could argue it distracts from the actual sport and focuses too much on profit."
-    },
-    {
-      "headline": "Global Autonomous Vehicles Market Projected to Reach $315 Billion by 2032",
-      "summary": "The autonomous vehicles market is forecast to grow at a 22.25% CAGR, reaching USD 315.56 billion by 2032. Key growth areas include geofenced freight, last-mile delivery, and AI validation across industrial fleets globally.",
-      "source": "GlobeNewswire",
-      "original_title": "Autonomous Vehicles Market to Reach USD 315.56 Billion by 2032, Growing at 22.25% CAGR",
-      "context": "Autonomous vehicles are cars that can drive themselves using computers, sensors, and artificial intelligence instead of a human driver behind the wheel. For decades, this technology has been in development, but recent advances in computing power and safety regulations are making it more practical for real-world use. Experts predict this market will grow massively because self-driving trucks and delivery robots can operate around the clock, potentially lowering shipping costs and reducing accidents caused by human error. This projection reflects a major shift in transportation, where technology is moving from science fiction to everyday reality, transforming how we move goods and people.",
-      "why_it_matters": "Self-driving cars will soon change how we move goods and people. This growth means fewer truck drivers but cheaper shipping costs. It will reshape cities and roads to handle robot vehicles safely.",
-      "other_side": "Many drivers fear losing their jobs to machines. Safety experts worry that computer errors could cause serious accidents on busy highways."
-    },
-    {
-      "headline": "Global Thermal Scanners Market Expands into Defense and Smart Infrastructure",
-      "summary": "The global thermal scanners market is set for significant growth through 2032, driven by applications in defense, healthcare screening, and smart buildings. AI-enabled predictive maintenance is emerging as a critical opportunity within this sector.",
-      "source": "GlobeNewswire",
-      "original_title": "Thermal Scanners Market - Global Forecast 2026-2032",
-      "context": "Thermal scanners are devices that detect heat signatures, allowing them to see temperature differences in the dark or through smoke, which was widely used during the pandemic to check for fevers. Originally popularized for health screening, this technology is now being adapted for other uses like security checkpoints at airports, monitoring machinery in factories to prevent breakdowns, and securing military bases. As artificial intelligence improves, these scanners can do more than just measure heat; they can predict when equipment might fail or identify suspicious behavior patterns. This expansion shows how a tool created for one specific crisis is evolving into a versatile technology for safety and efficiency in many industries.",
-      "why_it_matters": "Thermal cameras will become common in buildings and airports. This helps spot sick people or security threats faster than before. It makes public spaces safer but also more watched.",
-      "other_side": "Privacy groups worry that constant scanning invades personal freedom. Some argue that these tools are expensive and not always accurate."
-    },
-    {
-      "headline": "Heineken Executes Share Buyback Amid Global Market Shifts",
-      "summary": "Heineken Holding N.V. reported transactions under its current share buyback programme, reflecting its financial strategy amidst changing global consumer habits. This move signals confidence in the company's long-term stability and market position.",
-      "source": "GlobeNewswire",
-      "original_title": "Heineken Holding N.V. reports transactions under its current share buyback programme",
-      "context": "A share buyback occurs when a company uses its own cash to buy back its shares from the stock market, effectively reducing the number of shares available to investors. Heineken, a major global beer producer, is doing this to signal that it believes its stock is undervalued and that it has strong financial health despite changing consumer habits. By reducing the number of shares, each remaining share becomes slightly more valuable, which can boost investor confidence and reward shareholders. This financial maneuver is a common way for stable, profitable companies to manage their capital and show faith in their long-term future during uncertain economic times.",
-      "why_it_matters": "Heineken buying back its own shares shows it has extra cash. This usually makes the stock price go up for investors. It signals that the company feels strong despite changing drinking habits.",
-      "other_side": "Some shareholders prefer the company to spend money on new ideas instead. Critics say buying back shares is a short-term fix that hides slower sales growth."
-    },
-    {
-      "headline": "Domino's Reports Mixed Global Sales Growth in Q2 2026",
-      "summary": "Domino's Pizza announced second-quarter financial results showing global retail sales growth of 3.0%, though international same-store sales declined slightly. The results highlight divergent performance trends across different global markets.",
-      "source": "PRNewswire",
-      "original_title": "Domino's Pizza Announces Second Quarter 2026 Financial Results",
-      "context": "Domino’s Pizza is a global fast-food giant that operates thousands of locations in many different countries, each facing unique local economic conditions and consumer preferences. When the company reports \"mixed\" results, it means some regions are doing very well while others are struggling, leading to an average growth figure that hides these differences. International same-store sales declining suggests that in some foreign markets, customers are spending less or visiting less frequently, possibly due to inflation or local competition. This divergence highlights the challenge multinational corporations face in maintaining consistent performance across diverse global economies where trends do not always move in sync.",
-      "why_it_matters": "Domino’s results show that pizza demand is steady but uneven. Some countries are spending less on eating out. This tells investors that global food chains face different challenges in each region.",
-      "other_side": "The slight drop in international sales worries some customers. Competitors might see this weakness and try to steal Domino’s loyal diners away."
+      "original_title": "FIFA World Cup: Who scored the most goals, assists, saves and yellow cards?",
+      "context": "The FIFA World Cup recently expanded from 32 teams to 48 teams, meaning more countries could participate and more games were played across more cities. This change was designed to make the tournament more inclusive and exciting, resulting in record-breaking numbers for both players involved and fans watching globally. With 16 host cities and nearly 1,000 players, the event became a massive logistical feat that tested the capacity of stadiums and infrastructure worldwide. The success of this expanded format proves that football’s popularity is growing beyond traditional powerhouses, turning the tournament into a truly global spectacle.",
+      "why_it_matters": "The expanded World Cup with more teams and games broke viewership records, proving its massive global appeal. This growth helps spread the sport to new regions and generates huge economic benefits for host cities and sponsors.",
+      "other_side": "Fans complain that adding more teams dilutes the quality of play and makes the tournament feel crowded. Some argue that the focus on numbers and records takes away from the passion and tradition of the original event."
     }
   ]
 }

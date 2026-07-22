@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "US Bond Markets React to Iran Conflict as Yields Rise",
-      "summary": "Treasury yields moved higher as investors assessed the impact of escalating US-Iran tensions on financial markets. The benchmark 10-year Treasury yield rose to 4.558%, reflecting market anxiety over geopolitical risks and their potential macroeconomic consequences.",
-      "source": "Biztoc",
-      "original_title": "How Is The Iran Conflict Affecting US Bond Markets — Treasury yields moved slightly higher on Monday as investors monitored the escalating conflict between the United States and Iran and assessed its potential impact on financial markets. Reported by CNBC, the benchmark 10-year Treasury yield rose to 4.558%, w…",
-      "context": "Context pending.",
-      "why_it_matters": "When countries fight, investors get scared and pull their money out of safe places like US government bonds. This makes borrowing money more expensive for everyone, which can slow down the economy and make life costlier for regular people.",
-      "other_side": "Some experts argue that these market jitters are just temporary panic. They believe that once the political tension cools down, prices will return to normal quickly without lasting damage."
-    },
-    {
-      "headline": "Jersey Mike's Launches Roadshow for Major IPO",
-      "summary": "Jersey Mike's Subs has officially commenced a roadshow for its proposed initial public offering of Class A common stock. This marks a significant corporate finance event as the company prepares to list on the public markets, signaling investor interest in the quick-service restaurant sector.",
-      "source": "PRNewswire",
-      "original_title": "[PRNewswire] Jersey Mike's Announces Launch of Initial Public Offering — TINTON FALLS, N.J., July 20, 2026 /PRNewswire/ -- Jersey Mike's Subs Inc. (\"Jersey Mike's\" or the \"Company\") announced today that it has commenced a roadshow for its proposed initial public offering (\"IPO\") of 43,478,261 shares of its Class A common stock to …",
-      "context": "Context pending.",
-      "why_it_matters": "Jersey Mike's is going public, which means everyday people can now buy shares of the sandwich shop. This shows that even local-looking businesses are becoming big global players, offering new ways for regular folks to invest in companies they know and love.",
-      "other_side": "Critics worry that going public forces the company to focus only on making quick profits. This might lead to higher prices for customers or lower quality food as they try to please stock market investors."
-    },
-    {
-      "headline": "UK Political Shift Sends Jitters Through Bond Markets",
-      "summary": "The prospect of a new prime minister in the UK sent shockwaves through bond markets earlier this year, with concerns over fiscal policy under a potentially more left-leaning leadership. This political uncertainty continues to influence sovereign debt pricing and investor sentiment regarding British economic stability.",
+      "headline": "Jamie Dimon Warns Markets Underestimate Risks, Avoids Stocks and Treasuries",
+      "summary": "JPMorgan Chase CEO Jamie Dimon has publicly stated that current market valuations fail to account for significant underlying risks, advising against buying stocks or Treasurys at present prices. His comments highlight a growing divergence between institutional caution and investor sentiment amidst geopolitical and economic shocks.",
       "source": "CNBC",
-      "original_title": "[CNBC] UK to get a new prime minister as Trump slams Britain as 'Poverty Stricken Disaster' — The prospect of Burnham, considered more left-leaning than Starmer, replacing the incumbent prime minister sent jitters through bond markets earlier this year.",
+      "original_title": "[CNBC] Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices — Comments from JPMorgan Chase CEO Jamie Dimon contrast with investors' recent willingness to look past wars, tariffs and other shocks.",
       "context": "Context pending.",
-      "why_it_matters": "Changes in UK leadership create uncertainty about how the country will manage its money. This fear makes it risky to lend money to the government, which can lead to higher interest rates and less economic stability for British citizens.",
-      "other_side": "Supporters of the new leadership argue that fresh policies are needed to fix long-term economic issues. They believe short-term market fear is overblown and that new ideas will eventually boost growth."
+      "why_it_matters": "A top bank boss is warning that the stock market is too expensive and risky right now. If he is right, regular investors could lose money if the market crashes. This warning might make people nervous and change how they save for the future.",
+      "other_side": "Some people think Dimon is just being overly cautious or trying to protect his own bank's interests. Others believe the market will keep going up no matter what warnings are given."
     },
     {
-      "headline": "South Korea’s KOSPI Crashes 23% in Historic Market Sell-Off",
-      "summary": "South Korea's KOSPI index suffered its largest monthly drop in history, falling 23% in July 2026 and erasing 250 trillion won in market value. The severe correction triggered seven circuit breakers, highlighting extreme volatility and systemic risk in one of Asia's key financial hubs.",
+      "headline": "Trump Imposes 50% Tariffs on $20B Canadian Imports, Rattling Markets",
+      "summary": "President Trump has signed proclamations imposing 50% tariffs on nearly $20 billion in Canadian imports, including dairy, wine, and cement. This move significantly escalates trade tensions between the US and Canada, causing immediate volatility in financial markets and trade relations.",
       "source": "Crypto Briefing",
-      "original_title": "[Crypto Briefing] South Korea’s KOSPI records largest monthly drop in history, falling 23% in July — South Korea's KOSPI index fell 23% in July 2026, its largest monthly drop ever, erasing 250 trillion in value and triggering seven circuit breakers. The post South Korea’s KOSPI records largest monthly drop in history, falling 23% in July appeared first on Cr…",
+      "original_title": "[Crypto Briefing] Trump imposes 50% tariffs on $20B of Canadian imports, rattling markets and trade relations — Trump signed proclamations imposing 50% tariffs on nearly $20 billion in Canadian imports including dairy, wine, and cement, escalating US-Canada",
       "context": "Context pending.",
-      "why_it_matters": "A massive drop in South Korea’s stock market wiped out huge amounts of wealth in just one month. This extreme crash shows how fragile financial systems can be, potentially causing job losses and reducing spending power across Asia.",
-      "other_side": "Some analysts see this as a necessary \"correction\" after prices got too high too fast. They argue that letting the bubble burst now prevents an even bigger and more painful crash later on."
+      "why_it_matters": "The US is making Canadian goods much more expensive with new taxes. This will likely cost American shoppers more money at the store. It also risks starting a trade war that hurts businesses on both sides of the border.",
+      "other_side": "Supporters say these tariffs are necessary to protect US jobs and industries from foreign competition. Critics argue it will raise prices for consumers and damage friendly relationships with Canada."
     },
     {
-      "headline": "Bank of Ireland Appoints New Chief AI Officer",
-      "summary": "Bank of Ireland has appointed Prag Sharma as its new Chief AI Officer, signaling a strategic shift towards integrating artificial intelligence into core banking operations. This executive appointment reflects the financial sector's growing focus on leveraging AI for efficiency, risk management, and customer service innovation.",
-      "source": "RTE",
-      "original_title": "[RTE] Bank of Ireland appoints new Chief IA Officer — Bank of Ireland has appointed Prag Sharma as the bank's Chief AI Officer.",
-      "context": "Context pending.",
-      "why_it_matters": "Banks hiring AI experts means computers will soon handle more of your daily banking tasks. This could make services faster and cheaper, but it also raises questions about who is responsible if the AI makes a mistake with your money.",
-      "other_side": "Workers and privacy advocates worry that relying too much on AI removes the human touch from banking. They fear that automated systems might be less fair or fail to understand complex personal financial situations."
-    },
-    {
-      "headline": "Investors Brace for Earnings Season Amid Geopolitical Tensions",
-      "summary": "Major technology companies are preparing to report earnings while central banks weigh inflation risks against geopolitical tensions. Investors are closely monitoring these events as they navigate a complex economic landscape where corporate performance intersects with broader macroeconomic uncertainties.",
-      "source": "Advfn",
-      "original_title": "[Advfn.com] Five market events investors should watch this week — Investors face another busy week as major technology companies prepare to report earnings, central banks weigh inflation risks and geopolitical tensions cont...",
-      "context": "Context pending.",
-      "why_it_matters": "Big tech companies are about to show how much money they made, but war and inflation are clouding the picture. How these results turn out will tell us if the economy is truly strong or just surviving on borrowed time.",
-      "other_side": "Some investors think focusing on quarterly earnings is outdated in a changing world. They argue that long-term innovation matters more than short-term profit numbers driven by geopolitical noise."
-    },
-    {
-      "headline": "Bitcoin Traders Hold $67K Target Despite Oil Price Spikes",
-      "summary": "Despite resurgent US-Iran war pressures spiking oil prices, Bitcoin traders continue to maintain bullish price targets, with $67K remaining a key benchmark. This divergence highlights the complex relationship between traditional commodity markets and digital asset valuations during periods of global instability.",
+      "headline": "Bitcoin Surges Past $66K as Oil Prices Stabilize Near $90",
+      "summary": "Bitcoin has expanded to its highest levels in over a month, trading above $66,300, driven by a range breakout attempt that traders believe could lead to further upside. The cryptocurrency's resilience is notable as Brent crude futures hover near $90, creating a complex dynamic between energy costs and digital asset valuation.",
       "source": "Cointelegraph",
-      "original_title": "[Cointelegraph] Trader maintains $67K BTC price target: Five things to know in Bitcoin this week — Bitcoin traders continue to offer BTC price upside targets despite resurgent US-Iran war pressures spiking oil prices ahead of a new macro trading week.",
+      "original_title": "[Cointelegraph] Bitcoin price gains to $66.3K as range breakout attempt sparks one-month high — Bitcoin expands to its highest levels in over a month as a trader sees another 6% upside if BTC price action reaches $68,000.",
       "context": "Context pending.",
-      "why_it_matters": "Bitcoin traders are ignoring rising oil prices caused by war, betting that digital money will still go up. This shows a growing belief that crypto can act as a separate asset class, unaffected by traditional energy markets.",
-      "other_side": "Skeptics point out that when global instability hits, people usually run to safe assets like gold or cash. They warn that Bitcoin could crash alongside other risky investments if the conflict worsens significantly."
+      "why_it_matters": "Bitcoin is becoming more popular and valuable, reaching a high price recently. This shows that digital money is staying strong even when oil prices are high. It highlights how different types of investments move in complex ways.",
+      "other_side": "Many experts still think Bitcoin is too risky and unstable for most people to own. They worry that its value could drop suddenly, causing big losses for those who bought in."
     },
     {
-      "headline": "Micron Foresees Memory Chip Shortage Impacting Crypto Infrastructure",
-      "summary": "Micron expects memory chip supply constraints to extend well beyond 2027 due to surging AI demand, creating ripple effects for DePIN crypto tokens like Render and Filecoin. This supply tightness poses significant cost and availability challenges for blockchain infrastructure projects reliant on high-performance computing hardware.",
-      "source": "Crypto Briefing",
-      "original_title": "[Crypto Briefing] Micron expects memory chip supply tightness to extend well beyond 2027 — Micron expects memory chip supply constraints to last beyond 2027 due to AI demand, with ripple effects for DePIN crypto tokens like Render and Filecoin. The post Micron expects memory chip supply tightness to extend well beyond 2027 appeared first on Crypto …",
+      "headline": "Oil Prices Ease as Markets Assess Middle East Conflict and Houthi Threats",
+      "summary": "Global oil prices have retreated slightly as financial markets digest the ongoing geopolitical tensions in the Middle East, particularly regarding Houthi shipping threats. Investors are closely monitoring how these disruptions to energy supply chains will impact global inflation and central bank policies.",
+      "source": "Yahoo Entertainment",
+      "original_title": "[Yahoo Entertainment] Oil prices ease as markets assess Middle East conflict and Houthi shipping threat —",
       "context": "Context pending.",
-      "why_it_matters": "There aren't enough computer chips for everyone because AI needs so many of them. This shortage makes it harder and more expensive for crypto projects to run their networks, potentially slowing down the entire digital currency ecosystem.",
-      "other_side": "Tech companies are racing to build more chip factories to meet this demand. They believe that increased production capacity will soon solve the shortage, keeping costs down for everyone involved."
+      "why_it_matters": "Oil prices are dropping slightly because people are watching conflicts in the Middle East closely. If fighting gets worse, gas and food prices could go up everywhere. This affects how much money families have to spend on daily needs.",
+      "other_side": "Some analysts believe the price drop is temporary and oil will rise again soon. Others argue that global supply is stable enough that conflicts won't cause major price spikes this time."
     },
     {
-      "headline": "AI Mortgage Software Transforms Financial Compliance Workflows",
-      "summary": "New AI-powered mortgage POS software is accelerating document automation and compliance workflows, reshaping how lenders handle borrower support. This technological advancement aims to reduce operational costs and improve accuracy in an industry heavily regulated by financial authorities.",
-      "source": "GlobeNewswire",
-      "original_title": "[GlobeNewswire] AI-Powered Mortgage POS Software Accelerates Document Automation, Borrower Support and Compliance Workflows — Opportunities center on mobile-first portals, AI automation, open banking, digital identity, eClosing, API integrations, compliant cloud workflows and emerging-market expansion. Opportunities center on mobile-first portals, AI automation, open banking, digita…",
-      "context": "Context pending.",
-      "why_it_matters": "New AI tools are automating the boring paperwork involved in getting a mortgage. This speeds up home buying for families and reduces errors, making the housing market more efficient and accessible for first-time buyers.",
-      "other_side": "Homebuyers worry that automated systems might reject valid applications without human review. They fear that rigid software rules could unfairly block people from getting loans due to minor data inconsistencies."
-    },
-    {
-      "headline": "Blinkit Rider's Rating Strategy Reveals Gig Economy Economics",
-      "summary": "A Blinkit rider's refusal of a tip to maintain a high rating illustrates the critical role of performance metrics in determining gig worker earnings. This incident provides insight into the algorithmic management systems that govern income stability and career progression in the digital labor market.",
+      "headline": "Tesla's Cash Burn Tests Investor Faith Amid AI Pivot",
+      "summary": "Tesla's massive cash burn rate is increasingly testing investor confidence as the company pivots from traditional EV manufacturing to physical AI ventures like self-driving taxis. With much of Tesla's high valuation predicated on this future promise, any failure to deliver could severely impact stock performance.",
       "source": "The Times of India",
-      "original_title": "[The Times of India] Bengaluru Blinkit rider turned down a ₹100 tip, and his reason has a career learning that no management degree can teach — A Blinkit order mix-up led to a valuable lesson for a product manager. The delivery partner refused extra cash, explaining his rating system. He stated that going the extra mile improved his rating to 4.8. This metric directly influenced his future earnings a…",
+      "original_title": "[The Times of India] Tesla cash burn to test investor faith in AI bets — CEO Elon Musk has pivoted the ​electric-vehicle maker's focus from manufacturing cars to building so-called physical AI businesses such as self-driving taxis and humanoid robots. Much of Tesla's valuation hangs on that promise.",
       "context": "Context pending.",
-      "why_it_matters": "A delivery rider refusing a tip to keep a high rating shows how algorithms control worker pay. This highlights the pressure gig workers face to please machines rather than humans, affecting their income stability and mental health.",
-      "other_side": "Companies argue that ratings ensure consistent service quality for all customers. They claim that strict metrics are necessary to maintain trust and efficiency in a fast-paced delivery business."
+      "why_it_matters": "Tesla is spending a lot of money to build self-driving cars instead of just electric vehicles. Investors are worried because the company is losing cash fast while waiting for new tech to work. If the self-driving tech fails, the company's value could crash.",
+      "other_side": "Believers think Tesla’s future in AI and robotaxis will make them incredibly rich soon. They argue that current losses are normal for a company building revolutionary technology."
+    },
+    {
+      "headline": "Rupee Strengthens Against Dollar on Oil Price Drop and RBI Intervention",
+      "summary": "The Indian Rupee has gained ground against the US Dollar, bolstered by falling oil prices and active intervention by the Reserve Bank of India. These factors have boosted market confidence despite prevailing geopolitical tensions affecting global trade flows.",
+      "source": "BusinessLine",
+      "original_title": "[BusinessLine] Rupee gains as oil comes off; inflows, RBI intervention in focus — Rupee strengthens against the dollar as oil prices drop and RBI inflows boost market confidence amidst geopolitical tensions.",
+      "context": "Context pending.",
+      "why_it_matters": "The Indian currency is getting stronger against the US dollar. This helps India buy cheaper oil and goods from other countries. It gives Indian businesses and the government more financial stability during tough global times.",
+      "other_side": "A stronger rupee can hurt Indian companies that sell products abroad because their goods become more expensive for foreign buyers. This could lead to fewer sales and job cuts in export sectors."
+    },
+    {
+      "headline": "Dimon Cites $39 Trillion National Debt as Reason for Avoiding Long Bonds",
+      "summary": "Jamie Dimon explicitly linked his reluctance to invest in the long end of the bond market to the staggering $39 trillion US national debt. He argued that such debt levels are historically unprecedented outside of major wars or depressions, signaling deep concern about sovereign credit risk.",
+      "source": "Fortune",
+      "original_title": "[Fortune] Jamie Dimon won’t put more of his own money into the long end of the bond market right now—thanks to the $39 trillion national debt — \"These are very high debt numbers ... Usually you have to have like a great recession or a depression to have or war to have numbers like that,\" Dimon said.",
+      "context": "Context pending.",
+      "why_it_matters": "The US government owes a huge amount of money, nearly $39 trillion. This massive debt makes borrowing money riskier and could lead to higher interest rates for everyone. It raises serious questions about the country's long-term financial health.",
+      "other_side": "Some economists argue that as long as the US economy grows, this debt is manageable. They point out that other countries have higher debt levels without collapsing."
+    },
+    {
+      "headline": "Polymarket Faces Federal Scrutiny Over Insider Trading Allegations",
+      "summary": "Polymarket is under federal investigation for alleged insider trading after wallets with suspiciously high win rates on geopolitical events were identified. The platform has referred over 90 accounts to law enforcement, marking a significant regulatory challenge for prediction markets.",
+      "source": "Crypto Briefing",
+      "original_title": "[Crypto Briefing] Polymarket faces scrutiny over insider trading concerns as military bets draw federal attention — Polymarket refers over 90 accounts to law enforcement as wallets with 98% win rates on Iran bets trigger the first federal insider trading case",
+      "context": "Context pending.",
+      "why_it_matters": "A website where people bet on political outcomes is being investigated for cheating. This could lead to stricter rules for all online betting platforms. It raises questions about fairness and safety in digital prediction markets.",
+      "other_side": "The company claims they are working with authorities to fix any issues. Some users argue that prediction markets should be allowed to operate freely without heavy government interference."
+    },
+    {
+      "headline": "UN Warns Energy Shocks and Conflicts Could Worsen Global Hunger Crisis",
+      "summary": "The head of a UN agency warned that disruptions to global energy markets and ongoing conflicts are driving up fuel, fertilizer, and food costs. These economic pressures threaten to push millions more people into hunger, highlighting the severe financial and humanitarian impacts of energy volatility.",
+      "source": "Yahoo Entertainment",
+      "original_title": "[Yahoo Entertainment] Conflicts and energy shocks threaten progress against global hunger, UN agency head warns — Conflicts and disruptions to global energy markets could push millions more people into hunger by driving up fuel, fertilizer and food costs, the head of the...",
+      "context": "Context pending.",
+      "why_it_matters": "Rising energy costs and wars are making food harder to grow and buy. This threatens to push millions of people into hunger around the world. It shows how connected global energy prices are to basic human survival needs.",
+      "other_side": "Some aid groups suggest that better distribution systems could solve hunger even if prices stay high. Others argue that focusing solely on energy ignores local farming improvements that could help."
+    },
+    {
+      "headline": "Dearness Allowance Hike Explained for Pensioners Amid Inflation Concerns",
+      "summary": "A new Dearness Relief (DR) hike has been announced to mitigate the impact of inflation on pensioners' monthly payouts. Unlike standard Dearness Allowance for employees, this specific adjustment is crucial for maintaining the real income value of retirees in the current economic climate.",
+      "source": "Livemint",
+      "original_title": "[Livemint] DA, DR hike: Dearness allowance for pensioners — Dearness Relief calculation, eligibility, explained — Dearness Allowance: A dedicated percentage of pensioners monthly pension payout is aimed at mitigating inflation. However, unlike DA in salary for central government employees, the component is known as Dearness Relief or DR.",
+      "context": "Context pending.",
+      "why_it_matters": "Retirees are getting extra money to help pay for rising prices on groceries and bills. This ensures that older people can keep up with the cost of living. It provides crucial support to those who rely on fixed incomes.",
+      "other_side": "Critics say giving more money increases government spending and adds to national debt. They worry that this extra cash might just fuel inflation further instead of solving the root problem."
     }
   ]
 }
