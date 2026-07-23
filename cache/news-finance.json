@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "Jamie Dimon Warns Markets Underestimate Risks, Avoids Stocks and Treasuries",
-      "summary": "JPMorgan Chase CEO Jamie Dimon has publicly stated that current market valuations fail to account for significant underlying risks, advising against buying stocks or Treasurys at present prices. His comments highlight a growing divergence between institutional caution and investor sentiment amidst geopolitical and economic shocks.",
-      "source": "CNBC",
-      "original_title": "[CNBC] Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices — Comments from JPMorgan Chase CEO Jamie Dimon contrast with investors' recent willingness to look past wars, tariffs and other shocks.",
-      "context": "Context pending.",
-      "why_it_matters": "A top bank boss is warning that the stock market is too expensive and risky right now. If he is right, regular investors could lose money if the market crashes. This warning might make people nervous and change how they save for the future.",
-      "other_side": "Some people think Dimon is just being overly cautious or trying to protect his own bank's interests. Others believe the market will keep going up no matter what warnings are given."
-    },
-    {
-      "headline": "Trump Imposes 50% Tariffs on $20B Canadian Imports, Rattling Markets",
-      "summary": "President Trump has signed proclamations imposing 50% tariffs on nearly $20 billion in Canadian imports, including dairy, wine, and cement. This move significantly escalates trade tensions between the US and Canada, causing immediate volatility in financial markets and trade relations.",
-      "source": "Crypto Briefing",
-      "original_title": "[Crypto Briefing] Trump imposes 50% tariffs on $20B of Canadian imports, rattling markets and trade relations — Trump signed proclamations imposing 50% tariffs on nearly $20 billion in Canadian imports including dairy, wine, and cement, escalating US-Canada",
-      "context": "Context pending.",
-      "why_it_matters": "The US is making Canadian goods much more expensive with new taxes. This will likely cost American shoppers more money at the store. It also risks starting a trade war that hurts businesses on both sides of the border.",
-      "other_side": "Supporters say these tariffs are necessary to protect US jobs and industries from foreign competition. Critics argue it will raise prices for consumers and damage friendly relationships with Canada."
-    },
-    {
-      "headline": "Bitcoin Surges Past $66K as Oil Prices Stabilize Near $90",
-      "summary": "Bitcoin has expanded to its highest levels in over a month, trading above $66,300, driven by a range breakout attempt that traders believe could lead to further upside. The cryptocurrency's resilience is notable as Brent crude futures hover near $90, creating a complex dynamic between energy costs and digital asset valuation.",
-      "source": "Cointelegraph",
-      "original_title": "[Cointelegraph] Bitcoin price gains to $66.3K as range breakout attempt sparks one-month high — Bitcoin expands to its highest levels in over a month as a trader sees another 6% upside if BTC price action reaches $68,000.",
-      "context": "Context pending.",
-      "why_it_matters": "Bitcoin is becoming more popular and valuable, reaching a high price recently. This shows that digital money is staying strong even when oil prices are high. It highlights how different types of investments move in complex ways.",
-      "other_side": "Many experts still think Bitcoin is too risky and unstable for most people to own. They worry that its value could drop suddenly, causing big losses for those who bought in."
-    },
-    {
-      "headline": "Oil Prices Ease as Markets Assess Middle East Conflict and Houthi Threats",
-      "summary": "Global oil prices have retreated slightly as financial markets digest the ongoing geopolitical tensions in the Middle East, particularly regarding Houthi shipping threats. Investors are closely monitoring how these disruptions to energy supply chains will impact global inflation and central bank policies.",
-      "source": "Yahoo Entertainment",
-      "original_title": "[Yahoo Entertainment] Oil prices ease as markets assess Middle East conflict and Houthi shipping threat —",
-      "context": "Context pending.",
-      "why_it_matters": "Oil prices are dropping slightly because people are watching conflicts in the Middle East closely. If fighting gets worse, gas and food prices could go up everywhere. This affects how much money families have to spend on daily needs.",
-      "other_side": "Some analysts believe the price drop is temporary and oil will rise again soon. Others argue that global supply is stable enough that conflicts won't cause major price spikes this time."
-    },
-    {
-      "headline": "Tesla's Cash Burn Tests Investor Faith Amid AI Pivot",
-      "summary": "Tesla's massive cash burn rate is increasingly testing investor confidence as the company pivots from traditional EV manufacturing to physical AI ventures like self-driving taxis. With much of Tesla's high valuation predicated on this future promise, any failure to deliver could severely impact stock performance.",
+      "headline": "Airbus Announces €5 Billion Buyback and Ambitious 2029 Profit Targets",
+      "summary": "Airbus shares surged over 5% following the announcement of a massive €5 billion share buyback program. The aerospace giant also outlined aggressive financial goals, targeting a core operating profit between €12 billion and €13 billion by 2029.",
       "source": "The Times of India",
-      "original_title": "[The Times of India] Tesla cash burn to test investor faith in AI bets — CEO Elon Musk has pivoted the ​electric-vehicle maker's focus from manufacturing cars to building so-called physical AI businesses such as self-driving taxis and humanoid robots. Much of Tesla's valuation hangs on that promise.",
-      "context": "Context pending.",
-      "why_it_matters": "Tesla is spending a lot of money to build self-driving cars instead of just electric vehicles. Investors are worried because the company is losing cash fast while waiting for new tech to work. If the self-driving tech fails, the company's value could crash.",
-      "other_side": "Believers think Tesla’s future in AI and robotaxis will make them incredibly rich soon. They argue that current losses are normal for a company building revolutionary technology."
+      "original_title": "Global Market: Airbus shares surge over 5% after €5 billion buyback, ambitious 2029 profit targets — Airbus shares rose significantly after announcing a  €5 billion share buyback program. The company outlined ambitious financial targets for the next five years. Airbus aims for core operating profit between €12 billion and €13 billion by 2029. Deliveries are …",
+      "context": "Airbus is one of the two biggest companies in the world that build commercial airplanes, competing directly with Boeing. When a company buys back its own shares, it reduces the total number of shares available, which often makes each remaining share more valuable and boosts investor confidence. This move signals that Airbus feels very secure about its future earnings and wants to reward shareholders with a direct cash payout. By setting high profit targets for 2029, they are trying to convince investors that their business is growing steadily despite global economic uncertainties.",
+      "why_it_matters": "Airbus is giving money back to its shareholders, which usually makes the stock price go up and shows they are confident in their future profits. This signals that the plane-making industry expects to make a lot more money by 2029, which could boost investor trust in big manufacturing companies.",
+      "other_side": "Critics might say that buying back shares instead of investing in new technology or higher wages is short-sighted. Some workers or long-term investors may worry that this boosts stock prices artificially without fixing deeper operational issues."
     },
     {
-      "headline": "Rupee Strengthens Against Dollar on Oil Price Drop and RBI Intervention",
-      "summary": "The Indian Rupee has gained ground against the US Dollar, bolstered by falling oil prices and active intervention by the Reserve Bank of India. These factors have boosted market confidence despite prevailing geopolitical tensions affecting global trade flows.",
-      "source": "BusinessLine",
-      "original_title": "[BusinessLine] Rupee gains as oil comes off; inflows, RBI intervention in focus — Rupee strengthens against the dollar as oil prices drop and RBI inflows boost market confidence amidst geopolitical tensions.",
-      "context": "Context pending.",
-      "why_it_matters": "The Indian currency is getting stronger against the US dollar. This helps India buy cheaper oil and goods from other countries. It gives Indian businesses and the government more financial stability during tough global times.",
-      "other_side": "A stronger rupee can hurt Indian companies that sell products abroad because their goods become more expensive for foreign buyers. This could lead to fewer sales and job cuts in export sectors."
+      "headline": "BlackRock Raises $12bn for Meta Data Centre in Landmark Deal",
+      "summary": "BlackRock is raising $12 billion through bond sales to build, own, and rent out a new data centre for Meta in Texas. This complex financial structure involves major banks like JPMorgan and Morgan Stanley pitching to investors to fund the infrastructure project.",
+      "source": "The Next Web",
+      "original_title": "BlackRock is raising $12bn to build Meta a data centre it will own, lend to, and rent out — On Monday, JPMorgan and Morgan Stanley began pitching investors on a bond sale of at least $12 billion, as The Wall Street Journal reported. The money will build a Meta data centre in El Paso, Texas. The structure is the story. Who owns what BlackRock and its…",
+      "context": "BlackRock is the world’s largest investment manager, meaning they control trillions of dollars from pension funds and individuals. A data center is a massive building filled with computers that store and process the internet data used by companies like Meta (which owns Facebook). Instead of Meta building this themselves, BlackRock is borrowing money through bonds to construct it, then renting the space to Meta. This allows Meta to get the facility without spending all its cash upfront, while BlackRock earns steady rental income from the investment.",
+      "why_it_matters": "Meta is building a massive new data center to handle its growing need for computing power, likely for AI and social media services. This deal shows how much money big tech companies are pouring into physical infrastructure to support their digital growth.",
+      "other_side": "Raising billions through debt to build one facility carries financial risk if demand for data storage drops. Environmental groups may also criticize the huge energy consumption required to run such a large data center."
     },
     {
-      "headline": "Dimon Cites $39 Trillion National Debt as Reason for Avoiding Long Bonds",
-      "summary": "Jamie Dimon explicitly linked his reluctance to invest in the long end of the bond market to the staggering $39 trillion US national debt. He argued that such debt levels are historically unprecedented outside of major wars or depressions, signaling deep concern about sovereign credit risk.",
-      "source": "Fortune",
-      "original_title": "[Fortune] Jamie Dimon won’t put more of his own money into the long end of the bond market right now—thanks to the $39 trillion national debt — \"These are very high debt numbers ... Usually you have to have like a great recession or a depression to have or war to have numbers like that,\" Dimon said.",
-      "context": "Context pending.",
-      "why_it_matters": "The US government owes a huge amount of money, nearly $39 trillion. This massive debt makes borrowing money riskier and could lead to higher interest rates for everyone. It raises serious questions about the country's long-term financial health.",
-      "other_side": "Some economists argue that as long as the US economy grows, this debt is manageable. They point out that other countries have higher debt levels without collapsing."
-    },
-    {
-      "headline": "Polymarket Faces Federal Scrutiny Over Insider Trading Allegations",
-      "summary": "Polymarket is under federal investigation for alleged insider trading after wallets with suspiciously high win rates on geopolitical events were identified. The platform has referred over 90 accounts to law enforcement, marking a significant regulatory challenge for prediction markets.",
+      "headline": "ECB Expected to Hold Rates Amid Hawkish Signals for September",
+      "summary": "The European Central Bank is widely expected to maintain current interest rates on July 23, despite hawkish comments from Christine Lagarde. These signals suggest a potential rate hike in September, which could significantly impact global financial markets.",
       "source": "Crypto Briefing",
-      "original_title": "[Crypto Briefing] Polymarket faces scrutiny over insider trading concerns as military bets draw federal attention — Polymarket refers over 90 accounts to law enforcement as wallets with 98% win rates on Iran bets trigger the first federal insider trading case",
-      "context": "Context pending.",
-      "why_it_matters": "A website where people bet on political outcomes is being investigated for cheating. This could lead to stricter rules for all online betting platforms. It raises questions about fairness and safety in digital prediction markets.",
-      "other_side": "The company claims they are working with authorities to fix any issues. Some users argue that prediction markets should be allowed to operate freely without heavy government interference."
+      "original_title": "European Central Bank expected to hold rates amid hawkish hints — The ECB is nearly certain to hold rates on July 23, but hawkish hints from Christine Lagarde could set up a September hike and move global\nThe post European Central Bank expected to hold rates amid hawkish hints appeared first on Crypto Briefing.",
+      "context": "The European Central Bank is the institution that manages money for countries using the Euro, acting like a central bank for Europe. Interest rates are the cost of borrowing money; when rates go up, borrowing becomes expensive, which slows down spending and lowers inflation. \"Hawkish\" is financial slang for being tough on inflation, meaning the bank might raise rates to cool down the economy. Even though they are keeping rates steady now, these strong warnings suggest they are preparing to make borrowing more expensive soon to prevent prices from rising too fast.",
+      "why_it_matters": "The European Central Bank keeping interest rates steady means borrowing costs for homes and businesses won't change right now. However, hints of a future rate hike suggest prices for loans could rise soon, which might slow down spending and economic growth in Europe.",
+      "other_side": "Keeping rates high helps control inflation but makes it harder for people with mortgages or business loans to pay them back. This can lead to fewer people buying homes or companies expanding, potentially slowing the economy further."
     },
     {
-      "headline": "UN Warns Energy Shocks and Conflicts Could Worsen Global Hunger Crisis",
-      "summary": "The head of a UN agency warned that disruptions to global energy markets and ongoing conflicts are driving up fuel, fertilizer, and food costs. These economic pressures threaten to push millions more people into hunger, highlighting the severe financial and humanitarian impacts of energy volatility.",
-      "source": "Yahoo Entertainment",
-      "original_title": "[Yahoo Entertainment] Conflicts and energy shocks threaten progress against global hunger, UN agency head warns — Conflicts and disruptions to global energy markets could push millions more people into hunger by driving up fuel, fertilizer and food costs, the head of the...",
-      "context": "Context pending.",
-      "why_it_matters": "Rising energy costs and wars are making food harder to grow and buy. This threatens to push millions of people into hunger around the world. It shows how connected global energy prices are to basic human survival needs.",
-      "other_side": "Some aid groups suggest that better distribution systems could solve hunger even if prices stay high. Others argue that focusing solely on energy ignores local farming improvements that could help."
+      "headline": "Indo-MIM IPO Opens with Strong Grey Market Premium",
+      "summary": "Indo-MIM's Rs 3,811-crore IPO opens on July 23, showing a strong grey market premium of approximately 37%. The precision engineering manufacturer plans to use proceeds to repay debt while leveraging its global leadership in metal injection molding.",
+      "source": "The Times of India",
+      "original_title": "Indo-MIM IPO opens tomorrow; GMP signals 37% listing premium. Check price band, dates and key details — Indo-MIM’s Rs 3,811-crore IPO opens on July 23 with a strong grey market premium of about 37%. The precision engineering manufacturer plans to repay debt using fresh issue proceeds, while analysts highlight its global MIM leadership, diversified operations, a…",
+      "context": "An Initial Public Offering, or IPO, is when a private company sells shares to the public for the first time to raise money. Indo-MIM is a manufacturer that uses a technique called metal injection molding to create tiny, precise metal parts for things like medical devices and electronics. The \"grey market premium\" refers to an unofficial price traders pay for shares before the official stock listing begins, showing how eager people are to buy them. This high demand suggests investors believe the company’s technology is valuable and that the stock price will rise significantly once it officially starts trading.",
+      "why_it_matters": "A strong start for this company's stock sale suggests high investor confidence in the precision engineering sector. Using the money to pay off debt will make the company financially healthier and less risky for future growth.",
+      "other_side": "A high \"grey market premium\" often means the stock price is inflated before it even officially trades. This can lead to a sharp drop in value once regular trading begins if buyers realize the price is too high."
     },
     {
-      "headline": "Dearness Allowance Hike Explained for Pensioners Amid Inflation Concerns",
-      "summary": "A new Dearness Relief (DR) hike has been announced to mitigate the impact of inflation on pensioners' monthly payouts. Unlike standard Dearness Allowance for employees, this specific adjustment is crucial for maintaining the real income value of retirees in the current economic climate.",
-      "source": "Livemint",
-      "original_title": "[Livemint] DA, DR hike: Dearness allowance for pensioners — Dearness Relief calculation, eligibility, explained — Dearness Allowance: A dedicated percentage of pensioners monthly pension payout is aimed at mitigating inflation. However, unlike DA in salary for central government employees, the component is known as Dearness Relief or DR.",
-      "context": "Context pending.",
-      "why_it_matters": "Retirees are getting extra money to help pay for rising prices on groceries and bills. This ensures that older people can keep up with the cost of living. It provides crucial support to those who rely on fixed incomes.",
-      "other_side": "Critics say giving more money increases government spending and adds to national debt. They worry that this extra cash might just fuel inflation further instead of solving the root problem."
+      "headline": "Japan’s Yen Crashes to 40-Year Low Despite $73B Intervention",
+      "summary": "The Japanese yen hit a 40-year low of 163.24 per dollar after a massive $73 billion government intervention failed to stabilize the currency. This dramatic drop in value has significant implications for global trade and crypto investors monitoring currency volatility.",
+      "source": "Crypto Briefing",
+      "original_title": "Japan’s yen crashes to 40-year low above 163 per dollar as $73B intervention fails to stop the bleeding — Japan's yen hits 163.24 per dollar, a 40-year low, after a $73 billion intervention fails. Here's why crypto investors should pay attention.\nThe post Japan’s yen crashes to 40-year low above 163 per dollar as $73B intervention fails to stop the bleeding appea…",
+      "context": "The yen is Japan’s national currency, and its value is determined by how much people around the world want to buy or sell it. When a currency's value drops sharply, it means you need more of that currency to buy one US dollar, making imports like food and fuel more expensive for Japanese citizens. Governments sometimes spend billions of their own money to buy back their own currency in an attempt to prop up its value, but this failed here. This crash indicates that global investors are losing confidence in the Japanese economy compared to the stronger US economy.",
+      "why_it_matters": "The Japanese yen losing so much value makes imports like food and fuel much more expensive for everyday people in Japan. This drop hurts consumers' purchasing power and can lead to higher inflation across the country.",
+      "other_side": "A weaker yen can help Japanese exporters sell their goods cheaper abroad, potentially boosting sales for large manufacturers. However, this benefit rarely trickles down to average workers who face higher living costs."
+    },
+    {
+      "headline": "Deutsche Bank HQ Searched by Prosecutors Over Postbank Transactions",
+      "summary": "German prosecutors conducted searches at Deutsche Bank's Frankfurt headquarters regarding historical Postbank transactions. This event adds to the bank's ongoing regulatory challenges and potential legal liabilities related to past banking operations.",
+      "source": "Crypto Briefing",
+      "original_title": "Deutsche Bank’s Frankfurt headquarters searched by prosecutors over Postbank transactions — German prosecutors searched Deutsche Bank's Frankfurt HQ over historical Postbank transactions, adding to the bank's long list of regulatory\nThe post Deutsche Bank’s Frankfurt headquarters searched by prosecutors over Postbank transactions appeared first on C…",
+      "context": "Deutsche Bank is one of Germany’s largest financial institutions, and Postbank was a smaller bank that Deutsche Bank bought years ago. When prosecutors search a headquarters, it means they suspect illegal activity occurred during past business operations and are gathering evidence. This specific investigation focuses on transactions that happened after the merger, suggesting there may have been errors or rule-breaking in how accounts were handled. Such events damage a bank’s reputation and can lead to heavy fines or stricter government oversight in the future.",
+      "why_it_matters": "Police searching a major bank's headquarters signals serious legal trouble over past business deals. This increases uncertainty for investors and customers who worry about the bank's stability and compliance with laws.",
+      "other_side": "Legal investigations are routine for large banks handling complex transactions, and searches do not always mean guilt. The bank may argue these are standard procedures to clear up old records without major impact on current operations."
+    },
+    {
+      "headline": "EU Sanctions Target Crypto Platforms and Nearly 90 Russian Banks",
+      "summary": "The EU's 21st sanctions package against Russia specifically targets 11 cryptocurrency platforms and nearly 90 Russian banks. The package also includes a freeze on the $44.10 oil price cap, escalating financial pressure on the Russian economy.",
+      "source": "Crypto Briefing",
+      "original_title": "EU’s 21st sanctions package against Russia takes aim at crypto platforms and nearly 90 banks — EU's 21st sanctions package targets 11 crypto platforms, nearly 90 Russian banks, and negotiates a $44.10 oil price cap freeze in escalating\nThe post EU’s 21st sanctions package against Russia takes aim at crypto platforms and nearly 90 banks appeared first on C…",
+      "context": "Sanctions are penalties imposed by groups of countries to punish another nation without using military force, aiming to hurt their economy. Russia has been under heavy sanctions since the war in Ukraine began, cutting off many of its banks from the global financial system. This new package specifically targets cryptocurrency platforms because criminals and sanctioned entities often use digital money to bypass traditional banking restrictions. By freezing the oil price cap, the EU is trying to ensure Russia cannot sell its most important resource at any price, further squeezing its income.",
+      "why_it_matters": "Cutting off crypto platforms and banks from Russia tightens the noose around the Russian economy by limiting how they move money globally. This aims to reduce funding for the war by making it harder to bypass traditional banking sanctions.",
+      "other_side": "Crypto platforms operate outside government control, making them hard to shut down completely. Critics argue that sanctions often hurt ordinary citizens more than political leaders and can push countries toward less regulated financial systems."
+    },
+    {
+      "headline": "KOSPI Surges Past 7,000 Before Retreating Amid Geopolitical Tensions",
+      "summary": "South Korea's KOSPI index briefly exceeded 7,000 points driven by foreign investor gains before retreating due to profit-taking and Middle East risks. Domestic investors sold off positions as geopolitical tensions and caution regarding AI valuations weighed on the market close.",
+      "source": "Ibtimes.com.au",
+      "original_title": "KOSPI Surges Past 7,000 Intraday Then Retreats to Close at 6,797.70 Amid Middle East Risk and AI Caution — South Korea's KOSPI index briefly surpassed 7,000 points before retreating due to profit-taking and geopolitical tensions. Foreign investors drove gains, while domestic investors sold off.",
+      "context": "The KOSPI is the main stock market index for South Korea, tracking the performance of its largest companies. Foreign investors often pour money into emerging markets like South Korea when they believe stocks are cheap, driving prices up quickly. However, when geopolitical tensions rise in nearby regions like the Middle East, investors get scared and sell their holdings to protect their money. This mix of excitement over potential gains and fear of regional conflict causes the market to swing wildly as traders try to decide whether to stay invested or pull out.",
+      "why_it_matters": "South Korea's stock market hitting a record high shows strong investor interest, but the quick drop reveals fear of global conflicts. This volatility warns investors that political tensions can quickly erase gains in emerging markets.",
+      "other_side": "Profit-taking after a big rise is normal and healthy for a stable market, not necessarily a sign of panic. Some analysts believe the retreat is just a pause before the next upward trend, driven by strong local tech companies."
+    },
+    {
+      "headline": "UK Inflation Drops Slightly but Energy Costs Threaten Future Rise",
+      "summary": "UK inflation decreased slightly in June 2026, offering some relief to consumers and policymakers. However, rising energy costs are expected to push inflation back up in the near future, complicating the economic outlook.",
+      "source": "BBC News",
+      "original_title": "What is happening to UK prices? — UK inflation dropped slightly in June 2026, but higher energy costs are expected to push it back up.",
+      "context": "Inflation measures how much the prices of everyday goods and services increase over time, eroding the purchasing power of money. The UK recently saw a slight drop in inflation, which is good news because it means prices are not rising as fast as before. However, energy costs are a major driver of inflation because electricity and heating affect the price of almost everything produced and transported. If energy bills continue to rise, companies will pass those costs on to consumers, causing inflation to climb again and making life more expensive for households.",
+      "why_it_matters": "Lower inflation gives UK households some breathing room as goods become slightly cheaper relative to wages. This relief can boost consumer spending, which is vital for the overall health of the British economy.",
+      "other_side": "Rising energy bills threaten to reverse this progress, meaning families may still face high costs soon. This uncertainty makes it hard for businesses to plan investments, potentially stalling economic recovery."
+    },
+    {
+      "headline": "Coinbase Expands Singapore Operations with New Office and Hiring Push",
+      "summary": "Cryptocurrency exchange Coinbase has opened a new office in Singapore and plans to expand its local workforce to approximately 200 employees by the end of 2026. This expansion highlights the growing importance of Singapore as a hub for digital asset businesses.",
+      "source": "The Straits Times",
+      "original_title": "Crypto exchange Coinbase opens new office in Singapore, will expand hiring — Coinbase expects to increase its Singapore workforce to about 200 employees by the end of 2026. Read more at straitstimes.com. Read more at straitstimes.com.",
+      "context": "Coinbase is one of the largest platforms where regular people can buy and sell cryptocurrencies like Bitcoin and Ethereum. Singapore is known for having clear and friendly laws regarding digital assets, making it an attractive place for crypto businesses to set up shop. By opening a new office and hiring more staff, Coinbase is signaling that it sees long-term growth in the Asian market. This expansion highlights how Singapore has become a global hub for fintech, offering a stable environment for innovative financial technologies to thrive.",
+      "why_it_matters": "Coinbase expanding in Singapore shows that digital currency businesses are moving toward regions with clearer rules. This shift helps legitimize crypto assets and provides more options for investors in Asia seeking regulated exchanges.",
+      "other_side": "Expanding into new markets requires significant upfront costs and regulatory hurdles that can eat into profits. If regulations change unexpectedly, the company could face sudden restrictions that limit its operations."
     }
   ]
 }
