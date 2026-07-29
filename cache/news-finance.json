@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "Shein Faces Valuation Scrutiny for $40-50 Billion Hong Kong IPO",
-      "summary": "Investors are expected to closely examine whether Shein can justify its projected valuation of $40 billion to $50 billion for its upcoming Hong Kong initial public offering. The scrutiny highlights growing skepticism regarding the e-commerce giant's financial metrics and market positioning ahead of the listing.",
+      "headline": "Tata Capital Q1 Net Profit Surges 56% to Rs 1,547 Crore",
+      "summary": "Tata Capital reported a substantial net profit increase of over 56 percent year-over-year, reaching Rs 1,547 crore. Revenue from operations also rose by more than 15 percent, while assets under management grew by 22 percent to Rs 2.91 lakh crore.",
+      "source": "The Times of India",
+      "original_title": "Tata Capital Q1 Results: Net profit jumps 56% YoY to Rs 1,547 crore, revenue up 15%",
+      "context": "Context pending.",
+      "why_it_matters": "Tata Capital is making much more money, which shows that lending and financial services in India are still growing strong. This success could mean more jobs and better access to loans for regular people and small businesses in the future.",
+      "other_side": "High profits don't always mean the company is safe. If they lend too aggressively to keep profits up, they might face big losses later if borrowers stop paying back their loans."
+    },
+    {
+      "headline": "Fitch Warns AI Market Correction Poses Major Global Credit Risk",
+      "summary": "Ratings agency Fitch has identified the boom in artificial intelligence and the potential for a market correction as significant global credit risks. This warning adds to growing concerns about the sustainability of current AI investment levels and their impact on broader financial stability.",
       "source": "Yahoo Entertainment",
-      "original_title": "Shein will struggle to justify $40-50 billion Hong Kong IPO valuation",
-      "context": "Shein is a massive online clothing store that sells cheap, trendy clothes directly to shoppers, bypassing traditional stores. For years, it has grown incredibly fast by using data to guess what people want to buy and producing those items quickly, but this \"fast fashion\" model has faced heavy criticism for hurting the environment and treating workers poorly. Now, the company wants to go public, which means selling shares to regular investors on the stock market to raise billions of dollars. Investors are currently very skeptical because they are worried that Shein’s profits might not be as high as claimed, or that its business model is too risky given all the negative attention it receives.",
-      "why_it_matters": "Shein wants to go public, but investors are worried the company is worth less than they claim. This matters because it shows people are getting pickier about spending money on fast fashion brands that have faced criticism for labor and environmental issues. If Shein fails to prove its value, it could hurt confidence in other similar online retailers trying to raise money.",
-      "other_side": "Some argue that Shein’s massive sales volume and speed make it a unique business model that deserves a high price tag. Critics of the scrutiny say investors are being too harsh and ignoring how much money the company actually makes from customers."
+      "original_title": "Fitch warns AI market correction emerging as major global credit risk",
+      "context": "Context pending.",
+      "why_it_matters": "Experts are worried that too much money is being poured into AI right now, creating a bubble. If this bubble bursts, it could cause serious financial trouble for banks and investors around the world.",
+      "other_side": "Some argue that AI is a real revolution, not just hype. They believe the current spending is necessary to build the future and that any drop in stock prices is just a normal part of rapid growth."
     },
     {
-      "headline": "Markets Brace for Big Tech Earnings and Fed Rate Decision",
-      "summary": "The financial markets are preparing for a critical week featuring earnings reports from major tech giants including Amazon, Apple, Meta, and Microsoft. Concurrently, investors are awaiting the Federal Reserve's interest rate decision, which will significantly influence market sentiment amid broader economic uncertainties.",
-      "source": "Slashdot.org",
-      "original_title": "What to Expect in Markets This Week: Amazon, Apple, Meta and Microsoft Earnings; Fed Interest Rate Decision - Investopedia",
-      "context": "The stock market often moves based on two main things: how much money big companies like Apple and Amazon are making (earnings), and what the US central bank, called the Federal Reserve, decides to do with interest rates. Interest rates are basically the cost of borrowing money; when they go up, it becomes more expensive for businesses and people to take out loans, which can slow down the economy. This week is critical because if these tech giants report weak sales, it suggests the economy is struggling, and if the Federal Reserve keeps rates high, it makes it harder for companies to grow. Investors are nervous because they need to know if the economy is strong enough to handle these high borrowing costs without crashing.",
-      "why_it_matters": "Big tech companies like Apple and Amazon are about to show how much profit they made recently, which tells us if the economy is strong or weak. At the same time, the Federal Reserve might change interest rates, which directly affects how expensive it is for people and businesses to borrow money. This week will likely decide whether stock prices go up or down in the near future.",
-      "other_side": "Some experts believe these earnings reports are already priced into the market, so the actual news won’t move stocks as much as expected. Others worry that focusing too much on short-term profits ignores long-term risks like regulation or slowing consumer spending."
-    },
-    {
-      "headline": "Federal Reserve Navigates Confusing Economic Landscape Amid Inflation Concerns",
-      "summary": "The Federal Reserve is facing an unusually complex economic environment as it remains silent on interest rates despite rising inflation concerns. This ambiguity has created significant confusion regarding the true state of the US economy, leaving markets uncertain about future monetary policy directions.",
-      "source": "CNN",
-      "original_title": "The Fed confronts an unusually confusing economic moment | CNN Business",
-      "context": "The Federal Reserve is the United States' central bank, and its main job is to keep prices stable so that inflation—the rate at which things get more expensive—doesn't spiral out of control. Recently, prices have been rising faster than expected, which usually means the Fed should raise interest rates to cool things down. However, other parts of the economy seem weak, making it confusing whether raising rates would hurt jobs or help control prices. Because the Fed hasn't clearly stated its next move, investors are confused about whether to expect higher costs for borrowing money or a pause in rate hikes, leading to uncertainty in the markets.",
-      "why_it_matters": "The Federal Reserve is the group that controls interest rates, and their silence is causing confusion because prices are still rising. When they don’t give clear signals, businesses struggle to plan for the future because they don’t know if borrowing costs will go up or down. This uncertainty can slow down economic growth and make everyday financial decisions harder for everyone.",
-      "other_side": "Some economists argue that staying quiet is actually a smart move because the economic data is mixed and confusing right now. They say making a premature decision could cause more harm than good, so patience is better than guessing."
-    },
-    {
-      "headline": "Rupee Surges to Six-Week High as RBI Intervention Amplifies Oil Slump Impact",
-      "summary": "The Indian rupee recorded its strongest performance in over six weeks, driven by Reserve Bank of India intervention that magnified the positive impact of falling oil prices. The currency strengthened significantly against the US dollar, reflecting improved external sector dynamics and effective monetary management.",
-      "source": "BusinessLine",
-      "original_title": "Rupee logs best day in over 6 weeks as RBI intervention magnifies oil slump impact",
-      "context": "India buys a huge amount of oil from other countries, which means when oil prices drop, India saves a lot of money because it spends less on fuel. The Reserve Bank of India is the country's central bank, and it tries to keep the value of the Indian rupee stable against the US dollar. When oil prices fell recently, the central bank stepped in to buy dollars and sell rupees, which made the rupee stronger. A stronger rupee is good for India because it means imported goods become cheaper, helping to keep inflation low and giving the government more breathing room in its budget.",
-      "why_it_matters": "The Indian rupee is getting stronger against the US dollar, which helps India buy cheaper oil and other imports from abroad. This strength comes from the central bank stepping in to manage the currency while global oil prices drop. A stronger local currency can help keep inflation low and make life cheaper for Indian consumers.",
-      "other_side": "However, a stronger rupee can hurt Indian companies that sell goods overseas because their products become more expensive for foreign buyers. This could lead to lower profits for exporters and potentially cause job losses in those industries."
-    },
-    {
-      "headline": "BNY Mellon Subsidiary Joins MiCA Register Amid ESMA Regulatory Updates",
-      "summary": "BNY Mellon's European subsidiary has officially joined the MiCA register, marking a significant step in regulatory compliance for traditional banking entering the crypto space. This move coincides with ESMA adding 15 new crypto-asset service providers to the register, signaling increased institutional participation in regulated digital asset markets.",
-      "source": "Cointelegraph",
-      "original_title": "BNY Mellon unit joins MiCA register as ESMA adds 15 providers",
-      "context": "In Europe, new rules called MiCA have been created to regulate cryptocurrencies, requiring crypto companies to follow strict safety and transparency standards similar to traditional banks. BNY Mellon is a giant, old-school bank that traditionally deals with stocks and bonds, not digital coins, so joining this register is a major signal that big financial institutions are finally accepting crypto as a legitimate part of the market. By registering, BNY Mellon shows that it wants to offer safe, legal services for digital assets to its wealthy clients under these new European rules. This move helps bridge the gap between traditional finance and the newer, riskier world of cryptocurrency by adding a layer of trusted oversight.",
-      "why_it_matters": "A major traditional bank like BNY Mellon is officially joining the regulated crypto market, which signals that big finance is taking digital assets seriously. This move helps bring stricter rules and safety standards to the crypto world, protecting regular investors from scams. It bridges the gap between old-school banking and new digital currencies, making crypto more mainstream.",
-      "other_side": "Crypto purists argue that bringing big banks into the space defeats the purpose of decentralization and privacy. They worry that heavy regulation will stifle innovation and give too much control to established financial institutions over the future of money."
-    },
-    {
-      "headline": "Heineken Reports Progress on Share Buyback Programme",
-      "summary": "Heineken Holding N.V. announced updates on its current share buyback programme, detailing recent transactions aimed at returning capital to shareholders. The report highlights the company's ongoing efforts to optimize its capital structure and support its stock price through strategic repurchases.",
-      "source": "GlobeNewswire",
-      "original_title": "Heineken Holding N.V. reports transactions under its current share buyback programme",
-      "context": "Heineken is one of the world's largest beer makers, and like many large companies, it sometimes buys back its own shares from the stock market. When a company buys back shares, it reduces the total number of shares available, which often makes each remaining share more valuable and boosts the stock price. This is a way for the company to return extra cash to its investors instead of just keeping it in the bank or spending it on new factories. By announcing progress on this buyback program, Heineken is trying to show shareholders that it is confident in its future earnings and wants to reward them for their investment.",
-      "why_it_matters": "Heineken is buying back its own shares, which usually boosts the stock price and rewards shareholders with higher value per share. This shows the company has extra cash and believes its stock is a good investment compared to other ways to spend it. For investors, it means Heineken is confident in its future stability and profitability.",
-      "other_side": "Some critics say companies should use that cash to invest in new products or marketing instead of just boosting stock prices artificially. They argue that buying back shares doesn’t actually grow the business or create new jobs, it just enriches current owners."
-    },
-    {
-      "headline": "Coinbase CEO Criticizes Crypto Startups Rebranding as AI",
-      "summary": "Coinbase CEO Brian Armstrong publicly criticized cryptocurrency startups that are rebranding themselves as AI companies, arguing that blockchain serves as fundamental infrastructure for future automation. He rejected the notion that the two sectors are in direct competition, emphasizing the distinct roles each plays in the technological landscape.",
-      "source": "CoinDesk",
-      "original_title": "Coinbase CEO Brian Armstrong criticizes crypto startups that rebrand to AI",
-      "context": "Coinbase is a major platform where people buy and sell cryptocurrencies, and its CEO, Brian Armstrong, believes that blockchain technology is essential for building automated systems in the future. Recently, some startups have changed their names to include \"AI\" (Artificial Intelligence) just to attract investors, even if they don't actually use AI technology. Armstrong criticized this trend, arguing that blockchain provides the secure infrastructure needed for machines to transact and operate autonomously, rather than competing with AI. He believes that combining blockchain with automation is the real future, rather than just slapping an AI label on existing products to raise money.",
-      "why_it_matters": "The CEO of Coinbase is calling out crypto startups that are pretending to be AI companies to attract attention and money. This highlights a growing trend where tech buzzwords are being misused to confuse investors and inflate valuations. It serves as a warning for investors to look closely at what a company actually does before believing its hype.",
-      "other_side": "Some supporters argue that rebranding is a normal part of business evolution as technologies start to overlap and merge. They believe that distinguishing strictly between AI and blockchain is outdated since both fields are increasingly working together to build smarter systems."
-    },
-    {
-      "headline": "Trump's Economy Shows Resilience Despite Labor Market Challenges",
-      "summary": "An analysis of President Trump's first eighteen months reveals an economy marked by shocks from tariffs and immigration policies, yet demonstrating underlying resilience. However, promised job growth and lower prices have not fully materialized, with inflation continuing to challenge household budgets despite overall market stability.",
+      "headline": "Singapore Central Bank Warns AI Investment Uncertainty Could Derail Global Growth",
+      "summary": "Singapore's central bank cautioned that uneven benefits and rising costs of AI investment could exacerbate inequality and economic instability. These factors pose a challenge to sustainable global growth, highlighting financial risks associated with the rapid adoption of AI technologies.",
       "source": "Crypto Briefing",
-      "original_title": "Trump’s economy at 18 months: shocks, resilience, and a labor market that blinked",
-      "context": "During the first eighteen months of President Trump's term, the US economy showed mixed signals, with some areas growing while others struggled due to new policies like tariffs on imported goods and stricter immigration rules. Tariffs are taxes on foreign products, which can make items more expensive for consumers, while immigration changes can affect the availability of workers in certain industries. Although the overall economy remained stable and didn't crash, promised benefits like significantly lower prices and a surge in new jobs did not fully happen for everyone. This creates a complex picture where the macroeconomic numbers look okay, but everyday people still feel the pinch of higher costs and uncertain job growth.",
-      "why_it_matters": "The US economy is showing it can handle shocks like tariffs and policy changes without collapsing, which suggests underlying strength. However, high inflation is still hurting families by making daily goods more expensive despite overall market stability. This tells us that while the big picture looks okay, individual wallets are still feeling the pinch.",
-      "other_side": "Critics point out that \"resilience\" is not enough if regular people are struggling to pay for basics like food and fuel. They argue that ignoring rising living costs in favor of broad economic stats is misleading and fails to address real human suffering."
+      "original_title": "Singapore’s central bank warns AI investment uncertainty could derail global growth",
+      "context": "Context pending.",
+      "why_it_matters": "The cost of building AI systems is very high, and only a few companies may benefit. This could make the gap between rich and poor countries wider and slow down global economic progress.",
+      "other_side": "Proponents say AI will eventually lower costs for everyone by making things more efficient. They argue that early investments are painful but will lead to cheaper goods and services for all in the long run."
     },
     {
-      "headline": "Oil Prices Impact Energy Costs and Everyday Items Amid Market Volatility",
-      "summary": "Fluctuations in oil prices continue to have a direct impact on energy costs and the pricing of everyday consumer goods. As markets react to geopolitical tensions and supply chain dynamics, consumers are feeling the ripple effects of these changes in their daily expenses.",
-      "source": "Fortune",
-      "original_title": "Current price of oil as of July 27, 2026",
-      "context": "Oil is a fundamental ingredient in almost everything we use, from the gasoline that powers cars to the plastics in packaging and the chemicals in fertilizers for food. When oil prices go up or down, it sends a ripple effect through the entire economy, changing the cost of electricity, heating, and transportation. Companies pass these increased costs on to consumers by raising the prices of everyday items, so volatility in the oil market directly impacts household budgets. This connection explains why news about global conflicts or supply issues affecting oil fields immediately translates into higher grocery bills and utility costs for average families.",
-      "why_it_matters": "Oil prices are changing rapidly, which directly affects how much you pay for gas, electricity, and even groceries. When oil costs go up, everything becomes more expensive because transportation and production rely heavily on it. Understanding this link helps consumers anticipate price hikes and adjust their budgets accordingly.",
-      "other_side": "Some analysts suggest that other factors, like supply chain issues or currency values, play a bigger role in price changes than oil alone. They argue that blaming oil entirely oversimplifies the complex reasons behind inflation and consumer cost increases."
+      "headline": "Sensex Slips Below 24,000 as Indian Equities Close Lower",
+      "summary": "Indian equities closed marginally lower with the Sensex slipping 69.86 points to 76,765.92 and Nifty 50 dipping to 23,985.35. Investors remained range-bound, balancing easing crude oil prices against other market pressures.",
+      "source": "BusinessLine",
+      "original_title": "Sensex today | Stock Market Highlights: Sensex slips 69 pts, Nifty falls below 24,000 at close",
+      "context": "Context pending.",
+      "why_it_matters": "When major stock markets like India's Sensex drop, it means investors are nervous about the economy. This can lead to less spending and investment, which might slow down business growth for a while.",
+      "other_side": "A small dip in stocks can actually be healthy. It allows investors to buy shares at lower prices, potentially leading to stronger growth later once the market stabilizes."
     },
     {
-      "headline": "Indian Tax Rules Clarified for Salaried Freelancers Under Presumptive Scheme",
-      "summary": "New guidance clarifies whether salaried individuals can utilize the presumptive taxation scheme under section 44ADA for freelance income up to ₹1 lakh. The determination depends on whether the freelance work qualifies as a specified profession, offering clarity for taxpayers navigating dual income sources.",
-      "source": "Livemint",
-      "original_title": "Can a salaried person use presumptive tax for ₹1 lakh freelance income?",
-      "context": "In India, freelancers who earn a small amount of money from independent work can use a simplified tax system called the presumptive scheme, which allows them to pay taxes based on estimated income rather than detailed accounting records. However, confusion arose regarding whether people who also have full-time salaried jobs could use this simpler method for their side-hustle income. New government guidance clarified that yes, salaried individuals can use this scheme for freelance earnings up to a certain limit, provided the work falls under specific professional categories. This clarification helps millions of dual-income earners avoid complex tax filings and ensures they aren't penalized for having multiple sources of income.",
-      "why_it_matters": "New tax rules clarify whether people who have full-time jobs can also pay lower taxes on small freelance income. This helps millions of workers who earn extra money on the side understand exactly what they owe, reducing confusion and legal risks. Clear rules encourage side hustles by making it easier and safer for people to earn extra cash without fear of tax penalties.",
-      "other_side": "Tax experts warn that allowing dual income streams under simplified schemes might reduce government revenue significantly. They argue that loopholes could be exploited by wealthy individuals to hide income, creating an unfair system for those who only have one job."
+      "headline": "Mercedes CEO Demands German Productivity Offensive Amid China Profit Hit",
+      "summary": "Mercedes-Benz CEO Ola Kaellenius urged Germany to cut costs and boost productivity after the company reported a second-quarter profit hit due to fierce competition in China. The CEO vowed to streamline corporate operations to address these financial challenges.",
+      "source": "Biztoc.com",
+      "original_title": "Mercedes CEO urges German 'productivity offensive' as China woes hit profit",
+      "context": "Context pending.",
+      "why_it_matters": "Mercedes is struggling because competition in China is so fierce. This shows that even big global brands must constantly cut costs and work faster to stay ahead in international markets.",
+      "other_side": "Critics say cutting costs often means laying off workers or reducing quality. This approach might save money short-term but could hurt the company's reputation and employee morale in the long run."
+    },
+    {
+      "headline": "Alpha Bank Signs Strategic Deal with European Investment Fund",
+      "summary": "Alpha Bank announced a new strategic agreement with the European Investment Fund (EIF) to leverage European resources for Greek entrepreneurship. The deal aims to support the transition towards a more robust financial ecosystem and boost local business growth.",
+      "source": "Naftemporiki.gr",
+      "original_title": "Alpha Bank signs new strategic deal with European Investment Fund to support entrepreneurship",
+      "context": "Context pending.",
+      "why_it_matters": "By partnering with European funds, Alpha Bank aims to help local Greek businesses grow. This support can create new jobs and strengthen the local economy by providing needed capital to entrepreneurs.",
+      "other_side": "Relying on external funding can come with strict rules and high interest rates. Small businesses might struggle to repay these loans if their ventures do not succeed quickly enough."
+    },
+    {
+      "headline": "THEON Reaffirms 2026 Outlook Targeting 1 Billion Euro Revenue by 2029",
+      "summary": "THEON reaffirmed its 2026 outlook and set a target of 1.0 billion euros in revenue by 2029. The company is pursuing a leading position in an 8 billion euro market through a strategy combining organic expansion with acquisitions based on its first-half results.",
+      "source": "Naftemporiki.gr",
+      "original_title": "THEON reaffirms 2026 outlook; targets 1.0-billion-euro revenue in 2029",
+      "context": "Context pending.",
+      "why_it_matters": "THEON has set a clear goal to reach one billion euros in revenue, showing confidence in its market. Achieving this would prove their strategy works and attract more investors to their sector.",
+      "other_side": "Hitting such ambitious targets is risky and requires perfect execution. If they fail to meet these goals, investors may lose faith, causing the company's value to drop significantly."
+    },
+    {
+      "headline": "Prembly Summit Unites Nigeria’s Financial Ecosystem Against Fraud",
+      "summary": "Prembly’s Fraud Intelligence Summit brought together key players in Nigeria’s financial ecosystem to strengthen collaboration against financial fraud. The event focused on advancing industry-wide efforts to combat fraudulent activities through collective intelligence and cooperation.",
+      "source": "The Punch",
+      "original_title": "Prembly Brings Together Nigeria’s Financial Ecosystem to Advance Industry Collaboration Against Financial Fraud",
+      "context": "Context pending.",
+      "why_it_matters": "Fighting fraud together makes the entire financial system safer for everyday users. When banks and tech companies share information, it becomes harder for criminals to steal money or identities.",
+      "other_side": "Sharing data between companies raises privacy concerns. People worry that their personal information might be misused or leaked if the collaboration is not managed with strict security measures."
+    },
+    {
+      "headline": "German Economy Likely Grew Modestly in Second Quarter Despite Challenges",
+      "summary": "The German economy is projected to have expanded modestly in the second quarter, driven by resilient industrial sectors despite challenges from the Middle East conflict. However, U.S. chip stocks extended losses on fears regarding AI financing and competition from China.",
+      "source": "Biztoc.com",
+      "original_title": "German economy likely grew modestly in second quarter — U.S. chip stocks extend losses on AI financing, China competition fears",
+      "context": "Context pending.",
+      "why_it_matters": "Germany's economy is growing slightly despite global conflicts, showing resilience. This stability is important because Germany is a key engine for the European economy, helping to keep regional trade flowing.",
+      "other_side": "The growth is described as \"modest,\" suggesting underlying weaknesses remain. Global tensions and supply chain issues could suddenly reverse this progress, causing economic pain again soon."
+    },
+    {
+      "headline": "Chip Stock Rout Snowballs as Markets React to Global Uncertainties",
+      "summary": "The correction in chip stocks accelerated overnight, reflecting broader anxieties in global markets. This rout highlights the sensitivity of technology sectors to shifts in investment sentiment and geopolitical tensions affecting supply chains and demand.",
+      "source": "Yahoo Entertainment",
+      "original_title": "Morning Bid: Chip rout snowballs — July 28 (Reuters) - What matters in U. and global markets today, Editor-at-Large, Finance and Markets The chip stock correction snowballed again overnight a...",
+      "context": "Context pending.",
+      "why_it_matters": "Chip stocks falling sharply signals fear about the future of technology investments. Since chips are essential for everything from phones to AI, this drop can affect many industries beyond just tech.",
+      "other_side": "Market drops are often temporary overreactions. Smart investors might see this as a buying opportunity, knowing that the demand for chips will likely return as technology continues to advance."
     }
   ]
 }
