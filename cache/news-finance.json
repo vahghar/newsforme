@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "Tata Capital Q1 Net Profit Surges 56% to Rs 1,547 Crore",
-      "summary": "Tata Capital reported a substantial net profit increase of over 56 percent year-over-year, reaching Rs 1,547 crore. Revenue from operations also rose by more than 15 percent, while assets under management grew by 22 percent to Rs 2.91 lakh crore.",
-      "source": "The Times of India",
-      "original_title": "Tata Capital Q1 Results: Net profit jumps 56% YoY to Rs 1,547 crore, revenue up 15%",
-      "context": "Context pending.",
-      "why_it_matters": "Tata Capital is making much more money, which shows that lending and financial services in India are still growing strong. This success could mean more jobs and better access to loans for regular people and small businesses in the future.",
-      "other_side": "High profits don't always mean the company is safe. If they lend too aggressively to keep profits up, they might face big losses later if borrowers stop paying back their loans."
-    },
-    {
-      "headline": "Fitch Warns AI Market Correction Poses Major Global Credit Risk",
-      "summary": "Ratings agency Fitch has identified the boom in artificial intelligence and the potential for a market correction as significant global credit risks. This warning adds to growing concerns about the sustainability of current AI investment levels and their impact on broader financial stability.",
-      "source": "Yahoo Entertainment",
-      "original_title": "Fitch warns AI market correction emerging as major global credit risk",
-      "context": "Context pending.",
-      "why_it_matters": "Experts are worried that too much money is being poured into AI right now, creating a bubble. If this bubble bursts, it could cause serious financial trouble for banks and investors around the world.",
-      "other_side": "Some argue that AI is a real revolution, not just hype. They believe the current spending is necessary to build the future and that any drop in stock prices is just a normal part of rapid growth."
-    },
-    {
-      "headline": "Singapore Central Bank Warns AI Investment Uncertainty Could Derail Global Growth",
-      "summary": "Singapore's central bank cautioned that uneven benefits and rising costs of AI investment could exacerbate inequality and economic instability. These factors pose a challenge to sustainable global growth, highlighting financial risks associated with the rapid adoption of AI technologies.",
+      "headline": "South Korea Calls Emergency Financial Meeting as KOSPI Suffers Historic Collapse",
+      "summary": "The KOSPI index experienced a historic collapse, prompting South Korean authorities to convene an emergency financial meeting. This severe market downturn signals broader economic instability that could ripple through global tech markets and influence investor sentiment across asset classes.",
       "source": "Crypto Briefing",
-      "original_title": "Singapore’s central bank warns AI investment uncertainty could derail global growth",
-      "context": "Context pending.",
-      "why_it_matters": "The cost of building AI systems is very high, and only a few companies may benefit. This could make the gap between rich and poor countries wider and slow down global economic progress.",
-      "other_side": "Proponents say AI will eventually lower costs for everyone by making things more efficient. They argue that early investments are painful but will lead to cheaper goods and services for all in the long run."
+      "original_title": "South Korea calls emergency financial meeting as KOSPI suffers historic collapse",
+      "context": "The KOSPI is simply the main scoreboard for South Korea’s stock market, tracking the performance of its biggest companies. When this number crashes suddenly, it means investors are panicking and selling off their shares, often because they fear the country's economy is in trouble. This panic can spread quickly because South Korea is a major player in global technology and manufacturing, so when their market stumbles, it worries buyers and sellers all over the world who rely on those goods.",
+      "why_it_matters": "South Korea’s stock market crashed hard, which scares investors worldwide. If big economies stumble, it can slow down global business and make people nervous about their own savings.",
+      "other_side": "Some experts say this is just a normal market correction. They argue that panic selling often leads to buying opportunities once things calm down."
     },
     {
-      "headline": "Sensex Slips Below 24,000 as Indian Equities Close Lower",
-      "summary": "Indian equities closed marginally lower with the Sensex slipping 69.86 points to 76,765.92 and Nifty 50 dipping to 23,985.35. Investors remained range-bound, balancing easing crude oil prices against other market pressures.",
-      "source": "BusinessLine",
-      "original_title": "Sensex today | Stock Market Highlights: Sensex slips 69 pts, Nifty falls below 24,000 at close",
-      "context": "Context pending.",
-      "why_it_matters": "When major stock markets like India's Sensex drop, it means investors are nervous about the economy. This can lead to less spending and investment, which might slow down business growth for a while.",
-      "other_side": "A small dip in stocks can actually be healthy. It allows investors to buy shares at lower prices, potentially leading to stronger growth later once the market stabilizes."
-    },
-    {
-      "headline": "Mercedes CEO Demands German Productivity Offensive Amid China Profit Hit",
-      "summary": "Mercedes-Benz CEO Ola Kaellenius urged Germany to cut costs and boost productivity after the company reported a second-quarter profit hit due to fierce competition in China. The CEO vowed to streamline corporate operations to address these financial challenges.",
+      "headline": "Oil Surges Over 3% Amid Fresh Middle East Strikes Threatening Diplomacy",
+      "summary": "Global oil prices climbed more than 3% following a fresh round of fighting in the Middle East that undermined ongoing diplomatic efforts to end the five-month conflict. The escalation has significantly roiled energy markets, raising concerns about supply disruptions and inflationary pressures.",
       "source": "Biztoc.com",
-      "original_title": "Mercedes CEO urges German 'productivity offensive' as China woes hit profit",
-      "context": "Context pending.",
-      "why_it_matters": "Mercedes is struggling because competition in China is so fierce. This shows that even big global brands must constantly cut costs and work faster to stay ahead in international markets.",
-      "other_side": "Critics say cutting costs often means laying off workers or reducing quality. This approach might save money short-term but could hurt the company's reputation and employee morale in the long run."
+      "original_title": "Oil Surges as Fresh Middle East Strikes Threaten Fragile Diplomacy",
+      "context": "Oil is the lifeblood of modern transportation and industry, so any threat to getting it from the ground to your gas tank causes prices to jump immediately. The Middle East is a huge source of the world's oil, so when fighting breaks out there, people worry that ships carrying oil might get blocked or destroyed. This fear makes traders pay more for oil right now to protect themselves against future shortages, which eventually leads to higher prices at the pump for everyday drivers.",
+      "why_it_matters": "Fighting in the Middle East is pushing oil prices up. This makes gas and shipping costs higher, which can lead to more expensive goods for everyone.",
+      "other_side": "Critics point out that oil prices are also driven by supply decisions, not just war. They believe the price hike might be temporary if peace talks succeed soon."
     },
     {
-      "headline": "Alpha Bank Signs Strategic Deal with European Investment Fund",
-      "summary": "Alpha Bank announced a new strategic agreement with the European Investment Fund (EIF) to leverage European resources for Greek entrepreneurship. The deal aims to support the transition towards a more robust financial ecosystem and boost local business growth.",
-      "source": "Naftemporiki.gr",
-      "original_title": "Alpha Bank signs new strategic deal with European Investment Fund to support entrepreneurship",
-      "context": "Context pending.",
-      "why_it_matters": "By partnering with European funds, Alpha Bank aims to help local Greek businesses grow. This support can create new jobs and strengthen the local economy by providing needed capital to entrepreneurs.",
-      "other_side": "Relying on external funding can come with strict rules and high interest rates. Small businesses might struggle to repay these loans if their ventures do not succeed quickly enough."
+      "headline": "SK Hynix Shares Slump 10% After Missing Profit Forecasts Despite AI Demand",
+      "summary": "Semiconductor giant SK Hynix saw its shares drop 10% after reporting earnings that missed profit forecasts, highlighting the volatility within tech markets. This miss underscores the intense pressure on chipmakers to meet high AI-driven expectations while managing production costs and supply chain complexities.",
+      "source": "Crypto Briefing",
+      "original_title": "SK Hynix misses profit forecasts, shares slump 10% despite AI demand",
+      "context": "SK Hynix is one of the few companies in the world that makes the special memory chips needed to power artificial intelligence computers. Even though everyone wants these chips, the company missed its target for how much profit it would make, likely because making them is expensive or difficult. When a company fails to meet expectations, investors get scared that the business isn't as profitable as they thought, causing the stock price to drop sharply as people rush to sell.",
+      "why_it_matters": "SK Hynix missed its profit goals despite high demand for AI chips. This shows that even tech giants face tough challenges in making money from new trends.",
+      "other_side": "Investors might see this as a short-term blip rather than a long-term failure. The company could still recover if AI demand keeps growing faster than expected."
     },
     {
-      "headline": "THEON Reaffirms 2026 Outlook Targeting 1 Billion Euro Revenue by 2029",
-      "summary": "THEON reaffirmed its 2026 outlook and set a target of 1.0 billion euros in revenue by 2029. The company is pursuing a leading position in an 8 billion euro market through a strategy combining organic expansion with acquisitions based on its first-half results.",
-      "source": "Naftemporiki.gr",
-      "original_title": "THEON reaffirms 2026 outlook; targets 1.0-billion-euro revenue in 2029",
-      "context": "Context pending.",
-      "why_it_matters": "THEON has set a clear goal to reach one billion euros in revenue, showing confidence in its market. Achieving this would prove their strategy works and attract more investors to their sector.",
-      "other_side": "Hitting such ambitious targets is risky and requires perfect execution. If they fail to meet these goals, investors may lose faith, causing the company's value to drop significantly."
-    },
-    {
-      "headline": "Prembly Summit Unites Nigeria’s Financial Ecosystem Against Fraud",
-      "summary": "Prembly’s Fraud Intelligence Summit brought together key players in Nigeria’s financial ecosystem to strengthen collaboration against financial fraud. The event focused on advancing industry-wide efforts to combat fraudulent activities through collective intelligence and cooperation.",
-      "source": "The Punch",
-      "original_title": "Prembly Brings Together Nigeria’s Financial Ecosystem to Advance Industry Collaboration Against Financial Fraud",
-      "context": "Context pending.",
-      "why_it_matters": "Fighting fraud together makes the entire financial system safer for everyday users. When banks and tech companies share information, it becomes harder for criminals to steal money or identities.",
-      "other_side": "Sharing data between companies raises privacy concerns. People worry that their personal information might be misused or leaked if the collaboration is not managed with strict security measures."
-    },
-    {
-      "headline": "German Economy Likely Grew Modestly in Second Quarter Despite Challenges",
-      "summary": "The German economy is projected to have expanded modestly in the second quarter, driven by resilient industrial sectors despite challenges from the Middle East conflict. However, U.S. chip stocks extended losses on fears regarding AI financing and competition from China.",
+      "headline": "SpaceX Erases $1 Trillion in Value as Retail Investors Face Dip Dangers",
+      "summary": "SpaceX has lost nearly $1 trillion in stock market value over five weeks, creating significant losses for retail investors who bought at IPO prices. The dramatic valuation drop raises critical questions about the safety of buying the dip in high-growth private equity and the risks associated with such volatile assets.",
       "source": "Biztoc.com",
-      "original_title": "German economy likely grew modestly in second quarter — U.S. chip stocks extend losses on AI financing, China competition fears",
-      "context": "Context pending.",
-      "why_it_matters": "Germany's economy is growing slightly despite global conflicts, showing resilience. This stability is important because Germany is a key engine for the European economy, helping to keep regional trade flowing.",
-      "other_side": "The growth is described as \"modest,\" suggesting underlying weaknesses remain. Global tensions and supply chain issues could suddenly reverse this progress, causing economic pain again soon."
+      "original_title": "You bought SpaceX shares at the IPO price — and now you’re losing money. Is it safe to buy the dip?",
+      "context": "SpaceX is a private company owned by Elon Musk that builds rockets and satellites, and it recently allowed some regular people to buy small pieces of ownership in it. However, the value of these pieces dropped massively because the company is not traded on public stock exchanges like Apple or Google, meaning there are fewer buyers when sellers want out. This situation shows that buying into private companies can be very risky because you might not be able to sell your shares easily if the value goes down.",
+      "why_it_matters": "SpaceX lost a huge amount of value, warning regular people about risky investments. It shows that buying into popular companies can be dangerous if the price drops quickly.",
+      "other_side": "Supporters argue that SpaceX is still a valuable company with long-term potential. They say short-term losses are normal for high-growth startups."
     },
     {
-      "headline": "Chip Stock Rout Snowballs as Markets React to Global Uncertainties",
-      "summary": "The correction in chip stocks accelerated overnight, reflecting broader anxieties in global markets. This rout highlights the sensitivity of technology sectors to shifts in investment sentiment and geopolitical tensions affecting supply chains and demand.",
-      "source": "Yahoo Entertainment",
-      "original_title": "Morning Bid: Chip rout snowballs — July 28 (Reuters) - What matters in U. and global markets today, Editor-at-Large, Finance and Markets The chip stock correction snowballed again overnight a...",
-      "context": "Context pending.",
-      "why_it_matters": "Chip stocks falling sharply signals fear about the future of technology investments. Since chips are essential for everything from phones to AI, this drop can affect many industries beyond just tech.",
-      "other_side": "Market drops are often temporary overreactions. Smart investors might see this as a buying opportunity, knowing that the demand for chips will likely return as technology continues to advance."
+      "headline": "CEX TradFi Volume Surges 100-Fold as Users Shift to Digital Asset Trading",
+      "summary": "A new report by MEXC and CoinGecko reveals that traditional finance volume on centralized crypto exchanges has surged over 100-fold, with 83.3% of users planning to trade more. This trend indicates a rapid expansion of traditional financial assets onto crypto platforms, reshaping global investor behavior.",
+      "source": "PRNewswire",
+      "original_title": "MEXC and CoinGecko Report: CEX TradFi Volume Surges Over 100-Fold as 83.3% of Users Plan to Trade More",
+      "context": "Centralized exchanges are like digital banks where people buy and sell cryptocurrencies, but now traditional banks and financial firms are starting to use them too. This means that big, old-school money is flowing into crypto platforms at a massive rate, with users moving hundreds of times more money than before. This shift shows that mainstream finance is no longer ignoring digital assets but is actively integrating them into their daily operations.",
+      "why_it_matters": "More traditional money is moving into crypto exchanges, showing big interest in digital assets. This trend could change how global finance works over time.",
+      "other_side": "Skeptics worry that this surge is driven by hype rather than real value. They fear a crash could hurt everyday investors who don’t understand the risks."
+    },
+    {
+      "headline": "BNY Adopts Blockchain Technology for Records in Wall Street Milestone",
+      "summary": "Bank of New York Mellon is adopting blockchain technology for record-keeping, marking a new era for Wall Street as banks rush to embrace tokenized systems. This move blurs the lines between traditional finance and the digital asset ecosystem, signaling a major shift in institutional infrastructure.",
+      "source": "Biztoc.com",
+      "original_title": "BNY to adopt blockchain technology for records in new era for Wall Street",
+      "context": "Blockchain is a shared digital ledger that records transactions securely without needing a middleman like a bank to verify every single entry. Bank of New York Mellon, one of the oldest and largest banks in the US, is using this technology to keep track of its own records more efficiently. This move is significant because it shows that even the most traditional parts of Wall Street are adopting new digital tools to stay competitive and secure.",
+      "why_it_matters": "A major bank is using blockchain for records, showing big finance is embracing new tech. This could make transactions faster and more secure for everyone.",
+      "other_side": "Some critics say blockchain is still unproven for large-scale banking use. They worry about security flaws or technical glitches causing major problems."
+    },
+    {
+      "headline": "Bitcoin Trading Hits Slowest Pace Since 2023, Squeezing Exchange Revenue",
+      "summary": "Bitcoin trading activity is on track for its slowest month since 2023, according to K33 Research, leading to squeezed revenues for several trading platforms. Some exchanges have already shut down operations as the unusually quiet market conditions test the resilience of crypto business models.",
+      "source": "Bitcoinfoundation.org",
+      "original_title": "Bitcoin Trading Is on Track for Slowest Month Since 2023",
+      "context": "Bitcoin trading platforms make most of their money by charging fees every time someone buys or sells Bitcoin. When trading activity slows down significantly, fewer trades happen, which means these platforms earn much less revenue and may struggle to stay open. This quiet period highlights how dependent crypto businesses are on constant market excitement and high-volume trading to survive financially.",
+      "why_it_matters": "Bitcoin trading is slowing down, hurting crypto exchange profits. This quiet period tests whether these businesses can survive without constant trading activity.",
+      "other_side": "Some traders view low activity as a sign of stability rather than failure. They believe calm markets can lead to healthier long-term growth for the industry."
+    },
+    {
+      "headline": "SIPs Reduce Entry-Timing Risk But Fail to Shield Against Valuation and Liquidity Dangers",
+      "summary": "Financial experts warn that while Systematic Investment Plans (SIPs) help reduce entry-timing risk through rupee-cost averaging, they do not protect investors from valuation, liquidity, or concentration risks. Investors are cautioned against mistaking SIPs for a complete risk-management strategy in volatile markets.",
+      "source": "Livemint",
+      "original_title": "SIP reduces only entry-timing risk: Here's why valuation, liquidity and portfolio concentration still need attention",
+      "context": "A Systematic Investment Plan, or SIP, is a strategy where you invest a fixed amount of money regularly, regardless of whether the market is going up or down. While this helps smooth out the ups and downs so you don't accidentally buy only when prices are high, it does not protect you if the overall value of the investment drops too low or if you can't sell it when needed. Investors need to understand that while SIPs reduce timing risks, they do not eliminate the danger of losing money if the underlying assets perform poorly.",
+      "why_it_matters": "Experts warn that regular investing plans do not protect against all risks. Investors need to understand that saving money regularly does not guarantee safety in volatile markets.",
+      "other_side": "Proponents argue that SIPs are still better than trying to time the market perfectly. They say consistency helps average out costs over time, reducing stress."
+    },
+    {
+      "headline": "Elon Musk Signals Deeper AI Chip Supply Crunch During Tesla Earnings Call",
+      "summary": "Elon Musk praised Micron twice during Tesla’s earnings call, highlighting the intensifying competition for AI resources and signaling a deeper supply crunch. These strategic chip partnerships underscore how resource scarcity is impacting timelines and costs across the broader technology sector.",
+      "source": "Crypto Briefing",
+      "original_title": "Elon Musk praises Micron twice during Tesla’s earnings call, signaling deeper AI chip supply crunch",
+      "context": "Artificial intelligence requires powerful computer chips to function, and there is currently not enough of these chips to meet the massive global demand. Elon Musk highlighted this shortage during a meeting about Tesla, noting that companies are competing fiercely for limited supplies of advanced memory chips made by companies like Micron. This scarcity means that tech projects may face delays or higher costs because the essential hardware needed to build AI systems is hard to find.",
+      "why_it_matters": "Elon Musk warns of a chip shortage, which affects many tech products. This scarcity could delay new gadgets and increase costs for consumers and companies.",
+      "other_side": "Some analysts believe supply chains are adapting to meet demand. They expect production increases to ease the crunch within a year or two."
+    },
+    {
+      "headline": "Finance Leader Uses Innovative Capital to Tackle Climate and Economic Challenges",
+      "summary": "A finance leader transformed her approach to capitalism after a $200 loan experience in Cambodia highlighted issues with safe water access and capital flow. She is now leveraging innovative finance mechanisms to address complex climate and economic challenges, rethinking how money moves to create sustainable impact.",
+      "source": "Biztoc.com",
+      "original_title": "A $200 Loan in Cambodia Changed This Finance Leader’s Thinking. Now She’s Trying to Change Capitalism",
+      "context": "Traditional lending often fails to help poor communities because banks see them as too risky, leaving people without access to capital for basic needs like clean water. One finance leader realized this after seeing how a tiny loan could transform lives in Cambodia, prompting her to rethink how money is used to create social good. She is now designing new financial tools that allow investors to earn returns while directly solving urgent problems like climate change and poverty, bridging the gap between profit and purpose.",
+      "why_it_matters": "A finance leader is using new methods to solve climate and poverty issues. This approach shows how money can be used to create positive social change.",
+      "other_side": "Critics question if these innovative models are scalable beyond small projects. They worry that relying on unique cases may not work on a global scale."
     }
   ]
 }
