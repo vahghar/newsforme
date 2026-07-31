@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "Palantir's AI Software Valuation Soars to $125 Per Share",
-      "summary": "Palantir Technologies has seen its stock value surge significantly, reaching approximately $125 per share after hovering near penny-stock levels in 2023. The artificial intelligence software company continues to attract investor interest, having created many millionaires over the past three years despite recent fluctuations from its peak of over $200.",
+      "headline": "The AI Race Built Faster Chips, Now They're Too Fast for Their Own Wires",
+      "summary": "As the AI race accelerates, chip speeds have outpaced the capabilities of traditional wiring, creating a critical bottleneck. Eliyan, a Santa Clara startup valued at $1 billion, has secured $145 million in Series C funding to address this hardware limitation.",
+      "source": "The Next Web",
+      "original_title": "The AI race built faster chips. Now the chips are too fast for their own wires.",
+      "context": "Context pending.",
+      "why_it_matters": "AI computers are getting so smart that the wires connecting their parts can’t keep up with the speed of data. This creates a traffic jam that slows everything down, stopping progress unless new, faster wiring is invented. Fixing this is key to making AI actually useful in the real world.",
+      "other_side": "Some experts argue that building faster chips isn't the only solution. They suggest we should focus on making AI software more efficient instead of just throwing more expensive hardware at the problem."
+    },
+    {
+      "headline": "Why Mainframes Remain Central to Enterprise Transformation",
+      "summary": "Contrary to predictions of obsolescence, mainframes are being redefined by AI, hybrid cloud integration, and cyber resilience rather than replaced. These legacy systems continue to serve as foundational infrastructure for modern enterprise digital transformation strategies.",
+      "source": "TechRadar",
+      "original_title": "Why mainframes remain central to enterprise transformation",
+      "context": "Context pending.",
+      "why_it_matters": "Old-school mainframe computers are not dying; they are being updated to handle modern AI tasks. This means companies don’t need to scrap their old systems, saving money and reducing waste while staying secure. It proves that legacy tech can still be vital for big businesses.",
+      "other_side": "Critics say these old machines are heavy, hard to fix, and use too much power. They believe companies should move everything to the cloud for better flexibility and lower long-term costs."
+    },
+    {
+      "headline": "Lloyds Bank Cuts £2bn in Costs via AI-Powered Strategy",
+      "summary": "Lloyds Banking Group announced a four-year plan to cut £2 billion in costs, driven by an AI-powered strategy aimed at increasing operational efficiency. While the CEO highlighted efficiency gains, specific details regarding potential job losses were not disclosed.",
       "source": "Biztoc.com",
-      "original_title": "Is Palantir Still a Millionaire-Maker Stock? — Palantir (NASDAQ: PLTR) has minted many millionaires during the past three years. The artificial intelligence (AI) software company hovered near penny-stock territory in 2023 and is currently valued at about $125 per share. It used to trade for more than $200…",
-      "context": "Palantir is a company that builds software to help governments and big businesses make sense of huge amounts of data, acting like a super-powered search engine for secrets and patterns. For years, it was known mostly for working with spy agencies, which made regular investors nervous because its profits were hard to predict. Recently, the global rush to build artificial intelligence has made people realize that AI needs clean, organized data to work, giving Palantir a massive new reason to exist. This shift turned the company from a risky gamble into a favorite among people betting on the future of technology.",
-      "why_it_matters": "Palantir’s stock price jump shows how much money people are betting on AI software right now. This trend could push more companies to spend heavily on AI tools, changing how businesses operate. However, it also warns investors that high prices today might not last forever if the hype fades.",
-      "other_side": "Some experts worry the stock is too expensive and driven by emotion rather than real profits. If the company doesn’t keep growing fast enough, the price could crash quickly, leaving late buyers with huge losses."
+      "original_title": "Lloyds Bank to cut £2bn in costs as part of AI-powered strategy",
+      "context": "Context pending.",
+      "why_it_matters": "A major bank is using AI to cut costs by billions, showing how automation is changing finance. This likely means fewer human workers will be needed for routine tasks in the future. It signals a shift where efficiency matters more than headcount.",
+      "other_side": "Workers worry that this efficiency drive will lead to mass layoffs without warning. They also fear that relying on AI might make customer service feel cold and impersonal."
     },
     {
-      "headline": "MEXC and CoinGecko Report 100-Fold Surge in Crypto Exchange Volume",
-      "summary": "A new report by MEXC and CoinGecko reveals that traditional finance volume on crypto exchanges has surged over 100-fold. The data indicates a rapid expansion of the digital asset ecosystem, with 83.3% of users planning to increase their trading activity.",
-      "source": "PRNewswire",
-      "original_title": "MEXC and CoinGecko Report: CEX TradFi Volume Surges Over 100-Fold as 83.3% of Users Plan to Trade More — MUTSAMUDU, Comoros, July 29, 2026 /PRNewswire/ -- MEXC, a pioneer in 0-fee digital asset trading, in collaboration with CoinGecko, today released How Crypto Exchanges Are Reshaping Traditional Asset Trading, a new report examining the rapid expansion of tradi…",
-      "context": "Cryptocurrency started as a niche experiment for computer experts who wanted money that wasn't controlled by banks or governments. Over time, it evolved into a complex market where people trade digital coins like stocks, hoping their value will go up. Recently, traditional banks and large financial firms have started entering this space, bringing in huge amounts of old-school money alongside the original crypto enthusiasts. This mix of old finance and new digital assets has caused trading activity to explode, as more people feel safe enough to join the game.",
-      "why_it_matters": "The massive rise in crypto trading shows that digital money is becoming a normal part of the global economy. More people are willing to trade these assets, which could lead to better financial tools for everyone. It also signals that traditional banks are starting to take digital currencies seriously.",
-      "other_side": "Critics argue this surge is mostly gambling, not real investing, which creates a bubble that could burst. Many users might lose their savings if the market drops suddenly, causing financial harm to everyday people."
+      "headline": "Hackers Exploit AnySign4PC to Install Backdoors Without Prompts",
+      "summary": "A state-sponsored campaign compromised trusted South Korean websites to exploit locally installed financial-security software. Attackers successfully installed backdoors on targeted visitors' systems without triggering standard security prompts.",
+      "source": "Internet",
+      "original_title": "Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts",
+      "context": "Context pending.",
+      "why_it_matters": "Hackers are finding sneaky ways to break into computers without users even knowing it. This makes personal and financial data much more vulnerable to theft. It shows that traditional security warnings are no longer enough to keep people safe.",
+      "other_side": "Some security firms argue that most users are already protected by basic antivirus software. They claim that blaming complex hacks distracts from the real issue: poor password habits by regular people."
     },
     {
-      "headline": "Bitcoin Miner Produces Empty Block Highlighting Network Efficiency Issues",
-      "summary": "A Bitcoin miner produced an empty block at height 960,017, collecting zero fees, which underscores ongoing challenges in transaction validation speed. This incident impacts miner strategies and highlights efficiency concerns within the network's operational framework.",
+      "headline": "SilverFox Targets Japanese Manufacturer with New BYOVD Chain",
+      "summary": "The Chinese cybercrime group Silver Fox has been observed executing Bring Your Own Vulnerable Driver (BYOVD) attacks against a Japanese industrial manufacturer. The campaign utilized new drivers to deliver ValleyRAT malware, highlighting evolving threat vectors in industrial sectors.",
+      "source": "Internet",
+      "original_title": "SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT",
+      "context": "Context pending.",
+      "why_it_matters": "Cybercriminals are targeting factories and manufacturers, not just banks or stores. This puts physical goods and supply chains at risk of disruption or sabotage. It highlights how digital attacks can now cause real-world damage to industry.",
+      "other_side": "Industry leaders say that industrial systems are air-gapped and safe from the internet. They argue that these reports exaggerate the threat to scare companies into buying unnecessary security upgrades."
+    },
+    {
+      "headline": "iOS 27 Finally Lets You Hide the Audio Button in Messages",
+      "summary": "Apple's upcoming iOS 27 update introduces a new customization option allowing users to hide the microphone button in the Messages app. This feature addresses long-standing user complaints about the persistent dictation and audio recording controls cluttering the text entry line.",
+      "source": "Macworld",
+      "original_title": "iOS 27 finally lets you hide the Audio button in Messages—here’s how",
+      "context": "Context pending.",
+      "why_it_matters": "Apple is finally listening to users who hate cluttered phone screens. Giving people control over what buttons they see improves the daily experience for millions. It sets a trend for other apps to offer more customization options.",
+      "other_side": "Privacy advocates worry that hiding audio buttons might make it harder to detect when recording is happening. They fear this could be used to spy on people without their knowledge."
+    },
+    {
+      "headline": "Digital PR for AI Visibility: 5 Tactics to Measure Success",
+      "summary": "With generative AI increasingly shaping search results, having a website is no longer sufficient for visibility. Experts outline five digital PR tactics designed to ensure content is cited and referenced by AI models, along with methods to measure this growing metric.",
+      "source": "Semrush.com",
+      "original_title": "Digital PR for AI visibility: 5 tactics + how to measure",
+      "context": "Context pending.",
+      "why_it_matters": "AI search engines are changing how people find information online. Businesses must now write content specifically to be picked up by AI, not just humans. This shifts the entire strategy of online marketing and visibility.",
+      "other_side": "Critics say this will flood the internet with low-quality, AI-generated spam. They worry that genuine human voices and diverse opinions will get buried under robotic content."
+    },
+    {
+      "headline": "Gpiozero Flow Simplifies Raspberry Pi GPIO Programming",
+      "summary": "Gpiozero Flow builds upon the Python library originally created in 2015 to simplify programming GPIO devices on Raspberry Pi. By abstracting complex electrical concepts like pin channels and voltages, it allows developers to focus on logical interactions like button presses.",
+      "source": "Bennuttall.com",
+      "original_title": "Gpiozero Flow",
+      "context": "Context pending.",
+      "why_it_matters": "New tools are making it easier for beginners to build hardware projects with simple code. This lowers the barrier to entry for learning electronics and engineering. It encourages more students and hobbyists to tinker with technology.",
+      "other_side": "Some developers argue that simplifying the code hides important technical details. They believe beginners need to understand the underlying hardware to truly master programming."
+    },
+    {
+      "headline": "FIFA Forward Enterprise Proposes Tokenized Equity for Private Investors",
+      "summary": "FIFA is exploring the sale of minority stakes in its commercial arm through tokenized equity, aiming to democratize investment opportunities. This move introduces blockchain-based financial instruments to traditional sports governance, though it raises questions about prioritizing profits over member interests.",
       "source": "Crypto Briefing",
-      "original_title": "Bitcoin miner produces empty block at height 960,017, collecting zero in fees — The occurrence of empty blocks highlights ongoing challenges in transaction validation speed, impacting miner strategies and network efficiency.\nThe post Bitcoin miner produces empty block at height 960,017, collecting zero in fees appeared first on Crypto Br…",
-      "context": "Bitcoin works like a giant public ledger where computers solve puzzles to verify transactions and add them to a permanent record called a \"block.\" Miners are the people running these powerful computers, and they get paid fees by anyone who wants their transaction processed quickly. Sometimes, there aren't enough transactions waiting to be processed, so a miner might finish a block without collecting any extra tips from users. This specific event showed that the network can sometimes be too slow or empty, causing frustration for those who rely on fast and reliable payments.",
-      "why_it_matters": "An empty Bitcoin block shows that the network is struggling to process transactions quickly enough. This bottleneck can slow down payments and make using Bitcoin less practical for daily purchases. Fixing this is key to making the currency reliable for regular use.",
-      "other_side": "Some supporters say empty blocks are rare and do not hurt the overall security of the system. They argue that minor delays are normal for a new technology and will improve as the network grows."
+      "original_title": "FIFA Forward Enterprise proposes minority stake for private investors, with tokenized equity on the table",
+      "context": "Context pending.",
+      "why_it_matters": "FIFA is using blockchain to let regular people invest in sports organizations. This could bring in huge amounts of cash but changes how sports are governed. It raises questions about whether profit should come before fair play.",
+      "other_side": "Fans and critics argue that selling off parts of a sports body corrupts its mission. They believe sports should remain independent and focused on competition, not stock market gains."
     },
     {
-      "headline": "Elon Musk Signals Deepening AI Chip Supply Crunch During Tesla Earnings",
-      "summary": "Elon Musk praised Micron twice during Tesla’s earnings call, indicating a severe shortage of AI chips affecting the broader tech sector. These strategic partnerships highlight intensifying competition for AI resources, which is expected to impact timelines and costs across various technology industries.",
-      "source": "Crypto Briefing",
-      "original_title": "Elon Musk praises Micron twice during Tesla’s earnings call, signaling deeper AI chip supply crunch — Tesla's strategic chip partnerships highlight the intensifying competition for AI resources, impacting timelines and costs across tech sectors.\nThe post Elon Musk praises Micron twice during Tesla’s earnings call, signaling deeper AI chip supply crunch appear…",
-      "context": "Artificial intelligence requires special computer chips that are much faster than normal ones, but making these chips is incredibly difficult and time-consuming. There is currently not enough of these chips to meet the huge demand from companies like Tesla, Google, and Microsoft who all want to build smarter AI systems. Elon Musk highlighted this shortage because his own company needs these chips to power self-driving cars and other advanced features. The competition for these limited resources is driving up prices and slowing down how quickly new technologies can be released to the public.",
-      "why_it_matters": "A shortage of AI chips means that many tech projects will face delays or higher costs. This competition for resources could slow down innovation in areas like self-driving cars and smart devices. Companies must find new ways to secure supplies to stay ahead.",
-      "other_side": "Some analysts believe the shortage is temporary and will ease as new factories open up. They suggest that prices may drop soon, allowing smaller companies to access the technology they need."
-    },
-    {
-      "headline": "Unity Games Now Run in Unreal Engine, Saving Developer Work",
-      "summary": "Unity and Epic Games have demonstrated for the first time how a Unity game can run inside an Unreal Engine environment. This technical breakthrough could save developers significant effort and potentially alter the competitive landscape between the two major game engines.",
-      "source": "Notebookcheck.net",
-      "original_title": "Unity games now run in Unreal Engine - but what does that actually mean? — Unity and Epic Games have demonstrated for the first time how a Unity game can run inside an Unreal Engine environment. While it may sound like little more than a technical curiosity, the technology could save developers a great deal of work – and make Fortni…",
-      "context": "Video games are built using specialized software tools called \"engines,\" with Unity and Unreal Engine being the two most popular choices for developers. Usually, if a game is made in one engine, it cannot easily run on the other, forcing developers to rebuild everything from scratch if they want to switch. A recent breakthrough allowed a game built in Unity to run inside an Unreal environment, which is like finding a universal adapter for different electrical plugs. This saves programmers from doing double the work and gives players more flexibility in choosing where their favorite games can be played.",
-      "why_it_matters": "Allowing games to run on different engines saves developers time and money. This flexibility means creators can focus on making fun games instead of fixing technical problems. It also breaks down barriers between two major tech rivals, helping the whole industry grow.",
-      "other_side": "Critics worry this move might reduce competition between the two engine makers. If they cooperate too closely, they might not push each other to innovate as hard, potentially slowing down future improvements."
-    },
-    {
-      "headline": "BNY Wall Street Bank Adopts Blockchain Technology for Records",
-      "summary": "BNY Mellon is adopting blockchain technology for record-keeping, marking a new era for Wall Street as banks rush to embrace tokenized systems. This move blurs the lines between traditional finance and the digital asset ecosystem, signaling major institutional adoption of distributed ledger technology.",
-      "source": "Biztoc.com",
-      "original_title": "BNY to adopt blockchain technology for records in new era for Wall Street — Banks rush to embrace tokenised system blurring the lines between traditional finance and digital asset ecosystem",
-      "context": "Traditional banking has always relied on paper records and slow, centralized databases to keep track of who owns what money. Blockchain is a newer technology that creates a shared, unchangeable record of transactions that everyone can see but no one can secretly alter. By adopting this system, major banks like BNY Mellon are trying to make their operations faster, cheaper, and more secure than ever before. This move signals that the old guard of finance is finally accepting digital currency concepts to stay relevant in a modern world.",
-      "why_it_matters": "Big banks using blockchain makes digital money safer and faster for regular customers. This shift brings old-school finance into the modern era, reducing errors and speeding up transfers. It also helps bridge the gap between traditional banking and new digital assets.",
-      "other_side": "Some fear that blockchain adoption could lead to privacy issues or new types of fraud. If the technology fails or is hacked, it could put billions of dollars at risk in the global banking system."
-    },
-    {
-      "headline": "InfoQ Expert Argues for Ending LeetCode Interviews in the AI Era",
-      "summary": "Daniel Doubrovkine presents a case against traditional LeetCode whiteboard interviews, arguing they fail to evaluate senior engineering talent effectively. He shares actionable frameworks for redefining hiring practices in the context of modern AI capabilities and leadership requirements.",
-      "source": "InfoQ.com",
-      "original_title": "Presentation: Getting Rid of LeetCode Interviews in the World of AI — Daniel Doubrovkine explains why traditional LeetCode whiteboard interviews fail to evaluate senior engineering talent. He discusses his own experience bombing basic algorithm tests despite decades of leadership, and shares actionable frameworks for redefining…",
-      "context": "For decades, tech companies have hired engineers by giving them difficult coding puzzles on a whiteboard, a practice inspired by math tests rather than real job skills. These puzzles often test memory and speed under pressure, which doesn't necessarily show how well someone can build actual software or lead a team. With artificial intelligence now able to write code instantly, experts argue that memorizing syntax is no longer useful, and hiring should focus on problem-solving and leadership instead. This shift aims to find better workers by testing how they think rather than just how fast they can type out answers.",
-      "why_it_matters": "Changing how companies hire engineers ensures they pick workers who can actually solve real problems. Relying on memorized code tests ignores skills like teamwork and leadership, which are crucial today. This shift helps build stronger, more capable tech teams.",
-      "other_side": "Some hiring managers argue that coding tests are still the best way to check basic technical skills. They worry that removing them might let unqualified candidates slip through the net."
-    },
-    {
-      "headline": "India's Mobile Phone Exports Surge 165-Fold Over Decade",
-      "summary": "The Indian government reports that mobile phone exports have jumped 165-fold in the last decade, reaching ₹2.59 lakh crore. Additionally, two companies are currently producing memory chips in India, highlighting significant growth in the country's semiconductor manufacturing capabilities.",
-      "source": "BusinessLine",
-      "original_title": "India's mobile phone exports jump 165-fold in a decade to ₹2.59 lakh crore: Govt — On memory chip manufacturing, the minister said two companies are currently producing memory chips in India",
-      "context": "India used to import almost all of its electronics, relying on other countries to manufacture the phones people use every day. Over the last ten years, the government invested heavily in building factories and training workers, turning the country into a major global producer of mobile devices. This growth didn't stop at assembly; India is now also starting to make the tiny memory chips inside phones, which was previously done by only a few advanced nations. This rapid rise shows how a developing economy can transform itself from a consumer of goods into a creator of high-tech products.",
-      "why_it_matters": "India’s huge growth in phone exports shows its manufacturing power is rising fast. This success creates jobs and boosts the local economy while reducing reliance on other countries. It also proves that developing nations can lead in high-tech production.",
-      "other_side": "Environmental groups warn that rapid manufacturing growth can harm local air and water quality. There are also concerns about worker safety and fair wages in these fast-expanding factories."
-    },
-    {
-      "headline": "Dangerous Travel Adaptors Sold Online Fail All Safety Tests",
-      "summary": "Experts warn that travel adaptors sold online could cause electric shocks or fires as they fail every safety test conducted. Thousands of shoppers may have purchased these defective devices, leaving them exposed to serious electrical dangers due to lack of regulatory compliance.",
-      "source": "Dailymail.com",
-      "original_title": "Experts warn 'dangerous' travel adaptors sold online could cause electric shock or fire - as they fail every safety test — Thousands of shoppers may have bought these adapters, with investigators warning they could leave users exposed to serious electrical dangers.",
-      "context": "Travel adaptors are small plugs that let you use your electronic devices in different countries with different outlet shapes, but they must meet strict safety rules to prevent fires. Many cheap adaptors sold online skip these safety checks to save money, meaning they can overheat, spark, or give dangerous electric shocks when plugged in. Experts warn that buying these untested items is like rolling the dice with your home's safety, as a simple mistake could lead to serious injury or property damage. This highlights the danger of shopping on websites that do not verify that products are safe for everyday use.",
-      "why_it_matters": "Selling unsafe travel adapters puts travelers at risk of fire or electric shock. This highlights the danger of buying cheap electronics online without checking safety standards. Consumers need to be more careful to protect themselves and their families from serious harm.",
-      "other_side": "Some shoppers argue that strict safety regulations make products too expensive for average buyers. They believe that lower prices justify the small risk, especially for short-term travel needs."
-    },
-    {
-      "headline": "Palantir Stock Performance Raises Questions on Future Millionaire-Maker Status",
-      "summary": "Palantir's stock trajectory from penny-stock territory to $125 raises questions about whether it remains a high-growth investment. The company's valuation shifts reflect broader market sentiments towards AI software stocks and their potential for generating substantial wealth for early investors.",
-      "source": "Biztoc.com",
-      "original_title": "Is Palantir Still a Millionaire-Maker Stock? — Palantir (NASDAQ: PLTR) has minted many millionaires during the past three years. The artificial intelligence (AI) software company hovered near penny-stock territory in 2023 and is currently valued at about $125 per share. It used to trade for more than $200…",
-      "context": "When a stock price jumps from being nearly worthless to very expensive very quickly, it creates a lot of excitement but also a lot of uncertainty about whether it can keep going up. Palantir became famous for this kind of dramatic rise, making early investors very rich while confusing later buyers who wonder if the hype is justified. As the company grows, questions arise about whether it can maintain its high value when the initial novelty of its technology wears off. Investors are now trying to decide if this is a stable long-term investment or just a bubble that might pop soon.",
-      "why_it_matters": "Questions about Palantir’s future show that not all high-flying stocks can keep growing. Investors need to look closely at whether a company’s value is based on real results or just hype. This caution applies to all hot tech stocks currently in the market.",
-      "other_side": "Long-term believers think the current dip is just a pause before the next big jump. They argue that early investors should hold on because the company’s technology will eventually pay off handsomely."
+      "headline": "Secret CLARITY Proposal to Protect Crypto Coders Ripped Apart",
+      "summary": "A last-minute proposal within the Senate's CLARITY Act negotiations aimed at protecting cryptocurrency developers has faced intense criticism from both political sides. The dispute highlights ongoing tensions in Washington regarding regulatory frameworks for the crypto industry.",
+      "source": "CryptoSlate",
+      "original_title": "A secret 11th-hour CLARITY proposal to protect crypto coders was just ripped apart by both sides of Washington",
+      "context": "Context pending.",
+      "why_it_matters": "Lawmakers are struggling to create rules for cryptocurrency without hurting innovation. The debate shows how hard it is to regulate fast-moving tech within slow government processes. Poor laws could either stifle growth or allow fraud to thrive.",
+      "other_side": "Some politicians argue that strict regulations are necessary to protect everyday investors from scams. They claim that without clear rules, crypto remains a wild west dangerous for the public."
     }
   ]
 }
