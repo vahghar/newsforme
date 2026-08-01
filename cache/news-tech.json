@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "The AI Race Built Faster Chips, Now They're Too Fast for Their Own Wires",
-      "summary": "As the AI race accelerates, chip speeds have outpaced the capabilities of traditional wiring, creating a critical bottleneck. Eliyan, a Santa Clara startup valued at $1 billion, has secured $145 million in Series C funding to address this hardware limitation.",
-      "source": "The Next Web",
-      "original_title": "The AI race built faster chips. Now the chips are too fast for their own wires.",
-      "context": "Context pending.",
-      "why_it_matters": "AI computers are getting so smart that the wires connecting their parts can’t keep up with the speed of data. This creates a traffic jam that slows everything down, stopping progress unless new, faster wiring is invented. Fixing this is key to making AI actually useful in the real world.",
-      "other_side": "Some experts argue that building faster chips isn't the only solution. They suggest we should focus on making AI software more efficient instead of just throwing more expensive hardware at the problem."
-    },
-    {
-      "headline": "Why Mainframes Remain Central to Enterprise Transformation",
-      "summary": "Contrary to predictions of obsolescence, mainframes are being redefined by AI, hybrid cloud integration, and cyber resilience rather than replaced. These legacy systems continue to serve as foundational infrastructure for modern enterprise digital transformation strategies.",
+      "headline": "UK's AI Workforce Crisis: Who Will Build the Future?",
+      "summary": "The UK aims to dominate the AI sector, but faces a critical shortage of skilled personnel needed to operate and maintain its expanding data center infrastructure. This workforce gap threatens to undermine national ambitions for technological leadership.",
       "source": "TechRadar",
-      "original_title": "Why mainframes remain central to enterprise transformation",
-      "context": "Context pending.",
-      "why_it_matters": "Old-school mainframe computers are not dying; they are being updated to handle modern AI tasks. This means companies don’t need to scrap their old systems, saving money and reducing waste while staying secure. It proves that legacy tech can still be vital for big businesses.",
-      "other_side": "Critics say these old machines are heavy, hard to fix, and use too much power. They believe companies should move everything to the cloud for better flexibility and lower long-term costs."
+      "original_title": "[TechRadar] The UK wants to lead on AI, but who is going to build it? — The UK’s AI future depends on building the workforce behind its data centers.",
+      "context": "The United Kingdom is trying to become a global leader in artificial intelligence, which requires massive computer centers that use huge amounts of electricity and need constant technical care. However, there are not enough trained engineers and technicians in the country to build, run, and fix these complex machines. This shortage is a major problem because even if the UK has the best ideas for AI, it cannot succeed without the people needed to keep the physical infrastructure working. Without solving this labor gap, the country's dream of leading the tech world could fail due to a simple lack of skilled workers.",
+      "why_it_matters": "The UK wants to lead in AI, but it doesn't have enough skilled workers to run the massive computer centers needed for it. This shortage could slow down the country's tech growth and hurt its plans to be a global leader. Without people to build and fix these systems, the dream of AI dominance might fall flat.",
+      "other_side": "Some experts argue that automation can fill some of these gaps by doing routine tasks without human help. Others say the focus should be on training locals quickly rather than just hiring from abroad."
     },
     {
-      "headline": "Lloyds Bank Cuts £2bn in Costs via AI-Powered Strategy",
-      "summary": "Lloyds Banking Group announced a four-year plan to cut £2 billion in costs, driven by an AI-powered strategy aimed at increasing operational efficiency. While the CEO highlighted efficiency gains, specific details regarding potential job losses were not disclosed.",
+      "headline": "Samsung Galaxy Z Fold 8 Ultra: Inside the Overlooked Details of Next-Gen Foldables",
+      "summary": "An in-depth look at the Samsung Galaxy Z Fold 8 and Z Fold 8 Ultra reveals innovative features and controversial design choices that define the current state of foldable smartphone technology. The devices highlight Samsung's ongoing struggle to balance aesthetic appeal with functional durability.",
+      "source": "Geeky Gadgets",
+      "original_title": "[Geeky Gadgets] 12 Overlooked Details on the Samsung Galaxy Z Fold 8 Ultra — The Samsung Galaxy Z Fold 8 and Z Fold 8 Ultra represent the forefront of foldable smartphone technology, showcasing a mix of innovative features and controversial design decisions. These devices highlight Samsung’s ongoing efforts to balance aesthetics, func…",
+      "context": "Foldable smartphones are a new type of phone that can bend or fold in half to fit into a pocket while opening up into a larger tablet-like screen. Samsung has been the main company making these devices for years, but they face a tough challenge: making the screen look beautiful and thin without it breaking easily from daily use. The latest models try to balance being stylish with being strong enough to survive drops and folds, but this trade-off often leads to controversial design choices. Consumers are watching closely to see if these phones can finally become durable enough for everyday people who are tired of fragile electronics.",
+      "why_it_matters": "Samsung is pushing the limits of phone design with new foldable screens that bend and unfold. These devices show how technology is becoming more flexible and portable, changing how we carry our digital lives. It sets a trend for other companies to make gadgets that are easier to hold and use on the go.",
+      "other_side": "Critics point out that folding screens are still fragile and expensive to repair if they break. Many users worry that the complex moving parts will fail faster than regular solid phones."
+    },
+    {
+      "headline": "Manipal Hospital Deploys India's First AI-Enabled Elekta Evo for Radiotherapy",
+      "summary": "Manipal Hospital in Bengaluru has installed India's first Elekta Evo system, marking a significant advancement in AI-enabled adaptive radiotherapy. This installation represents a major leap forward in medical technology and precision healthcare within the Indian market.",
+      "source": "BusinessLine",
+      "original_title": "[BusinessLine] Manipal Hospital, Bengaluru Installs India's First Elekta Evo, Advancing AI-Enabled Adaptive Radiotherapy in India",
+      "context": "Radiotherapy is a medical treatment that uses high-energy beams to kill cancer cells, but it must be aimed with extreme precision to avoid damaging healthy tissue. Manipal Hospital in India has installed a new machine called Elekta Evo, which uses artificial intelligence to adjust the treatment plan in real-time as the patient breathes or moves. This is a big deal because it allows doctors to treat tumors more accurately than ever before, reducing side effects and improving survival chances. It marks a major step forward for healthcare in India, bringing cutting-edge technology that was previously only available in wealthier nations.",
+      "why_it_matters": "A hospital in India is now using AI to help target cancer radiation more precisely. This means patients get better treatment with less damage to healthy parts of their bodies. It shows how smart computers are making serious medical care safer and more effective for everyone.",
+      "other_side": "Some doctors are concerned that relying too much on AI might reduce the role of human expertise in critical decisions. There are also worries about the high cost of this technology limiting access to only wealthy hospitals."
+    },
+    {
+      "headline": "Capri Loans Partners with OpenAI to Revolutionize Enterprise Lending",
+      "summary": "Capri Loans has collaborated with OpenAI to integrate enterprise-grade artificial intelligence into its lending operations. This partnership aims to enhance operational efficiency and decision-making capabilities through advanced AI applications in the financial sector.",
+      "source": "BusinessLine",
+      "original_title": "[BusinessLine] Capri Loans Collaborates with OpenAI to Bring Enterprise-Grade AI to Lending Operations",
+      "context": "Lending money to businesses usually involves a lot of paperwork, manual checks, and slow decision-making processes that can delay funding. Capri Loans has teamed up with OpenAI, the company behind ChatGPT, to use advanced artificial intelligence to automate and speed up these tasks. By letting AI review financial data and make decisions, they hope to make the lending process faster, cheaper, and less prone to human error. This partnership shows how traditional finance companies are starting to rely on AI to compete in a modern economy where speed and efficiency are key.",
+      "why_it_matters": "A lending company is using OpenAI’s tools to decide who gets loans faster and fairer. This helps banks process applications without slow human delays, making money moves quicker for businesses. It proves that AI is no longer just a toy but a real tool for handling money and risk.",
+      "other_side": "People fear that AI might accidentally reject good loan applicants due to hidden biases in its code. There is also concern that less human oversight could lead to unfair treatment of borrowers."
+    },
+    {
+      "headline": "Kaspersky KATA: Deep Dive into Network Anomaly Detection Rules",
+      "summary": "A technical analysis of Network Anomaly Detection (NAD) rules within Kaspersky Anti Targeted Attack (KATA) explores how the system identifies sophisticated threats like Kerberoasting and DNS tunneling. This breakdown provides critical insights into modern cybersecurity defense mechanisms.",
+      "source": "Securelist.com",
+      "original_title": "[Securelist.com] Network Anomaly Detection in KATA — An analysis of how Network Anomaly Detection (NAD) rules work within Kaspersky Anti Targeted Attack, using Kerberoasting and DNS tunneling attacks as examples.",
+      "context": "Cybersecurity companies like Kaspersky create special rules to spot hackers who try to sneak into computer networks using hidden or unusual methods. One common trick hackers use is called \"Kerberoasting,\" where they steal passwords by exploiting how computers verify identities, and another is \"DNS tunneling,\" which hides stolen data inside normal web address requests. Kaspersky’s system looks for these strange patterns in network traffic to stop attacks before they cause damage. Understanding these rules helps explain how modern security tools act like smart guards that recognize suspicious behavior rather than just blocking known bad guys.",
+      "why_it_matters": "This story explains how security software spots sneaky hackers trying to break into networks. By understanding these rules, companies can stop cyberattacks before they steal data or cause harm. It highlights the constant digital battle between protecting information and finding new ways to hack it.",
+      "other_side": "Some IT workers find these technical details too complex to apply in real-world daily tasks. Others argue that focusing on one specific tool ignores broader security habits like strong passwords."
+    },
+    {
+      "headline": "Microsoft's Strategic Pivot in AI Capex Satisfies Wall Street",
+      "summary": "Microsoft CEO Satya Nadella signaled a slight moderation in capital expenditure for AI infrastructure, a move that was positively received by Wall Street investors. This shift suggests a maturing approach to AI investment strategies among big tech giants.",
       "source": "Biztoc.com",
-      "original_title": "Lloyds Bank to cut £2bn in costs as part of AI-powered strategy",
-      "context": "Context pending.",
-      "why_it_matters": "A major bank is using AI to cut costs by billions, showing how automation is changing finance. This likely means fewer human workers will be needed for routine tasks in the future. It signals a shift where efficiency matters more than headcount.",
-      "other_side": "Workers worry that this efficiency drive will lead to mass layoffs without warning. They also fear that relying on AI might make customer service feel cold and impersonal."
+      "original_title": "[Biztoc.com] Microsoft blinked a little in the AI capex race. Wall Street loved it — Microsoft CEO Satya Nadella\nFortune via Reuters Connect\nA version of this story originally appeared in the BI Tech Memo newsletter.\nSign up for the weekly BI Tech Memo newsletter here.\nFor several years, Big Tech has operated under a simple rule: spend more o…",
+      "context": "Building the giant computer farms needed for artificial intelligence costs billions of dollars, and Microsoft had been spending heavily to stay ahead of competitors. Recently, the company’s leader hinted that they would spend slightly less on this infrastructure, which made investors happy because it showed the company was being careful with its money. This shift suggests that big tech firms are moving from a phase of reckless spending to a more mature strategy focused on getting real returns on their investments. Investors prefer stability and profit over endless expansion, so this cautious approach signals confidence in the long-term value of AI.",
+      "why_it_matters": "Microsoft is slowing down its huge spending on AI hardware because investors want to see profits sooner. This suggests that big tech companies are realizing they need to make money from AI, not just spend billions building it. It may force other companies to be smarter about how they invest in new technology.",
+      "other_side": "Some analysts worry that cutting back too soon could let competitors take the lead in AI innovation. They believe that long-term success requires keeping spending high even if profits aren't immediate."
     },
     {
-      "headline": "Hackers Exploit AnySign4PC to Install Backdoors Without Prompts",
-      "summary": "A state-sponsored campaign compromised trusted South Korean websites to exploit locally installed financial-security software. Attackers successfully installed backdoors on targeted visitors' systems without triggering standard security prompts.",
-      "source": "Internet",
-      "original_title": "Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts",
-      "context": "Context pending.",
-      "why_it_matters": "Hackers are finding sneaky ways to break into computers without users even knowing it. This makes personal and financial data much more vulnerable to theft. It shows that traditional security warnings are no longer enough to keep people safe.",
-      "other_side": "Some security firms argue that most users are already protected by basic antivirus software. They claim that blaming complex hacks distracts from the real issue: poor password habits by regular people."
+      "headline": "Meta and Microsoft Report Divergent AI Earnings Amid Investor Skepticism",
+      "summary": "Major tech giants Meta and Microsoft reported quarterly earnings with differing perspectives on AI profitability, reflecting growing investor skepticism regarding massive AI spending. Concurrently, over 1,000 workers at top AI labs signed an open letter urging government intervention.",
+      "source": "Marketplace.org",
+      "original_title": "[Marketplace.org] Meta and Microsoft report different AI earnings — Meta and Microsoft — as well as other tech titans — have been reporting quarterly earnings, and investors are looking at AI spending with a more skeptical eye. Plus, more than 1,000 workers at top AI labs signed an open letter this week calling on the governm…",
+      "context": "Major technology companies like Meta and Microsoft are spending enormous amounts of money on artificial intelligence, but investors are starting to worry if they will ever make that money back. When these companies reported their recent earnings, they showed different views on whether AI is currently profitable, causing confusion and skepticism among shareholders. At the same time, over a thousand workers at top AI labs signed a letter asking the government to step in, likely due to concerns about safety or ethics. This situation highlights the tension between the rapid push for new technology and the growing demand for financial accountability and responsible development.",
+      "why_it_matters": "Big tech firms like Meta and Microsoft are showing different results on whether AI makes money yet. Investors are getting nervous because they spent so much but aren't seeing clear cash returns. Meanwhile, workers are asking the government to step in, showing that the industry is under pressure from both money and people.",
+      "other_side": "Supporters argue that AI is still in its early stages, so expecting instant profits is unrealistic. They believe the current losses are just part of building a foundation for future massive gains."
     },
     {
-      "headline": "SilverFox Targets Japanese Manufacturer with New BYOVD Chain",
-      "summary": "The Chinese cybercrime group Silver Fox has been observed executing Bring Your Own Vulnerable Driver (BYOVD) attacks against a Japanese industrial manufacturer. The campaign utilized new drivers to deliver ValleyRAT malware, highlighting evolving threat vectors in industrial sectors.",
-      "source": "Internet",
-      "original_title": "SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT",
-      "context": "Context pending.",
-      "why_it_matters": "Cybercriminals are targeting factories and manufacturers, not just banks or stores. This puts physical goods and supply chains at risk of disruption or sabotage. It highlights how digital attacks can now cause real-world damage to industry.",
-      "other_side": "Industry leaders say that industrial systems are air-gapped and safe from the internet. They argue that these reports exaggerate the threat to scare companies into buying unnecessary security upgrades."
+      "headline": "JD.com Announces Q2 2026 Financial Results Release Date",
+      "summary": "Leading supply chain-based technology provider JD.com has announced it will release its unaudited financial results for the second quarter and interim period of 2026 on August 13, 2026. This update is crucial for investors tracking the performance of major e-commerce technology firms.",
+      "source": "GlobeNewswire",
+      "original_title": "[GlobeNewswire] JD.com to Report Second Quarter and Interim 2026 Financial Results on August 13, 2026 — BEIJING, July 31, 2026 (GLOBE NEWSIRE) -- JD.com, Inc. (NASDAQ: JD and HKEX: 9618 (HKD counter) and 89618 (RMB counter)), a leading supply chain-based technology and service provider, today announced that it plans to release its unaudited financial results f…",
+      "context": "JD.com is one of China’s largest online shopping platforms, similar to Amazon, and it relies heavily on technology to manage its vast supply chain of goods. The company announced that it will release its financial results for the second quarter of 2026 on August 13, giving investors a chance to see how well the business performed. These reports are crucial because they show whether the company is making money, growing its customer base, and managing its logistics efficiently. For anyone tracking the health of major e-commerce firms, this date is a key moment to evaluate JD.com’s success in a competitive market.",
+      "why_it_matters": "JD.com is sharing its financial numbers, which tells investors if its online shopping business is growing. This data helps people understand how well major e-commerce companies are doing in a tough market. It gives a clear picture of consumer spending and company health for the second quarter.",
+      "other_side": "Some investors think quarterly reports don't show the full picture of a company's long-term strategy. Others argue that focusing on short-term profits might hurt innovation and customer service improvements."
     },
     {
-      "headline": "iOS 27 Finally Lets You Hide the Audio Button in Messages",
-      "summary": "Apple's upcoming iOS 27 update introduces a new customization option allowing users to hide the microphone button in the Messages app. This feature addresses long-standing user complaints about the persistent dictation and audio recording controls cluttering the text entry line.",
-      "source": "Macworld",
-      "original_title": "iOS 27 finally lets you hide the Audio button in Messages—here’s how",
-      "context": "Context pending.",
-      "why_it_matters": "Apple is finally listening to users who hate cluttered phone screens. Giving people control over what buttons they see improves the daily experience for millions. It sets a trend for other apps to offer more customization options.",
-      "other_side": "Privacy advocates worry that hiding audio buttons might make it harder to detect when recording is happening. They fear this could be used to spy on people without their knowledge."
+      "headline": "Chase Discontinues Priority Pass Access at Sapphire Lounges",
+      "summary": "Chase Sapphire Lounges are ending their integration with Priority Pass and LoungeKey on August 15, replacing them with five-hour connection access benefits. This change significantly alters the travel perks available to cardmembers and impacts lounge usage policies.",
+      "source": "Fromthetraytable.com",
+      "original_title": "[Fromthetraytable.com] Chase drops Priority Pass at its lounges — why I’m a fan — Chase Sapphire Lounges leave Priority Pass and LoungeKey on Aug. 15, but cardmembers gain five-hour connection access. Here's what changes and who's affected.",
+      "context": "Many credit card holders enjoy free access to airport lounges through programs like Priority Pass, which allows them to relax in quiet areas before flights. Chase, a major bank, used to let customers use these lounges through its Sapphire card benefits, but it is ending this partnership on August 15. Instead, cardholders will get a different perk called five-hour connection access, which changes how and when they can use lounge facilities. This update significantly alters the travel experience for many users, shifting the focus from unlimited lounge access to more limited, time-based benefits.",
+      "why_it_matters": "Chase is changing how credit card holders use airport lounges, ending one perk and adding another. This affects millions of travelers who rely on these benefits for comfort during flights. It shows how banks are tweaking rewards to save money while trying to keep customers happy.",
+      "other_side": "Travelers are upset because losing Priority Pass access removes a popular and useful benefit. Many feel the new five-hour limit is too restrictive for those with long layovers or delayed flights."
     },
     {
-      "headline": "Digital PR for AI Visibility: 5 Tactics to Measure Success",
-      "summary": "With generative AI increasingly shaping search results, having a website is no longer sufficient for visibility. Experts outline five digital PR tactics designed to ensure content is cited and referenced by AI models, along with methods to measure this growing metric.",
-      "source": "Semrush.com",
-      "original_title": "Digital PR for AI visibility: 5 tactics + how to measure",
-      "context": "Context pending.",
-      "why_it_matters": "AI search engines are changing how people find information online. Businesses must now write content specifically to be picked up by AI, not just humans. This shifts the entire strategy of online marketing and visibility.",
-      "other_side": "Critics say this will flood the internet with low-quality, AI-generated spam. They worry that genuine human voices and diverse opinions will get buried under robotic content."
-    },
-    {
-      "headline": "Gpiozero Flow Simplifies Raspberry Pi GPIO Programming",
-      "summary": "Gpiozero Flow builds upon the Python library originally created in 2015 to simplify programming GPIO devices on Raspberry Pi. By abstracting complex electrical concepts like pin channels and voltages, it allows developers to focus on logical interactions like button presses.",
-      "source": "Bennuttall.com",
-      "original_title": "Gpiozero Flow",
-      "context": "Context pending.",
-      "why_it_matters": "New tools are making it easier for beginners to build hardware projects with simple code. This lowers the barrier to entry for learning electronics and engineering. It encourages more students and hobbyists to tinker with technology.",
-      "other_side": "Some developers argue that simplifying the code hides important technical details. They believe beginners need to understand the underlying hardware to truly master programming."
-    },
-    {
-      "headline": "FIFA Forward Enterprise Proposes Tokenized Equity for Private Investors",
-      "summary": "FIFA is exploring the sale of minority stakes in its commercial arm through tokenized equity, aiming to democratize investment opportunities. This move introduces blockchain-based financial instruments to traditional sports governance, though it raises questions about prioritizing profits over member interests.",
-      "source": "Crypto Briefing",
-      "original_title": "FIFA Forward Enterprise proposes minority stake for private investors, with tokenized equity on the table",
-      "context": "Context pending.",
-      "why_it_matters": "FIFA is using blockchain to let regular people invest in sports organizations. This could bring in huge amounts of cash but changes how sports are governed. It raises questions about whether profit should come before fair play.",
-      "other_side": "Fans and critics argue that selling off parts of a sports body corrupts its mission. They believe sports should remain independent and focused on competition, not stock market gains."
-    },
-    {
-      "headline": "Secret CLARITY Proposal to Protect Crypto Coders Ripped Apart",
-      "summary": "A last-minute proposal within the Senate's CLARITY Act negotiations aimed at protecting cryptocurrency developers has faced intense criticism from both political sides. The dispute highlights ongoing tensions in Washington regarding regulatory frameworks for the crypto industry.",
-      "source": "CryptoSlate",
-      "original_title": "A secret 11th-hour CLARITY proposal to protect crypto coders was just ripped apart by both sides of Washington",
-      "context": "Context pending.",
-      "why_it_matters": "Lawmakers are struggling to create rules for cryptocurrency without hurting innovation. The debate shows how hard it is to regulate fast-moving tech within slow government processes. Poor laws could either stifle growth or allow fraud to thrive.",
-      "other_side": "Some politicians argue that strict regulations are necessary to protect everyday investors from scams. They claim that without clear rules, crypto remains a wild west dangerous for the public."
+      "headline": "Chandigarh University Students Complete Aerospace Engineering Training at ISRO and DRDO",
+      "summary": "232 Aerospace Engineering students from Chandigarh University successfully completed industry training programs at premier organizations including ISRO, DRDO, and HAL. This initiative bridges the gap between academic learning and practical aerospace engineering applications.",
+      "source": "BusinessLine",
+      "original_title": "[BusinessLine] 232 Aerospace Engineering Students of Chandigarh University complete industry training at ISRO, DRDO, HAL & other Aerospace Organisations — 232 Aerospace Engineering Students of Chandigarh University complete industry training at ISRO, DRDO, HAL & other Aerospace Organisations",
+      "context": "Aerospace engineering is the field of study focused on designing and building aircraft and spacecraft, requiring both classroom learning and hands-on experience. Students from Chandigarh University recently completed training at top Indian organizations like ISRO (the space agency) and DRDO (the defense research group), gaining real-world skills. This program bridges the gap between theory and practice, ensuring that graduates are ready to work in high-tech industries immediately after school. Such partnerships are vital for developing a skilled workforce capable of advancing the country’s capabilities in space and defense technology.",
+      "why_it_matters": "Students are getting hands-on training at top space and defense agencies like ISRO and DRDO. This bridges the gap between classroom theory and real-world engineering jobs in high-tech fields. It prepares the next generation of experts to work on rockets, planes, and national security projects.",
+      "other_side": "Some critics say that university programs often lack practical skills, making such short internships insufficient. Others worry that focusing only on elite agencies leaves out students interested in private sector aerospace jobs."
     }
   ]
 }
