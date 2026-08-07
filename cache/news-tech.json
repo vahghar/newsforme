@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "Lucid Bets Survival on Robotaxis Amid $1.4bn Cost Cuts",
-      "summary": "Electric vehicle manufacturer Lucid has unveiled a significant cost-cutting plan worth $1.4 billion alongside a substantial quarterly loss. The company is pivoting its survival strategy by partnering with Uber and Nuro to develop an autonomous robotaxi program.",
-      "source": "The Next Web",
-      "original_title": "Lucid is cutting $1.4bn and betting its survival on robotaxis",
-      "context": "Context pending.",
-      "why_it_matters": "Lucid is trying to stay in business by changing its main goal from selling luxury cars to building self-driving taxis. This shift shows that making expensive electric vehicles is very hard and expensive, so companies must find cheaper ways to survive. It could change how we think about future transportation if robot taxis become the main focus.",
-      "other_side": "Critics say this pivot proves Lucid failed at its original plan of making great consumer cars. They worry that relying on partners like Uber might mean Lucid loses control over its own technology and brand identity."
+      "headline": "Nvidia Quietly Staffs New AI Safety Team Amid Open Model Push",
+      "summary": "Nvidia is building a dedicated AI safety team, signaling a significant investment in secure artificial intelligence as it continues to expand its portfolio of open-weight models. This move highlights the growing industry focus on responsible AI development alongside rapid technological advancement.",
+      "source": "Business Insider",
+      "original_title": "[Business Insider] Nvidia is quietly staffing a new AI safety team as it doubles down on open models",
+      "context": "Artificial Intelligence models are like incredibly complex digital brains that learn from massive amounts of data, but they can sometimes make mistakes or say harmful things if not carefully guided. Nvidia is the company that makes the powerful computer chips most AI companies use to build these brains, so they have a huge responsibility in how this technology develops. By creating a specific team focused on safety, Nvidia is trying to ensure that the open-source tools they provide don't accidentally cause harm, similar to how car manufacturers must install seatbelts and airbags before selling vehicles. This move shows that even as AI gets faster and smarter, the industry is realizing that building it responsibly is just as important as making it powerful.",
+      "why_it_matters": "Nvidia is making sure its powerful AI tools are safe to use before they become part of everyday life. This helps build trust with the public and ensures that as AI gets smarter, it doesn't cause accidental harm or spread bad information.",
+      "other_side": "Some people worry this move is just a PR stunt to look responsible while still pushing for faster profits. They fear safety checks might slow down innovation or be used to control how open-source AI is shared."
     },
     {
-      "headline": "DuckDuckGo Enters Smart Glasses Market with Non-Smart Devices",
-      "summary": "Privacy-focused search engine DuckDuckGo has launched a line of smart glasses that notably lack cameras, AI capabilities, and internal electronics. This move highlights a niche in the wearable tech market focused purely on privacy rather than connectivity or data collection.",
-      "source": "PetaPixel",
-      "original_title": "DuckDuckGo’s Smart Glasses Have No Camera, No AI, and No Electronics",
-      "context": "Context pending.",
-      "why_it_matters": "DuckDuckGo is proving that people want tech products that do not spy on them or collect their data. By selling glasses with no cameras or internet, they are highlighting a growing fear about privacy in our daily lives. This could push other tech companies to offer simpler, safer options for users who value secrecy.",
-      "other_side": "Some experts argue that these glasses are just a gimmick because they lack the useful features people actually want. They believe consumers will quickly lose interest in devices that cannot connect to apps or take photos."
+      "headline": "White House Advisor Exposes 'AI Washing' in Corporate Layoffs",
+      "summary": "A White House advisor has stated that companies are falsely blaming AI for layoffs because it creates a more favorable public narrative. Tech leaders like Sam Altman have criticized this trend of 'AI washing,' where firms use the hype around artificial intelligence to justify workforce reductions.",
+      "source": "Business Insider",
+      "original_title": "[Business Insider] White House advisor says companies are blaming AI for layoffs because 'it plays better in the press' — AI leaders like OpenAI CEO Sam Altman have complained about companies \"AI washing\" their layoffs.",
+      "context": "When big companies fire large groups of workers, they often look for a reason that sounds modern and inevitable rather than admitting to poor business decisions or cost-cutting measures. \"AI washing\" is a term used to describe when businesses pretend that artificial intelligence is the main reason for cutting jobs, even if AI wasn't actually involved in those specific roles. A White House advisor pointed out that this is misleading because it tricks the public into thinking technology is replacing humans, which is a popular narrative right now. Tech leaders are pushing back against this because it unfairly blames robots for what is really just corporate strategy to save money.",
+      "why_it_matters": "This exposes a dishonest trend where companies lie about using AI to hide the real reason they are firing workers. It forces leaders to be honest about why jobs are disappearing and protects workers from being blamed on technology they didn't ask for.",
+      "other_side": "Critics argue that blaming AI is sometimes true because automation does replace certain tasks. They say companies have a right to cut costs to stay competitive in a changing market."
     },
     {
-      "headline": "S&P Awards Top Stability Rating to BlackRock Tokenized Fund",
-      "summary": "Standard & Poor's has granted its highest stability rating to BlackRock's tokenized reserve fund, recognizing its ability to maintain a stable net asset value. In contrast, S&P reaffirmed USDT as one of the lowest-rated stablecoins under its existing assessment framework.",
-      "source": "Cointelegraph",
-      "original_title": "S&P gives BlackRock tokenized reserve fund top stability rating",
-      "context": "Context pending.",
-      "why_it_matters": "BlackRock’s new digital fund is getting top marks for safety, which helps make crypto look more serious and stable for regular investors. At the same time, the popular coin USDT is being rated as risky, warning people that not all digital money is safe. This distinction helps guide big investors toward safer choices in the volatile crypto world.",
-      "other_side": "Skeptics point out that giving high ratings to tokenized funds still relies on traditional banking systems that can fail. They argue that true crypto should be independent of old financial rules, which these new funds are not."
+      "headline": "Google Teases Pixel 11 Pro Fold, Confirming Key Leaks",
+      "summary": "Google has officially released a teaser for the Pixel 11 Pro Fold, validating previous leaks about its design and features. The device focuses on refined upgrades rather than radical innovation, positioning itself competitively in the ultra-premium foldable smartphone market.",
+      "source": "Geeky Gadgets",
+      "original_title": "[Geeky Gadgets] Pixel 11 Pro Fold Video Teaser Proves Leaks Right About Google’s Next Flagship",
+      "context": "Foldable smartphones are devices with screens that can bend and fold in half, allowing them to be small enough to fit in a pocket but large enough to read like a tablet when opened. Google has been working on its own version of this technology for years, facing challenges with durability and price compared to competitors like Samsung. The Pixel 11 Pro Fold represents their latest attempt to enter this high-end market by focusing on small, reliable improvements rather than trying to invent something completely new. By confirming leaks about the design, Google is signaling that they believe their phone is ready to compete with the best options currently available to consumers.",
+      "why_it_matters": "Google is proving that folding phones are becoming normal, high-quality devices rather than weird novelties. This pushes other phone makers to improve their own designs so consumers get better, more durable screens.",
+      "other_side": "Many buyers feel these new foldable phones are too expensive for only small upgrades. They argue that regular flat-screen phones offer better value and last longer without breaking."
     },
     {
-      "headline": "China Imposes Export Controls on Drones and Sanctions US Firms",
-      "summary": "China has announced new economic countermeasures against the United States, including strict export controls on drones and sanctions targeting six American entities. These actions are a direct response to recent US restrictions on Chinese firms and products, escalating tensions in the technology sector.",
-      "source": "The Times of India",
-      "original_title": "China announces countermeasures against Washington, including controls on drones exports to the US",
-      "context": "Context pending.",
-      "why_it_matters": "China is fighting back against US restrictions by blocking drone exports, which hurts American companies that rely on Chinese parts. This trade war makes it harder for both countries to work together on technology and security issues. It forces businesses to find new suppliers, which raises costs and slows down innovation.",
-      "other_side": "Supporters of the sanctions argue that limiting China’s tech growth is necessary for national security. They believe that without these strict measures, China would gain too much power in critical areas like defense and AI."
+      "headline": "Nintendo Reports Sharp Decline in Switch 2 Sales Year-Over-Year",
+      "summary": "Sales of the Nintendo Switch 2 have dropped by more than a third compared to its explosive launch period last year. Despite the decline, Nintendo maintains that current adoption rates still compare favorably to those of the original Switch console.",
+      "source": "IGN",
+      "original_title": "[IGN] Switch 2 Sales Down Year-on-Year After 2025's Explosive Launch, Though Nintendo Insists Adoption Still Compares 'Favorably' to Original Switch",
+      "context": "The Nintendo Switch was a revolutionary gaming console that allowed people to play video games at home or take them on the go, becoming one of the best-selling systems in history. Its successor, the Switch 2, launched with huge excitement, leading to a massive spike in sales during its first year as fans rushed to buy the newest hardware. However, it is normal for sales to drop significantly after the initial rush of early adopters finishes, much like how smartphone sales slow down after a new model comes out. Nintendo is comparing these current numbers to the very first year of the original Switch to show that, despite the drop, the system is still doing well compared to past generations.",
+      "why_it_matters": "Nintendo’s drop in sales shows that even hit games lose steam quickly if there isn't constant new content. It warns game companies that launching a console is not enough; they must keep players engaged over many years.",
+      "other_side": "Nintendo argues that steady sales are actually good because they mean a loyal fanbase stays with them. They believe long-term support matters more than short-term hype spikes."
     },
     {
-      "headline": "JPMorgan CEO Leads Industry Effort to Tackle AI Risks",
-      "summary": "JPMorgan Chase CEO Jamie Dimon is spearheading a cross-industry initiative to address the risks associated with artificial intelligence adoption. He is urging corporate leaders to join a US-focused group aimed at managing the challenges posed by rapidly developing AI technologies.",
-      "source": "Biztoc.com",
-      "original_title": "Exclusive-JPMorgan CEO Dimon leads new cross-industry effort to tackle AI risks",
-      "context": "Context pending.",
-      "why_it_matters": "Jamie Dimon is pushing banks and big companies to talk about the dangers of AI before things get out of hand. His effort encourages leaders to work together on rules rather than racing ahead without thinking. This could lead to safer AI development that protects jobs and prevents harmful mistakes.",
-      "other_side": "Some tech leaders feel that slowing down AI development will hurt progress and let competitors get ahead. They argue that innovation should move fast and that regulations might stifle creativity and economic growth."
+      "headline": "SteelSeries Unveils Arctis Nova Pro Omni for Multiplatform Gaming",
+      "summary": "SteelSeries has launched the Arctis Nova Pro Omni, a 2026 upgrade designed for multiplatform gamers seeking enhanced audio performance. Early reviews suggest it is a worthy successor to the popular Nova Pro Wireless, though some users remain divided on which model offers the best value.",
+      "source": "TechRadar",
+      "original_title": "[TechRadar] The SteelSeries Arctis Nova Pro Omni offers a souped-up, 2026 upgrade for my beloved Nova Pro Wireless and is perfect for multiplatform gamers",
+      "context": "Gamers often spend a lot of money on high-quality headphones to hear subtle sound effects in games, such as footsteps or distant explosions, which can help them win matches. SteelSeries is a company that makes these specialized gaming headsets, and they recently released an updated version called the Arctis Nova Pro Omni designed to work seamlessly across different gaming computers and consoles. This new model aims to fix common complaints about battery life and sound clarity found in previous versions, offering a more premium experience for serious players. While some users love the upgrade, others are debating whether the higher price tag is worth it compared to older, cheaper models that still perform well.",
+      "why_it_matters": "This new headset gives gamers across different computers and consoles a single, high-quality audio solution. It simplifies setup for players who switch between gaming platforms and want clear sound without buying multiple devices.",
+      "other_side": "Some users think the price is too high for what you get compared to older models. Others prefer sticking with brands they already know rather than trying a new product line."
     },
     {
-      "headline": "China Slaps Export Controls on 10 US Firms in Tech War Escalation",
-      "summary": "China has expanded its export controls to include ten US firms, further disrupting global technology supply chains. This escalation impacts critical sectors including defense, artificial intelligence, and cryptocurrency, marking a significant intensification in the ongoing tech war between the two nations.",
-      "source": "Crypto Briefing",
-      "original_title": "China slaps export controls on 10 US firms in escalating drone and tech war",
-      "context": "Context pending.",
-      "why_it_matters": "China is tightening its grip on key technologies, making it harder for US firms to buy essential materials or software. This split in the global tech supply chain means companies may have to choose sides between American and Chinese systems. It creates uncertainty for businesses that depend on smooth international trade.",
-      "other_side": "Proponents of the controls claim they are needed to protect national security and prevent military misuse. However, opponents say these actions harm global cooperation and increase prices for everyday consumers worldwide."
+      "headline": "New Runtime-Agnostic Pattern Aims to Boost AI Production Durability",
+      "summary": "A new technical pattern addresses the trade-off between reliable production deployment and fast iteration in AI workflows. By persisting and distributing every step, the approach ensures runs survive crashes while attempting to maintain the speed needed for development cycles.",
+      "source": "InfoQ.com",
+      "original_title": "[InfoQ.com] Article: Runtime-Agnostic AI Workflows: A Pattern for Production Durability and Fast Eval Iteration",
+      "context": "Building artificial intelligence programs is like cooking a complicated meal where you might need to try many recipes quickly, but you also need to make sure the final dish doesn't burn or spoil. Developers often struggle with a trade-off between moving fast to test new ideas and ensuring that their software runs smoothly without crashing when thousands of people use it. A new technical method has been created to solve this by saving every single step of the process, so if the computer crashes, it can pick up exactly where it left off instead of starting over. This helps companies keep their AI projects stable and reliable while still allowing engineers to experiment and improve the code rapidly.",
+      "why_it_matters": "This fix stops AI programs from crashing and losing all your work when something goes wrong. It makes building smart software much easier and faster for developers who need to test ideas constantly.",
+      "other_side": "Adding extra steps to save every action can make the software run slower. Developers might find the system too complex to manage compared to simpler, less reliable methods."
     },
     {
-      "headline": "Bitcoin’s Digital Gold Status Tested by State Accumulation in 2026",
-      "summary": "Analysts argue that Bitcoin's status as digital gold is being validated not by price volatility but by quiet accumulation from sanctioned states. This trend suggests a fundamental shift in how sovereign entities view and utilize cryptocurrency as a reserve asset.",
-      "source": "BeInCrypto",
-      "original_title": "Bitcoin’s Real Gold Standard Test is Just Starting in 2026",
-      "context": "Context pending.",
-      "why_it_matters": "Countries that are under sanctions are buying Bitcoin to hide their money and bypass financial blocks. This trend shows that governments see crypto as a way to keep wealth safe when traditional banks won’t help. It challenges the idea that only individuals use cryptocurrency for investments.",
-      "other_side": "Traditional economists warn that state involvement makes Bitcoin less decentralized and more political. They argue that this could lead to stricter government crackdowns that hurt regular users and reduce trust in the system."
+      "headline": "Japan Debuts Hand-Tracking Tech to Virtually Pet VTubers",
+      "summary": "Ohtani Design Laboratory has introduced V-Nade!, an interactive technology allowing fans to virtually pet VTubers during meet-and-greet events. This hand-tracking innovation enhances fan engagement by adding physical interaction elements to digital entertainment platforms.",
+      "source": "Sankakucomplex.com",
+      "original_title": "[Sankakucomplex.com] Japan Unveils Hand-Tracking Tech That Lets Fans “Pet” Their Favorite VTubers",
+      "context": "VTubers are online entertainers who use animated avatars instead of showing their real faces, creating a unique form of digital celebrity that relies heavily on fan interaction. Ohtani Design Laboratory has developed a new technology called V-Nade! that uses hand-tracking sensors to let fans physically gesture toward the screen, which the avatar then interprets as petting or touching. This adds a layer of physical connection to an otherwise virtual experience, making fans feel more engaged and emotionally connected to the character they support. It represents a growing trend in digital entertainment where technology tries to bridge the gap between the online world and real-world physical actions.",
+      "why_it_matters": "This tech brings digital characters closer to fans by allowing physical-like interactions through screens. It changes how we experience entertainment, making virtual meetups feel more personal and real.",
+      "other_side": "Some fans find the idea creepy or unnatural, preferring to keep a distance from digital personas. Others worry it blurs the line between reality and fiction too much."
     },
     {
-      "headline": "AI and Pseudoscience: A Critical Approach for Science Communicators",
-      "summary": "Experts emphasize the need for science communicators to engage critically with artificial intelligence rather than dismissing or blindly embracing it. The article argues for a skeptical yet constructive approach to integrating AI into scientific discourse and public understanding.",
-      "source": "Sciencebasedmedicine.org",
-      "original_title": "AI And Pseudoscience — We have to deal with artificial intelligence (AI). We cannot simply dismiss it or criticize it, and we certainly shouldn’t just embrace it without significant skepticism. But I feel it is necessary for any science communicator to do their best to become AI-li…",
-      "context": "Context pending.",
-      "why_it_matters": "Experts are urging teachers and writers to look closely at AI instead of just fearing or loving it blindly. This balanced view helps the public understand what AI can and cannot do accurately. It builds a smarter society that can use technology wisely without falling for fake news or hype.",
-      "other_side": "Some critics feel that engaging with AI gives it too much legitimacy even when it produces wrong information. They believe scientists should distance themselves from AI tools to maintain credibility and avoid confusion among the public."
+      "headline": "Lewitt Updates Space Replicator Plugin with Standalone Version",
+      "summary": "Lewitt has released an update to its Space Replicator plugin, introducing a new standalone version alongside technical improvements. The update aims to enhance audio processing capabilities for music producers and sound engineers using the software.",
+      "source": "Soundonsound.com",
+      "original_title": "[Soundonsound.com] Lewitt update Space Replicator plug-in",
+      "context": "Audio plugins are small software programs that musicians and sound engineers use inside their recording studios to change how music sounds, adding effects like reverb or equalization. Lewitt is a brand known for making microphones and audio software, and they recently updated their \"Space Replicator\" plugin to include a standalone version that can run independently. This means users don't have to load the plugin inside a larger program to use it, making the workflow simpler and potentially faster for producers working on songs. The update also includes technical improvements to make the sound processing clearer and more realistic for professional audio creation.",
+      "why_it_matters": "Musicians now have a standalone tool that works independently, making recording easier without extra computer links. This saves time and reduces technical headaches for creators focusing on making music.",
+      "other_side": "Professional studios might find the standalone version lacks the deep integration needed for complex projects. Some engineers prefer keeping everything connected within one main system for better control."
     },
     {
-      "headline": "Populism and Power in the Global AI Data Center Buildout",
-      "summary": "A deep dive into the political and economic dynamics driving the construction of massive AI data centers reveals growing local opposition. The article explores how communities are resisting these infrastructure projects due to concerns over energy consumption and environmental impact.",
-      "source": "Jasmi.news",
-      "original_title": "No Data Centers in My Backyard — money, power, and populism in the AI buildout",
-      "context": "Context pending.",
-      "why_it_matters": "Building huge computer centers for AI uses massive amounts of electricity, which angers local communities worried about pollution. This conflict shows that green energy goals clash with the need for powerful computing resources. Resolving this tension is key to allowing AI growth without harming the environment.",
-      "other_side": "Tech companies argue that data centers create jobs and bring economic benefits to local areas. They claim that modern facilities are efficient enough to minimize environmental damage compared to older industrial plants."
+      "headline": "Kaspersky Analysis Highlights Cybersecurity Risks in Space Systems",
+      "summary": "A retrospective analysis by Kaspersky identifies hidden vulnerabilities in space infrastructure, emphasizing the need for improved resilience against cyberattacks. The report details how space systems are increasingly becoming targets and tools for malicious actors.",
+      "source": "Kaspersky.com",
+      "original_title": "[Kaspersky.com] Space systems as targets and tools for cyberattacks",
+      "context": "Satellites and space stations are critical infrastructure that we rely on for GPS navigation, weather forecasting, and global internet communication, but they are often built with older technology that wasn't designed to handle modern cyber threats. Kaspersky, a cybersecurity firm, analyzed these space systems and found hidden weaknesses that could allow hackers to interfere with their operations or steal sensitive data. As space becomes more crowded with private companies launching satellites, the risk of malicious actors targeting these systems increases significantly. The report highlights the urgent need to upgrade space technology with better security measures to protect the essential services that depend on it.",
+      "why_it_matters": "Space equipment is now at risk of being hacked, which could disrupt satellites or communication networks. Fixing these weak spots is crucial to protect global services like GPS and weather forecasting from cyberattacks.",
+      "other_side": "Some experts argue that securing space systems is too costly and slows down new launches. They believe the risk of hacking is currently low enough to ignore until it becomes a bigger threat."
     },
     {
-      "headline": "EV Composites Market Projected to Reach $5.45 Billion by 2031",
-      "summary": "New market research indicates the electric vehicle composites sector will grow significantly, reaching $5.45 billion by 2031. This expansion, driven by a 15.2% CAGR, reflects increasing demand for lightweight materials in next-generation EV manufacturing.",
-      "source": "PRNewswire",
-      "original_title": "EV Composites Market worth $5.45 billion by 2031 - Exclusive Report by MarketsandMarkets™",
-      "context": "Context pending.",
-      "why_it_matters": "Electric car makers are using lighter, stronger materials to make batteries last longer and cars drive further. This trend helps make EVs more practical and affordable for average buyers by improving performance. It supports the shift away from gas cars by solving range anxiety and durability issues.",
-      "other_side": "Environmental groups worry that producing these special composite materials creates new types of waste. They argue that recycling these advanced materials is difficult and could lead to long-term pollution problems."
+      "headline": "BRIN Introduces Adsorbed Natural Gas Technology as LPG Alternative",
+      "summary": "The National Research and Innovation Agency (BRIN) is presenting Adsorbed Natural Gas (ANG) technology as a viable alternative to Liquefied Petroleum Gas. This development represents a significant step in Indonesia's energy sector innovation and research initiatives.",
+      "source": "Antaranews.com",
+      "original_title": "[Antaranews.com] BRIN introduces ANG as LPG alternative technology to Prabowo",
+      "context": "Liquefied Petroleum Gas (LPG), commonly known as propane or butane, is widely used for cooking and heating in many parts of the world, but it requires special pressurized tanks that can be dangerous if they leak. Indonesia's National Research and Innovation Agency (BRIN) is promoting Adsorbed Natural Gas (ANG) as a safer and more efficient alternative that stores natural gas in a solid material, similar to how a sponge holds water. This technology allows gas to be stored at lower pressures, reducing the risk of explosions and making it easier to transport in smaller containers. It represents a significant step forward in energy innovation, aiming to provide cleaner and safer fuel options for households and industries.",
+      "why_it_matters": "Indonesia is finding a cleaner, safer way to store gas fuel that could reduce accidents and pollution. This innovation helps countries rely less on imported oil and move toward more sustainable energy sources.",
+      "other_side": "Critics say the new technology is not yet ready for mass use and might be more expensive. They worry it could distract from investing in proven renewable energy like solar or wind power."
     }
   ]
 }
