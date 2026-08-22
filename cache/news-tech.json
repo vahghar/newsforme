@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "CATL Targets Lithium-Air Batteries for 1,000-Mile EV Range",
-      "summary": "CATL, the world’s largest battery manufacturer, is shifting its focus beyond solid-state batteries to explore lithium-air technology. This move aims to achieve a theoretical energy density that could enable electric vehicles to travel up to 1,000 miles on a single charge.",
+      "headline": "Apple AirPods Pro 4 Leaked: Massive Upgrades and New Design Revealed",
+      "summary": "A recent leak discovered in a macOS 26.7 release candidate reveals significant updates to Apple’s upcoming AirPods lineup, including the AirPods Pro 4 and AirPods 5. These potential features suggest a major redesign and functional enhancements that could redefine the wearable technology market.",
       "source": "Geeky Gadgets",
-      "original_title": "[Geeky Gadgets] CATL Targets Lithium-Air Batteries for 1,000-Mile EV Range — CATL, the world’s largest battery manufacturer, is shifting its focus beyond solid-state batteries to explore the possibilities of lithium-air technology. According to Undecided with Matt Ferrell, lithium-air batteries present a theoretical energy density of …",
+      "original_title": "Apple AirPods Pro 4 Leaked: Massive Upgrades and New Design Revealed",
       "context": "Context pending.",
-      "why_it_matters": "This could change how we drive forever. Cars might go much farther without stopping to charge, making electric cars just as easy as gas cars. It pushes the world closer to using cleaner energy for travel.",
-      "other_side": "This technology is still very new and not ready for stores. It might take many years before these batteries are safe or cheap enough for regular people to buy."
+      "why_it_matters": "Apple is making its earbuds smarter and better looking, which pushes other companies to improve their own products. This means you will likely get better sound, longer battery life, and new features in future gadgets without paying much more.",
+      "other_side": "Some people worry that these small upgrades aren't worth the high price tag. They might also be disappointed if the new design doesn't fix the common issues they had with previous models."
     },
     {
-      "headline": "Mitsubishi Electric Acquires US Software Firm for $1.4B",
-      "summary": "Mitsubishi Electric has announced the acquisition of US energy software company PCI Energy Solutions in a deal valued at $1.4 billion. The purchase strengthens Mitsubishi's capabilities in utility software and electricity market solutions.",
+      "headline": "Canonical Funds PhD to Automate C to Rust Translation for Ubuntu",
+      "summary": "Canonical has initiated a three-year PhD project aimed at automating the translation of hundreds of thousands of lines of C code into Rust for Ubuntu. This initiative seeks to enhance system security and memory safety by modernizing legacy codebases within the Linux ecosystem.",
+      "source": "Itsfoss.com",
+      "original_title": "Canonical is Funding a PhD to Automate C to Rust Translation for Ubuntu",
+      "context": "Context pending.",
+      "why_it_matters": "Moving computer code from old languages to safer ones makes your computer less likely to crash or get hacked. This helps keep the internet and software we use every day more secure for everyone.",
+      "other_side": "Critics say this project takes a long time and costs a lot of money. They argue that fixing bugs manually might be faster and cheaper than building a robot to do it automatically."
+    },
+    {
+      "headline": "Chinese Humanoid Robots Face Human Efficiency Gap",
+      "summary": "Industry leaders at the World Robot Conference in Beijing highlighted that the primary obstacle for humanoid robots remains their inability to match human efficiency and learning speed. Despite technological advancements, robots still struggle to perform complex tasks as effectively as humans in real-world scenarios.",
       "source": "Biztoc.com",
-      "original_title": "[Biztoc.com] Mitsubishi Electric to buy US software firm for $1.4B — Mitsubishi Electric announced on Thursday that it will acquire US energy software company PCI Energy Solutions in a $1.4 billion deal.PCI develops software used by utilities and other electricity mark...",
+      "original_title": "Chinese humanoid robots' biggest obstacle: humans are still (mostly) better",
       "context": "Context pending.",
-      "why_it_matters": "Big companies are buying smaller ones to get better computer tools. This helps power grids run smoother and saves money for everyone who pays an electric bill. It shows how tech is becoming key to keeping lights on.",
-      "other_side": "When big firms buy others, prices can go up because there is less competition. Smaller companies might lose their unique ideas once they join a giant corporation."
+      "why_it_matters": "Robots are getting better at moving around, but they still can't learn as fast as humans. This gap means robots won't replace workers in complex jobs anytime soon, keeping human labor essential for many tasks.",
+      "other_side": "Some experts believe robots don't need to be exactly like humans to be useful. They argue that even if robots are slower, they can still do dangerous or boring jobs better than people."
     },
     {
-      "headline": "Webull Stock Surges on Record Q2 Earnings",
-      "summary": "Webull shares surged in after-hours trading following the reporting of stronger-than-expected second-quarter 2026 results. The online brokerage delivered record revenue and profitability, driven by a sharp increase in trading activity.",
-      "source": "Economictimes.com",
-      "original_title": "[Economictimes.com] Webull stock surges: 5 things to know about its Q2 earnings — Webull shares surged in after-hours trading after the online brokerage reported stronger-than-expected second-quarter 2026 results. The company delivered record revenue and profitability, helped by a sharp increase in trading activity. (Sources: Yahoo Finance…",
+      "headline": "Debian Turns 33 and Haiku Celebrates 25 Years of Open Source Innovation",
+      "summary": "This article commemorates the anniversaries of two major open-source operating systems, Debian and Haiku, highlighting their continued development and relevance. It explores how Debian remains a pillar of Linux stability while Haiku keeps the BeOS dream alive with modern adaptations.",
+      "source": "Theregister.com",
+      "original_title": "Debian is 33, Haiku is 25, and neither is standing still",
       "context": "Context pending.",
-      "why_it_matters": "More people are trading stocks online, which means more money is moving in the market. This shows that everyday investors are getting more active and confident. It proves that phone apps are changing how we handle our savings.",
-      "other_side": "High trading activity can be risky if people are gambling instead of investing wisely. A sudden drop in interest could make this company’s profits fall quickly again."
+      "why_it_matters": "These operating systems show that free software can last for decades and stay important. It proves that communities of volunteers can build reliable tools that big companies rely on.",
+      "other_side": "New users might find these older systems confusing or hard to set up. They may prefer modern, user-friendly options that come with official support and easy guides."
     },
     {
-      "headline": "FAST Boom Creates New Streaming Software Buyers",
-      "summary": "The rapid growth of FAST (Free Ad-supported Streaming TV) channels is introducing new organizations into the streaming software market. These buyers previously lacked streaming infrastructure and are now launching channels for the first time, reshaping demand for software solutions.",
-      "source": "Streamingmedia.com",
-      "original_title": "[Streamingmedia.com] The FAST Boom Is Creating a New Kind of Streaming Software Buyer — The growth of FAST channels is bringing all sorts of new organizations into the streaming software market, attracting buyers that previously had little or no streaming infrastructure and are launching channels for the first time.",
-      "context": "Context pending.",
-      "why_it_matters": "Free TV channels are growing fast, giving viewers more choices without paying. New groups are entering the business, which creates jobs and new ways to share news. It changes how we watch things at home.",
-      "other_side": "These free channels rely heavily on ads, which can be annoying or intrusive. Viewers might feel overwhelmed by too many commercials during their favorite shows."
-    },
-    {
-      "headline": "BrowserBox v18.6.5 Released for Secure Remote Browsing",
-      "summary": "A new version of BrowserBox, a tool designed for secure remote browsing, has been released. The update allows users to browse securely from anywhere using various methods, enhancing privacy and access control for remote operations.",
+      "headline": "iDescriptor v0.6.2 Released as Cross-Platform iDevice Management Tool",
+      "summary": "The latest version of iDescriptor, a free and open-source tool, has been released to manage iOS devices across multiple platforms. This update provides users with enhanced capabilities for controlling and configuring iDevices from non-Apple operating systems.",
       "source": "Kitploit.com",
-      "original_title": "[Kitploit.com] BrowserBox v18.6.5 — Secure remote browsing anywhere, any way you like it.",
+      "original_title": "iDescriptor v0.6.2 — A free, open-source, and cross-platform iDevice management tool",
       "context": "Context pending.",
-      "why_it_matters": "This update makes it safer to use the internet from anywhere. People can keep their private data hidden while working remotely. It helps protect users from hackers and spies online.",
-      "other_side": "Extra security steps can sometimes slow down your computer or make it hard to use. Some users might find the new rules too strict and frustrating for daily tasks."
+      "why_it_matters": "This tool lets people who don't have Macs control their iPhones and iPads. It gives users more freedom to choose their computers while still managing their Apple devices easily.",
+      "other_side": "Apple usually wants you to use only its own products together. Some fans might feel this breaks the smooth experience they expect when using an iPhone with a Mac."
     },
     {
-      "headline": "Berkeley Professor's Op-Ed Flagged by AI Detector",
-      "summary": "An op-ed by Berkeley professor Zvezdelina Stankova regarding student admissions was flagged by an AI detector, sparking debate over the reliability of such tools. The incident highlights growing tensions between academic integrity concerns and the use of automated detection systems in higher education.",
-      "source": "The Next Web",
-      "original_title": "[The Next Web] A Berkeley professor wrote about students cutting corners, but a detector flagged her op-ed — Zvezdelina Stankova published an op-ed on 15 August arguing that Berkeley admits students who cannot do middle school mathematics. Within days, the argument had been overtaken by a question about how the op-ed itself was written. Zvezdelina Stankova, a teachi…",
+      "headline": "data-store-tools 2.4.1 Adds Azure Fabric and LLM Utilities",
+      "summary": "The data-store-tools package has updated to version 2.4.1, introducing new integration tools for Forge DataStore, Azure Fabric, and various API utilities. The release also includes support for Large Language Model (LLM) interactions, expanding its utility for developers working with cloud data ecosystems.",
+      "source": "Pypi.org",
+      "original_title": "data-store-tools 2.4.1 — Integration tools for Forge DataStore - Azure Fabric, Azure tools, LLM, and API utilities.",
       "context": "Context pending.",
-      "why_it_matters": "This story shows that AI detectors are not always right. They can wrongly accuse innocent people of cheating, which is unfair. We need better tools to tell real writing from AI help.",
-      "other_side": "Some argue that students should write everything themselves to learn properly. Using AI might stop young people from developing their own critical thinking skills."
+      "why_it_matters": "Developers can now connect different cloud services and AI tools more easily. This saves time and helps businesses process data faster using smart computer programs.",
+      "other_side": "Adding too many connections between systems can make things complicated. If one part fails, it might cause problems for the whole system, leading to confusion."
     },
     {
-      "headline": "Ohio Data Center Power Plant Sparks Local Backlash",
-      "summary": "Policymakers propose using gas power plants to fuel Ohio data centers without raising electric bills, but locals are concerned about increased emissions. The conflict underscores the environmental challenges associated with the rapid expansion of digital infrastructure.",
-      "source": "Signalohio.org",
-      "original_title": "[Signalohio.org] Buckeye Lake data center power plant draws Ohio backlash — Policymakers hope gas power plants can fuel Ohio data centers without raising electric bills. But locals worry about emissions.",
+      "headline": "elidia-agent-cli 2.0.7 Expands Multi-Platform AI Agent Capabilities",
+      "summary": "Version 2.0.7 of elidia-agent-cli brings expanded functionality to the terminal and messaging app environments as part of the AiUtils.io ecosystem. Powered by Elidia Technology, this update enhances the multi-platform AI agent's ability to interact seamlessly across different digital interfaces.",
+      "source": "Pypi.org",
+      "original_title": "elidia-agent-cli 2.0.7 — Multi-platform AI agent for the terminal and messaging apps — part of the AiUtils.io ecosystem, powered by Elidia Technology",
       "context": "Context pending.",
-      "why_it_matters": "Data centers need huge amounts of power to store our cloud files. Building new plants nearby keeps costs low but risks hurting local air quality. It highlights the clash between digital growth and clean air.",
-      "other_side": "Locals worry that pollution will harm their health and property values. They fear that economic gains for tech companies come at the cost of their community's well-being."
+      "why_it_matters": "AI agents are becoming easier to use across different apps and chat platforms. This means you can get help from smart assistants no matter where you are working or chatting.",
+      "other_side": "Relying on AI in messaging apps might lead to privacy concerns. People might worry about how much personal data these agents collect and store."
     },
     {
-      "headline": "Reliance Industries Proposes Rs 2.7 Lakh Cr Underground Coal Gasification",
-      "summary": "Reliance Industries has proposed a massive 30-year investment to develop an underground coal gasification complex in Andhra Pradesh. The project aims to convert deep coal into syngas for hydrogen, methanol, and synthetic natural gas, potentially reducing India's energy shocks.",
-      "source": "The Times of India",
-      "original_title": "[The Times of India] Ambani's Rs 2.7 lakh cr underground bet can save India from shocks — Reliance Industries has proposed a Rs 2.73 lakh crore, 30-year investment to develop an underground coal gasification complex in Andhra Pradesh. The project could convert deep coal into syngas for hydrogen, methanol, ammonia and synthetic natural gas, helping…",
+      "headline": "itasca-mcp 0.7.0 Launches MCP Server for Simulation Workflows",
+      "summary": "The itasca-mcp package has released version 0.7.0, providing a Model Context Protocol (MCP) server for ITASCA software simulation workflows. This tool facilitates integration between ITASCA’s PFC, FLAC, and 3DEC simulation engines and AI-driven applications.",
+      "source": "Pypi.org",
+      "original_title": "itasca-mcp 0.7.0 — MCP server for ITASCA software (PFC, FLAC, 3DEC) simulation workflows",
       "context": "Context pending.",
-      "why_it_matters": "This plan turns deep coal into useful fuel like hydrogen. It could give India more energy independence and reduce reliance on imports. It offers a new way to use old resources cleanly.",
-      "other_side": "Digging up coal underground can damage the land and water tables. Critics say it is still a dirty energy source that harms the environment long-term."
+      "why_it_matters": "This update helps scientists and engineers use AI to test their designs faster. It bridges the gap between complex simulations and modern artificial intelligence tools.",
+      "other_side": "Not all researchers know how to use these new technical tools. The learning curve might be steep for those who are not experts in both coding and simulation software."
     },
     {
-      "headline": "Govt Official Urges Industry to Use FTAs for Tech Diversification",
-      "summary": "A government official has advised Indian industry to utilize Free Trade Agreements to attract investment and technology while diversifying export markets. The focus is on building resilient manufacturing ecosystems and adding value to exports to withstand global economic shocks.",
-      "source": "BusinessLine",
-      "original_title": "[BusinessLine] Govt official asks industry to utilise FTAs, focus on value addition, diversify export markets — Official says industry should use FTAs to expand market access, attract investment and technology, diversify supply chains, and build manufacturing ecosystems that can withstand global shocks",
+      "headline": "Rackspace Technology Faces Securities Fraud Lawsuit Allegations",
+      "summary": "Investors have been reminded of a class action lawsuit against Rackspace Technology, Inc., alleging violations of federal securities laws. The legal action claims the company failed to disclose material information regarding its financial health and operational risks to the public.",
+      "source": "PRNewswire",
+      "original_title": "RXT Investors Have Opportunity to Lead Rackspace Technology, Inc. Securities Fraud Lawsuit with SBS Law",
       "context": "Context pending.",
-      "why_it_matters": "Using trade deals helps countries sell goods to more places. This protects businesses when one market slows down. It builds stronger economies that can survive global problems.",
-      "other_side": "Trade deals can hurt local workers if factories move overseas. Small businesses might struggle to compete with larger foreign companies entering the market."
+      "why_it_matters": "Lawsuits against tech companies remind investors to be careful with their money. It shows that even big firms can hide problems, so people need to watch financial news closely.",
+      "other_side": "Companies often say these lawsuits are just tricks by lawyers to get quick cash. They argue that they are running their business honestly and following all the rules."
     },
     {
-      "headline": "Danske Bank Upgrades Axfood Shares",
-      "summary": "Danske Bank has upgraded its rating on Axfood shares, becoming more bullish on the company's prospects. This financial move reflects positive sentiment towards the Swedish food wholesaler's performance and future outlook in the market.",
-      "source": "Thefly.com",
-      "original_title": "[Thefly.com] Danske Bank gets more bullish on Axfood, upgrades shares — See the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…",
+      "headline": "DNOW Inc. Sued for Securities Law Violations",
+      "summary": "The DJS Law Group has announced a class action lawsuit against DNOW Inc., accusing the company of violating Sections 10(b) and 20(a) of the Securities Exchange Act of 1934. The suit alleges that DNOW misrepresented key business metrics and failed to disclose adverse information to investors.",
+      "source": "PRNewswire",
+      "original_title": "DNOW Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - DNOW",
       "context": "Context pending.",
-      "why_it_matters": "Banks upgrading stock ratings often boost investor confidence. This suggests the food wholesaler is doing well and may grow more. It signals stability in the grocery supply chain.",
-      "other_side": "Bank upgrades do not guarantee future success or higher profits. Investors might rush in too quickly, causing the stock price to become too expensive too soon."
+      "why_it_matters": "Legal trouble for DNOW highlights the risks of investing in unstable companies. It warns shareholders that hidden financial issues can pop up and hurt stock prices suddenly.",
+      "other_side": "Investors might think the accusations are exaggerated or unfair. They could believe the company's value is actually strong despite what the lawsuit claims."
     }
   ]
 }
