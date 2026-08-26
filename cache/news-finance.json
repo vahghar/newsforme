@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "BLS International Shares Tank 13% on Massive Volume",
-      "summary": "BLS International Services experienced a sharp 13% decline in share price, nearing its 52-week low. The stock saw huge trading volume with over 20 million shares changing hands on the NSE and BSE.",
+      "headline": "Russia Surges to Fourth Largest Global Economy by PPP",
+      "summary": "Russia has ascended to the fourth-largest economy worldwide and the largest in Europe based on purchasing power parity, according to 2026 IMF forecasts. This shift marks a significant realignment in global economic rankings, surpassing traditional European powers.",
+      "source": "Sputnikglobe.com",
+      "original_title": "[Sputnikglobe.com] Russia Soars to Fourth in Global PPP Rankings, Beating Europe — Russia has become the fourth-largest economy in the world by purchasing power parity (PPP) and the largest in Europe, according to 2026 estimates based on International Monetary Fund forecasts.",
+      "context": "To understand this, you first need to know that \"Purchasing Power Parity\" (PPP) is a way of comparing economies by looking at what money can actually buy locally, rather than just exchanging it for US dollars. Because prices for things like food, rent, and services are much cheaper in Russia than in the US or Europe, their economy looks much bigger when you adjust for those lower costs. This ranking has shifted because Western countries have imposed heavy sanctions on Russia, forcing them to trade less with the West and more with other nations, which has reshaped how their economic size is calculated globally. Essentially, while Russia's economy might look smaller if you only looked at direct dollar exchanges, its internal ability to produce and consume goods makes it appear larger under this specific measurement method.",
+      "why_it_matters": "Russia’s economy is now seen as bigger than Germany or France when you look at what people can actually buy with their money. This changes how the world sees global power, showing that sanctions haven't crushed Russia's ability to produce and trade goods. It suggests the global economic map is shifting away from traditional Western leaders.",
+      "other_side": "Critics say this ranking is misleading because it ignores the fact that many Russian goods are cheap due to a weak currency. They argue that real wealth and living standards for average citizens have not improved, making this \"growth\" feel hollow to normal people."
+    },
+    {
+      "headline": "European Markets Rally as Iran Sanctions Ease Fears",
+      "summary": "European shares climbed as investors reacted positively to the measured rollout of US sanctions against Iran, which avoided immediate severe penalties. Defence stocks led the gains, rising approximately 1%, while broader market sentiment improved due to reduced geopolitical uncertainty.",
+      "source": "The Times of India",
+      "original_title": "[The Times of India] Global Market: European markets gain as investors assess impact of Iran sanctions — European shares edged higher on Tuesday, as investors took some relief from the lack of immediate penalties following the latest US sanctions warning against Iran. Defence stocks led gains, rising about 1%, while the measured rollout of the measures eased con…",
+      "context": "Investors in the stock market hate uncertainty, so when there is a risk of war or strict new rules between major powers, they often get scared and sell their stocks, causing prices to drop. In this case, the United States announced sanctions against Iran, which are penalties designed to stop certain trades, but they did so in a slow and careful way rather than an immediate, harsh crackdown. This \"measured rollout\" meant that companies didn't have to suddenly change their operations overnight, which relieved some of the fear among business leaders. As a result, people felt safer buying shares again, especially in defense companies that make weapons and military equipment, expecting that geopolitical tensions would keep demand for their products high.",
+      "why_it_matters": "European stock markets went up because investors felt less scared about a sudden war or harsh penalties between the US and Iran. When big countries don't act aggressively right away, businesses feel safer investing their money. This calm helps companies grow and creates jobs in Europe.",
+      "other_side": "Some worry that easing tensions might just delay a bigger conflict later on. Others argue that relying on diplomatic pauses is risky if the underlying problems between nations aren't truly solved."
+    },
+    {
+      "headline": "Crude Oil Prices Threaten Demand Amid Strait of Hormuz Tensions",
+      "summary": "Mirae Asset Sharekhan warns that persistently high crude oil prices risk causing demand destruction, driven by ongoing disruptions in the Strait of Hormuz. The US-Iran standoff remains the primary source of volatility in energy markets, impacting global supply chains.",
       "source": "Business Standard",
-      "original_title": "[Business Standard] BLS International Services tanks 13% on huge volume, nears 52-week low — Till 01:38 PM on Monday, a combined 20.92 million equity shares representing 5 per cent of the total equity of BLS International changed hands on the NSE and BSE.",
-      "context": "Context pending.",
-      "why_it_matters": "When a company's stock price drops this much, it means investors are losing faith in its future profits. This can make it harder for the business to borrow money or grow, potentially leading to job cuts or slower service for customers.",
-      "other_side": "Some might argue that a lower stock price makes the company cheaper to buy out by competitors. It could also be seen as a good buying opportunity for long-term investors who believe the drop is just a temporary panic."
+      "original_title": "[Business Standard] Higher crude oil prices risk demand destruction, says Mirae Asset Sharekhan — The main source of uncertainty remains the US-Iran standoff and the continuing disruption around the Strait of Hormuz.",
+      "context": "The Strait of Hormuz is a very narrow channel of water between Iran and Oman that acts as a global chokepoint, meaning a huge portion of the world’s oil must pass through it to reach factories and cars everywhere. When tensions rise between the US and Iran, ships worry about being attacked or blocked, which creates fear that oil supplies will be cut off, driving up the price of crude. However, if oil prices stay too high for too long, regular people and businesses start using less fuel because it becomes too expensive, a phenomenon called \"demand destruction.\" This warning suggests that the current high prices might eventually backfire by making people use less oil, which could hurt the profits of oil-producing countries.",
+      "why_it_matters": "High gas prices make it expensive for everyone to travel and ship goods, which slows down the whole global economy. If oil stays too high, people will stop buying things, causing factories to slow down and workers to lose jobs. This tension in key shipping routes threatens to raise costs for everyday items.",
+      "other_side": "Some experts believe that high prices will force faster adoption of electric cars and green energy. They argue that pain now leads to long-term independence from volatile oil supplies, which is good for the planet."
     },
     {
-      "headline": "UK Fintech Funding Hits Decade Low Amid Sector Struggles",
-      "summary": "Funding for UK fintech companies has dropped to its lowest level in at least ten years according to Bloomberg data. This decline marks a significant downturn for a sector that Britain has heavily promoted for over fifteen years.",
-      "source": "The Next Web",
-      "original_title": "[The Next Web] UK fintech funding has fallen to its lowest level in at least a decade — Funding for UK fintech companies has dropped to its lowest level in at least ten years, according to Bloomberg, which reported the figures on Sunday. The decline lands on a sector that Britain has spent the better part of fifteen years describing as its clear…",
-      "context": "Context pending.",
-      "why_it_matters": "Less money flowing into new tech startups means fewer innovative apps and services will reach the market. This slowdown can hurt economic growth and reduce the number of high-tech jobs created in the UK over the next few years.",
-      "other_side": "Critics might say that cutting back on risky investments is actually smart during uncertain times. It forces companies to focus on making real profit instead of just burning cash to look popular."
-    },
-    {
-      "headline": "Iran's Rial Plummets to Record Low as US Sanctions Loom",
-      "summary": "The Iranian rial has hit a record low against major currencies as the United States prepares to impose new economic sanctions. This economic instability threatens to disrupt global oil markets and influence broader geopolitical pricing trends.",
-      "source": "Crypto Briefing",
-      "original_title": "[Crypto Briefing] Iran’s rial hits record low as US readies new sanctions — Iran's economic instability may escalate, potentially disrupting global oil markets and influencing geopolitical dynamics and pricing trends. The post Iran’s rial hits record low as US readies new sanctions appeared first in Crypto Briefing.",
-      "context": "Context pending.",
-      "why_it_matters": "When Iran's money loses value, it becomes very expensive for them to buy food and medicine from other countries. This hurts regular people inside Iran and can cause global oil prices to spike, making gas more expensive for drivers worldwide.",
-      "other_side": "Supporters of sanctions argue that putting financial pressure on the government is the only way to stop bad behavior without using military force. They believe this pain is necessary to encourage peace talks."
-    },
-    {
-      "headline": "Oil Prices Fall as Trump Pledges Economic War on Iran",
-      "summary": "Global oil prices declined following announcements from the US regarding 'most crushing' economic sanctions against Iran. Investors are closely monitoring how these escalating tensions will impact energy markets and central bank policies.",
-      "source": "The Punch",
-      "original_title": "[The Punch] Oil falls as Trump pledges economic war on Iran — Oil prices fell today as the US announced plans for “most crushing” economic sanctions against Iran. Investors also eye AI tech stocks and central bank mee",
-      "context": "Context pending.",
-      "why_it_matters": "Oil prices dropping here is unusual because war fears usually make them go up. If prices stay low, it helps consumers save money at the pump, but it signals that the world economy might be slowing down due to fear of conflict.",
-      "other_side": "Energy producers and oil-rich countries will lose income if prices fall too low. This can lead to budget cuts in those nations and instability in regions that rely heavily on selling oil."
-    },
-    {
-      "headline": "US Stock Futures Drop Amid Iran Tensions and Trade Uncertainty",
-      "summary": "Wall Street stock futures traded with losses as investors braced for Nvidia's earnings and rising oil prices driven by US-Iran tensions. Market uncertainty is heightened by the Trump administration's plan to escalate sanctions against Iran.",
+      "headline": "Iran-Pakistan Talks Progress on US Interim Deal; Bitcoin Hits $80K",
+      "summary": "Diplomatic progress between Iran and Pakistan regarding a potential interim ceasefire with the US has stabilized market fears, coinciding with Bitcoin surging past $80,000. These developments are key drivers moving financial markets, balancing geopolitical risks with crypto asset rallies.",
       "source": "Biztoc.com",
-      "original_title": "[Biztoc.com] AI trade In focus, Iran sanctions loom - What’s moving markets — Investing.com - U.S. stock futures remained under pressure on Monday as investors braced for Nvidia's earnings later this week, while rising oil prices and escalating tensions between the United States and Iran added to market uncertainty. Investors are also …",
-      "context": "Context pending.",
-      "why_it_matters": "Stock futures dropping shows that big investors are scared and pulling their money out of the market. This nervousness can spread, causing everyday retirement accounts and savings to lose value even before any actual bad news happens.",
-      "other_side": "Some traders see these dips as chances to buy stocks at a discount. They believe that once the fear passes, prices will bounce back higher than they were before."
+      "original_title": "[Biztoc.com] Iran, Pakistan make \"progress\" in talks on U.S.-Iran interim deal, minister says — U.S. widens Iran sanctions; Bitcoin tops $80,000 - what’s moving markets\nInvesting.com - Iran and Pakistan have discussed potentially restoring an interim ceasefire deal between Tehran and the U.S., according to a statement from Pakistan’s Interior Minister M…",
+      "context": "Bitcoin is a digital currency that exists only online and is known for having wild price swings, often rising when people are worried about traditional money losing value or when there is political instability. In this scenario, news that Iran and Pakistan were making progress on a temporary peace deal helped calm fears of a wider war in the Middle East, which usually makes investors nervous. With the threat of conflict slightly reduced, confidence returned to the markets, allowing Bitcoin to surge past $80,000 as traders moved money into digital assets. This shows how closely linked modern financial markets are to global politics, where a small step toward peace can trigger big moves in asset prices.",
+      "why_it_matters": "Good news about peace talks helped calm nervous investors, allowing Bitcoin to reach a new high of $80,000. When fear goes down in the real world, money often flows into digital assets like crypto. This shows that digital money is becoming a major player alongside traditional stocks.",
+      "other_side": "Skeptics warn that Bitcoin’s rise is driven by hype rather than real value, making it a dangerous gamble. They point out that if peace talks fail, crypto prices could crash just as fast as they rose."
     },
     {
-      "headline": "Global Stocks Slip as US Sanctions on Iran Threaten Markets",
-      "summary": "Global equities slipped on Monday as investors awaited details of threatened US sanctions on Iran. The Canadian dollar also dipped amid looming trade war concerns with the US, while Treasury yields and oil prices fell.",
-      "source": "CNA",
-      "original_title": "[CNA] Shares, oil dip as US sanctions on Iran loom — LONDON/SYDNEY, Aug 24 : Global stocks slipped on Monday and oil prices eased as investors awaited details of threatened U.S. sanctions on Iran, while the Canadian dollar dipped as a trade war loomed with its southern neighbour.U.S. Treasury Secretary Scott Be…",
-      "context": "Context pending.",
-      "why_it_matters": "When global stocks slip together, it shows that fear is spreading across different countries, not just one. This interconnected worry can slow down international trade and make businesses hesitant to hire new workers or expand.",
-      "other_side": "A weaker currency like the Canadian dollar can actually help local exporters sell their goods cheaper abroad. It might boost manufacturing sectors that struggle when their own money is too strong."
+      "headline": "Stocks Shrug at Middle East Tensions and Canada Trade Dispute",
+      "summary": "Global stock futures remained muted as investors absorbed geopolitical tensions in the Middle East and emerging trade disputes with Canada. Meanwhile, the bitcoin rally continued to extend, highlighting a divergence between traditional equity caution and digital asset momentum.",
+      "source": "Biztoc.com",
+      "original_title": "[Biztoc.com] Stock Market Today: Markets Shrug at Mideast Tensions, Canada Trade Dispute — Stock futures muted; bitcoin extends rally",
+      "context": "Stock futures are essentially bets made before the main stock market opens, giving investors a hint of whether the day will be good or bad based on overnight news. Here, investors were caught between two worries: potential conflict in the Middle East and a new trade dispute with Canada, which involves disagreements over tariffs or import rules. Despite these serious real-world problems, Bitcoin continued to go up, showing that some investors are choosing to ignore traditional stocks and put their money into digital currencies instead. This divergence highlights a split in the market where some sectors remain cautious due to political risks, while others are driven purely by speculation in crypto assets.",
+      "why_it_matters": "Investors are staying quiet and cautious because of fighting in the Middle East and trade fights with Canada. While regular stocks sit still, Bitcoin keeps going up, showing that digital money is acting differently than old-school investments. This split tells us where risk-averse money is hiding.",
+      "other_side": "Some traders think ignoring these big political problems is a mistake that will backfire soon. They believe that waiting too long to react to trade wars could lead to sudden, sharp drops in stock prices."
     },
     {
-      "headline": "MSCI Global Equities Lower on Tech Weakness and Yield Dip",
-      "summary": "MSCI's global equities gauge fell as weakness in technology stocks offset support from falling US Treasury yields and oil prices. Investors remain cautious ahead of potential US sanctions on Iran and upcoming corporate earnings.",
-      "source": "CNA",
-      "original_title": "[CNA] Shares dip on pressure from technology; yields and oil fall — NEW YORK/LONDON, Aug 24 : MSCI's global equities gauge was lower on Monday as weakness in technology stocks offset support from a dip in U.S. Treasury yields and falling oil prices.Investors were waiting for details of threatened U.S. sanctions on Iran with T…",
-      "context": "Context pending.",
-      "why_it_matters": "Tech stocks often drive the overall market, so when they fall, it drags down everyone else's wealth. This weakness suggests that investors are worried about high interest rates or poor earnings from major technology companies.",
-      "other_side": "Falling yields (interest rates) can be good for borrowers and homebuyers. It lowers the cost of mortgages and loans, which might stimulate spending in housing and construction sectors."
+      "headline": "Abound Super App Selects Monad Blockchain for Growth Phase",
+      "summary": "Fast-growing finance super app Abound has chosen the Monad blockchain to power its next phase of expansion after crossing $500 million in remittances. The company is launching a new wallet product, signaling deeper integration of blockchain technology into mainstream financial services.",
+      "source": "PRNewswire",
+      "original_title": "[PRNewswire] Fastest Growing Global Finance Super App Abound chooses Monad to Power its Next Phase of Growth — Riding record growth after crossing $500 Million in remittances, the super-app built for global Indians announces its next chapter - including a brand-new wallet product, with the waitlist opening soon SAN FRANCISCO, Aug. 25, 2026 /PRNewswire/ -- Abound, the …",
+      "context": "A \"super app\" is a single mobile application that lets users do many different things, like sending money, shopping, and booking rides, all in one place. Abound is such an app that specializes in remittances, which is money sent by workers living in one country to their families in another. They chose to build their system on the Monad blockchain, which is a type of digital ledger technology that records transactions securely and quickly without needing a central bank to approve every single move. By moving to this technology, Abound aims to make sending money across borders faster and cheaper, bringing advanced digital finance tools to everyday people who rely on these transfers to survive.",
+      "why_it_matters": "A popular app for sending money across borders is using blockchain technology to move cash faster and cheaper. This brings advanced digital tools into everyday banking, helping millions of people send money home without high fees. It proves that crypto tech is useful for real-world services, not just speculation.",
+      "other_side": "Privacy advocates worry that putting more financial data on public blockchains makes users easier to track. Others argue that relying on one specific blockchain creates a single point of failure if that system breaks down."
     },
     {
-      "headline": "EU Nations Push for Tax on Windfall Oil Profits",
-      "summary": "Six EU countries have urged the European Union to discuss taxing windfall profits of oil companies triggered by Iran's blockade of the Strait of Hormuz. A letter from their finance ministers highlights the growing fiscal response to energy market shocks.",
-      "source": "RTE",
-      "original_title": "[RTE] 6 countries want EU talks on taxing windfall oil profits — Six European Union countries want the 27-nation EU to discuss in September a mechanism to tax windfall profits of oil companies triggered by Iran's blockade of ⁠the Strait of Hormuz, a letter by their finance ministers showed today.",
-      "context": "Context pending.",
-      "why_it_matters": "Taxing oil companies extra profits aims to redistribute wealth from energy giants to the public. This money could fund healthcare, education, or lower taxes for average citizens who are struggling with high energy bills.",
-      "other_side": "Oil companies argue that these taxes punish success and discourage investment in new energy projects. They warn that higher costs might eventually be passed on to consumers in the form of higher gas and heating prices."
+      "headline": "Kedaara Capital Deploys $200 Million in Tynor Orthotics",
+      "summary": "Kedaara Capital has invested $200 million in Tynor Orthotics, partnering with promoters P.J. Singh and A.J. Singh alongside strategic partner Thuasne. This significant capital injection aims to accelerate the orthopedic device manufacturer's growth trajectory in domestic and international markets.",
+      "source": "Livemint",
+      "original_title": "[Livemint] Kedaara Capital invests $200 million in Tynor Orthotics — Kedaara Capital will work with Tynor’s promoters, P.J. Singh and A.J. Singh, management team and long-standing strategic partner Thuasne.",
+      "context": "Kedaara Capital is an investment firm that provides large amounts of money to growing businesses in exchange for a share of ownership or future profits. Tynor Orthotics is a company that makes medical devices, specifically braces and supports for people with bone or joint injuries, which is a growing industry as populations age and health awareness increases. The $200 million investment gives Tynor the cash needed to build more factories, hire more staff, and expand into new countries where they currently don’t sell their products. This partnership also brings in Thuasne, a global leader in medical support, which adds expertise and connections that help Tynor grow faster than it could on its own.",
+      "why_it_matters": "A huge investment of $200 million will help a company make better medical braces and supports for injured people. This money allows them to build more factories and sell their products to more patients around the world. It boosts local manufacturing and creates skilled jobs in the healthcare sector.",
+      "other_side": "Some critics question whether pouring so much money into one private company is the best use of investor funds. They suggest that public healthcare systems should receive more direct funding instead of subsidizing private business growth."
     },
     {
-      "headline": "Germany's Social Spending Hits Record High Due to Ageing Population",
-      "summary": "Combined spending related to old age and illness accounted for around 70% of total social spending in Germany last year, pushing costs to a record high. The Ifo institute attributes this surge primarily to the country's rapidly ageing demographic structure.",
-      "source": "Yahoo Entertainment",
-      "original_title": "[Yahoo Entertainment] Germany's ageing population pushes social spending to record high, Ifo says — BERLIN, Aug 24 (Reuters) - Combined spending related to old age and illness accounted for around 70% of total social spending in Germany last year, pushing t...",
-      "context": "Context pending.",
-      "why_it_matters": "As Germany's population ages, the country must spend more on pensions and healthcare for retirees. This heavy burden leaves less money for other important areas like infrastructure, schools, or innovation, potentially slowing national progress.",
-      "other_side": "Spending on the elderly is a sign of a successful society that cares for its vulnerable members. It ensures dignity and support for those who contributed to the economy for decades, which is a moral priority for many."
+      "headline": "India’s $73 Billion Foreign Currency Haul Strengthens RBI Buffers",
+      "summary": "India has mobilized approximately $73 billion in foreign currency over 11 weeks, primarily through FCNR(B) deposits, significantly bolstering the Reserve Bank of India's reserves. Despite these inflows, the rupee remains stable near ₹95-96 per dollar, indicating the funds are being used to strengthen buffers rather than force currency appreciation.",
+      "source": "The Times of India",
+      "original_title": "[The Times of India] Where has India’s $73 billion gone? Inside the RBI’s great dollar haul — India has mobilised about $73 billion in foreign currency in under 11 weeks, largely through FCNR(B) deposits, yet the rupee remains near ₹95-96 per dollar. The inflows are primarily strengthening RBI’s foreign-exchange buffers rather than being used to push …",
+      "context": "Foreign Currency Reserves are like a national savings account held by a country’s central bank, filled with US dollars and other strong currencies to protect the nation’s economy during tough times. India recently managed to gather $73 billion by encouraging foreign banks and investors to deposit money in Indian Rupees for fixed periods, known as FCNR(B) deposits. Even though India now has more of this safety buffer, the value of the Rupee against the Dollar stayed steady, which means the government didn’t try to artificially boost the Rupee’s worth. Instead, they let the extra money sit in the reserves to ensure the country can pay for imports and handle any future financial shocks without panic.",
+      "why_it_matters": "India has saved a massive amount of foreign money to protect its economy from future shocks or crises. By holding onto these reserves, the country ensures it can pay for imports even if the global market gets shaky. This safety net keeps the Indian currency stable and builds trust with other nations.",
+      "other_side": "Some economists argue that hoarding so much cash means the money isn't being used to improve schools or roads at home. They believe those funds should be spent directly on growing the domestic economy rather than sitting in bank accounts."
     },
     {
-      "headline": "Stablecoins Evolve Into New Financial Rails Beyond Crypto Liquidity",
-      "summary": "Stablecoins are crossing a threshold in 2026, being used for more than just facilitating crypto trades. Tokenized dollars are increasingly becoming foundational financial rails, signaling a major shift in digital asset utility.",
-      "source": "Bitcoinfoundation.org",
-      "original_title": "[Bitcoinfoundation.org] Stablecoins Are No Longer Just Crypto Liquidity — Are They Becoming the New Financial Rails? — Stablecoins appear to be crossing a threshold in 2026, as tokenized dollars are being used for more than just facilitating trades. With the stablecoin market...",
-      "context": "Context pending.",
-      "why_it_matters": "Stablecoins becoming standard payment tools means digital money could replace traditional bank transfers for daily use. This makes sending money across borders faster and cheaper, changing how we all handle personal finance.",
-      "other_side": "Regulators worry that widespread use of digital coins could facilitate illegal activities like money laundering. There are also concerns about privacy and the risk of technical glitches freezing people's funds unexpectedly."
+      "headline": "Standard Chartered Distributes Hong Kong’s First HKDAP Stablecoin",
+      "summary": "Standard Chartered has become the first bank to distribute Hong Kong’s HKDAP stablecoin, a move expected to accelerate stablecoin adoption in global financial systems. This milestone highlights the growing integration of regulated digital assets into traditional banking infrastructure.",
+      "source": "Crypto Briefing",
+      "original_title": "[Crypto Briefing] Standard Chartered first bank to distribute Hong Kong’s HKDAP stablecoin — The distribution of HKDAP by Standard Chartered may accelerate stablecoin adoption and integration in global financial systems.\nThe post Standard Chartered first bank to distribute Hong Kong’s HKDAP stablecoin appeared first in Crypto Briefing.",
+      "context": "A stablecoin is a type of cryptocurrency that is designed to always equal the value of a regular currency, in this case, the Hong Kong Dollar, so it doesn’t swing wildly in price like Bitcoin. Standard Chartered is a major international bank that decided to distribute HKDAP, which is Hong Kong’s first officially recognized stablecoin, marking a big step in mixing old-school banking with new digital tech. By allowing customers to use this regulated digital dollar within their existing bank accounts, the bank is making it easier for people to send money instantly and cheaply around the world. This move signals that traditional banks are no longer fighting against digital currencies but are actively adopting them to stay relevant in a changing financial landscape.",
+      "why_it_matters": "A major bank is now selling a digital coin tied to the Hong Kong dollar, making it easy for regular people to use crypto safely. This bridges the gap between old-fashioned banks and new digital money, encouraging wider acceptance. It signals that regulated digital cash is becoming a normal part of the financial system.",
+      "other_side": "Traditionalists fear that banks getting involved in crypto gives too much power to tech companies over personal finances. They also worry that if the digital coin fails, ordinary savers could lose their money despite the bank's involvement."
+    },
+    {
+      "headline": "Japanese Bond ETFs See Record $1.5 Billion Inflows in 2026",
+      "summary": "Japanese bond exchange-traded funds have attracted a record $1.5 billion in net inflows so far in 2026, driven by rising government bond yields. European investors are increasingly diversifying portfolios into Japanese debt, capitalizing on the enhanced appeal of Japan's fixed-income assets.",
+      "source": "The Times of India",
+      "original_title": "[The Times of India] Japanese bond ETFs attract a record $1.5 billion in net inflows in 2026 so far, Morningstar say — This year, Japanese bond exchange traded funds have experienced an unprecedented surge in inflows, driven by increasing government bond yields that enhance the appeal of Japan's debt for investors. European market participants are diversifying their portfolio…",
+      "context": "Exchange-Traded Funds (ETFs) are baskets of investments that you can buy and sell on the stock market like a single stock, and Japanese Bond ETFs specifically hold government debt from Japan. Recently, European investors poured record amounts of money into these funds because interest rates in Japan have started to rise, meaning the government pays higher returns to people who lend them money. For years, Japanese bonds paid almost nothing, but now they offer better rewards, making them attractive to investors looking for safe places to park their cash. This massive inflow shows that global investors are constantly shifting their money to wherever they can get the best return with the least amount of risk.",
+      "why_it_matters": "Investors are pouring billions into Japanese government debt because it now offers better returns than before. This shows that global money is moving to find safe places to grow, even in countries far away. It highlights how changing interest rates in one nation can attract worldwide attention.",
+      "other_side": "Some analysts warn that buying too much government debt is risky if inflation rises again and eats up the profits. They argue that focusing only on safe bonds might cause investors to miss out on higher rewards from growing businesses elsewhere."
     }
   ]
 }
