@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "Cognition Raises $46B Valuation, Doubling in Three Months",
-      "summary": "AI-driven automation company Cognition has secured capital at a staggering $46 billion valuation, nearly doubling its worth in just three months. This rapid growth underscores the escalating investment demand and shifting dynamics within the tech industry.",
-      "source": "Crypto Briefing",
-      "original_title": "Cognition raises capital at $46B valuation, nearly doubling in three months",
-      "context": "Cognition is a company that builds software robots, called \"agents,\" which can perform complex tasks on computers just like a human would. These agents are getting very popular because businesses want to save money by automating boring or difficult digital work. Investors are pouring billions of dollars into this specific company because they believe these digital workers will become essential tools for every major corporation in the near future. This massive jump in value shows how excited people are about the idea of AI doing actual work rather than just chatting.",
-      "why_it_matters": "This shows that investors are pouring massive amounts of money into AI companies, betting they will change how we work. It suggests that automation tools could soon become a normal part of many businesses, potentially changing job markets fast.",
-      "other_side": "Some worry this value is too high and not based on real profits yet. If the hype fades, these companies could lose most of their worth quickly."
+      "headline": "Acer Predator Helios Owners Get Free RTX 5070 Ti Upgrade Due to CPU Overheating",
+      "summary": "Intel's Core i9-14900HX processor is experiencing severe overheating and throttling issues, prompting Acer to offer a free upgrade to the RTX 5070 Ti version for affected laptop owners. This rare compensation includes faster RAM but comes with specific caveats regarding the hardware swap.",
+      "source": "Wccftech",
+      "original_title": "Acer Predator Helios’ Overheating 14900HX CPU Gave Rare Opportunity For Owner To Upgrade To RTX 5070 Ti Version For Free With Faster RAM, But Not Without Caveats",
+      "context": "Think of a computer processor like a car engine; when it works too hard, it gets very hot. Intel made a powerful chip for gaming laptops that was prone to overheating, which caused the computers to slow down or crash to protect themselves. Acer, the company that built these laptops, decided to fix the problem by letting customers swap their old parts for newer, better ones for free. This is unusual because companies usually just offer small refunds, but here they are giving you a completely upgraded machine to make up for the trouble.",
+      "why_it_matters": "This shows that even top-tier computer parts can have serious design flaws. It forces companies to take responsibility for broken products by offering free fixes, which protects consumers from wasting money on defective hardware.",
+      "other_side": "Some people might worry that the new parts are not as good as promised. Others may feel that waiting for a fix is too much trouble and prefer just getting their money back instead."
     },
     {
-      "headline": "Nvidia Revenue Set to Nearly Double to US$91.9 Billion",
-      "summary": "Nvidia is poised to report extraordinary quarterly results with revenue expected to nearly double to US$91.9 billion. The company's sustained growth continues to drive confidence in global AI spending despite broader market caution.",
-      "source": "Al Bawaba",
-      "original_title": "Nvidia Revenue Set to Nearly Double to US$91.9 Billion in Earnings Preview | Al Bawaba",
-      "context": "Nvidia is the company that makes the powerful computer chips, known as GPUs, that are required to train and run artificial intelligence models. Think of these chips as the engines of an AI car; without them, modern AI cannot function at all. Because almost every tech giant needs these engines to build their own AI, demand has skyrocketed, leading to record-breaking sales. This financial success proves that the current boom in AI is not just hype, but a real economic shift where hardware providers are making huge profits.",
-      "why_it_matters": "Nvidia is making huge money by selling the chips that power artificial intelligence. This proves that the demand for AI technology is very strong and likely to keep growing for a while.",
-      "other_side": "Critics say this growth might slow down if companies stop spending so much on new hardware. Relying on one company for all this success can be risky for the whole market."
-    },
-    {
-      "headline": "Nifty IT Jumps as Nvidia Results Boost AI Confidence",
-      "summary": "Indian IT stocks surged 3.5% following Nvidia's strong quarterly performance, which alleviated concerns about a slowdown in global artificial intelligence expenditure. Major firms like TCS and Infosys gained ground, though analysts remain cautious on long-term outlooks.",
-      "source": "Business Standard",
-      "original_title": "Nifty IT jumps 3.5% as Nvidia results boost confidence in global AI spend",
-      "context": "India has a massive industry of IT services companies, such as TCS and Infosys, that provide technology support and software development for businesses around the world. When Nvidia reports strong earnings, it signals that global companies are still spending heavily on AI infrastructure, which gives these Indian firms hope that they will get more contracts. The stock market reacts positively because investors see this as proof that the AI revolution is creating real jobs and revenue streams globally, even if some worry the growth might slow down later.",
-      "why_it_matters": "Indian tech companies are seeing more business because global firms still want to use AI. This gives hope that even outside the US, the AI boom is creating real jobs and sales.",
-      "other_side": "Experts warn that this boost might only last for a short time. Long-term growth is uncertain if the big AI trends cool off later."
-    },
-    {
-      "headline": "Meta Executive Sandhya Devanathan Joins OpenAI",
-      "summary": "Sandhya Devanathan, Meta’s head for India and Southeast Asia, is leaving after a decade to join OpenAI. Her departure signals significant talent movement between major tech giants and highlights the intense competition for leadership in the AI sector.",
-      "source": "The Times of India",
-      "original_title": "Meta’s Sandhya Devanathan to join OpenAI; IT stocks rally",
-      "context": "Sandhya Devanathan was a top leader at Meta, the parent company of Facebook, responsible for managing its business in India and Southeast Asia, two of the fastest-growing markets for internet users. She is moving to OpenAI, the creators of ChatGPT, which represents a major shift from social media to artificial intelligence leadership. This move highlights the intense \"war for talent\" happening right now, where the most experienced executives are leaving traditional tech giants to join the new wave of AI-focused companies.",
-      "why_it_matters": "Top talent is moving from big established tech firms to newer AI startups like OpenAI. This shift means the best minds are focusing heavily on building the future of artificial intelligence.",
-      "other_side": "Leaving a stable, large company for a startup carries big personal risks. Not every move to a new firm leads to better career outcomes or stability."
-    },
-    {
-      "headline": "a16z Launches $1.1B Fund for Physical AI Buildout",
-      "summary": "Andreessen Horowitz has created a new $1.1 billion 'Machine Age' fund dedicated to accelerating the physical infrastructure of artificial intelligence. This move marks a strategic shift for the firm, focusing heavily on hardware rather than its typical software-centric investments.",
+      "headline": "Apple TV Raises Prices Again as Streaming Costs Climb",
+      "summary": "Apple has increased the monthly subscription fee for Apple TV to $14.99 and the annual plan to $119, marking its fourth price hike since 2019. The adjustment also affects the bundled Apple One package, reflecting broader trends in streaming service pricing strategies.",
       "source": "Biztoc.com",
-      "original_title": "a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’",
-      "context": "Andreessen Horowitz, often called a16z, is a famous investment firm that usually puts money into software apps and internet platforms. They have now created a billion-dollar fund specifically for \"Physical AI,\" which means investing in the real-world machines, robots, and factories that use AI, rather than just code on screens. This change shows that investors realize AI needs physical bodies and hardware to interact with the real world, shifting focus from virtual services to tangible industrial applications.",
-      "why_it_matters": "Investors are now putting money into the physical parts of AI, like robots and servers, not just software. This indicates that AI is moving out of computers and into the real world.",
-      "other_side": "Building physical infrastructure is expensive and takes a long time to pay off. There is a risk that the hardware investments may not generate returns as fast as hoped."
+      "original_title": "Apple TV rolls out fourth price hike since 2019",
+      "context": "Streaming services like Netflix and Apple TV started out cheap to attract millions of users, similar to how phone companies used to have low rates to get you to sign up. Now that they have huge libraries of popular shows and movies, they have raised prices several times to make more profit from the people who stay subscribed. Apple recently increased its monthly fee again, meaning fans will pay more each month to watch their favorite content. This reflects a general trend where all streaming platforms are charging more as competition grows and costs go up.",
+      "why_it_matters": "Streaming services are becoming more expensive every year. This means families will have to spend more of their monthly budget just to watch their favorite shows and movies online.",
+      "other_side": "Critics say these price hikes are unfair because they happen so often. They argue that customers are being squeezed dry while the companies make record profits without adding new value."
     },
     {
-      "headline": "Anthropic Wins Lawsuit Against Trump Administration Over AI Designation",
-      "summary": "AI safety firm Anthropic has won a legal battle against the Trump administration regarding national security designations. The ruling protects AI companies' rights to establish their own ethical guidelines, limiting government overreach in the sector.",
-      "source": "Crypto Briefing",
-      "original_title": "Anthropic wins lawsuit against Trump administration over national security designation",
-      "context": "Anthropic is a company that builds AI systems with a strong focus on safety and ethics, trying to ensure AI behaves responsibly. They recently sued the government over a designation that could have forced them to follow strict national security rules that conflicted with their ethical guidelines. Winning this lawsuit is a big deal because it establishes that private AI companies have the right to set their own moral standards, preventing the government from controlling how these technologies are designed.",
-      "why_it_matters": "This court win protects AI companies from government control over their safety rules. It allows developers to set their own ethical standards without strict political interference.",
-      "other_side": "Some argue that self-regulation is not enough to keep the public safe. Without government oversight, harmful AI practices might go unchecked."
+      "headline": "Tech Elites Shield Their Children from the Screens They Built",
+      "summary": "Prominent tech billionaires and executives, including Evan Spiegel and Peter Thiel, are actively limiting their children's exposure to digital devices despite building screen-centric industries. This trend echoes Steve Jobs' past admissions that his own kids rarely used the technology they helped create.",
+      "source": "Biztoc.com",
+      "original_title": "Tech billionaires and executives like Evan Spiegel and Peter Thiel are publicly shielding their children from the products that made them rich",
+      "context": "Many parents worry that screens can harm children's attention spans and sleep, even if they work in tech companies that build those screens. Famous leaders like Steve Jobs and current executives often keep their own kids away from tablets and phones at home. They believe that real-world play and face-to-face interaction are more important for growing brains than digital entertainment. This creates an ironic situation where the people creating addictive technology try to shield their own families from its effects.",
+      "why_it_matters": "This highlights a major hypocrisy in the tech world. Leaders who build addictive apps know they are harmful, so they keep their own kids away from them. This suggests we should be very careful about how much screen time our children get.",
+      "other_side": "Some parents think it is impossible to avoid screens completely today. They believe that limiting access entirely might hurt their kids' ability to learn important digital skills for school and work."
     },
     {
-      "headline": "AI Copyright Battle Over 'Slop' Approaches Critical Juncture",
-      "summary": "A complex legal dispute over AI-generated content ownership, involving trademark and copyright claims, is nearing a decisive moment in a San Jose federal court. The case offers a glimpse into the future of Hollywood and creative industries amidst the rise of AI tools.",
-      "source": "Deadline",
-      "original_title": "AI Slop Showdown Over Tung Tung Sahur & Italian Brainrot May Offer Glimpse At Hollywood’s Future",
-      "context": "There is a growing legal fight between artists, writers, and Hollywood studios and AI companies over who owns the content created by machines. AI models are trained on millions of books, movies, and images, often without permission, leading to claims that this is theft of creative property. This case is critical because a ruling against AI could force companies to pay for data or stop using certain styles, fundamentally changing how movies, art, and writing are produced in the future.",
-      "why_it_matters": "This case will decide who owns the content created by AI tools. The outcome will shape how artists and writers get paid in an age where machines can create art.",
-      "other_side": "AI companies argue that using existing data to train models is fair use. They believe restricting this would stifle innovation and progress."
+      "headline": "AI Buildout Earnings Prove Hardware and Software Can Co-Prospers",
+      "summary": "Recent earnings reports indicate that the artificial intelligence infrastructure boom is not a zero-sum game, benefiting both hardware manufacturers and software developers. The positive financial results contributed to gains in the Nasdaq Composite and S&P 500 indices.",
+      "source": "Biztoc.com",
+      "original_title": "The big lesson from this week's earnings: The AI buildout is not a zero-sum game",
+      "context": "Artificial intelligence requires two main things to work: the physical machines (like chips and servers) and the programs (software) that run on them. Recently, companies that make the hardware and companies that write the software both reported making a lot of money. This proves that the AI boom is helping everyone involved, not just one side of the industry. Because both groups are doing well, the stock market has gone up, showing investors are happy with this shared success.",
+      "why_it_matters": "The boom in artificial intelligence is helping many different types of businesses at once. This proves that investing in AI technology is a safe bet right now because both makers of chips and creators of software are making money.",
+      "other_side": "Skeptics worry this growth is just a temporary bubble that will burst soon. They fear that if demand drops, all these companies could lose billions of dollars very quickly."
     },
     {
-      "headline": "Nvidia DLSS 5 AI Filter Leak Causes Visual Distortions in Games",
-      "summary": "An experimental build of Nvidia's DLSS 5 AI upscaling technology has leaked, causing beloved video game characters to appear distorted when applied by modders. The incident highlights the ongoing challenges and unintended consequences in developing advanced AI graphics filters.",
-      "source": "Kotaku",
-      "original_title": "Experimental Build Of Nvidia’s DLSS 5 AI Slop Filter Leaks And Makes Beloved Video Game Characters Look Like Complete Weirdos",
-      "context": "Nvidia’s DLSS technology uses AI to make video games look sharper and run smoother by guessing what pixels should look like. A leaked version of this new update caused characters in games to look weird or distorted because the AI made mistakes in interpreting visual details. This incident shows that while AI graphics are impressive, they are still experimental and prone to glitches, reminding us that the technology is still being refined before it becomes perfect for everyday gaming.",
-      "why_it_matters": "Leaks show that advanced AI graphics tools are still prone to errors and glitches. This highlights the difficulty of making AI behave perfectly in complex environments like video games.",
-      "other_side": "Gamers might be frustrated by bugs that ruin the visual experience. These technical issues could slow down the adoption of new AI features in entertainment."
+      "headline": "Genki Manta Controller Features Full OS and Raspberry Pi Chip",
+      "summary": "Showcased at Gamescom, the Genki Manta gaming controller integrates a display, a full operating system, and a Raspberry Pi chip, allowing users to run small games directly on the device. Its primary advantage lies in its comprehensive configuration capabilities and standalone functionality.",
+      "source": "Notebookcheck.net",
+      "original_title": "Hands-on at Gamescom: This controller comes with a display, an operating system, and a Raspberry Pi chip",
+      "context": "Most game controllers are simple buttons that connect to a console or computer, but the Genki Manta is different because it has its own brain inside. It uses a small, affordable computer chip called a Raspberry Pi, which allows the controller to run its own operating system and games without needing another device. This means you can plug it into a screen and play directly, or use it to control other devices remotely. It is essentially turning a game pad into a tiny, standalone computer.",
+      "why_it_matters": "Gaming controllers are getting smarter and can run games on their own. This means you do not always need a big computer or console to play certain games, making gaming more flexible and portable.",
+      "other_side": "Some gamers think this adds unnecessary weight and bulk to their gear. They also worry that small screens on controllers are hard to see and make the gaming experience worse than using a TV."
     },
     {
-      "headline": "Word 97 Ghost: How CPU Errata Saved Clippy's Debut",
-      "summary": "A Microsoft veteran recounts how a specific CPU errata and a sneaky NOP instruction prevented a crash during the debut of Microsoft Word 97. This technical anecdote reveals the hidden complexities and lucky breaks behind iconic software releases.",
+      "headline": "Apple Skips M6 Pro to Rush AI-First M7 and Baltra Chips for 2026",
+      "summary": "Apple is reportedly accelerating its silicon roadmap by skipping the M6 Pro generation to focus on AI-first M7 and Baltra chips scheduled for 2026. This strategic shift aims to enhance AI compute performance ahead of anticipated new Mac Mini launches and other product updates.",
+      "source": "Slashdot.org",
+      "original_title": "Apple Skips M6 Pro to Rush AI-First M7, Baltra Chip [2026] - tech-insider.org",
+      "context": "Apple designs its own computer chips to make its devices faster and more efficient, usually releasing new versions every year. However, they are now skipping a step in their naming plan to focus specifically on chips that are built for artificial intelligence tasks. By rushing these new \"AI-first\" chips, they want to ensure their future computers can handle complex smart features better than competitors. This change shows they are prioritizing intelligence capabilities over traditional speed upgrades.",
+      "why_it_matters": "Apple is changing its chip design to focus heavily on artificial intelligence. This means future Mac computers will be much better at handling smart tasks like writing help and image creation out of the box.",
+      "other_side": "Skipping a whole generation of chips might confuse buyers and cause delays. Some experts worry that rushing new technology could lead to bugs or performance issues in early models."
+    },
+    {
+      "headline": "OpenAI Terminates Deal with Cursor Citing Elon Musk's Companies",
+      "summary": "OpenAI has ended its partnership with Cursor, stating it no longer trusts SpaceX or xAI to comply with terms of service due to past conduct by Elon Musk's companies. This decision highlights growing tensions between major AI entities regarding data usage and contractual compliance.",
+      "source": "Business Insider",
+      "original_title": "OpenAI says it's ending its deal with Cursor because Elon Musk's companies violate contracts",
+      "context": "OpenAI and Cursor had a partnership where they shared data to improve their AI tools, but OpenAI suddenly ended the deal. The reason given was a lack of trust in Elon Musk’s other companies, SpaceX and xAI, due to past disagreements about rules and behavior. Even though Cursor is a separate company, OpenAI seems worried that Musk’s influence might lead to unfair or unsafe data usage. This highlights the growing tension and legal battles between major players in the fast-moving AI world.",
+      "why_it_matters": "Big tech companies are starting to fight over trust and data rules. This shows that partnerships in the AI world are fragile and can break down quickly due to personal conflicts between leaders.",
+      "other_side": "Some argue that business deals should stay separate from personal drama. They believe that ending contracts over political disagreements hurts innovation and makes the industry less stable for everyone."
+    },
+    {
+      "headline": "Bitcoin Miners Transform into High-Performance Computing Hubs",
+      "summary": "Major US-listed Bitcoin mining firms are pivoting from pure crypto mining to becoming high-performance computing hubs, diversifying their revenue streams. Despite Bitcoin's recent price surge, many miners saw stock declines, underscoring the complexity of their transition into broader tech infrastructure providers.",
+      "source": "CryptoSlate",
+      "original_title": "Bitcoin miners are no longer pure crypto proxies and are morphing into high-performance computing hubs",
+      "context": "Bitcoin mining involves using powerful computers to solve math problems and earn cryptocurrency, which uses a lot of electricity and space. As Bitcoin becomes more expensive to mine, some companies are changing their business model to rent out their powerful computers for other high-tech tasks, like video rendering or scientific research. This shift helps them make money even if Bitcoin prices drop, turning their mining farms into general-purpose computing centers. It is a way to survive and grow by offering more services beyond just digging for digital coins.",
+      "why_it_matters": "Bitcoin miners are changing what they do to survive and grow. Instead of just digging for crypto, they are renting out their powerful computers to other businesses, creating a new way to make steady income.",
+      "other_side": "This shift is risky because running computer hubs is very different from mining. If they fail to find enough clients, they could lose money on equipment that was built only for one specific job."
+    },
+    {
+      "headline": "Apple Sets September 9 Event for New Products and Leadership Changes",
+      "summary": "Apple has scheduled a major event for September 9, promising significant announcements regarding new products and potential leadership transitions within the company. Investors and fans are anticipating key reveals that could define the next chapter for the tech giant.",
+      "source": "Barchart.com",
+      "original_title": "Dear Apple Stock Fans, Mark Your Calendars for September 9",
+      "context": "Apple traditionally holds big events in September to announce new iPhones and other products, keeping fans excited with rumors and leaks. This time, the event is also expected to include news about changes in the company's leadership, such as who will be running things next. Investors and customers are watching closely because leadership changes can signal a new direction for the company’s future products. It is a moment of transition where old strategies might be replaced by new visions.",
+      "why_it_matters": "Apple events are huge moments for fans and investors to see what comes next. New product launches often set trends for the entire tech industry, influencing what other companies will build next year.",
+      "other_side": "Some critics say these events are just marketing stunts designed to hype up small changes. They argue that the real news is often boring upgrades that do not really change how we use our devices."
+    },
+    {
+      "headline": "AWS Criticized for Poor Communication on Costly Networking Technology",
+      "summary": "Amazon Web Services is facing criticism for inadequately communicating the costs associated with its advanced networking technologies, which have led to unexpected expenses for users. Critics argue that AWS should be more transparent about these technical and financial implications rather than downplaying them.",
       "source": "Theregister.com",
-      "original_title": "Word 97's ghost in the machine: The crash that vanished the moment anyone looked at it",
-      "context": "Microsoft Word 97 was one of the first widely used versions of the popular word processing software, featuring the infamous \"Clippy\" paperclip assistant. A recent story reveals that a rare hardware flaw in early computer processors accidentally saved the program from crashing during its launch, allowing it to succeed despite bugs. This anecdote illustrates how the history of computing is often filled with lucky breaks and hidden technical quirks that allowed iconic software to survive its early days.",
-      "why_it_matters": "This story reveals that even iconic software relies on hidden technical fixes and luck. It reminds us that behind smooth user experiences, there are often messy engineering challenges.",
-      "other_side": "Such anecdotes might seem trivial to everyday users who just want apps to work. Focusing on old bugs does little to address current software security issues."
-    },
-    {
-      "headline": "US Stocks Edge Higher as Fed Chair Focuses on Inflation",
-      "summary": "Wall Street saw modest gains as Federal Reserve Chair Kevin Warsh emphasized the central bank's commitment to its 2% inflation target. While chip stocks retreated after Nvidia's rally, traders increased bets on a September rate hike amid mixed economic signals.",
-      "source": "The Times of India",
-      "original_title": "US stocks today: US stocks edge higher as Warsh keeps inflation focus in spotlight",
-      "context": "The Federal Reserve is the central bank of the United States, responsible for keeping prices stable and the economy healthy. Its chair, Kevin Warsh, is focusing on keeping inflation (the rate at which prices rise) under control, aiming for a steady 2% increase per year. Stock markets reacted calmly because investors trust that the Fed will manage interest rates carefully to prevent the economy from overheating, even though there is some uncertainty about whether rates will go up or stay the same in September.",
-      "why_it_matters": "The stock market is reacting to signals about inflation and interest rates from the Federal Reserve. This shows how central bank decisions directly impact investor confidence and daily trading.",
-      "other_side": "Economic signals are mixed, causing confusion among traders. Uncertainty about future rate hikes can lead to volatile and unpredictable market swings."
+      "original_title": "AWS mumbles about its cost-busting networking tech when it should be shouting",
+      "context": "Amazon Web Services (AWS) provides cloud computing power that businesses use to store data and run websites, often charging based on how much technology is used. Some users are complaining that AWS did not clearly explain how much certain advanced networking features would cost, leading to surprise bills. Critics argue that companies should be upfront about hidden fees so customers aren’t shocked by the final price. This situation emphasizes the need for transparency in complex technical services where costs can easily spiral out of control.",
+      "why_it_matters": "Cloud computing costs can sneak up on users if they are not clear. This warns all businesses to read the fine print carefully, as hidden fees for network usage can destroy their profit margins overnight.",
+      "other_side": "Companies defend themselves by saying the technology is complex and hard to explain simply. They argue that users should ask questions before signing up rather than blaming the provider later."
     }
   ]
 }
