@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "Mistral Secures €3B to Build Europe’s Sovereign AI Champion",
-      "summary": "Paris-based AI company Mistral has raised €3 billion in a Series D funding round, achieving a post-money valuation exceeding €21 billion. This landmark investment positions the company as Europe's leading sovereign AI contender, though it remains significantly smaller than US giant OpenAI.",
+      "headline": "LG Denies Allegations of Eavesdropping on 216 Million Smart TVs",
+      "summary": "LG Electronics has strongly denied allegations that its smart TV platform was misused to eavesdrop on users via microphones and collect private data from Wi-Fi networks. The controversy centers on the privacy implications of IoT device surveillance, affecting over 216 million units globally.",
+      "source": "Notebookcheck.net",
+      "original_title": "[Notebookcheck.net] LG denies misusing 216,000,000 smart TVs for user surveillance",
+      "context": "Imagine your television is not just a screen, but also a computer connected to the internet, which allows it to stream movies and apps. These \"smart\" TVs often have built-in microphones so you can control them with your voice instead of a remote. Recently, people worried that these microphones might be secretly recording conversations or listening to private moments in living rooms without permission. LG, the company that makes many of these TVs, stated clearly that they do not use this technology to spy on customers or steal their personal data.",
+      "why_it_matters": "This is a huge privacy warning. It shows that devices in our homes might be listening to us without permission. We need to know if our personal conversations are being saved or sold.",
+      "other_side": "Some people argue that smart features, like voice commands, require constant listening to work. They say the benefits of convenience outweigh the small risk of data collection."
+    },
+    {
+      "headline": "White House AI Review Framework Remains Secret Despite Industry Pressure",
+      "summary": "More than 25 organizations have urged the White House to publish the voluntary framework governing pre-deployment reviews of frontier AI models. The secretive nature of these safety protocols highlights growing tensions between tech giants and regulators regarding transparency in AI governance.",
+      "source": "The Next Web",
+      "original_title": "[The Next Web] The rules for reviewing frontier AI models are secret. The companies that have read them are the big ones.",
+      "context": "Artificial intelligence is becoming very powerful, leading experts to worry about what happens if these programs make mistakes or act dangerously before they are fully tested. The US government created a set of guidelines for companies to follow before releasing new AI tools, meant to ensure these systems are safe for everyone. However, the specific details of how these safety checks work have been kept secret from the public and even some industry leaders. This secrecy has caused frustration because many believe that knowing the rules would help build trust between tech companies and the people who regulate them.",
+      "why_it_matters": "AI is becoming very powerful, so we need clear rules to keep it safe. Keeping these rules secret makes people worry that companies are hiding dangerous flaws. Transparency helps the public trust new technology.",
+      "other_side": "Tech companies say secrets are needed to protect business ideas and national security. They fear that publishing everything could help hackers find weak spots in their systems."
+    },
+    {
+      "headline": "RBI Warns of Speed and Opacity Risks as Technology Reshapes Finance",
+      "summary": "India's RBI deputy governor highlighted three critical concerns: speed, concentration, and opacity in financial technology systems. These factors are identified as amplifiers for familiar financial risks, potentially causing disruptions to spread faster through the global financial system.",
+      "source": "Livemint",
+      "original_title": "[Livemint] RBI deputy governor Rohit Jain flags three concerns as technology reshapes finance",
+      "context": "Modern banking relies heavily on fast computer networks to move money instantly around the world, making transactions quicker than ever before. While speed is convenient, it means that if one part of the system fails or faces a problem, that issue can spread to other banks and countries almost immediately. There is also a concern that too much power is concentrated in just a few large technology providers, making the whole financial system vulnerable if those few companies stumble. Regulators are warning that we need to understand these hidden risks to prevent small technical glitches from causing major economic crashes.",
+      "why_it_matters": "Money moves faster than ever because of computers. If one part of the system fails, it can crash the whole global economy quickly. Regulators want to slow things down to prevent big disasters.",
+      "other_side": "Banks argue that speed is necessary for modern life and business growth. They believe strict rules will make services too expensive and slow for everyday customers."
+    },
+    {
+      "headline": "UK Prepares World's Strongest Online Child Safety Laws Targeting Tech Companies",
+      "summary": "The UK government is preparing legislation requiring tech companies to strengthen protections on devices and platforms to prevent children from sharing nude images. This regulatory move aims to tackle grooming and exploitation by forcing tech firms to implement stricter safeguards against digital abuse.",
+      "source": "Www.gov.uk",
+      "original_title": "[Www.gov.uk] UK to have world's strongest online child safety laws as government prepares legislation on nude images",
+      "context": "As more children spend time online playing games and using social media, parents and lawmakers have become increasingly concerned about predators who try to exploit them. In particular, there has been a rise in cases where individuals trick young people into sharing intimate photos, which are then used to blackmail or harass them. The UK government is creating strict new laws that force tech companies to actively monitor and block this type of harmful content on their platforms. This approach shifts the responsibility onto the companies to protect users, rather than expecting parents or children to figure out how to stay safe alone.",
+      "why_it_matters": "This law aims to stop predators from hurting children online. It forces tech companies to take responsibility for safety on their platforms. It sets a strong example for other countries to follow.",
+      "other_side": "Critics say this gives governments too much power to watch private messages. They worry it could hurt free speech and make internet communication harder for everyone."
+    },
+    {
+      "headline": "Fox's $22 Billion Roku Acquisition Highlights Streaming OS Value",
+      "summary": "Parks Associates research indicates that Fox Corporation's planned acquisition of Roku underscores the growing strategic value of TV operating systems and streaming platforms. With significant market penetration reported among US households, the deal signals a major consolidation in the digital media infrastructure sector.",
+      "source": "PRNewswire",
+      "original_title": "[PRNewswire] Parks Associates: Fox Acquisition of Roku Underscores Growing Value of TV Operating Systems and Streaming Platforms",
+      "context": "A streaming operating system is like the brain inside a smart TV or device that manages all the different apps for watching movies, news, and shows. Instead of buying separate devices for each service, people now prefer having everything controlled through one main software platform. Fox Corporation sees great value in owning Roku, a major player in this space, because it gives them direct access to millions of households and their viewing habits. This deal highlights how important it has become to control the actual interface that viewers see, rather than just producing the video content itself.",
+      "why_it_matters": "Big media companies are buying TV software to control what we watch. This means fewer choices for viewers as giant corporations merge. It changes how we access movies and shows at home.",
+      "other_side": "Supporters say bigger companies can offer better quality and lower prices. They argue that merging resources leads to more innovation and smoother viewing experiences."
+    },
+    {
+      "headline": "Cybersecurity Expert Calls for Human-Centric Defense Against AI Deception",
+      "summary": "A new book argues that the human layer is the first defense against AI-enabled deception, such as cloned voicemails used in cyberattacks. The author proposes a leadership model for cyber readiness that prioritizes human judgment alongside technological tools in an era of generative AI threats.",
+      "source": "PRNewswire",
+      "original_title": "[PRNewswire] Cybersecurity's Flawed Narrative Needs a Reboot: New Book Says the Human Layer Is the First Defense Against AI-Enabled Deception",
+      "context": "Scammers are now using artificial intelligence to create fake voices that sound exactly like real people, allowing them to trick victims over the phone. For example, a criminal might clone a family member's voice to call and ask for urgent money transfers, making it very hard to detect the lie. Because these digital tricks are becoming so convincing, experts argue that technology alone cannot stop these crimes. Instead, they suggest that humans must remain the first line of defense by learning to question unexpected requests and verify identities through separate channels.",
+      "why_it_matters": "Fake voices and videos are becoming easy to create with AI. This makes scams much harder to spot and dangerous. Teaching humans to question what they hear is now a key safety skill.",
+      "other_side": "Some experts believe technology alone should solve this problem. They think relying on human judgment is unreliable and that automated detection tools are more effective."
+    },
+    {
+      "headline": "LeoLabs Teams with SciTec for U.S. Space Force Radar Digitization",
+      "summary": "LeoLabs has announced a partnership with SciTec to support the U.S. Space Force's Ground-Based Radar Digitization Program. This collaboration involves a significant contract worth nearly $94 million to enhance orbital intelligence capabilities through advanced radar digitization technologies.",
+      "source": "PRNewswire",
+      "original_title": "[PRNewswire] LeoLabs Teams with SciTec to Support U.S. Space Force Ground-Based Radar Digitization Program",
+      "context": "Space is filled with thousands of pieces of debris, such as old satellites and broken rocket parts, that orbit the Earth at high speeds. Keeping track of this junk is crucial to prevent collisions that could destroy working satellites or endanger astronauts. The US Space Force is upgrading its radar systems to better digitize and analyze the data from these objects, making tracking more precise and automated. LeoLabs is helping with this project by providing advanced technology that turns raw radar signals into clear, usable information about where every piece of debris is located.",
+      "why_it_matters": "The US government is upgrading its ability to track objects in space. This helps avoid collisions between satellites and debris. It ensures that important communications and weather data stay online.",
+      "other_side": "Environmental groups worry that more satellites add to space junk problems. They argue that focusing on defense ignores the long-term damage to Earth's orbit."
+    },
+    {
+      "headline": "Space Weather Monitoring Missions Aim to Protect Earth's Infrastructure",
+      "summary": "New NASA missions and other developments are being deployed to monitor solar activity and protect life and technology from massive solar flares. These initiatives aim to mitigate the infrastructure challenges posed by space weather, ensuring better preparedness for geomagnetic storms.",
+      "source": "The Conversation Africa",
+      "original_title": "[The Conversation Africa] Space weather can cause both beautiful auroras and infrastructure challenges – 5 essential reads on protecting life and technology",
+      "context": "The sun constantly sends out bursts of energy and charged particles, known as solar flares, which can travel across space and hit Earth. When these bursts reach our planet, they can disrupt radio communications, damage power grids, and interfere with GPS satellites that we rely on daily. Scientists are launching new missions to watch the sun closely so they can predict when these dangerous storms are coming. By monitoring this \"space weather,\" engineers can take steps to shut down sensitive equipment temporarily, protecting our modern infrastructure from potential damage.",
+      "why_it_matters": "Solar storms can knock out power grids and GPS systems worldwide. New missions help us predict these events before they hit. This protects hospitals, banks, and emergency services from failure.",
+      "other_side": "Some scientists think the threat is exaggerated and costs too much money. They suggest funds would be better spent on immediate climate change solutions on Earth."
+    },
+    {
+      "headline": "AI Data Centers Expected to Create Fewer UK Jobs Than Projected",
+      "summary": "An economic think tank warns that the buildout of AI data centers will create far fewer permanent jobs than the tech sector suggests. This finding challenges industry projections regarding employment growth driven by artificial intelligence infrastructure expansion in the United Kingdom.",
       "source": "Biztoc.com",
-      "original_title": "Mistral bags €3B to build Europe's sovereign AI champion",
-      "context": "For years, the world of artificial intelligence has been dominated by a few massive American tech giants who control most of the powerful computer chips and data needed to train AI models. This situation worries European leaders because they fear that relying on US companies means losing control over their own digital future, a concept known as \"sovereignty,\" which simply means having the power to make your own decisions without outside interference. Mistral is a French startup that decided to challenge this dominance by building its own advanced AI systems right in Europe, aiming to prove that local companies can compete with the biggest players in the game. The huge amount of money they just raised shows that investors are betting big that Europe needs its own independent AI champion to protect its culture, laws, and economy from being entirely controlled by foreign corporations.",
-      "why_it_matters": "Europe is spending billions to build its own powerful AI so it doesn't have to rely on American tech giants. This money will help create local tools and protect European data, giving the region more control over its digital future. It also creates high-paying jobs and boosts the local economy.",
-      "other_side": "Critics say this huge cost might not pay off if the technology lags behind US leaders like OpenAI. There is also a risk that this \"sovereign\" AI could become too expensive for regular users or small businesses to access."
+      "original_title": "[Biztoc.com] AI data centers won't create as many UK jobs as the tech sector projects, think tank warns",
+      "context": "Many people assumed that building massive centers to house computers for artificial intelligence would create thousands of new jobs for local communities. These data centers require huge amounts of electricity and cooling, leading to expectations of significant employment growth in construction and maintenance. However, recent analysis suggests that the process is highly automated and efficient, meaning far fewer workers are needed than previously thought. This finding challenges the idea that investing in AI infrastructure will automatically solve local unemployment problems or boost the economy as much as promised.",
+      "why_it_matters": "Everyone expects AI to create millions of new jobs. This report says those numbers are likely fake or inflated. People need realistic plans for employment as automation grows.",
+      "other_side": "Industry leaders insist that new technologies always create more jobs than they destroy. They argue that past trends prove AI will boost the economy significantly."
     },
     {
-      "headline": "Ohio Newspaper Accused of Using AI Without Consent",
-      "summary": "A journalist has publicly accused Cleveland.com of publishing an article generated by an AI 'Express Desk' tool under her name while she was on her honeymoon. The incident highlights growing concerns regarding journalistic integrity and the unauthorized use of automated content generation in media.",
-      "source": "Futurism",
-      "original_title": "Journalist Accuses Ohio’s Main Newspaper of Slapping Her Name on an AI “Express Desk” Article Without Her Knowledge, While She Was on Honeymoon",
-      "context": "Journalism has traditionally relied on human reporters spending time interviewing people, checking facts, and writing stories to hold power accountable and inform the public. Recently, media companies have started experimenting with artificial intelligence tools that can write articles automatically by analyzing patterns in text, which raises serious questions about honesty and trust in news reporting. When a journalist discovered that her name was attached to an AI-generated story she did not write or verify, it sparked a major debate about whether using automated content is ethical if the audience isn't told the truth. This incident highlights the growing tension between the pressure to publish content quickly and cheaply versus the core duty of journalists to be transparent and accurate in their work.",
-      "why_it_matters": "This story shows how easily AI can be used without asking people first, which breaks trust in news media. If readers cannot tell who wrote an article, they may stop believing what they read entirely. This forces newspapers to be much clearer about when machines are doing the work.",
-      "other_side": "Some argue that using AI helps newspapers save money and publish faster during busy times. They believe that as long as the facts are correct, it does not matter if a human or a bot typed the words."
-    },
-    {
-      "headline": "Timekettle Unveils Comprehensive AI Translation Ecosystem at IFA 2026",
-      "summary": "Timekettle showcased its latest AI-driven cross-language communication tools, including W Series translation earbuds and Babel OS 3.0, at IFA 2026. The company highlighted a full ecosystem designed for seamless multilingual interaction in both personal and professional settings.",
-      "source": "PRNewswire",
-      "original_title": "Timekettle Showcases Its AI Cross-Language Communication Portfolio at IFA 2026",
-      "context": "Language barriers have historically made it difficult for people from different countries to communicate effectively, often requiring expensive translators or slow, imperfect translation apps that struggled with natural speech. Modern technology has shifted toward using artificial intelligence to understand context and tone, allowing devices like earbuds to translate conversations in real-time as people speak, creating a more seamless experience than ever before. Companies are now building entire ecosystems of these smart devices rather than just selling single gadgets, aiming to make global communication feel as easy as talking to someone next door. This trend reflects a broader push to remove friction in international business and travel by making language no longer an obstacle to understanding one another.",
-      "why_it_matters": "New earbuds that translate speech in real time make traveling and talking to foreigners much easier. This removes language barriers in business and daily life, allowing people to connect across cultures instantly. It turns complex translation software into something you just wear and use.",
-      "other_side": "The main drawback is that these devices can still make mistakes with idioms or slang, leading to confusion. Also, relying on battery-powered hardware means you need to charge them, and they do not replace learning a new language."
-    },
-    {
-      "headline": "Enterprise-Grade Security Guardrails for AI Agents Released on PyPI",
-      "summary": "A new package named 'agentprahari' has been added to PyPI, offering a robust security and safety guardrail layer specifically designed for AI agents and large language models. This release addresses critical enterprise needs for securing autonomous AI systems against potential vulnerabilities.",
-      "source": "Pypi.org",
-      "original_title": "agentprahari added to PyPI",
-      "context": "As artificial intelligence becomes more capable of acting on its own—such as booking flights or accessing personal data—there is a significant risk that it could make mistakes, leak private information, or be tricked into doing harmful things. To prevent these issues, software developers are creating \"guardrails,\" which are essentially safety rules and filters built into the code to keep AI actions within safe and approved boundaries. A new tool released for programmers provides a standardized way to add these protections to any AI system, ensuring that even if the AI tries to go off-track, the guardrails will stop it. This development is crucial for businesses because it allows them to use powerful AI tools while still maintaining strict security and legal compliance.",
-      "why_it_matters": "Companies are getting safer tools to keep their AI programs from making bad choices or leaking secrets. This update gives developers a way to put guardrails around smart bots before they go live. It helps prevent costly errors or security breaches in large businesses.",
-      "other_side": "Adding strict safety rules might slow down how fast AI can think or act. Developers sometimes complain that these limits make the AI less useful or creative because it is too afraid to take risks."
-    },
-    {
-      "headline": "Hospitals Accelerate AI Spending Despite Deployment Challenges",
-      "summary": "A CII-PwC survey reveals that while 64% of healthcare leaders have piloted AI applications, only 11% have moved them into production due to data quality hurdles. Despite these challenges, hospitals are increasing their spending on AI technologies to improve operational efficiency and patient care.",
-      "source": "Business Standard",
-      "original_title": "Hospitals to step up AI spending despite deployment hurdles: CII-PwC",
-      "context": "Hospitals are under constant pressure to improve patient care while also managing tight budgets and complex administrative tasks, leading many to look at artificial intelligence as a potential solution for efficiency. However, implementing AI in healthcare is notoriously difficult because medical data is often messy, stored in different formats, or incomplete, making it hard for computers to learn accurately from it. Despite knowing that only a small fraction of their test projects actually work in real-world settings, hospital leaders continue to spend heavily on AI because they believe the long-term benefits for saving lives and reducing costs are worth the initial struggle. This situation illustrates the common gap between testing a new technology in a controlled environment and successfully integrating it into the high-stakes, rigid structure of daily medical operations.",
-      "why_it_matters": "Hospitals are pouring money into AI even though many projects fail to launch properly. This push aims to speed up patient care and reduce administrative headaches for staff. It signals that healthcare leaders believe AI is essential for staying competitive.",
-      "other_side": "Many experts warn that hospitals are rushing in without fixing basic data problems first. If the information feeding the AI is messy or wrong, the tool could give dangerous advice to doctors instead of helping them."
-    },
-    {
-      "headline": "New AI Software Engineering Framework Automates Code Generation",
-      "summary": "The AISEF framework (version 1.2.1) is now available on PyPI, allowing users to input documentation or requirements to generate gate-verified code with SHA-bound evidence. This tool aims to streamline the software engineering process by leveraging AI to ensure code quality and traceability.",
-      "source": "Pypi.org",
-      "original_title": "aisef 1.2.1",
-      "context": "Writing computer code is a complex task that usually requires humans to carefully plan, write, and then spend a lot of time testing to ensure there are no errors or security flaws. New software frameworks are emerging that allow artificial intelligence to not only write the code but also automatically check it against strict standards to prove it works correctly before it is used. By attaching a unique digital fingerprint to the code, developers can trace exactly how the AI arrived at its solution, which adds a layer of transparency and reliability that was previously missing. This shift aims to speed up the creation of software while reducing the risk of bugs, making the process of building digital tools faster and safer for everyone involved.",
-      "why_it_matters": "This new tool lets computers write code automatically while checking for errors at every step. It saves programmers hours of boring work and makes sure the final product is reliable. This speeds up how quickly new apps and websites can be built.",
-      "other_side": "Relying on AI to write code can lead to hidden bugs that are hard to find later. Junior programmers might also miss out on learning how coding actually works if they let the machine do all the heavy lifting."
-    },
-    {
-      "headline": "Notifyd Introduces Postgres-Backed Notification Queue System",
-      "summary": "Show HN presents Notifyd, a notification queue system built entirely on Postgres using Rust and MCP, without a dedicated UI. The project explores state-of-the-art approaches to closing the gap between claim primitives and delivery engines for email and SMS notifications.",
-      "source": "Github.io",
-      "original_title": "Show HN: Notifyd – notification queue on Postgres alone (Rust, MCP, no UI)",
-      "context": "In modern web applications, sending notifications like emails or text messages is a common feature, but doing it reliably when thousands of users need alerts at once can be technically challenging and prone to failure. Most notification systems require complex, separate servers to manage the flow of messages, which can be expensive and difficult to maintain for smaller teams. A new open-source project simplifies this by using a standard database that many developers already know how to use, combined with a fast programming language, to handle message queues without needing extra specialized infrastructure. This approach makes it easier for developers to build reliable notification systems that don't crash under pressure, focusing on simplicity and stability over flashy user interfaces.",
-      "why_it_matters": "This system sends emails and texts reliably by using a simple database structure that is easy to manage. It helps companies ensure customers get important updates without delays or lost messages. Building it on open standards makes it cheaper and more flexible for developers.",
-      "other_side": "Because it lacks a visual interface, non-technical staff might struggle to set it up or fix issues. Smaller teams often prefer tools with easy-to-use buttons rather than complex code-based systems."
-    },
-    {
-      "headline": "AI Reshapes Software Architecture Toward Hypergraphs",
-      "summary": "An analysis on Github.io argues that as AI agents scale in intelligence, software architecture is shifting from traditional CRUD databases to multidimensional hypergraphs. In this new paradigm, knowledge, governance, and code are treated as uniform nodes, fundamentally changing how systems are designed.",
-      "source": "Github.com",
-      "original_title": "Show HN: AI means the end of software as we know it",
-      "context": "Traditional computer databases store information in simple tables, like rows and columns in a spreadsheet, which works well for basic data but struggles to capture the complex relationships between different pieces of information. As artificial intelligence becomes smarter, it needs to understand connections that are multidimensional, such as how a person, a document, and a location all relate to each other simultaneously in a web-like structure called a hypergraph. Software architects are beginning to redesign how systems are built to accommodate this complexity, treating all types of knowledge as equal nodes in a vast network rather than isolating them in separate boxes. This fundamental change in design allows AI to reason more like humans do, seeing the bigger picture and understanding context in ways that older database technologies never could.",
-      "why_it_matters": "Software is changing to handle smarter AI agents that see connections between many different things at once. Instead of simple lists, data is linked like a web, which helps AI understand context better. This shift prepares computer systems for more complex, intelligent tasks in the future.",
-      "other_side": "Traditional databases are simpler and already work well for most everyday needs. Moving to this new complex structure requires massive changes to existing systems, which is risky and very expensive for most companies."
-    },
-    {
-      "headline": "AllyGPO Recognized for Tech Innovation Culture",
-      "summary": "AllyGPO has been ranked #40 on Fast Company's 2026 List of Best Workplaces for Innovators. The recognition highlights the company's culture where employee-driven ideas directly shape its technology development and innovation initiatives.",
-      "source": "PRNewswire",
-      "original_title": "AllyGPO Named to Fast Company's 2026 List of Best Workplaces for Innovators",
-      "context": "Innovation in technology companies often suffers when employees feel disconnected from the decision-making process, leading to missed ideas and low morale. AllyGPO has gained recognition by creating a workplace culture where regular staff members are encouraged to share their ideas directly, and those ideas are actively used to shape the company's technological direction. This top-down-to-bottom-up approach ensures that the people doing the actual work have a say in how tools are developed, fostering a sense of ownership and creativity across the organization. Being ranked highly for innovation highlights that a supportive and inclusive culture can be just as important as technical talent in driving progress.",
-      "why_it_matters": "Being named a top place for innovation shows that letting employees share ideas leads to better tech products. This culture encourages creativity and keeps talented workers happy and engaged. Other companies can learn that listening to staff drives progress.",
-      "other_side": "Rankings like this can sometimes feel like marketing stunts that don’t reflect daily reality for all workers. Employees might feel pressured to constantly come up with new ideas, which can add stress to their normal workload."
-    },
-    {
-      "headline": "Verdafero Joins Green Key Global for Cloud Utility Analytics",
-      "summary": "Verdafero, a provider of cloud-based utility analytics and sustainability reporting solutions, has been approved as a Preferred Vendor in the Green Key Global vendor program. This partnership aims to enhance sustainability consulting services through advanced technological integration.",
-      "source": "PRNewswire",
-      "original_title": "Verdafero Joins Green Key Global Vendor Program",
-      "context": "The internet and cloud computing consume massive amounts of electricity, contributing significantly to global carbon emissions and raising concerns about environmental sustainability. Many organizations want to reduce their environmental impact but lack the detailed data needed to track exactly how much energy their digital services are using and where the waste is occurring. Verdafero provides analytics tools that measure these \"digital footprints,\" helping companies understand their resource usage so they can make smarter, greener choices. By joining a global network of sustainability experts, they aim to turn abstract data into actionable advice, allowing businesses to align their technological growth with responsible environmental stewardship.",
-      "why_it_matters": "Cloud computing uses a lot of energy, and this partnership helps measure that usage accurately. By tracking power and resources, companies can reduce waste and lower their carbon footprint. This supports global efforts to make technology more environmentally friendly.",
-      "other_side": "Some critics argue that focusing on efficiency metrics distracts from the bigger problem of total energy consumption. Simply measuring usage does not change where the electricity comes from, which may still harm the environment."
+      "headline": "ServiceTitan Shares Plunge 19% Despite Beating Earnings Expectations",
+      "summary": "ServiceTitan stock dropped significantly in premarket trading due to lackluster future guidance, overshadowing better-than-expected second-quarter results. This market reaction reflects investor caution regarding the software provider's near-term outlook despite current financial performance.",
+      "source": "Biztoc.com",
+      "original_title": "[Biztoc.com] ServiceTitan dives 19% on lackluster guidance",
+      "context": "Stock prices are driven not just by how much money a company made yesterday, but by what investors think it will earn tomorrow. ServiceTitan, a company that provides software for home service businesses, reported strong profits for the recent quarter, which should normally make the stock price go up. However, the company predicted that future sales would grow slowly, causing investors to lose confidence in its long-term growth potential. As a result, people sold their shares quickly, driving the price down significantly despite the good current financial results.",
+      "why_it_matters": "Investors are getting nervous about tech stocks even when profits look good. This shows that future predictions matter more than current success. It warns businesses that one bad forecast can hurt them badly.",
+      "other_side": "Some traders see this as a normal market adjustment. They believe the drop is temporary and that the company’s strong earnings justify holding onto the stock."
     }
   ]
 }
