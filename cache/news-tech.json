@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "HCLTech Launches AI Unit for Mid-Sized Firms",
-      "summary": "HCLTech has introduced HCLTech Pulse, a new business unit designed to assist enterprises with revenues between $500 million and $5 billion in scaling their operations. The service portfolio encompasses artificial intelligence, data management, cloud infrastructure, cybersecurity, and engineering services to drive digital transformation.",
-      "source": "Business Standard",
-      "original_title": "HCLTech launches new business unit to help mid-sized firms scale AI",
-      "context": "Imagine a mid-sized company as a growing teenager who has outgrown their small bedroom but isn't quite ready for a massive mansion yet. For years, these businesses struggled to use advanced technology because the tools were either too expensive or designed only for giant corporations with huge budgets. HCLTech is stepping in like a specialized tutor to help these companies learn how to use smart computer programs and secure digital storage without needing a team of experts on staff. This move helps smaller businesses compete better by giving them access to the same powerful digital upgrades that big companies have enjoyed for decades.",
-      "why_it_matters": "This move helps mid-sized companies catch up with big tech giants by making advanced tools like AI easier to use. It means smaller businesses can grow faster and compete better without needing huge internal teams.",
-      "other_side": "Critics worry this just creates more work for the tech firms themselves. They might also fear that relying on outside vendors makes these companies less independent over time."
+      "headline": "Alexa+ Launches in India with Generative AI and Hinglish Support",
+      "summary": "Amazon's Alexa+ has officially launched in the Indian market, offering users an enhanced smart voice control experience. The update integrates generative AI capabilities and introduces support for Hinglish, catering to local linguistic preferences.",
+      "source": "Blogdoandroid.com",
+      "original_title": "Alexa+ launch India: Best Smart Voice Control Experience",
+      "context": "Imagine trying to talk to a robot that only understands perfect, formal English; it would be frustrating for millions of people in India who speak a mix of Hindi and English known as Hinglish. Amazon’s Alexa is a smart speaker that listens to your voice commands to play music or control lights, but previous versions struggled with this casual, mixed language style. This new update uses \"generative AI,\" which is basically computer software that can create its own responses like a human does, rather than just playing pre-recorded answers. By learning how Indians naturally blend languages, Amazon hopes to make their technology feel more personal and useful for everyday tasks in a huge, diverse market.",
+      "why_it_matters": "This makes smart home tech easier for millions of people in India who speak a mix of Hindi and English. It shows that big tech companies are trying to fit their tools into local cultures instead of forcing everyone to use perfect English.",
+      "other_side": "Some worry this gives Amazon more control over personal conversations in homes. Critics also say it might push out smaller, local voice assistant apps that can't compete with Amazon's money."
     },
     {
-      "headline": "Oppo Unveils ColorOS 17 with AI Photo Editing",
-      "summary": "Oppo has officially released ColorOS 17, marking its most significant software update in years. The new operating system introduces advanced features such as AI-powered photo editing and real-time translation capabilities directly within the earbuds interface.",
-      "source": "Intomobile.com",
-      "original_title": "ColorOS 17 is official: Everything you need to know about Oppo’s biggest software update in years",
-      "context": "ColorOS is the hidden software layer that makes an Oppo phone feel unique, acting like the interior design of a house while the hardware is just the structure. For years, users had to edit photos on separate apps or send them to computers to get good results, which was slow and frustrating. With ColorOS 17, Oppo has built those editing powers directly into the phone's main system using artificial intelligence, which is basically computer code trained to recognize patterns like faces or sunsets. This means you can now fix lighting or remove unwanted people from pictures instantly, making professional-quality edits as easy as taking a snapshot.",
-      "why_it_matters": "Putting smart editing tools directly into your phone makes taking great photos easy for anyone, not just pros. Real-time translation in earbuds also breaks down language barriers when you travel or talk to foreigners.",
-      "other_side": "Some users are worried about their privacy if phones are constantly analyzing photos and conversations. Others feel that adding too many features slows down the phone’s performance."
+      "headline": "China's RoboTechnik to List on Hong Kong Stock Exchange for $800 Million",
+      "summary": "RoboTechnik, a manufacturer of equipment for photovoltaic cells and silicon photonics devices, is set to launch its Hong Kong listing. The company plays a critical role in producing hardware for optical interconnects used in data centers and artificial intelligence infrastructure.",
+      "source": "The Times of India",
+      "original_title": "China's RoboTechnik to launch $800 million Hong Kong listing on September 21",
+      "context": "To build the powerful computers needed for artificial intelligence, companies need special parts called optical interconnects, which use light instead of electricity to send data incredibly fast between servers. RoboTechnik is a Chinese company that makes the machines used to create these essential components, placing them at the center of the global push for faster internet and smarter tech. Now, they are going public on the Hong Kong stock exchange, which means they are selling pieces of their company to regular investors to raise cash for future growth. This move highlights how important hardware manufacturing has become, as the demand for AI infrastructure continues to explode worldwide.",
+      "why_it_matters": "This company is building the special parts needed to make computers think faster and handle more data. Getting this much money from investors means they plan to grow fast and supply the hardware for future AI systems.",
+      "other_side": "Investors might lose money if the demand for these specific chips drops. There is also risk that political tensions between countries could hurt their ability to sell or buy materials."
     },
     {
-      "headline": "Android Development Shifts to On-Demand Environments",
-      "summary": "A new perspective from Ubuntu highlights how Android development is moving away from reliance on physical devices toward on-demand software environments. This shift allows engineers to provision resources dynamically, reflecting the evolution of software engineering practices over the last decade.",
-      "source": "Ubuntu.com",
-      "original_title": "Android™ development shouldn’t start with a physical device",
-      "context": "In the past, if a programmer wanted to build a new Android app, they needed a physical computer hooked up to a real phone to test it, which was slow and took up a lot of desk space. Think of it like trying to drive a car before it was even built; you had to wait for the actual metal and glass to arrive before you could see if the engine worked. Now, developers are moving to \"on-demand environments,\" which is like renting a virtual car in the cloud that appears instantly whenever they need it and disappears when they are done. This shift allows thousands of programmers around the world to work together seamlessly without waiting for expensive physical equipment to be shipped or set up.",
-      "why_it_matters": "Developers can now build apps using virtual computers instead of waiting for physical hardware. This speeds up creation and saves money because they don’t need to buy expensive equipment upfront.",
-      "other_side": "Traditionalists argue that testing on real devices is still necessary to catch hidden glitches. They believe skipping physical tests might lead to buggy apps that frustrate everyday users."
+      "headline": "AI Superintelligence Development Slows Amid Safety Concerns",
+      "summary": "Leading US researchers and tech leaders are signaling a slowdown in the pursuit of AI superintelligence following warnings about rogue AI agents and existential risks. This marks a shift from the previous 'move fast and break things' ethos to a more cautious approach regarding safety and regulation.",
+      "source": "Biztoc.com",
+      "original_title": "The AI Superintelligence Slowdown",
+      "context": "For years, tech companies raced to build \"superintelligence,\" which refers to AI systems that are smarter than humans in every way, often ignoring safety checks to get there faster. Recently, experts have realized that these powerful tools could potentially act unpredictably or cause serious harm if not controlled properly, leading to a major shift in attitude. Instead of focusing solely on speed and power, researchers are now pausing to discuss how to keep these advanced systems safe and under human control. This change marks a move away from reckless innovation toward a more careful approach that prioritizes preventing dangerous outcomes over simply breaking new ground.",
+      "why_it_matters": "Experts are finally hitting the brakes on making super-smart AI because they are scared it could get out of control. This shift means we will likely see stricter rules to keep new technology safe for everyone.",
+      "other_side": "Some developers argue that slowing down now will let other countries take the lead. They fear that being too cautious will stop useful medical or scientific breakthroughs from happening."
     },
     {
-      "headline": "CAL IT Group Achieves SOC 2 Attestation for Data Security",
-      "summary": "CAL IT Group has secured SOC 2 attestation following an independent examination by audit firm A-LIGN. This certification validates the robustness of their security controls and underscores their commitment to protecting client data against emerging cyber threats.",
-      "source": "PRNewswire",
-      "original_title": "CAL IT Group Earns SOC 2 Attestation, Reinforcing Its Commitment to Client Data Security",
-      "context": "SOC 2 is essentially a report card for security that tells other companies whether it is safe to store their private information with you. Before this certification existed, businesses had to trust each other blindly, often leading to data leaks when one partner wasn't careful with passwords or firewalls. An independent auditor, like a strict health inspector, checks every single lock and alarm on CAL IT Group's digital doors to ensure nothing can be broken into easily. Getting this attestation proves to clients that the company follows strict rules to keep secrets secret, which is vital in an era where hacking is a constant threat.",
-      "why_it_matters": "Getting this security badge proves the company keeps client data safe from hackers. It builds trust with customers who are increasingly worried about their personal information being stolen online.",
-      "other_side": "Some people think these certifications are just marketing tricks to look good. They argue that a piece of paper doesn’t stop determined hackers from breaking into systems."
+      "headline": "Why AI Won't Fix Broken Business Processes",
+      "summary": "Experts warn that artificial intelligence cannot compensate for fundamental organizational flaws such as unclear processes or weak accountability. Technology must be paired with strong performance metrics and clear team goals to deliver tangible business value.",
+      "source": "Biztoc.com",
+      "original_title": "AI Won’t Fix a Business That Wasn’t Working Before AI",
+      "context": "Many businesses try to fix messy operations by buying expensive artificial intelligence software, assuming the technology will automatically organize their work and save money. However, experts warn that if a company’s basic rules, team responsibilities, and workflows are confusing or broken, adding AI will only make those problems happen faster and more efficiently. Think of it like putting a high-performance engine in a car with no steering wheel; the car will go fast, but it won’t go anywhere useful. True improvement requires fixing the underlying human processes first before expecting any digital tool to deliver real results.",
+      "why_it_matters": "Companies need to fix their messy internal rules before buying expensive AI tools. If you do not have clear goals, adding smart software will just waste money without fixing real problems.",
+      "other_side": "Some business leaders believe AI can actually help create better processes by showing where things are broken. They think automation can force teams to be more organized than human managers ever could."
     },
     {
-      "headline": "Nvidia CEO Warns Against Social Media-Style AI Regulation",
-      "summary": "Nvidia CEO Jensen Huang has publicly cautioned against regulating artificial intelligence using frameworks similar to those applied to social media platforms. His stance aims to spur innovation but raises concerns about potential fragmentation in global compliance demands.",
-      "source": "Crypto Briefing",
-      "original_title": "Nvidia CEO Jensen Huang warns against regulating AI like social media",
-      "context": "Jensen Huang represents the voice of the companies that build the brains for modern artificial intelligence, which require massive amounts of electricity and computing power to think. He argues that treating AI like social media platforms would be a mistake because social media is mostly about speech and opinions, while AI is a physical tool used for medicine, driving cars, and science. Regulating AI too strictly could slow down the invention of life-saving drugs or safer self-driving cars, similar to putting heavy speed limits on emergency ambulances. His warning highlights the tension between keeping the public safe from bad AI uses and allowing scientists enough freedom to make rapid breakthroughs.",
-      "why_it_matters": "If governments don’t step in too hard, new AI inventions could arrive much faster. This keeps countries competitive and ensures we get useful new technologies sooner rather than later.",
-      "other_side": "Experts warn that unregulated AI could be used for bad things like spreading lies or spying. They say strict rules are needed to keep society safe from potential dangers."
+      "headline": "Trump Approval Rating Surges Among Daily AI Users",
+      "summary": "A new poll reveals that Americans who use artificial intelligence tools daily are the only demographic giving President Donald Trump a net positive approval rating. This highlights a growing political divide based on technology adoption and engagement with AI tools.",
+      "source": "Biztoc.com",
+      "original_title": "Donald Trump's Approval Rating Among Frequent AI Users Revealed",
+      "context": "In recent years, using artificial intelligence has become a common part of daily life for many Americans, changing how people work, shop, and stay entertained. A new poll shows that people who use these AI tools every day tend to support President Donald Trump more than those who do not use them, suggesting a political split based on technology habits. This divide implies that comfort with new tech might influence political views, possibly because AI users feel empowered by progress while others may feel left behind or skeptical. It highlights how deeply integrated technology is becoming in shaping not just our jobs, but our political identities as well.",
+      "why_it_matters": "This shows that how often you use technology might change your political views. It suggests that daily exposure to AI tools creates a specific group of voters who feel differently about leadership.",
+      "other_side": "Polls can be misleading and may not represent the whole country accurately. Other experts argue that income and education levels matter more than tech usage when deciding who to vote for."
     },
     {
-      "headline": "GlobalFoundries and Marvell Expand Optical Connectivity Collaboration",
-      "summary": "GlobalFoundries and Marvell have broadened their partnership to accelerate advancements in next-generation optical connectivity solutions. This collaboration targets critical infrastructure challenges in AI data centers, aiming to significantly enhance processing efficiency and speed.",
-      "source": "Crypto Briefing",
-      "original_title": "GlobalFoundries and Marvell expand collaboration on next-generation optical connectivity",
-      "context": "As artificial intelligence grows, the data centers that power it are becoming like giant cities that need superhighways to move information quickly between chips. Optical connectivity uses pulses of light instead of electrical wires to carry this data, which is much faster and generates less heat, much like upgrading from muddy dirt roads to sleek highways. GlobalFoundries and Marvell are working together to build these light-based connections at scale, solving the problem of traffic jams inside servers that currently slow down AI learning. This collaboration aims to ensure that as we ask more questions to AI, the answers come back instantly without overheating the machines.",
-      "why_it_matters": "Faster connections between computer parts mean AI programs run quicker and cheaper. This helps power the massive servers that handle everything from search results to self-driving cars.",
-      "other_side": "Building this new infrastructure is very expensive and uses a lot of energy. Some environmentalists worry it will increase our carbon footprint significantly."
+      "headline": "Practical Guide to Gaining an Edge with Artificial Intelligence",
+      "summary": "An AI pioneer outlines specific use cases and common pitfalls for businesses looking to integrate artificial intelligence effectively. The advice focuses on maximizing current technological benefits while preparing for future evolutionary steps in AI capabilities.",
+      "source": "Biztoc.com",
+      "original_title": "Get the AI Edge: What to Do—and What to Avoid",
+      "context": "As artificial intelligence becomes more popular, many business owners are unsure where to start without wasting money on trendy but useless gadgets. An expert guide suggests focusing on specific, practical problems that AI can solve right now, such as answering customer questions or sorting data, rather than waiting for futuristic robots. The advice emphasizes learning from current mistakes, like trying to automate things that don’t need automation, to build a solid foundation. By starting small and understanding the limits of today’s technology, companies can prepare themselves for bigger changes in the future without getting overwhelmed.",
+      "why_it_matters": "This guide helps businesses avoid wasting cash on AI hype by focusing on simple, real tasks. It encourages leaders to start small and learn what works before trying to build complex systems.",
+      "other_side": "Following a single expert’s advice might miss new trends that are emerging right now. Relying only on \"practical\" steps could cause companies to miss out on risky but potentially huge innovations."
     },
     {
-      "headline": "IBM Secures $1 Billion CHIPS Act Quantum Foundry Deal",
-      "summary": "The Commerce Department has finalized a $1 billion award to IBM for establishing a 300-millimeter quantum wafer foundry in Albany, New York. This deal supports the development of critical quantum computing infrastructure and reinforces US leadership in advanced semiconductor manufacturing.",
-      "source": "Quartz India",
-      "original_title": "IBM's Anderon locks in $1 billion CHIPS Act quantum foundry deal",
-      "context": "Quantum computing is a type of next-generation technology that doesn't use standard on-off switches like regular computers, but instead uses tiny particles that can exist in multiple states at once. To build these delicate machines, you need special factories called foundries that can create extremely precise materials, similar to how a watchmaker needs a clean room to assemble gears. The US government is giving IBM $1 billion to build this factory in New York to ensure that America stays ahead of other countries in this high-tech race. This investment is not just about money; it is about securing national security and economic leadership by controlling the supply chain for the most powerful computers of the future.",
-      "why_it_matters": "This huge investment helps the US stay ahead in the race to build super-powerful quantum computers. It also brings high-tech jobs back to American soil and strengthens national security.",
-      "other_side": "Some taxpayers question if spending billions on niche technology is the best use of money. They argue those funds could solve more immediate problems like healthcare or education."
+      "headline": "TESSAN Magic 65W Charging Station Review Tames Cable Chaos",
+      "summary": "A comprehensive review of the TESSAN Magic 65W Charging Station explores its ability to consolidate multiple device charges into a single unit. The gadget aims to solve the widespread problem of cable clutter for heavy computer users with numerous peripherals.",
+      "source": "Gadget Flow",
+      "original_title": "[Gadget Flow] TESSAN Magic 65W Charging Station Review: Could this finally tame my cable mess?",
+      "context": "People who work heavily on computers often end up with a tangled mess of cables connecting their laptops, monitors, phones, and other devices to various wall outlets. The TESSAN Magic 65W Charging Station is a single gadget designed to plug into one wall socket but provide power to multiple devices at once, acting like a central hub for energy. This device helps reduce clutter on desks by combining several charging ports into one neat unit, making workspaces look cleaner and safer. It solves a simple but annoying problem that affects anyone who relies on having multiple electronics running simultaneously throughout the day.",
+      "why_it_matters": "Solving cable clutter makes working from home less stressful and more organized. A clean desk helps people focus better and reduces the frustration of dealing with tangled wires every day.",
+      "other_side": "Buying one expensive charger might cost more than buying cheap ones separately. Some users prefer having individual chargers so that if one breaks, the others still work."
     },
     {
-      "headline": "Samsung Pushes One UI 9 Beta 3 to Foldable Devices",
-      "summary": "Samsung has begun distributing the third beta version of One UI 9 to Galaxy Z Fold 7 and Z Flip 7 users. While this update focuses primarily on bug fixes rather than new features, it serves as a crucial step in refining the software experience for the latest foldable hardware.",
-      "source": "Intomobile.com",
-      "original_title": "Samsung pushes One UI 9 beta 3 to the Galaxy Z Fold 7 and Z Flip 7",
-      "context": "A \"beta\" version of software is like a test drive of a new car model before it hits the dealership, where drivers look for bumps, squeaks, or glitches in the dashboard. Samsung’s One UI is the custom skin that makes their phones look and feel different from other Android devices, and folding screens add extra complexity because the software must handle two screens merging and splitting. By sending Beta 3 to Galaxy Z Fold and Flip users, Samsung is asking early adopters to stress-test the software so that millions of other users won’t experience crashes later. This step ensures that the final product is smooth and reliable, especially since folding phones are fragile and expensive pieces of hardware.",
-      "why_it_matters": "Fixing bugs early means the final phone will be smoother and less likely to crash. It shows Samsung is listening to users who want reliable software for their expensive foldable gadgets.",
-      "other_side": "Users tired of waiting for updates might feel frustrated by the slow release schedule. Some critics say Samsung focuses too much on new models and not enough on fixing old ones."
+      "headline": "Manta Node Software Update Enhances Core Communication",
+      "summary": "The latest development release of manta-node version 0.6b1.dev665 improves the node-side software responsible for communicating with Manta Core. This update facilitates better task execution and connectivity within the decentralized platform architecture.",
+      "source": "Pypi.org",
+      "original_title": "[Pypi.org] manta-node 0.6b1.dev665",
+      "context": "Manta is a decentralized platform, which means it operates without a single central boss, relying instead on many individual computers working together to share information and complete tasks. The \"manta-node\" is the software installed on these individual computers to help them communicate with the main system, ensuring that data moves smoothly across the network. A recent software update improved how these nodes talk to each other, making the whole system faster and more reliable for executing tasks. This technical upgrade is crucial for keeping the decentralized network stable and efficient as more people join and use the platform.",
+      "why_it_matters": "Better communication between software pieces makes decentralized networks run smoother and faster. This update helps the system handle more tasks without crashing or getting stuck.",
+      "other_side": "Frequent updates can introduce new bugs that were not there before. Users who rely on stability might prefer waiting for a final version rather than testing early releases."
     },
     {
-      "headline": "Samsung Highlights Top High-Budget Phones for Battery Life",
-      "summary": "A comprehensive review identifies ten high-budget Samsung smartphones that offer superior battery performance for power users. These models are highlighted for their ability to sustain long hours of streaming, gaming, and intensive multitasking without rapid depletion.",
-      "source": "Vanguard",
-      "original_title": "10 high-budget Samsung Phones with the best battery life",
-      "context": "Modern smartphones have become so powerful that they run like mini-computers, constantly streaming video, playing graphics-heavy games, and syncing cloud data all at once. Battery technology, however, has not improved as fast as processor speed, creating a gap where users often run out of power before the day ends. High-budget phones address this by including larger batteries and smarter software that learns which apps you use most and saves energy when you aren't looking at the screen. This review highlights models that balance raw power with endurance, ensuring that heavy users don't have to carry portable chargers everywhere they go.",
-      "why_it_matters": "Long battery life lets people go through their day without hunting for a charger. This convenience is crucial for travelers, workers, and anyone who relies heavily on their phone.",
-      "other_side": "High-end phones often have batteries that degrade quickly after a year or two. Buyers also complain that these premium prices aren’t always justified by the actual performance gains."
+      "headline": "WeWork Reports Strong Growth in Managed Vertical Services",
+      "summary": "Broker analysis highlights WeWork's successful expansion beyond branded seats into the managed workspace vertical, which now contributes over 20% to the company's top line. This diversification signals a strategic shift towards higher-margin managed services.",
+      "source": "BusinessLine",
+      "original_title": "[BusinessLine] Broker’s call: WeWork (Buy)",
+      "context": "WeWork started as a company that simply rented out shared office desks to freelancers and startups, but recently they have shifted to offering \"managed services,\" where they handle all the IT, cleaning, and admin work for clients. This new approach is generating significant profit, contributing over 20% of the company’s total revenue, showing that businesses prefer paying for full-service solutions rather than just empty space. This strategic shift allows WeWork to charge higher prices and build stronger relationships with corporate clients who want convenience and reliability. It signals that the future of coworking is less about renting chairs and more about providing comprehensive operational support.",
+      "why_it_matters": "WeWork is changing how it makes money by offering full management services instead of just renting desks. This move helps the company stay profitable even if fewer people want to rent empty office space.",
+      "other_side": "Managing buildings and services is harder and costs more than just collecting rent. If economic conditions worsen, clients might cancel these premium services first."
     },
     {
-      "headline": "Defiance Global Foundries ETF Tracks Semiconductor Fabrication Leaders",
-      "summary": "The Defiance Global Foundries ETF (NASDAQ:AIFR) has launched amidst market focus on global semiconductor fabrication capabilities. The fund tracks companies involved in the production of the world's leading chips, providing investors exposure to the critical supply chain of modern technology.",
-      "source": "24/7 Wall St.",
-      "original_title": "What to Watch: AIFR",
-      "context": "An ETF, or Exchange Traded Fund, is like a pre-packed lunchbox that lets you buy a little bit of many different companies at once, rather than picking individual stocks. The semiconductor industry is the foundation of modern life, making everything from your TV remote to your car’s braking system, but it is very risky and expensive to invest in just one manufacturer. This new fund tracks the leaders who actually build the physical chips, known as fabrication plants, giving investors a way to bet on the entire infrastructure boom. It allows everyday people to participate in the growth of global technology without needing to understand the complex engineering behind each specific chip maker.",
-      "why_it_matters": "This fund lets regular people invest in the companies that make the chips powering modern life. It gives investors a chance to profit from the growing demand for technology worldwide.",
-      "other_side": "Investing in one specific industry is risky if chip sales drop due to economic changes. Many experts advise against putting all your money into just one type of stock."
+      "headline": "AgGateway Conference to Preview Future Agricultural Tech Standards",
+      "summary": "The upcoming 2026 AgGateway Annual Meeting will focus on defining new standards for agricultural technology integration. Industry leaders will discuss how digital tools can improve efficiency and data interoperability across the farming sector.",
+      "source": "AgWired",
+      "original_title": "[AgWired] Preview of the 2026 AgGateway Annual Mtg. & Conference",
+      "context": "Modern farming involves a lot of different digital tools, from soil sensors to drone maps, but these devices often cannot talk to each other because they use different languages or formats. AgGateway is an organization that brings together farmers, tech companies, and equipment makers to create universal standards so that all these digital tools can share data seamlessly. Their upcoming conference will focus on defining these new rules to ensure that a tractor from one brand can easily understand data from a weather app made by another. This effort aims to make farming more efficient by removing technical barriers, allowing farmers to make better decisions based on combined information.",
+      "why_it_matters": "New standards will help different farm machines talk to each other, saving farmers time and money. This makes farming more efficient and helps feed more people with less waste.",
+      "other_side": "Setting strict rules can be slow and expensive for small farmers to follow. Large agribusinesses might benefit more from these standards than independent family farms."
     }
   ]
 }
