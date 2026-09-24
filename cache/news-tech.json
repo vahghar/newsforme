@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "Alibaba Unveils China’s Most Powerful AI Chip and Ambitious Model Plans",
-      "summary": "China’s Alibaba has announced the development of its most powerful AI chip to date alongside plans for more advanced artificial intelligence models. This strategic move comes just days ahead of high-stakes meetings between Chinese and U.S. leaders, highlighting the intensifying global competition in semiconductor and AI capabilities.",
+      "headline": "Meta's Chief AI Officer Wages Cheeky Promo War on X",
+      "summary": "Alexandr Wang, Meta's chief AI officer, has become a central figure in the company's aggressive marketing strategy for its new personal AI agent, Muse. By posting over 300 times on X since the launch, he is leveraging a relentless 'tweet cannon' to drive engagement and position Meta competitively in the AI landscape.",
+      "source": "Business Insider",
+      "original_title": "Alexandr Wang's relentless 'tweet cannon' is Meta's not-so-secret weapon in the AI promo war",
+      "context": "Imagine two rival restaurants trying to win over customers by shouting their best dishes from the rooftops; this is essentially what tech giants like Meta and X (formerly Twitter) are doing with artificial intelligence. Meta’s chief AI officer, Alexandr Wang, has decided that instead of quiet corporate announcements, he will post hundreds of times on social media to show off \"Muse,\" a new digital assistant designed to help you organize your life. This strategy is known as \"hustle culture\" marketing, where constant visibility is used to build excitement and keep the company top-of-mind for users. By being so active online, Wang is trying to prove that Meta’s AI is not just powerful, but also fun, accessible, and ready to compete directly with other tech companies’ smarter assistants.",
+      "why_it_matters": "This shows that big tech companies are no longer just building tools; they are fighting for your attention like social media influencers. It means AI will become a normal part of your daily feed, making it harder to tell what is real and what is an ad.",
+      "other_side": "Critics say this constant noise is annoying and might make people trust these AI agents less because the marketing feels too pushy and fake."
+    },
+    {
+      "headline": "Samsung Secures Private AI-RAN Roles with South Korean Telecom Giants",
+      "summary": "Samsung has been selected as a vendor partner for the Hyper AI Network initiative in South Korea, collaborating with KT Corp. and SK Telecom. This partnership marks a significant step in integrating advanced AI capabilities into private radio access networks, enhancing connectivity infrastructure.",
+      "source": "TelecomTV",
+      "original_title": "Samsung lands private AI-RAN roles with KT, SKT",
+      "context": "Think of your mobile phone’s connection to cell towers as a private conversation between two people; usually, this happens over public networks shared by everyone in an area. Samsung is working with major Korean telecom companies to create \"private radio access networks,\" which are like building soundproof rooms around these conversations to make them faster, safer, and more efficient. The \"Hyper AI Network\" initiative uses artificial intelligence to manage these connections automatically, adjusting signal strength and speed in real-time based on who is using it. This technology is crucial because as we rely more on smart devices and self-driving cars, we need communication lines that never drop and are secure from outside interference.",
+      "why_it_matters": "Putting smart computers inside phone towers means your internet will be faster and more reliable without needing as much data sent far away. This helps build a stronger digital backbone for future apps and services in South Korea.",
+      "other_side": "Some worry that private networks controlled by big telecoms could limit competition and give those companies too much power over who gets good service."
+    },
+    {
+      "headline": "Micron vs. Sandisk: The Battle for AI Memory Dominance",
+      "summary": "As demand for memory in AI data centers skyrockets, Micron Technology and Sandisk have emerged as top investment contenders. Analysts are closely watching these stocks as they navigate the incredible growth opportunities presented by the artificial intelligence boom.",
       "source": "Biztoc.com",
-      "original_title": "Alibaba unveils new chip and ambitious AI model plans",
-      "context": "For years, the United States has tried to slow down China’s rise in high-tech fields by blocking it from buying advanced computer chips made by companies like NVIDIA or TSMC. These chips are the \"brains\" of supercomputers that power artificial intelligence, so without them, China struggles to build its own smart systems. Alibaba, a massive Chinese tech giant similar to Amazon and Google combined, is now building its own custom brain chips to bypass these foreign restrictions. This move is a direct response to the growing trade war, showing that China is determined to become self-sufficient in technology rather than relying on Western suppliers.",
-      "why_it_matters": "China is racing to build its own super-fast computer brains so it doesn't have to rely on other countries. This push makes the global tech race much more intense and could change how powerful computers become in the near future.",
-      "other_side": "Some experts worry that this new power could lead to stricter rules or trade fights between major nations, making it harder for companies to share technology across borders."
+      "original_title": "Micron vs. Sandisk: Which AI Memory Stock Has More Room to Run?",
+      "context": "To understand this battle, you first need to know that artificial intelligence is incredibly hungry for memory storage, much like a student who needs massive amounts of textbooks to study for a huge exam. When computers process complex AI tasks, they need special high-speed memory chips to hold all that information temporarily while thinking; without it, the AI would be slow or forgetful. Micron and SanDisk (now part of Kioxia) are two of the world’s biggest makers of these essential computer parts, and they are racing to produce more of them than anyone else. Investors are watching closely because whoever can supply this critical \"brain food\" to data centers will likely make the most money during the current AI boom.",
+      "why_it_matters": "AI needs huge amounts of memory to work, so these companies are sitting on gold mines of demand. Investors are betting big that this need for storage will keep growing for years to come.",
+      "other_side": "The risk is that if AI trends slow down or new technology makes current memory obsolete, these stocks could crash very quickly."
     },
     {
-      "headline": "Apple Set to Introduce Duo Display Tech to Pro iPhones by 2029",
-      "summary": "According to research from UBI Research, Apple is planning to adopt thinner and more power-efficient OLED screens for its 2029 'Pro' iPhone lineup. The technology utilizes Color Filter on Encapsulation (CoE), which eliminates the conventional polarizer to enhance display performance and energy efficiency.",
-      "source": "MacRumors",
-      "original_title": "Apple Planning to Bring iPhone Duo Display Tech to Pro in 2029",
-      "context": "Your smartphone screen is essentially a sandwich of layers that let light pass through to create images, but this structure has hit a physical limit where adding more features makes the phone thicker and drains the battery faster. Apple is known for pushing hardware boundaries, and they are currently testing a new way to build screens by removing one specific layer called the polarizer, which usually blocks certain types of light. By using a technique called Color Filter on Encapsulation, they can make the screen thinner and brighter while using less electricity. This change won’t happen until 2029 because developing new manufacturing methods takes years of trial and error before they can be mass-produced safely.",
-      "why_it_matters": "New screen tech means your phone will last longer on a single charge and look brighter without using extra battery life. This small upgrade adds up to a better daily experience for millions of users who are always on their devices.",
-      "other_side": "Critics point out that waiting until 2029 feels like a long time for such a basic feature, especially since current screens are already quite good."
+      "headline": "Samsung AI Fridges Bricked by Faulty Update",
+      "summary": "A substantial number of Samsung fridge owners were left unable to chill food after a software update caused their smart appliances to shut down. This incident highlights the growing risks associated with IoT device reliability and the critical nature of firmware quality control in consumer tech.",
+      "source": "TechRadar",
+      "original_title": "Samsung's AI fridges shut down and stop chilling food after a bad update",
+      "context": "Smart fridges are essentially large computers attached to cooling coils, meaning they run software just like your laptop or smartphone does. Recently, Samsung pushed out a routine update to fix bugs or add features, but unfortunately, a coding error caused the system to crash completely, leaving thousands of owners with warm milk and spoiled food. This incident highlights a growing risk in the \"Internet of Things,\" where everyday household items become connected to the internet and depend on fragile code to function. It serves as a stark reminder that when physical appliances rely on digital updates, a simple glitch can turn a helpful tool into a useless brick overnight.",
+      "why_it_matters": "When a simple software update breaks your fridge, it proves that connecting household items to the internet is risky. We need better quality checks before trusting our basic appliances with complex code.",
+      "other_side": "Tech fans argue that bugs happen in all software and that we should expect some glitches as these smart devices become more common in homes."
     },
     {
-      "headline": "Nexstrom Secures $12M to Advance 2D Semiconductor Technology",
-      "summary": "Nexstrom has raised $12 million to accelerate the development of 2D semiconductor technology, aiming to produce more efficient, ultra-low-power chips. This funding is expected to significantly impact the broader AI and semiconductor industries by enabling next-generation hardware solutions.",
-      "source": "Crypto Briefing",
-      "original_title": "Nexstrom raises $12M to advance 2D semiconductor technology",
-      "context": "Computer chips are made by carving tiny circuits into silicon wafers, but as we try to make these circuits smaller and smaller to fit more power into a small space, we are hitting a wall where atoms start interfering with each other. Traditional silicon is reaching its limit, so scientists are looking at \"two-dimensional materials,\" which are materials only one atom thick, like graphene, that conduct electricity incredibly well with almost no energy loss. Nexstrom is a startup trying to figure out how to manufacture these ultra-thin materials reliably, which could lead to batteries that last forever and computers that never overheat. Their recent funding is a bet that this weird physics-based approach will replace standard silicon chips in the future.",
-      "why_it_matters": "Smaller, faster chips mean AI tools can run on less electricity and cost less to make. This helps keep the price of smart gadgets down while reducing the strain on power grids.",
-      "other_side": "Some investors fear that betting on brand-new chip designs is risky because these technologies often face unexpected delays or manufacturing hurdles."
+      "headline": "Greek PM Courts Silicon Valley for AI Investment",
+      "summary": "The Greek Prime Minister concluded a technology tour in California with meetings at Nvidia and Sequoia Capital, aiming to attract AI investment to Greece. The trip included a high-profile interaction with a Tesla robot, signaling the country's strategic push into the global tech ecosystem.",
+      "source": "Protothema.gr",
+      "original_title": "Greek PM high-fives Tesla robot in video wrapping up California tech tour",
+      "context": "Greece is a country famous for ancient history and tourism, but its leaders are now trying to reinvent its economy by becoming a hub for modern technology and artificial intelligence. The Prime Minister traveled to California, the global center of tech innovation, to meet with powerful investors and companies like Nvidia to convince them that Greece offers a good place to build AI businesses. This move is part of a broader effort to attract foreign money and skilled workers to replace traditional industries with high-tech ones. By showing interest in cutting-edge tools like Tesla robots, Greece hopes to position itself as a forward-thinking player in the future of global tech.",
+      "why_it_matters": "Countries are now competing to attract AI money to boost their economies and create high-tech jobs. This shows that AI is not just for superpowers anymore; smaller nations are trying to join the race.",
+      "other_side": "Skeptics believe this is mostly a publicity stunt and that Greece lacks the infrastructure and talent pool to actually host major AI hubs."
     },
     {
-      "headline": "Brand Engagement Network Raises $1.05 Million for Enterprise AI Software",
-      "summary": "Enterprise AI software company Brand Engagement Network has secured a $1.05 million private placement at a premium to market prices. The investment underscores growing confidence in the company's AI-driven solutions for brand engagement within the enterprise sector.",
+      "headline": "IonQ Surges on NVIDIA Research Center Deal and Quantum Breakthrough",
+      "summary": "IonQ stock jumped 11% following announcements of a research center deal with NVIDIA and a breakthrough in error decoding. The positive news also lifted competitors like D-Wave and Rigetti, indicating renewed investor enthusiasm for the quantum computing sector.",
+      "source": "24/7 Wall St.",
+      "original_title": "IonQ Surges 11% as NVIDIA Research Center Deal Follows Error-Decoder Breakthrough; D-Wave Climbs 5%, Rigetti Rises 4%",
+      "context": "Quantum computing is a type of super-powerful computer that uses the strange rules of quantum physics to solve problems that normal computers cannot handle, but these machines are currently very fragile and prone to errors. IonQ is a company building one of these advanced machines, and they recently announced a partnership with NVIDIA, a leader in standard computer chips, to create a dedicated research center. They also discovered a new way to fix mistakes in their calculations, called \"error decoding,\" which makes their computers more reliable. This good news made investors excited about the entire field, causing stock prices for other quantum companies to rise as well.",
+      "why_it_matters": "Quantum computers are still experimental, but this news suggests they are getting closer to solving real problems. It gives investors hope that this expensive technology might soon pay off.",
+      "other_side": "Many experts warn that quantum computing is still decades away from being useful for everyday tasks, making this stock surge likely just hype."
+    },
+    {
+      "headline": "Finnish Drone Tech Firm Sensofusion Seeks $344M IPO",
+      "summary": "Sensofusion, a Finnish defense technology group specializing in drones, is pursuing a $344 million initial public offering in Helsinki. The company aims to capitalize on rising investor interest in drone technology and autonomous systems within the defense sector.",
+      "source": "Biztoc.com",
+      "original_title": "Finnish Drone Group Sensofusion Seeks $344 Million in Helsinki IPO",
+      "context": "Drones are no longer just toys for hobbyists; they have become essential tools for defense and security, capable of flying autonomously to gather intelligence or deliver supplies. Sensofusion is a Finnish company that specializes in making these military-grade drones, and they are now raising $344 million by selling shares to the public for the first time, known as an Initial Public Offering (IPO). This financial move allows them to use investor money to expand their production and research as global tensions increase the demand for unmanned systems. It reflects a larger trend where private companies are stepping up to meet the growing needs of national defense through advanced robotics.",
+      "why_it_matters": "Selling drone tech to governments is becoming a huge business as global tensions rise. This company’s move shows that defense spending is shifting heavily toward automated machines.",
+      "other_side": "Ethical concerns remain about selling autonomous weapons, and critics argue that flooding the market with cheap drones could lead to more conflict."
+    },
+    {
+      "headline": "Bio-Techne Shareholders Approve Merck Acquisition",
+      "summary": "Shareholders of Bio-Techne have voted to approve its acquisition by Merck KGaA, Darmstadt, Germany. This major corporate move consolidates resources in the life science tools and diagnostic products market, creating a larger entity capable of broader innovation in biotech research.",
       "source": "PRNewswire",
-      "original_title": "Brand Engagement Network Secures $1.05 Million Private Placement at a Premium to Market",
-      "context": "Large companies spend billions of dollars on advertising to decide who sees their products online, but they often struggle to measure if those ads actually work or if they are just wasting money on bots. Brand Engagement Network creates software that uses artificial intelligence to analyze human behavior and predict which real people are most likely to buy something, helping brands target their spending more accurately. Investors recently gave this company over a million dollars because they believe that as ad fraud becomes harder to detect, businesses will pay a premium for tools that guarantee they are talking to actual humans. This investment signals that the industry is shifting from broad shouting to precise, AI-driven conversations.",
-      "why_it_matters": "Companies are pouring money into AI that helps brands talk to customers in smarter ways. This trend shows that businesses believe AI is key to staying competitive and keeping clients happy.",
-      "other_side": "Skeptics argue that many AI tools promise too much but fail to deliver real results, leading to wasted budget and frustrated employees."
+      "original_title": "Bio-Techne Shareholders Approve Acquisition by Merck KGaA, Darmstadt, Germany",
+      "context": "In the world of science, companies often buy each other to combine their strengths, similar to how two small bookstores might merge to form a larger library chain. Bio-Techne is a company that makes specialized tools for scientists to study biology, and Merck KGaA is a large German chemical and pharmaceutical firm. Shareholders voted to let Merck buy Bio-Techne so that the combined entity can offer a wider range of products and invest more heavily in medical research. This merger creates a bigger powerhouse capable of funding expensive experiments and bringing new health discoveries to market faster than either could alone.",
+      "why_it_matters": "Merging two science tool companies creates a giant that can fund bigger medical discoveries. This consolidation helps streamline research supplies for labs around the world.",
+      "other_side": "Smaller competitors worry that a monopoly will raise prices for scientists and reduce the variety of products available for research."
     },
     {
-      "headline": "51Degrees Launches Privacy-Forward Digital Advertising Identifier",
-      "summary": "Technology company 51Degrees has introduced a new digital advertising identifier designed to ensure privacy-forward interoperability across the digital advertising supply chain. This innovation aims to balance data precision with user privacy through appropriate technical measures.",
-      "source": "ExchangeWire",
-      "original_title": "51Degrees Launches 51Did Digital Advertising Identifier",
-      "context": "When you browse the internet, advertisers track your movements using unique digital ID numbers to show you targeted ads, but many users hate this because it feels like being constantly watched and violates their privacy. Governments around the world are starting to ban these tracking methods, forcing the advertising industry to find a new way to function without spying on individuals. 51Degrees has created a new system that acts like a private key exchange, allowing advertisers to know *that* someone is interested in a product without knowing *who* that person is. This allows the ad economy to keep running while respecting the user’s right to remain anonymous online.",
-      "why_it_matters": "A new system aims to show you ads that actually matter to you without spying on your personal data. This balance helps protect your privacy while still allowing advertisers to reach the right people.",
-      "other_side": "Privacy advocates warn that even with new tools, companies might find clever ways to track users anyway, making the \"privacy\" claims just marketing hype."
+      "headline": "Adidas Unveils Record-Breaking DNA Shoe Under $300",
+      "summary": "Adidas has released the Adizero Adios Pro Evo 3, a shoe designed to break marathon barriers but made accessible to general runners under $300. Although originally intended for elite athletes like Sebastian Sawe, this release democratizes high-performance running technology previously reserved for professionals.",
+      "source": "Yanko Design",
+      "original_title": "adidas Actually Built a Sub-$300 Shoe With Record-Breaking DNA",
+      "context": "Professional marathon runners wear extremely expensive, lightweight shoes designed to help them break world records, but these shoes were previously too costly for average people. Adidas has released a new version of their elite running shoe, called the Adizero Adios Pro Evo 3, which uses the same advanced technology but is priced under $300 to make it accessible to regular joggers. This is a significant shift because it \"democratizes\" high-end sports gear, allowing everyday athletes to benefit from innovations once reserved only for Olympians. The goal is to encourage more people to run by giving them professional-level equipment at a consumer-friendly price point.",
+      "why_it_matters": "Making elite sports gear affordable lets regular people train with better technology. This democratization pushes the average runner to go faster and healthier.",
+      "other_side": "Purists argue that when everyone has the same top-tier shoes, it removes the unique edge that professional athletes once had through exclusive equipment."
     },
     {
-      "headline": "AI Interactive Entertainment Requires a Five-Layer Structural Framework",
-      "summary": "A new framework proposes that sustainable value in AI interactive entertainment lies in a five-layer structure, specifically identifying inference, generation, world materials, creation protocols, and distribution as critical components. The analysis highlights that layers three and four are currently the missing middle where durable value is created.",
-      "source": "Neta.art",
-      "original_title": "Why AI Interactive Entertainment Needs a Five-Layer Structure",
-      "context": "Creating interactive entertainment powered by AI, like video games or virtual worlds, is not just about writing code; it requires a complete ecosystem where different technologies talk to each other seamlessly. Experts have identified five essential parts needed for this to work: the basic math calculations (inference), the creation of new content like text or images (generation), the assets used in the world (materials), the rules for creating those assets (protocols), and how to get the final product to players (distribution). The problem right now is that while we have good tools for the first two and the last part, we lack the middle layers that allow creators to easily build and share complex, persistent virtual worlds. Without solving this \"missing middle,\" AI entertainment will remain fragmented and hard to scale.",
-      "why_it_matters": "Experts say that for AI games and entertainment to truly succeed, they need a solid structure rather than just flashy graphics. This blueprint helps creators focus on what makes interactive experiences fun and lasting.",
-      "other_side": "Some players feel that over-complicating the design with rigid layers kills the creativity and spontaneity that makes gaming enjoyable in the first place."
-    },
-    {
-      "headline": "Mira Launches First At-Home Cortisol Pattern Tracking Kit",
-      "summary": "Women's health technology company Mira has launched the Cortisol Pattern™ Kit, an at-home urine test designed to track stress patterns over time using biological signals rather than wearable estimates. This device redefines stress tracking by offering a precise, non-invasive method for monitoring cortisol levels.",
-      "source": "PRNewswire",
-      "original_title": "Mira Launches Cortisol Pattern™ Kit To Redefine Stress Tracking in Women's Health",
-      "context": "Stress is often measured by asking people how they feel or by using wearable devices that guess stress levels based on heart rate, both of which can be inaccurate or annoying to wear all day. Mira, a women’s health company, realized that cortisol, the primary stress hormone in our bodies, leaves a clear chemical signature in urine that can be measured directly. They developed a home kit that analyzes this biological signal to give a true picture of stress patterns over time, rather than relying on subjective feelings or indirect guesses. This shift from guessing to measuring provides much more reliable data for understanding long-term health impacts.",
-      "why_it_matters": "Being able to check stress levels at home gives people real data about their health instead of guessing. This empowers individuals to manage their well-being proactively before problems get worse.",
-      "other_side": "Medical professionals caution that at-home tests might not be as accurate as lab tests, potentially giving users false reassurance or unnecessary anxiety."
-    },
-    {
-      "headline": "AI Chatbots Lacks True Intelligence, Experts Warn Against Anthropomorphism",
-      "summary": "Psychology Today argues that current AI chatbots do not possess true intelligence, consciousness, or emotional understanding, urging the public to stop attributing human-like thinking or feeling to these systems. The article emphasizes the fundamental limitations of generative AI in mimicking genuine cognition.",
-      "source": "Psychology Today",
-      "original_title": "AI Chatbots Aren't Intelligent, Much Less \"Superior\"",
-      "context": "Modern AI chatbots are designed to sound so human-like that people often start treating them as friends or therapists, believing they truly understand emotions and consciousness. However, psychologists warn that this is an illusion; the AI is simply predicting the next word in a sentence based on patterns it learned from reading the entire internet, not because it \"feels\" anything. When users attribute human traits to these machines, a process called anthropomorphism, they risk being manipulated or developing unhealthy emotional dependencies on systems that have no inner life. Understanding that AI is just a sophisticated parrot, not a thinker, is crucial for maintaining realistic expectations of technology.",
-      "why_it_matters": "Remembering that AI isn't human stops us from trusting it with decisions it shouldn't make. This reality check keeps people grounded and prevents emotional manipulation by machines.",
-      "other_side": "Many users find that interacting with chatbots feels natural and helpful, arguing that the emotional connection is real even if the machine doesn't feel it."
-    },
-    {
-      "headline": "NACS Appoints First VP of Technology to Lead Digital Modernization",
-      "summary": "The National Association of Convenience Stores (NACS) has named Paul Ziv as its first Vice President of Technology. In this role, Ziv will lead tech strategy, enterprise modernization, and the development of emerging digital capabilities across the association and its affiliated organizations.",
-      "source": "Cstoredive.com",
-      "original_title": "NACS names first VP of technology",
-      "context": "The convenience store industry, represented by the National Association of Convenience Stores (NACS), has traditionally been very slow to adopt modern technology compared to big grocery chains or gas station franchises. As consumer habits shift toward digital payments, app-based loyalty programs, and automated inventory management, these small stores are falling behind unless they upgrade their digital infrastructure. By hiring a dedicated Vice President of Technology, NACS is signaling that technology is no longer optional for these businesses but is central to their survival and growth. This role will focus on helping member stores modernize their operations to compete in a increasingly digital retail landscape.",
-      "why_it_matters": "Putting a tech leader in charge of a traditional industry group signals that old businesses must modernize to survive. This shift helps small stores adopt digital tools that save time and attract younger shoppers.",
-      "other_side": "Small business owners often complain that new technology is too expensive and complicated, fearing it will add more work rather than make things easier."
-    },
-    {
-      "headline": "AI Writes Code for Developers Learning React, Sparking Debate on Skill Acquisition",
-      "summary": "A developer diary reveals how AI tools wrote code for an internal tool rebuild intended for learning React, raising questions about the efficacy of using AI in educational contexts. The story highlights the tension between leveraging AI for productivity and the traditional need for developers to learn fundamentals through hands-on coding.",
-      "source": "R-bloggers.com",
-      "original_title": "We chose React to learn it. The AI wrote it for us.",
-      "context": "Learning to code is traditionally a difficult process that requires hours of typing, debugging errors, and memorizing syntax to build a mental model of how software works. Recently, some developers have started using AI tools to write the actual code for projects meant to help beginners learn React, a popular framework for building websites, raising concerns that students might skip the hard parts. If learners rely entirely on AI to generate code, they may finish the project but fail to understand the fundamental logic required to solve problems independently later on. This debate highlights the tension between using AI as a productivity tool versus using it as a crutch that might hinder deep learning.",
-      "why_it_matters": "Using AI to write code speeds up work but raises questions about whether beginners are actually learning. This debate highlights the risk of losing fundamental skills if we rely too heavily on shortcuts.",
-      "other_side": "Proponents argue that AI handles the boring parts, allowing developers to focus on bigger ideas and solve problems faster than ever before."
+      "headline": "Oppex AI Founder Discusses Building in the JetBrains Startup Program",
+      "summary": "Prasun Kumar, CEO and Founder of Oppex AI, shares insights into his startup journey through the JetBrains Startup Program. The interview provides an unvarnished look at the challenges and strategies involved in building an AI-focused company from the ground up without traditional pitching.",
+      "source": "Jetbrains.com",
+      "original_title": "Small Talk With Prasun Kumar, CEO and Founder of Oppex AI",
+      "context": "Starting a tech company is like trying to build a house while simultaneously designing the blueprints and gathering materials, which is why many startups join programs like JetBrains Startup Program. JetBrains is a company that makes software tools for programmers, and their startup program provides resources, mentorship, and support to help new AI companies survive their early, difficult years. Prasun Kumar, founder of Oppex AI, shared his honest experiences of navigating these challenges without needing to constantly pitch investors for attention. His story illustrates the practical, day-to-day struggles of building a business from scratch and how community support can make the difference between success and failure.",
+      "why_it_matters": "This story highlights how support programs help new AI companies survive without needing flashy pitches. It shows that steady development is often more important than quick fame.",
+      "other_side": "Some entrepreneurs feel these programs favor certain types of founders and that the \"no pitching\" rule hides the harsh reality of how hard it is to get funding."
     }
   ]
 }
