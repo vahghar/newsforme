@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "Former RBI Governor Urges GST Exemption on UPI Merchant Discount Rates",
-      "summary": "Former Reserve Bank of India Governor C. Rangarajan has argued that the Merchant Discount Rate (MDR) for Unified Payments Interface transactions should be exempt from Goods and Services Tax. This recommendation aims to clarify tax liabilities and support the continued expansion of digital payment infrastructure in India.",
-      "source": "BusinessLine",
-      "original_title": "[BusinessLine] UPI MDR should not attract any GST: Former RBI Governor C Rangarajan",
-      "context": "India is currently pushing hard to get its citizens to pay for things using apps on their phones instead of carrying cash, a system called UPI. However, when businesses accept these digital payments, they usually have to pay a small fee to the bank or payment processor, known as the Merchant Discount Rate. The former head of India's central bank argues that the government should not tax this specific fee because adding taxes makes digital payments more expensive for shopkeepers, which could slow down the country's goal of becoming a fully cashless society. By removing this tax, the hope is that small business owners will feel encouraged to keep accepting digital money without worrying about extra costs.",
-      "why_it_matters": "This could make digital payments cheaper and more popular in India. If taxes are removed, small businesses save money, encouraging everyone to use phones for shopping instead of cash.",
-      "other_side": "The government might lose out on important tax revenue. Critics argue that skipping taxes creates an uneven playing field for other industries that do pay their fair share."
-    },
-    {
-      "headline": "Micron Stock Watch: CHIPS Act Buyback Restrictions Set to Expire",
-      "summary": "Investors are closely monitoring December 9, the date when buyback restrictions under the CHIPS Act expire for Micron Technology. Analysts suggest this regulatory change could significantly impact the semiconductor company's capital allocation strategy and stock performance.",
-      "source": "Biztoc.com",
-      "original_title": "[Biztoc.com] Why investors should be watching this date for Micron",
-      "context": "The United States government passed a law called the CHIPS Act to encourage American companies to build high-tech computer chips domestically rather than relying on other countries. To make sure these companies actually invest in building factories and equipment within the US, the government placed strict rules preventing them from buying back their own stock shares for several years. Micron Technology, a major American chipmaker, is reaching the end of this waiting period in December, meaning they will soon be allowed to use their profits to buy back shares from investors again. This change is exciting for investors because it often leads to higher stock prices, but it also signals that the company has met its government obligations and can now focus purely on shareholder rewards.",
-      "why_it_matters": "Micron can now spend its own money however it wants again. This freedom often leads to buying back stock, which usually makes the remaining shares more valuable for investors.",
-      "other_side": "Some worry this is just a trick to boost short-term profits. Spending billions on buybacks means less money is available for building new factories or researching better technology."
-    },
-    {
-      "headline": "TSMC Shares Hit Record High Amid Surging AI Chip Demand",
-      "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) has seen its stock reach an all-time high driven by unprecedented demand for artificial intelligence chips. This surge highlights the transformative impact of AI investments on global markets and signals a potential shift in tech sector investment strategies.",
+      "headline": "China's Crypto Rollout Could Spark Bitcoin Supercycle",
+      "summary": "The CEO of Solana Company suggests that China's potential reopening of its crypto market could significantly boost global digital asset demand. This development hinges on the implementation of effective risk management frameworks to stabilize the sector.",
       "source": "Crypto Briefing",
-      "original_title": "[Crypto Briefing] TSMC stock hits record high as AI chip demand lifts Taiwan market",
-      "context": "TSMC is a Taiwanese company that essentially acts as the world’s primary factory for the most advanced computer chips used in smartphones, cars, and especially artificial intelligence systems. Recently, tech giants like Google, Microsoft, and Meta have been spending billions of dollars to build massive data centers filled with powerful processors needed to train AI models. Because TSMC is one of the very few companies in the world capable of manufacturing these complex, cutting-edge chips, demand for their services has skyrocketed beyond normal levels. This intense pressure on their production capacity has driven their stock price to record highs, reflecting the market's belief that AI growth is here to stay and requires endless amounts of specialized hardware.",
-      "why_it_matters": "AI is becoming the most powerful driver of modern business growth. When chip makers succeed, it proves that artificial intelligence is not just a hype but a real economic force changing global markets.",
-      "other_side": "There is a risk of a massive bubble forming. If demand slows down suddenly, companies could be left with expensive factories they no longer need, causing huge financial losses."
+      "original_title": "[Crypto Briefing] China’s crypto rollout could trigger Bitcoin supercycle, says Solana Company CEO",
+      "context": "For years, China has maintained a strict ban on cryptocurrency trading and mining to control capital flight and protect its citizens from scams, creating the world's largest underground market for digital assets. This news suggests that if China were to suddenly lift these bans, it would unleash a massive wave of new buyers who have been waiting in the shadows, potentially driving up the price of Bitcoin significantly. However, experts warn that this sudden opening could be chaotic without strict rules, so they are calling for safety measures to prevent the market from crashing due to panic or fraud. Essentially, it is a story about how one giant country’s decision to change its laws could shake up the entire global digital money system.",
+      "why_it_matters": "If China starts allowing crypto again, it could bring in a huge wave of new money and buyers. This might push Bitcoin prices much higher than they are now. It changes the global game because more people would be playing.",
+      "other_side": "Some experts worry that bringing back crypto without strict rules could lead to scams or market crashes. They fear it might cause instability instead of growth."
     },
     {
-      "headline": "SecondSight Secures Series A Funding with Insurance Veteran as President",
-      "summary": "AI operating system developer SecondSight has closed its Series A funding round while appointing insurance industry veteran Jamie Bouloux as president. The investment comes as insurers pivot from general-purpose AI toward specialized systems built on proprietary data to enhance operational efficiency.",
-      "source": "PRNewswire",
-      "original_title": "[PRNewswire] SecondSight Closes Series A and Names Insurance Veteran Jamie Bouloux as President",
-      "context": "For a long time, insurance companies tried using general-purpose artificial intelligence tools, but found that these broad tools were too generic to handle the highly specific and sensitive data of the insurance industry. A new startup called SecondSight has raised significant money to build a specialized \"operating system\" designed specifically to help insurers run their daily operations more efficiently using proprietary data. They have brought in an executive from the traditional insurance sector to lead the company, signaling that they are moving away from flashy tech demos toward practical, behind-the-scenes improvements. This shift highlights a broader trend where industries are realizing that custom-built AI solutions tailored to their unique problems are far more valuable than off-the-shelf technology.",
-      "why_it_matters": "Insurance companies are finally finding practical uses for AI. By hiring experts who understand both tech and insurance, they can cut costs and work faster without making silly mistakes.",
-      "other_side": "Relying too much on specialized software can be risky. If the system fails or gets hacked, the entire company’s operations could grind to a halt overnight."
+      "headline": "Irish Derelict Property Tax Payments Delayed Until 2028",
+      "summary": "Finance Minister Simon Harris announced that the first payments under the new derelict property tax will not be due until June 2028. The delay aims to address housing crises while tackling the issue of dereliction as an unacceptable spectacle.",
+      "source": "The Irish Times",
+      "original_title": "[The Irish Times] First payments under new derelict property tax not due until June 2028",
+      "context": "Ireland has a long-standing problem with abandoned buildings, often called \"derelict properties,\" which sit empty and decay in city centers while many people struggle to find affordable places to live. To fix this, the government introduced a special tax designed to punish owners who let their buildings rot instead of fixing them up or selling them to help the housing shortage. The delay until 2028 gives property owners plenty of time to either renovate their buildings to avoid the fine or sell them to developers who can turn them into homes. This policy is a direct attempt to force unused land back into use to help solve the crisis where young people cannot afford to buy or rent apartments.",
+      "why_it_matters": "Giving owners more time to pay taxes on empty buildings helps them fix up old homes. This adds more houses to the market for people who need a place to live. It is a direct step to help solve the shortage of affordable housing.",
+      "other_side": "Critics say delaying payments does not actually build new homes fast enough. They argue that landlords might just keep properties empty while waiting for better deals."
     },
     {
-      "headline": "Companies Struggle to Forecast AI Spending Amid Uncertainty",
-      "summary": "A recent Wall Street Journal report indicates that businesses are finding it increasingly difficult to predict their artificial intelligence expenditures. Data shows that only 11% of surveyed companies can accurately forecast their AI spending, reflecting broader financial planning challenges in the tech sector.",
-      "source": "pymnts.com",
-      "original_title": "[pymnts.com] Businesses Finding It Harder to Predict AI Spending",
-      "context": "Artificial intelligence is being adopted by businesses at a breakneck pace, with companies rushing to integrate these tools into their workflows to stay competitive. However, because the technology evolves so quickly and the costs of computing power and software licenses fluctuate wildly, finance teams are struggling to predict how much money they will actually need to spend next year. Most companies cannot accurately forecast these expenses, which creates a difficult situation for leaders trying to manage their budgets and plan for future growth. This uncertainty reflects the chaotic nature of the current tech boom, where rapid innovation outpaces traditional financial planning methods.",
-      "why_it_matters": "Businesses are flying blind when it comes to big tech spending. Not knowing how much AI will cost makes it hard to plan budgets, leading to wasted money or missed opportunities.",
-      "other_side": "Some say this uncertainty is normal for any new technology. Early adopters expect chaos, and waiting for perfect clarity might cause them to fall behind competitors who take risks."
+      "headline": "Amwins Launches illumin Specialty MGA for Challenging Risks",
+      "summary": "Specialty insurance broker Amwins has launched illumin Specialty, a managing general agency focused on primary and excess liability insurance. The new entity will work exclusively with wholesale brokers to serve clients facing challenging exposures.",
+      "source": "Insurance Journal",
+      "original_title": "[Insurance Journal] Markets/Coverages: Amwins Launches MGA illumin Specialty",
+      "context": "In the insurance world, \"specialty\" risks refer to unusual or high-danger situations that standard insurance companies refuse to cover, such as a company operating in a war zone or a business with unique legal liabilities. Amwins created a new branch specifically to handle these difficult cases by working only with other brokers who specialize in finding coverage for tough clients. This setup allows regular insurance companies to stay safe and predictable while ensuring that businesses with complex problems still get the protection they need. It is essentially a specialized service within the insurance industry dedicated to solving puzzles that mainstream providers ignore.",
+      "why_it_matters": "This new insurance group focuses on hard-to-cover risks that normal companies ignore. It gives businesses with unique problems a way to get protected. This helps keep specific industries running smoothly when things go wrong.",
+      "other_side": "Smaller insurers might struggle to compete with this large new player. There is also concern that focusing only on \"challenging\" cases could drive up costs for everyone else."
     },
     {
-      "headline": "India’s Telecom Minister Promotes Nation as Global Hub for Innovation and Manufacturing",
-      "summary": "Telecom Minister Jyotiraditya Scindia has pitched India as a premier global base for innovation, manufacturing, and scale. He emphasized that the convergence of connectivity, digital public infrastructure, and AI can drive economic empowerment and enhance the country's global competitiveness.",
+      "headline": "Spain Taxes Seasonal Rentals to Fund First-Home Loans",
+      "summary": "Following violent housing protests, Spain has passed measures including a tax on seasonal rentals to create a 10 billion euro fund for first-home loans. These steps are part of a broader strategy to address the country's housing affordability crisis ahead of snap elections.",
+      "source": "Fortune",
+      "original_title": "[Fortune] After housing protests turned violent, Spain will tax seasonal rentals to build a 10 billion euro fund into first-home loans",
+      "context": "Spain is facing a severe housing crisis where rents have skyrocketed, making it nearly impossible for ordinary families to move out and buy their first home, leading to recent violent protests. To fight this, the government decided to tax people who use apartments as short-term vacation rentals (like Airbnb) because these units are taken off the long-term rental market, driving up prices for residents. The money collected from this tax will go into a special fund to provide cheap loans to first-time homebuyers, helping them enter the market. This is a political move to calm angry citizens and stabilize the housing sector before upcoming elections by shifting the burden onto wealthy investors rather than average renters.",
+      "why_it_matters": "Spain is taxing vacation rentals to take those homes off the short-term market. The money raised will help first-time buyers get loans to buy their own homes. This aims to make housing more affordable for local residents.",
+      "other_side": "Vacation rental owners argue this punishes them for providing popular tourist services. They claim it reduces income and could hurt the local tourism economy."
+    },
+    {
+      "headline": "Rupee Weakens to 96.42 Against US Dollar Amid Outflows",
+      "summary": "The Indian rupee closed at 96.42 per US dollar, marking its weakest level in over two months. Persistent foreign investor outflows and dollar demand from oil companies pressured the currency, though RBI intervention limited further losses.",
+      "source": "The Times of India",
+      "original_title": "[The Times of India] Rupee loses 13 paise to close at 96.42 per US dollar",
+      "context": "The value of a country's currency depends heavily on whether foreign investors are buying or selling assets within that country; when they pull their money out, the local currency loses value. In India, foreign investors have been taking their money out of the stock market, and oil companies need US dollars to pay for imported fuel, both of which put pressure on the Indian rupee. The Reserve Bank of India (the central bank) stepped in to buy rupees and sell dollars to stop the currency from dropping too fast, acting like a stabilizer. This situation shows how global events, like oil prices and investor confidence, directly impact the everyday cost of living and borrowing in India.",
+      "why_it_matters": "When India's currency gets weaker, buying things from other countries becomes more expensive. This can lead to higher prices for everyday goods like fuel and food. It affects how much money regular people have left after shopping.",
+      "other_side": "A weaker currency can actually help Indian exporters sell more goods abroad. It makes their products cheaper for foreign buyers, which can boost manufacturing jobs."
+    },
+    {
+      "headline": "Delhi HC Rules Banks Cannot Arbitrarily Cut FD Interest Rates",
+      "summary": "The Delhi High Court dismissed NatWest Markets' appeal regarding a fixed deposit dispute, ruling that banks cannot arbitrarily reduce interest rates on court-ordered FDs. Any reduction must be supported by a valid legal or contractual basis.",
       "source": "Business Standard",
-      "original_title": "[Business Standard] Scindia pitches India as global base for innovation, manufacturing, scale",
-      "context": "India is rapidly transforming from a service-based economy into a global powerhouse for both creating new technologies and manufacturing physical goods. The Telecom Minister is actively promoting the country as a prime location for international businesses to set up shop, citing its strong internet infrastructure and growing pool of skilled workers. He argues that combining reliable connectivity with public digital services and artificial intelligence can empower citizens and make Indian companies more competitive on the world stage. This pitch is part of a larger national effort to attract foreign investment and reduce reliance on imports by boosting local production capabilities.",
-      "why_it_matters": "India is trying to become a top player in global manufacturing and tech. Attracting foreign companies helps create jobs and boosts the country’s economy by mixing local talent with global standards.",
-      "other_side": "Local workers might struggle to keep up with high-tech demands. If training isn’t fast enough, many people could be left behind while only a few skilled workers benefit from the boom."
+      "original_title": "[Business Standard] Banks cannot cut interest on court-ordered FDs arbitrarily: Delhi HC",
+      "context": "Fixed deposits (FDs) are savings accounts where you lock your money away for a set time in exchange for a guaranteed interest rate, and courts have previously ordered banks to pay specific amounts to people in legal disputes. Banks tried to argue they could lower the interest rate they paid on these court-ordered accounts, claiming it was their right under contract, but the Delhi High Court disagreed. The court ruled that once a judge orders a payment, the bank cannot arbitrarily change the terms to pay less, ensuring that legal judgments are honored fairly. This protects consumers from financial institutions trying to exploit loopholes to reduce payouts after a court has already decided what is owed.",
+      "why_it_matters": "This court ruling stops banks from changing interest rates on fixed deposits without good reason. It protects savers from losing unexpected money due to bank decisions. It sets a clear rule that contracts must be respected.",
+      "other_side": "Banks argue they need flexibility to manage their money during economic changes. They say strict rules might limit their ability to offer competitive rates in the future."
     },
     {
-      "headline": "BITSoM Celebrates Five Years, Calls for More Global Institutions in India",
-      "summary": "Birla Institute of Technology and Science Management (BITSoM) marked its fifth anniversary by highlighting its graduate output and calling for more global educational institutions in India. The school noted that its alumni are now spread across over 300 companies, underscoring the growing importance of business education in the region.",
+      "headline": "Nvidia's Weight in MSCI ACWI Climbs to 5.21%",
+      "summary": "Nvidia's dominance in the MSCI All Country World Index has increased to 5.21%, highlighting the growing influence of tech giants on global markets. This shift impacts passive investment strategies and underscores the concentration of market capitalization in the technology sector.",
+      "source": "Crypto Briefing",
+      "original_title": "[Crypto Briefing] Nvidia’s weight in the MSCI All Country World Index climbs to 5.21%",
+      "context": "The MSCI All Country World Index is a popular list used by investors around the world to track the performance of major stocks globally, and many investment funds automatically copy this list to decide what to buy. Nvidia, a company that makes powerful computer chips for artificial intelligence, has grown so large and profitable that it now makes up more than 5% of this entire global index, which is unusually high for a single company. This means that if Nvidia does well, the whole index looks good, but if it fails, it drags down the performance of millions of passive investments worldwide. It highlights a growing risk where the global stock market becomes too dependent on just one or two technology giants.",
+      "why_it_matters": "Nvidia now controls a huge slice of the entire world stock market. This means if Nvidia struggles, it drags down many other investments automatically. It shows how powerful tech giants have become over global finance.",
+      "other_side": "Having one company so dominant creates risk if that company fails or faces trouble. Diversified investors worry that their portfolios are too reliant on just one tech sector."
+    },
+    {
+      "headline": "Spiko Raises $90M Series B for Tokenised Cash Funds",
+      "summary": "Paris and London-based Spiko has secured a $90 million Series B funding round led by New Enterprise Associates (NEA). The company, which issues tokenised cash funds, now has total funding of $120 million as it expands its fintech infrastructure.",
+      "source": "The Next Web",
+      "original_title": "[The Next Web] Spiko raises a $90M Series B led by NEA for its tokenised cash funds",
+      "context": "Traditional investing in cash funds usually involves slow paperwork and intermediaries, but \"tokenized\" finance uses blockchain technology to create digital versions of these funds that can be bought and sold instantly online. Spiko is a company building the infrastructure to make this process safe and easy, allowing everyday investors to access professional cash management tools through simple digital tokens. They recently raised $90 million to expand this technology, proving that there is strong demand for faster, more transparent ways to manage money. This represents the ongoing shift of traditional banking services moving onto the internet and becoming accessible through modern digital platforms.",
+      "why_it_matters": "Spiko is using digital tokens to make investing in cash funds easier and faster. This brings traditional banking into the modern digital asset space. It could make saving money simpler for people comfortable with technology.",
+      "other_side": "Regulators worry about the safety and security of these new digital financial tools. Critics fear that rapid expansion without proper oversight could lead to fraud or loss of funds."
+    },
+    {
+      "headline": "UBS CEO Warns Hard Measures Needed for French Debt Crisis",
+      "summary": "UBI CEO Sergio Ermotti has warned that 'hard measures' are urgently required to tackle France's spiraling debt crisis. His comments come amidst worsening financial turmoil and growing concerns about the sustainability of French public finances.",
+      "source": "CNBC",
+      "original_title": "[CNBC] UBS CEO warns ‘hard measures’ are needed to tackle French debt crisis, as turmoil worsens",
+      "context": "France has been spending more money than it earns for years, leading to a massive national debt that worries international lenders and economists who fear the country might not be able to pay it back. Sergio Ermotti, the head of UBS (a major global bank), warned that France needs to take \"hard measures,\" meaning painful cuts to public spending or increases in taxes, to stop the debt from spiraling out of control. If France does not fix its finances, it could face higher borrowing costs, which would hurt its economy and potentially destabilize the broader European financial system. This warning serves as a stark reminder that even wealthy nations must balance their budgets to maintain trust and economic stability.",
+      "why_it_matters": "France has too much debt, which threatens its economic stability and future spending power. Urgent action is needed to stop the situation from getting worse. This could impact how much France can invest in public services and infrastructure.",
+      "other_side": "Some economists argue that cutting spending hurts the poor and slows down recovery. They believe borrowing more might be necessary to stimulate growth before paying it back."
+    },
+    {
+      "headline": "G-Sec Yields Thaw as Crude Oil Prices Dip Below $100",
+      "summary": "Yields on Indian government securities improved as crude oil prices fell below $100 a barrel, easing inflationary pressures. Bond markets are now discounting an expected 25 basis points repo rate hike by the Reserve Bank of India.",
       "source": "BusinessLine",
-      "original_title": "[BusinessLine] India needs more global institutions as BITSoM marks five years: Birla",
-      "context": "BITSoM is a relatively young business school in India that has grown significantly over its first five years, producing graduates who are now working at hundreds of major corporations. As the institution celebrates this milestone, it is advocating for more international-style educational institutions to open in India to meet the rising demand for high-quality management training. The school points out that its alumni network is expanding rapidly, demonstrating that there is a strong appetite among students and employers for modern, globally aligned business education. This call for more institutions reflects a broader desire in India to elevate its professional workforce to compete with top-tier business schools around the world.",
-      "why_it_matters": "More international schools mean better education options for Indian students. This keeps talented young people in the country instead of forcing them to move abroad for degrees.",
-      "other_side": "Elite private schools can widen the gap between rich and poor. If only wealthy families can afford these top-tier educations, social mobility becomes harder for average citizens."
-    },
-    {
-      "headline": "EVs Not Sole Solution for Pollution Reduction, Auto Chief Warns",
-      "summary": "Venu Srinivasan cautioned that electric vehicles alone cannot solve pollution issues, advocating instead for a technology-agnostic automotive policy. He argued that such a framework would better boost emissions cuts, consumer choice, and India’s overall global competitiveness in the auto sector.",
-      "source": "BusinessLine",
-      "original_title": "[BusinessLine] EVs, not the only solution to reduce pollution: Venu Srinivasan",
-      "context": "Electric vehicles (EVs) are often hailed as the silver bullet for reducing air pollution in cities, but automotive industry leaders argue that focusing solely on EVs ignores other important factors. Venu Srinivasan, a prominent figure in the auto sector, warns that a rigid policy favoring only electric cars might limit consumer choice and fail to address all sources of emissions effectively. Instead, he advocates for a flexible approach that supports any technology that reduces pollution, whether it be hydrogen fuel cells, improved internal combustion engines, or better public transport. This perspective suggests that a diverse mix of solutions is more likely to succeed in lowering emissions while keeping the automotive market competitive and accessible.",
-      "why_it_matters": "Focusing only on electric cars ignores other ways to clean the air. A flexible approach allows for better solutions like hydrogen or improved public transport, giving consumers more choice.",
-      "other_side": "Electric vehicles are still the best immediate fix for smog. Slowing down EV adoption to wait for \"perfect\" policies might let pollution levels stay dangerously high for years longer."
-    },
-    {
-      "headline": "FSSAI Mandates Stricter Enforcement for Food Products Ahead of Festivals",
-      "summary": "The Food Safety and Standards Authority of India has directed state governments to ramp up surveillance and enforcement drives for milk products, snacks, and beverages. This move aims to prevent the circulation of adulterated or unsafe food items during the upcoming Navratri and Diwali festival seasons.",
-      "source": "BusinessLine",
-      "original_title": "[BusinessLine] FSSAI directs States to ramp up enforcement drives for milk products, snacks, beverages ahead of festival season",
-      "context": "In India, festivals like Navratri and Diwali are times of heightened celebration where people consume large quantities of milk, snacks, and beverages, making food safety a critical concern. The Food Safety and Standards Authority of India has ordered stricter inspections during this period to catch vendors selling adulterated or unsafe products before they reach consumers. This enforcement drive is necessary because the surge in demand during festivals can sometimes lead to corners being cut by unscrupulous sellers looking to maximize profits. By ramping up surveillance now, authorities aim to protect public health during a time when food consumption is at its peak.",
-      "why_it_matters": "Food safety checks protect families during major holiday celebrations. Ensuring snacks and drinks are safe prevents serious illnesses when millions of people gather to eat and celebrate together.",
-      "other_side": "Strict rules can hurt small food vendors who lack resources. Tiny shop owners might go out of business if they cannot afford the strict inspections required by the new laws."
-    },
-    {
-      "headline": "Air Canada Offers 50% Boost on Status Qualifying Credits for Premium Travel",
-      "summary": "Air Canada has launched a limited-time offer allowing Aeroplan members to earn a 50% boost on Status Qualifying Credits (SQDs) for premium travel between Canada and Europe. Members must book flights between October 5 and November 30, 2026, with bookings closing on October 11.",
-      "source": "Loyaltylobby.com",
-      "original_title": "[Loyaltylobby.com] Air Canada Aeroplan 50% SQC Boost On Premium Travel Between Canada & Europe October 5 – November 30, 2026 (Book By Oct 11)",
-      "context": "Air Canada’s loyalty program, Aeroplan, allows frequent flyers to earn credits that help them achieve elite status, which comes with perks like free upgrades and priority boarding. To encourage customers to book expensive premium tickets on flights between Canada and Europe, the airline is offering a temporary 50% boost on the credits earned for these trips. This promotion is limited to bookings made in October for travel through November, creating a sense of urgency for travelers who want to maximize their status progress. Such incentives are common in the airline industry to stimulate demand during specific periods and reward loyal customers for choosing higher-margin seats.",
-      "why_it_matters": "Airlines are using rewards to lure customers onto expensive seats. This helps the airline fill premium cabins that would otherwise sit empty, increasing their profit margins significantly.",
-      "other_side": "Frequent flyers might feel pressured to overspend. Travelers may book flights they do not need just to earn points, wasting money on trips they would not have taken otherwise."
+      "original_title": "[BusinessLine] G-Sec yields thaw on crude oil prices dipping below $100 a barrel",
+      "context": "India imports most of its oil, so when global oil prices drop, it saves the country billions of dollars, which helps reduce inflation (the rising cost of goods) and strengthens the economy. Government bonds (\"G-Secs\") are loans the government takes out, and their yields (interest rates) tend to move based on expectations of inflation and central bank actions. Because oil prices fell below $100, experts believe the Reserve Bank of India might raise interest rates less aggressively to keep borrowing costs manageable for businesses and homeowners. This connection shows how global energy markets directly influence local interest rates and the cost of borrowing money in India.",
+      "why_it_matters": "Lower oil prices mean less pressure on inflation in India. This allows the central bank to potentially lower interest rates sooner. Cheaper borrowing costs can help businesses grow and consumers spend more.",
+      "other_side": "Oil-producing nations lose revenue when prices drop, which can destabilize global trade. Additionally, if demand drops too much, it might signal a slowing global economy."
     }
   ]
 }
