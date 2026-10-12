@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "Trump's Russian Diesel Deal Fails to Ease U.S. Fuel Prices",
-      "summary": "President Trump announced a deal with Russia to supply over 300,000 tons of diesel to the U.S., but experts dismiss it as ineffective for lowering consumer fuel costs. The move is characterized by analysts as a superficial gesture that will not alleviate the economic pressure at the pump.",
-      "source": "Fortune",
-      "original_title": "[Fortune] Russia’s deal to supply the U.S. with diesel is unlikely to ease pain at the pump, experts say. ‘It’s kind of shuffling deck chairs on the Titanic’ — President Donald Trump announced Friday that he had struck a deal with Russian President Vladimir Putin to immediately supply the U.S. more than 300,000 tons of diesel.",
-      "context": "To understand why buying diesel from Russia won't lower gas prices, you first need to know that the U.S. already buys very little oil and fuel from Russia because of strict penalties imposed after Russia invaded Ukraine in 2022. These penalties are like a \"no-buy\" list for American companies, making it legally difficult and expensive to import Russian fuel. Even if this specific deal goes through, experts say the amount of diesel involved is too small to move the needle on national prices, which are mostly driven by global supply, refining capacity, and domestic demand rather than single-country imports. It is essentially a symbolic political gesture that does not change the fundamental mechanics of how fuel pricing works in America.",
-      "why_it_matters": "This deal shows that buying fuel from a country at war won't actually make gas cheaper for everyday people. It proves that big political moves often look good on paper but don't fix the real cost of living issues families face.",
-      "other_side": "Some might argue it helps keep the supply chain stable or supports diplomatic ties, even if prices don't drop immediately for consumers. Critics say it just rewards aggression without solving the root cause of high energy costs."
-    },
-    {
-      "headline": "EU and China Reach Preliminary Trade Deal to Curb Chinese EV Imports",
-      "summary": "The European Union and China have agreed on a broad initial deal aimed at reducing trade tensions and addressing imbalances. The agreement could cut up to 50% of Chinese electric vehicle and plug-in hybrid imports while potentially lowering tariffs for certain European exports to China.",
-      "source": "Fortune",
-      "original_title": "[Fortune] EU says trade deal could cut up to 50% of Chinese EV and plug-in hybrid imports and lower tariffs for some European exports to China — The top trade envoys for China and the European Union agreed Friday on a broad initial deal following two days of talks aimed at calming escalating tensions over trade imbalances.",
-      "context": "This story involves two major economic powers, the European Union (a group of wealthy nations) and China (the world's factory), clashing over who gets to sell cars where. For years, Chinese electric car makers have been selling their vehicles in Europe at very low prices, often because they receive heavy financial support from their own government, which many Europeans see as unfair competition. The EU responded by threatening to add high taxes, called tariffs, on these cheap Chinese cars to protect their own local car industries from going out of business. The new preliminary deal is an attempt to stop this trade war by limiting how many cheap Chinese cars enter Europe while allowing some European goods easier access to China, creating a balanced playing field for both sides.",
-      "why_it_matters": "This deal changes how we buy and sell electric cars between Europe and China. It could mean more affordable EVs for shoppers but also limits competition, which might slow down innovation in green technology.",
-      "other_side": "European manufacturers might like this because it protects their jobs from cheap foreign imports. However, environmental groups worry it slows the switch to clean energy by making electric cars harder to get."
-    },
-    {
-      "headline": "EU Proposes Massive $16 Billion Cut to Foreign Aid Budget",
-      "summary": "The European Union has proposed slashing its foreign aid budget by $16.7 billion over the next seven years, primarily affecting funding for sub-Saharan Africa and the Middle East. This significant reduction in financial assistance highlights shifting priorities within the EU's fiscal planning.",
-      "source": "Sputnikglobe.com",
-      "original_title": "[Sputnikglobe.com] EU Proposes Cutting Aid to Africa, Middle East by Over $16Bln — MOSCOW (Sputnik) - The European Union is proposing to cut funding for aid programs for countries in sub-Saharan Africa and the Middle East by $16.7 billion in its next seven-year budget, according to a negotiating document published by the Council of the EU o…",
-      "context": "Foreign aid budgets are the money governments set aside to help poorer countries with things like food, healthcare, and disaster relief, often to build goodwill and stability around the world. The European Union has decided to drastically cut this spending by $16 billion, which means less help will be sent to regions like sub-Saharan Africa and the Middle East that rely heavily on this external support. This shift happens because European leaders are facing tight budgets at home due to inflation and other economic pressures, forcing them to prioritize spending within their own borders over helping other nations. It reflects a broader trend where wealthy nations are becoming more focused on their own internal problems rather than global charity.",
-      "why_it_matters": "Cutting billions in aid means poorer countries will get less help with food, health, and safety. This could lead to more instability and suffering in regions already struggling with poverty and conflict.",
-      "other_side": "Taxpayers in wealthy nations might support this as a way to save money and focus resources at home. Others argue that cutting aid now could cost more later due to increased migration and global crises."
-    },
-    {
-      "headline": "GST Council Unveils Major Taxpayer Reforms and Relief Measures",
-      "summary": "India's GST Council has introduced significant reforms to the indirect tax framework, including relief from arrest and prosecution for minor offenses. The changes also aim to expedite tax refunds, improve access to tax credits, and simplify compliance procedures for businesses.",
-      "source": "The Tribune India",
-      "original_title": "[The Tribune India] GST Council unveils taxpayer-friendly reforms: Relief from arrest, faster refunds and easier compliance - The Tribune — The GST Council decided to enhance the indirect tax framework by providing businesses with relief from arrest, prosecution, and penalties, improving access to tax credits, expediting refunds, and implementing various procedural relaxations, such as simplified…",
-      "context": "In India, there is a system called GST, or Goods and Services Tax, which is a single tax collected when products are bought and sold across the country, replacing a messy web of older, different taxes. The problem was that small business owners were often scared to run their businesses properly because even tiny mistakes in paperwork could lead to police arrest or harsh legal trouble. The new reforms aim to fix this fear by ensuring that minor administrative errors do not result in jail time, while also speeding up the process of getting money back from the government when taxes are overpaid. Essentially, the goal is to make running a business in India feel safer and less stressful for everyday shopkeepers and entrepreneurs.",
-      "why_it_matters": "These changes make it much easier for small business owners to handle taxes without fear of going to jail for tiny mistakes. It should help businesses grow faster and spend less time dealing with government paperwork.",
-      "other_side": "Some critics worry that being too lenient might encourage larger companies to hide tax violations behind minor offenses. They argue that strict rules are necessary to ensure everyone pays their fair share."
-    },
-    {
-      "headline": "Senate Investigation Questions AI Data Center Financial Claims",
-      "summary": "A Senate investigation has revealed that claims made by AI hyperscalers regarding the costs and benefits of data centers are misleading. The report indicates that these companies fail to disclose the true economic and environmental impacts when applying for development permits.",
-      "source": "Tom's Hardware UK",
-      "original_title": "[Tom's Hardware UK] Senate investigation says that some AI data center claims are misleading — A Senate investigation on AI data centers question that costs and benefits that AI hyperscalers show when they apply for permits to put up their developments. The report says that these claims are misleading and that they don't show the real impact of these s…",
-      "context": "Artificial Intelligence companies need massive buildings called data centers to house the powerful computers that learn and generate AI responses, but these buildings use enormous amounts of electricity and water. Recently, politicians investigated whether these tech giants were hiding the true cost of these projects, such as the strain on local power grids and the environment, when asking for permission to build them. The investigation found that the companies were misleading officials by downplaying these negative impacts to get their construction permits approved faster. This is important because it reveals a conflict between rapid technological growth and the responsibility to be honest about the environmental and community costs of that growth.",
-      "why_it_matters": "We are learning that building giant computer centers for AI is far more expensive and damaging to the environment than companies admit. This transparency forces us to rethink how fast we are adopting new tech and who pays the true price.",
-      "other_side": "Tech companies argue these centers create jobs and drive economic growth through innovation. They claim the benefits of AI outweigh the hidden costs and that they are working on greener solutions."
-    },
-    {
-      "headline": "Kexing Biopharm Showcases Global Pipeline at CPHI Milan 2026",
-      "summary": "Kexing Biopharm exhibited its innovative drug pipeline and commercialized products at CPHI Milan 2026, highlighting opportunities for global cooperation. The company showcased co-developed biosimilars and a broad portfolio of drugs marketed overseas, signaling its strategic expansion in the biopharmaceutical sector.",
-      "source": "PR Newswire UK",
-      "original_title": "[PR Newswire UK] New Opportunities for Global Cooperation: Kexing Biopharm Shines at CPHI Milan 2026 — MILAN, Oct. 10, 2026 /PRNewswire/ -- From October 06 to 08, 2026, Kexing Biopharm (688136.SH) exhibited at CPHI Milan 2026, showcasing its global innovative drug pipeline, co-developed biosimilars, and a broad portfolio of products commercialized in overseas …",
-      "context": "Biopharmaceuticals are medicines made from living organisms, like bacteria or cells, rather than simple chemicals, and developing them is incredibly complex and expensive. Kexing Biopharm is a company that specializes in making \"biosimilars,\" which are highly similar versions of expensive brand-name drugs that can be sold at a lower price once the original patent expires. By showing off its work at CPHI Milan, a huge international conference for pharmaceutical manufacturing, the company is trying to convince doctors and hospitals worldwide that their drugs are safe, effective, and a good alternative to pricier options. This represents a strategic push by emerging drug makers to compete directly with Western pharmaceutical giants in the global market.",
-      "why_it_matters": "This highlights how global medicine production is becoming more connected and competitive. It shows that new drugs can be developed faster when companies share ideas across borders, potentially helping patients worldwide.",
-      "other_side": "Smaller local drug makers might struggle to compete with large international players expanding their reach. There are also concerns about quality control and safety standards when products are made in many different countries."
-    },
-    {
-      "headline": "Anthropic Restricts Internet Access for AI Evaluations Amid Competitive Pressure",
-      "summary": "Anthropic has cut internet access for its AI evaluation processes to prevent unintended actions, a move that may impact its competitive edge. This cautious approach could influence industry dynamics and prompt strategic shifts among competitors in the AI sector.",
+      "headline": "Goldman Sachs Warns of $600 Billion Equity Issuance Strain in 2027",
+      "summary": "Goldman Sachs projects a massive surge in US equity issuance, warning that market absorption could be strained if buyback support wanes. This significant increase poses potential risks to valuations and investor returns as the market navigates increased supply.",
       "source": "Crypto Briefing",
-      "original_title": "[Crypto Briefing] Anthropic cuts internet access for AI evaluations to prevent unintended actions — Anthropic's cautious approach to AI evaluation may impact its competitive edge, influencing industry dynamics and prompting strategic shifts. The post Anthropic cuts internet access for AI evaluations to prevent unintended actions appeared first on Crypto Bri…",
-      "context": "When researchers test new artificial intelligence models to see if they are safe and smart, they sometimes connect them to the internet so they can search for information and perform tasks. However, Anthropic, a leading AI company, realized that giving the AI full internet access was dangerous because the AI might accidentally visit harmful websites, leak private data, or behave unpredictably. By cutting off the internet during testing, they are prioritizing safety and control, ensuring the AI stays within strict boundaries before it is released to the public. This cautious step highlights the industry's struggle to balance making AI smarter and more useful with keeping it secure and under human control.",
-      "why_it_matters": "Limiting internet access for testing AI makes the technology safer but slower to improve. This could give competitors an edge if they find ways to test AI faster without such strict limits.",
-      "other_side": "Safety experts praise this move because it prevents AI from doing harmful things while learning. However, some developers feel it stifles creativity and makes it harder to build advanced, helpful tools."
+      "original_title": "[Crypto Briefing] Goldman Sachs projects $600 billion in US equity issuance in 2027 — Increased equity issuance could strain market absorption, impacting valuations and investor returns, especially if buyback support wanes.",
+      "context": "Context pending.",
+      "why_it_matters": "Companies are planning to sell a huge amount of new stock, which could overwhelm buyers and lower prices. If there are too many shares for investors to buy, it might hurt the profits people make from investing in the market.",
+      "other_side": "Some experts believe that if companies grow strong enough, they can easily absorb this new supply without causing problems. They argue that healthy businesses will keep attracting money regardless of how much stock is available."
     },
     {
-      "headline": "Zelensky Criticizes U.S.-Russia Diesel Deal Following Russian Strikes",
-      "summary": "Ukrainian President Zelensky condemned the new diesel deal between the U.S. and Russia after Russian strikes killed 15 people. The announcement came after a call between Presidents Trump and Putin, drawing sharp criticism from Kyiv amidst ongoing conflict.",
-      "source": "National Post",
-      "original_title": "[National Post] Zelensky blasts diesel deal after Russian strikes kill 15 — U.S. President Donald Trump announced the deal on Friday after a call with Russian counterpart Vladimir Putin",
-      "context": "Ukraine is currently fighting a brutal war against Russia, where Russian forces regularly attack cities and civilian areas, causing significant loss of life and destruction. President Zelensky’s criticism stems from the deep anger felt in Ukraine when the U.S., a key supporter of Ukraine, simultaneously strikes a deal to buy fuel from Russia, the country attacking them. From Kyiv's perspective, this deal legitimizes the enemy and undermines the moral stance that the West should isolate Russia economically and politically. The comment highlights the painful diplomatic tension between pursuing energy deals and maintaining solidarity with a nation fighting for its survival.",
-      "why_it_matters": "This highlights the deep moral conflict between stopping a war and keeping trade flowing. It shows that ordinary citizens in conflict zones suffer when world leaders prioritize business deals over human lives.",
-      "other_side": "Proponents might argue that maintaining trade channels keeps communication lines open with Russia. They believe that isolating Russia completely could make the war last longer and end up costing more."
+      "headline": "India Finance Minister Pitches for Global Investment Boost",
+      "summary": "Indian Finance Minister Nirmala Sitharaman engaged with global financial leaders in Singapore to promote investment opportunities in infrastructure, renewable energy, and AI. The discussions aim to channel international capital into key sectors of India's growing economy.",
+      "source": "The Times of India",
+      "original_title": "[The Times of India] Nirmala Sitharaman holds talks with global financial leaders in Singapore, pitches for boosting investment in India",
+      "context": "Context pending.",
+      "why_it_matters": "India is trying to attract foreign money to build better roads, power grids, and technology hubs. This influx of cash could create millions of jobs and help lift millions of people out of poverty quickly.",
+      "other_side": "Critics worry that relying on outside investors makes the country vulnerable if global markets crash. They also fear that local workers might not get fair wages or that profits will flow back abroad instead of staying in the community."
     },
     {
-      "headline": "Ecuador Seeks to Strengthen Digital Technology Ties with Russia",
-      "summary": "Ecuador's Deputy Telecommunications Minister expressed interest in exchanging digital technology experiences with Russia. This move aims to strengthen bilateral cooperation in the tech sector, marking a shift in Ecuador's technological partnerships.",
-      "source": "Sputnikglobe.com",
-      "original_title": "[Sputnikglobe.com] Ecuador Interested in Strengthening Technology Ties With Russia - Deputy Minister — MOSCOW (Sputnik) - Ecuador is interested in exchanging experience with Russia in digital technologies and strengthening cooperation in this area, Ecuadorian Deputy Telecommunications Minister Viktor Aguila Ramirez said.",
-      "context": "Ecuador is a country in South America that has traditionally looked toward the United States and Europe for technology and investment, but it is now exploring closer ties with Russia. The Deputy Telecommunications Minister wants to share experiences in digital technology, which likely means learning from Russia’s infrastructure or software systems to improve Ecuador’s own internet and communication networks. This shift signals that Ecuador is diversifying its partnerships, possibly seeking alternatives to Western technology providers or looking for new markets for its own digital services. It reflects a growing trend of smaller nations navigating complex global politics by building relationships with multiple superpowers.",
-      "why_it_matters": "Ecuador is choosing to partner with Russia for tech instead of traditional Western allies. This shifts the balance of power in Latin America and shows how digital tools are becoming key political assets.",
-      "other_side": "Neighboring countries might worry that closer ties with Russia could bring unwanted political drama. Critics argue that relying on one specific nation for critical technology creates security risks."
+      "headline": "IPO Activity Set to Regain Momentum Amid Market Volatility",
+      "summary": "Primary market activity is expected to see a resurgence in IPO momentum despite current equity market volatility. The outlook also notes a slowdown in new mutual fund schemes, signaling shifting dynamics in investor participation and capital formation.",
+      "source": "Business Standard",
+      "original_title": "[Business Standard] Street signs: IPO activity set to regain momentum, new MF schemes slow",
+      "context": "Context pending.",
+      "why_it_matters": "More companies are preparing to go public, which means regular people have more chances to own pieces of growing businesses. This activity helps bring fresh capital into the economy to fuel innovation and expansion.",
+      "other_side": "High volatility scares away cautious investors who might lose money if the market swings wildly. There is also a risk that some of these new companies are overvalued and could fail, leaving shareholders with nothing."
     },
     {
-      "headline": "Round Trip Airfares Drop to $205 for Select U.S. Routes",
-      "summary": "American Airlines, Southwest Airlines, and Expedia are offering round-trip airfares for $205 between Tucson, AZ, and Portland, OR. These basic economy fares, valid for travel between November 2027 and May 2027, represent a significant opportunity for cost-conscious travelers.",
-      "source": "Slickdeals.net",
-      "original_title": "[Slickdeals.net] Round Trip Tucson AZ - Portland OR or Vice Versa $205 Airfares on American or Southwest Airlines BE (Travel November - May 2027) — American Airlines, Southwest Airlines and Expedia have round trip airfares travelling to and from Tucson AZ (TUS) and Portland OR (PDX) for $205, making 1 stop. These are basic economy fares that all",
-      "context": "Airline tickets usually fluctuate in price based on how many seats are left and how close the travel date is, with last-minute bookings often being very expensive. However, airlines like American and Southwest are offering a special promotion of $205 round-trip tickets between Tucson and Portland, but only for travel scheduled far in advance, specifically between November 2027 and May 2027. These are \"basic economy\" fares, which means passengers get the bare minimum service, such as no seat selection and carry-on bags only, to keep the price low. This offer is designed to fill seats on flights that would otherwise go empty months in advance, providing a rare bargain for travelers who plan ahead and don't mind limited amenities.",
-      "why_it_matters": "Cheap flights make travel accessible to more people, boosting tourism and family connections. It shows that airlines are competing fiercely, which is good news for your wallet and vacation plans.",
-      "other_side": "Travelers often have to pay extra for bags or seat choices, so the final price might not be as low as it seems. Some worry that ultra-cheap tickets hurt airline workers' wages and job security."
+      "headline": "Sustainable Startups Face Scale-Up Challenges Despite Funding Support",
+      "summary": "Greenr Accelerator is working to drive mass adoption of sustainable solutions by providing policy, funding, and capacity building to Indian startups. However, these scale-up struggles highlight the persistent difficulties in transitioning green ventures from early-stage growth to commercial viability.",
+      "source": "BusinessLine",
+      "original_title": "[BusinessLine] Scale-up struggles of sustainable startups",
+      "context": "Context pending.",
+      "why_it_matters": "Helping green startups succeed is crucial for fighting climate change and reducing pollution. If these small businesses can grow, they offer cleaner alternatives to dirty energy sources we rely on today.",
+      "other_side": "Scaling up clean tech is incredibly expensive and risky, often leading to wasted taxpayer money. Some argue that focusing on immediate, proven solutions is safer than betting on unproven startup ideas."
+    },
+    {
+      "headline": "BNP Paribas Signs Major Lease Deal at Chennai REIT Complex",
+      "summary": "BNP Paribas has committed to a long-term lease of approximately 5 lakh square feet in Mindspace REIT’s Chennai complex, marking one of the city's largest office deals this year. The transaction underscores continued corporate demand for premium commercial real estate in the region.",
+      "source": "The Times of India",
+      "original_title": "[The Times of India] BNP Paribas leases 5 lakh sq ft office in Mindspace REIT’s Chennai complex",
+      "context": "Context pending.",
+      "why_it_matters": "Big banks leasing large office spaces signals that businesses are confident about hiring and working again. This demand supports property owners and keeps commercial real estate values stable in major cities.",
+      "other_side": "Many people still work from home, so filling all those offices long-term might be difficult. If remote work stays popular, landlords could struggle to find tenants once current leases end."
+    },
+    {
+      "headline": "Hospitals Sue Federal Government Over $1 Billion Drug Rebate Program",
+      "summary": "Hospitals have returned to federal court to challenge a drug-discount rebate program they argue will cost them over $1 billion annually to administer. The legal battle centers on the financial burden such federal mandates place on healthcare providers' operational budgets.",
+      "source": "Americanhealthintel.com",
+      "original_title": "[Americanhealthintel.com] The Ledger | October 11, 2026 | American Health Intel",
+      "context": "Context pending.",
+      "why_it_matters": "Hospitals are fighting a government rule that forces them to pay high fees for drug discounts. This legal battle determines whether healthcare providers can afford to stay open while helping patients save money.",
+      "other_side": "The government argues that these rebates are necessary to keep prescription drug costs down for everyone. Without this program, seniors and low-income families might face even higher medical bills."
+    },
+    {
+      "headline": "IMF Finds Tokenized Stocks Show Demand But Remain Illiquid",
+      "summary": "An IMF analysis reveals that while there is real demand for tokenized stocks, the $2.3 billion market remains significantly more volatile and less liquid than traditional equities. More than half of this trading occurs outside standard US market hours, highlighting structural fragmentation.",
+      "source": "Decrypt",
+      "original_title": "[Decrypt] Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
+      "context": "Context pending.",
+      "why_it_matters": "Digital stocks allow people to trade ownership faster and across borders, modernizing how we invest. However, the lack of liquidity means traders might get stuck holding assets they cannot easily sell.",
+      "other_side": "Traditional stock markets are seen as safer and more stable because they have strict rules and oversight. Critics say digital tokens are too risky and prone to manipulation compared to standard exchanges."
+    },
+    {
+      "headline": "10-Year Bond Yields Track Diesel Prices More Closely Than Crude",
+      "summary": "For the first time, 10-year bond yields are correlating more closely with diesel prices than crude oil, suggesting fuel costs are becoming a primary driver of inflation expectations. This shift complicates monetary policy outlooks as Trump's fuel deal with Putin may fail to curb these rising costs.",
+      "source": "Fortune",
+      "original_title": "[Fortune] For the first time ever, 10-year bond yields track diesel prices more closely than crude, and Trump’s fuel deal with Putin may be too little too late",
+      "context": "Context pending.",
+      "why_it_matters": "Rising diesel prices are pushing up inflation, forcing central banks to keep interest rates high. This affects everyone’s cost of living, making loans for homes and cars more expensive.",
+      "other_side": "Some analysts believe this correlation is temporary and driven by short-term geopolitical events. They argue that focusing on crude oil remains more important for predicting long-term economic trends."
+    },
+    {
+      "headline": "Texas Heirs Agree to Split Historic $60 Million Ranch After Legal Battle",
+      "summary": "After an eight-year legal dispute, heirs to the historic Brite Ranch agreed to divide the 65,000-acre estate worth at least $60 million just before trial. The settlement resolves long-standing contention over the property's ownership and distribution among family members.",
+      "source": "The Times of India",
+      "original_title": "[The Times of India] A Texas family spent nearly eight years fighting over the 65,000-acre Brite Ranch, worth at least $60 million; days before trial, the heirs agreed to divide the historic property into four pieces",
+      "context": "Context pending.",
+      "why_it_matters": "Settling this dispute ends years of stress and legal costs for the family involved. It also clarifies ownership of historic land, ensuring it can be managed or sold responsibly going forward.",
+      "other_side": "Splitting such a large property might destroy its historical integrity or natural value. Some relatives may feel cheated by the final division, leading to ongoing personal bitterness despite the legal resolution."
+    },
+    {
+      "headline": "Oregon Ranch Price Drops to $54 Million Amid Market Correction",
+      "summary": "Ochoco Ranch, previously listed at $65 million, has reduced its price to $54 million, reflecting adjustments in the high-end rural real estate market. The 35,132-acre property features sustainable living amenities and timberland, targeting recreational enthusiasts amidst broader valuation shifts.",
+      "source": "The Times of India",
+      "original_title": "[The Times of India] Oregon's 35,132-acre Ochoco Ranch asked $65 million in 2022; four years later, the price has dropped to $54 million; the property has a 10,287-sq-ft self-sustaining lodge, three residences and 19 miles of spring-fed creeks",
+      "context": "Context pending.",
+      "why_it_matters": "Lower prices for large rural properties indicate that the luxury real estate market is cooling down. This gives buyers more negotiating power and opportunities to purchase land at a discount.",
+      "other_side": "Sellers who need to move quickly might accept lower offers, hurting their financial returns. A prolonged drop in prices could signal broader economic weakness in rural communities."
     }
   ]
 }
