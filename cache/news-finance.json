@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "Treasury Gains Shrink for Banks in Q2 as Rising Yields Hit Trading Books",
-      "summary": "Major banks experienced a decline in treasury income during the second quarter of FY27, driven by climbing bond yields that negatively impacted trading books. Despite growth in net interest income across lenders, the pressure on other income sources weighed on overall profits.",
-      "source": "Business Standard",
-      "original_title": "Treasury gains shrink for banks in Q2 as rising yields hit trading books",
-      "context": "Banks make money in two main ways: by lending out the cash people deposit with them, or by trading financial assets like government bonds for their own accounts. Think of it like a shopkeeper who both lends money to neighbors and also buys and sells rare collectibles; if the value of those collectibles drops suddenly, the shopkeeper loses profit even if their lending business is doing well. In this case, the \"collectibles\" are bonds, and when interest rates rise, the value of older bonds that pay lower rates goes down, causing banks to lose money on their trading desks despite earning more from new loans.\n\nSTORY 2\nCONTEXT: Natural gas pipelines are huge underground steel pipes that transport fuel from where it is dug up to where people use it for heat and electricity. This specific project has been stuck for years because local groups and politicians argued over environmental damage and property rights, creating a legal gridlock that stopped construction. The federal government is now stepping in with $42 million to help pay for the remaining costs, aiming to bypass these local roadblocks and get the energy flowing to the Northeast again.\n\nSTORY 3\nCONTEXT: Tokenized stocks are digital versions of regular company shares that live on a blockchain, which is like a public digital ledger that records ownership without needing a traditional bank or broker. Usually, you need the permission of the company whose stock you are selling, but OKX and ICE (a major stock exchange operator) want to let people trade these digital tokens without asking the companies first. Nine companies have sued to stop this, arguing that they should have control over how their shares are traded, highlighting a clash between old-school finance rules and new crypto technology.\n\nSTORY 4\nCONTEXT: Investor Relations is the department within a company responsible for talking to shareholders—the people who own pieces of the company—to keep them informed and happy. The Taiwan Investor Relations Institute holds an annual meeting where experts gather to share best practices on how to communicate transparently and build trust with investors. This year’s conference focused on making sure companies create real value for their owners rather than just hiding bad news, aiming to stabilize the financial markets through better honesty and communication.\n\nSTORY 5\nCONTEXT: New York City faces a severe shortage of homes that low-income families can afford, leading many cities to try attracting private businesses to help build cheaper housing. However, new federal banking rules are making it harder for banks to lend money for these projects because regulators are worried about risk, effectively tightening the purse strings. This creates a catch-22 where the government doesn’t have enough money to fix the housing crisis itself, but the strict rules prevent private investors from stepping in to fill the gap.\n\nSTORY 6\nCONTEXT: Türkiye recently experienced a financial scandal where several investment funds collapsed, leaving many everyday people who had saved their money in them with nothing. To fix this mess, the government passed a special law allowing these failed funds to be liquidated, which means selling off whatever assets are left to pay back investors as much as possible. The country’s economic leaders are now waiting for this law to officially become active so they can start sending out partial payments to help restore some stability for those who lost their savings.\n\nSTORY 7\nCONTEXT: Economists look at two main numbers to judge if an economy is healthy: wages (how much workers earn) and prices (inflation, or how expensive things are). A \"boom\" in this context means that workers are getting paid more each year while the cost of goods is not rising as fast, which increases people's purchasing power. Kevin Hassett, a top economic advisor, argues this combination shows the US economy is strong because consumers can buy more with their higher salaries without being hurt by skyrocketing prices.\n\nSTORY 8\nCONTEXT: General Motors makes cars, and Ally Financial lends money to people to buy those cars, so their fortunes are deeply linked to whether Americans are willing and able to purchase vehicles. Wall Street analysts watch their earnings reports closely because car sales are a major indicator of overall consumer confidence and health in the US economy. If people are still buying cars and paying off their loans on time, it suggests the average American is financially stable; if sales drop or loan defaults rise, it signals trouble ahead for the broader market.\n\nSTORY 9\nCONTEXT: Mattel is the famous toy company behind brands like Barbie and Hot Wheels, and every large corporation needs a Chief Financial Officer (CFO) to manage its budget, spending, and profits. Peter Griffith is taking over this role from Paul Ruh, bringing experience from Amgen, a large pharmaceutical company, to help guide Mattel’s financial strategy. This leadership change happens as Mattel tries to navigate a competitive market where changing trends and consumer habits require careful financial planning to stay profitable.\n\nSTORY 10\nCONTEXT: MoneyGram is a long-standing service that allows people to send cash across borders, traditionally using physical bank transfers that can be slow and expensive. They are now updating their system to include \"stablecoins,\" which are digital cryptocurrencies designed to hold a steady value similar to the US dollar, unlike volatile coins like Bitcoin. By integrating this technology, MoneyGram aims to make sending money faster and cheaper for users worldwide, blending old-school remittance services with modern blockchain efficiency.",
-      "why_it_matters": "Banks are finding it harder to make money from trading bonds because interest rates are rising. This could mean less profit for big banks and might change how they manage their cash, which affects the wider financial system.",
-      "other_side": "Some experts say this is just a normal part of the economic cycle. They argue that banks can adjust by focusing more on lending money to people and businesses instead."
-    },
-    {
-      "headline": "Trump Administration Commits $42M to Revive Stalled Northeast Natural Gas Pipeline",
-      "summary": "The Trump administration has allocated up to $42 million in federal funding to restart a long-stalled natural gas pipeline project connecting Pennsylvania's Marcellus Shale to energy markets in New York and the Northeast. This move aims to leverage the Department of Energy's support to bridge financing gaps for critical energy infrastructure.",
-      "source": "Freerepublic.com",
-      "original_title": "Trump administration commits up to $42M to revive stalled Northeast natural gas pipeline",
+      "headline": "CoreWeave’s Debt Binge Triggers Reckoning",
+      "summary": "CoreWeave faces a perilous financial moment due to its aggressive debt accumulation strategy. The company's heavy leverage has led to significant scrutiny and potential instability in its balance sheet.",
+      "source": "The Information",
+      "original_title": "How CoreWeave’s Debt Binge Brought a Perilous Moment of Reckoning",
       "context": "Context pending.",
-      "why_it_matters": "The government is spending millions to build a gas pipeline that connects Pennsylvania to New York. This aims to lower energy costs for homes and businesses in the Northeast by making natural gas easier to get.",
-      "other_side": "Critics worry this project hurts the environment by increasing pollution. They also fear it locks us into using fossil fuels instead of switching to cleaner energy sources like wind or solar."
+      "why_it_matters": "CoreWeave borrowed way too much money to grow fast. If they can't pay it back, the companies that lent them cash could lose billions. This scares investors and makes borrowing harder for other tech startups.",
+      "other_side": "Some argue this debt was necessary to build the AI infrastructure needed today. Without taking such big risks, the company might not have grown into a major player in the AI race."
     },
     {
-      "headline": "Public Companies Object to OKX-ICE’s Tokenized Stock Plan",
-      "summary": "Nine public companies have formally objected to plans by OKX and ICE to offer their shares in tokenized form, challenging whether blockchain-based markets can operate without issuer consent. This dispute highlights growing tensions between traditional financial institutions and emerging crypto platforms regarding asset digitization.",
-      "source": "Cointelegraph",
-      "original_title": "Public companies object to OKX-ICE’s tokenized stock plan",
-      "context": "Context pending.",
-      "why_it_matters": "A crypto platform wants to let people buy company shares using digital tokens. Companies are fighting back because they want control over who buys their stock and how it is traded.",
-      "other_side": "Supporters believe blockchain technology makes investing faster and open to everyone. They argue that companies should not have the power to block new ways of buying and selling shares."
-    },
-    {
-      "headline": "TIRI 2026 Annual Conference Advances Investor Relations Through Value and Trust",
-      "summary": "The Taiwan Investor Relations Institute hosted its 8th annual conference in Taipei, bringing together key representatives from regulatory authorities, the Taiwan Stock Exchange, and leading financial firms. The event focused on enhancing investor relations standards through value creation and trust-building mechanisms within the financial sector.",
+      "headline": "Wall Street Embraces Regulated Tokenization for Main Street Assets",
+      "summary": "Major Wall Street firms are moving from experimentation to commitment in regulated tokenization, with BlackRock CEO Larry Fink predicting every stock and bond will eventually settle on blockchain. This shift represents a fundamental change in how assets are managed and settled globally.",
       "source": "Financial Post",
-      "original_title": "TIRI 2026 Annual Conference Advances Investor Relations Through Value and Trust",
+      "original_title": "How Regulated Tokenization Is Moving from Wall Street to Main Street Assets",
       "context": "Context pending.",
-      "why_it_matters": "Leaders in Taiwan are meeting to improve how companies talk to investors. Better communication helps build trust, which encourages more people to invest money in local businesses.",
-      "other_side": "Some critics feel these conferences are mostly about public relations. They argue that real changes in investor protection laws are needed rather than just talks and meetings."
+      "why_it_matters": "Big banks are putting stocks and bonds on digital ledgers called blockchains. This makes buying and selling assets faster, cheaper, and safer for everyday people. It changes how all money moves around the world.",
+      "other_side": "Critics worry this gives huge banks more control over our personal financial data. They also fear that if the system crashes, regular people will lose their savings with no easy way to fix it."
     },
     {
-      "headline": "Federal Banking Rule Threatens New York Affordable Housing Investment",
-      "summary": "A new federal banking regulation is posing risks to private investment strategies aimed at addressing New York's affordable housing crisis. With shrinking federal resources and increasing needs in infrastructure and healthcare, the rule complicates the ability of private capital to fill the funding gap left by public sector constraints.",
+      "headline": "MEXC Exits Russia and Belarus Amid Regulatory Pressure",
+      "summary": "Cryptocurrency exchange MEXC is ending services in Russia and Belarus, highlighting the increasing regulatory pressures facing crypto markets. This exit prompts traders to anticipate potential shifts in market dynamics and compliance standards in these regions.",
+      "source": "Crypto Briefing",
+      "original_title": "MEXC ends services for users in Russia and Belarus",
+      "context": "Context pending.",
+      "why_it_matters": "A major crypto site is quitting Russia and Belarus because of strict government rules. This shows that governments are finally cracking down on anonymous digital money trading. It forces crypto companies to follow laws just like banks do.",
+      "other_side": "Some users think this hurts free speech and financial privacy. They believe people should be able to trade freely without governments blocking access based on where they live."
+    },
+    {
+      "headline": "Home Sellers Urged Not to Time the Market",
+      "summary": "Jim Tobin, CEO of the National Association of Home Builders, advises homeowners against trying to time the real estate market, stating it is impossible to predict the perfect moment to sell. He suggests that waiting for better conditions may cause sellers to miss opportunities.",
+      "source": "Biztoc.com",
+      "original_title": "Advice for home sellers: 'If you're trying to time the market, you can't'",
+      "context": "Context pending.",
+      "why_it_matters": "Experts say trying to guess the best time to sell a house usually fails. Waiting for perfect conditions often means missing out on good deals or losing money to fees. Selling when you are ready is usually smarter than waiting.",
+      "other_side": "Some real estate pros argue that timing the market can maximize profit. If interest rates drop soon, waiting a few months could mean getting tens of thousands of dollars more for your home."
+    },
+    {
+      "headline": "Flex Builds Payment Layer for Life’s Financial Obligations",
+      "summary": "Flexible Finance, Inc. (Flex) is expanding beyond rent payments to create a comprehensive payment layer for various financial obligations including broadband, car insurance, mortgages, and utilities. This integration allows customers to manage and split multiple bills within a single app.",
+      "source": "Biztoc.com",
+      "original_title": "Flex Expands Beyond Rent to Build the Payment Layer for Life’s Financial Obligations",
+      "context": "Context pending.",
+      "why_it_matters": "One app now lets you split bills for rent, cars, and utilities all at once. This makes managing daily money stress-free and helps people avoid late fees. It simplifies life for anyone juggling multiple payments each month.",
+      "other_side": "Critics worry about storing all financial data in one place. If that app gets hacked or goes offline, users could lose access to all their payment methods at once."
+    },
+    {
+      "headline": "US Equity Futures Drop as Trump Unveils $8 Billion Farm Aid Plan",
+      "summary": "US equity futures traded lower pre-market as President Trump announced an $8 billion plan to help American farmers offset rising diesel costs. The move aims to support the agricultural sector amidst economic pressures, impacting broader market sentiment.",
+      "source": "Biztoc.com",
+      "original_title": "Update: US Equity Futures Lower Pre-Bell as Trump Unveils $8 Billion Plan to Help US Farmers Offset Diesel Costs",
+      "context": "Context pending.",
+      "why_it_matters": "The government is spending billions to help farmers survive high fuel costs. This keeps food prices stable and supports rural communities facing economic pain. It shows how politics directly affects what we pay for groceries.",
+      "other_side": "Taxpayers worry this costs too much money that could be used elsewhere. Some argue farmers should adapt to higher costs instead of relying on government handouts every year."
+    },
+    {
+      "headline": "Fed Rate Hike Cost Sparks White House Pressure on Treasury",
+      "summary": "A 1% Federal Reserve interest rate hike imposes an additional $95 billion annual cost on national debt interest, driving political pressure for lower rates. This financial burden influences policymakers' pushes for central banks to maintain lower base interest rates to stimulate the economy.",
+      "source": "Biztoc.com",
+      "original_title": "No wonder the White House wants Warsh to cut: A 1% Fed rate hike costs the Treasury an extra $95 billion a year in national debt interest",
+      "context": "Context pending.",
+      "why_it_matters": "Higher interest rates cost the US government $95 billion extra every year. Politicians are pushing hard to lower these rates to save taxpayer money. This pressure could change how the country manages its national debt long-term.",
+      "other_side": "Economists warn that keeping rates too low causes inflation to rise again. This means the price of goods like milk and gas would go up, hurting everyone’s purchasing power."
+    },
+    {
+      "headline": "NY Office Tenant Improvement Totals Rise Amid Market Shifts",
+      "summary": "Manhattan commercial landlords are significantly increasing tenant improvement allowances in 2026 to attract tenants amid evolving market conditions. These allowances have transformed from simple deal sweeteners into critical components of leasing strategies to compete in a post-pandemic office landscape.",
       "source": "Commercial Observer",
-      "original_title": "A Federal Banking Rule Threatens New York Affordable Housing Investment",
+      "original_title": "New York Office Tenant Improvement Totals Rise in 2026 Amid Market Shifts",
       "context": "Context pending.",
-      "why_it_matters": "New federal rules are making it harder for private groups to help pay for affordable housing in New York. This threatens to slow down efforts to solve the city’s housing shortage without government money.",
-      "other_side": "Regulators say these rules are necessary to prevent risky financial behavior. They believe protecting investors from bad deals is more important than speeding up construction projects."
+      "why_it_matters": "Office landlords are paying for renovations to get tenants back into buildings. This signals that the old way of working from offices is changing forever. Companies must offer better spaces to convince workers to return.",
+      "other_side": "Tenants argue that these \"improvements\" are just tricks to keep rents high. They feel forced to accept smaller spaces or worse locations because there are fewer options available in the city."
     },
     {
-      "headline": "Interim Fund Payments Expected After Bill Becomes Law in Türkiye",
-      "summary": "Türkiye’s Economic Coordination Board anticipates that interim payments to investors in troubled investment funds will begin promptly once the liquidation legislation becomes law. This development marks a critical step in resolving the financial distress affecting investors in these specific fund vehicles.",
-      "source": "Hurriyet Daily News",
-      "original_title": "Interim fund payments expected after bill becomes law",
+      "headline": "AI Trading Agents Face Centralized Access Risks",
+      "summary": "Animoca chair Yat Siu warns that while AI agents enable 24/7 trading, users risk losing access to their strategies and data if centralized AI firms shut down services. This highlights a critical vulnerability in the infrastructure supporting automated financial trading systems.",
+      "source": "Cointelegraph",
+      "original_title": "Agents can trade 24/7 — but Yat Siu warns you could lose access at any time",
       "context": "Context pending.",
-      "why_it_matters": "Investors in Turkey will soon get some of their money back from failed funds. This step helps calm fears in the financial market and shows the government is trying to fix past mistakes.",
-      "other_side": "Many investors worry that $42 million (or whatever amount) won’t be enough to cover all their losses. They fear they will still lose most of their savings despite the new payments."
+      "why_it_matters": "Automated trading bots rely on central companies that can shut down anytime. If those servers go dark, traders lose control of their money and strategies instantly. This creates a single point of failure in the financial system.",
+      "other_side": "Users love these tools because they work 24/7 without human error. The convenience of automated wealth management outweighs the rare risk of a technical shutdown for most investors."
     },
     {
-      "headline": "Hassett Claims US Economy in 'Boom' with Decelerating Prices and Accelerating Wages",
-      "summary": "National Economic Council Director Kevin Hassett declared that the United States economy is currently experiencing a boom, characterized by decelerating price increases and accelerating wage growth. His assessment provides insight into the current macroeconomic sentiment and policy outlook from top economic advisors.",
-      "source": "Biztoc.com",
-      "original_title": "Hassett: We are in a boom",
+      "headline": "Weapons Buying Harms National Economies Due to Investor Wariness",
+      "summary": "Increased military spending and weapons procurement are negatively impacting national economies by deterring foreign investment. Investors remain wary of potential conflicts associated with such expenditures, leading to reduced capital inflow and economic stagnation.",
+      "source": "The Conversation Africa",
+      "original_title": "How buying weapons can harm a country’s economy",
       "context": "Context pending.",
-      "why_it_matters": "An official claims the US economy is doing very well because wages are going up while prices stay steady. If true, this suggests families have more buying power and feel more confident about spending.",
-      "other_side": "Other economists disagree, saying inflation is still too high for many people. They point out that grocery and rent costs are still painful for average workers despite wage gains."
-    },
-    {
-      "headline": "GM and Ally Earnings Preview: Wall Street Looks for Signs in American Car Buyer Behavior",
-      "summary": "Wall Street analysts are closely watching the upcoming third-quarter earnings reports from General Motors and Ally Financial to gauge the health of the American auto consumer. These results are expected to reveal critical trends in vehicle demand, credit performance, and overall market resilience ahead of the open markets.",
-      "source": "Biztoc.com",
-      "original_title": "GM and Ally Earnings Preview: What Wall Street Will Learn About the American Car Buyer",
-      "context": "Context pending.",
-      "why_it_matters": "Big car companies and lenders are reporting profits, which tells us if regular people can still afford cars. Strong results mean the economy is healthy; weak results signal trouble ahead.",
-      "other_side": "Analysts warn that high interest rates are hurting sales right now. They predict that fewer people will buy cars next year as borrowing becomes more expensive."
-    },
-    {
-      "headline": "Mattel Names Peter Griffith Chief Financial Officer",
-      "summary": "Mattel has appointed Peter Griffith, formerly an executive at Amgen, as its new Chief Financial Officer, replacing Paul Ruh who joined the company in May 2025. This leadership change signals a strategic shift in financial management for the toy manufacturer as it navigates market dynamics.",
-      "source": "Biztoc.com",
-      "original_title": "Mattel Names Peter Griffith Chief Financial Officer, Replacing Paul Ruh",
-      "context": "Context pending.",
-      "why_it_matters": "Mattel hired a new top financial officer to help guide its money strategy. This change happens as the toy maker tries to adapt to changing trends in what children want to play with.",
-      "other_side": "Some fans worry that new leadership might focus only on cutting costs. They fear this could lead to lower quality toys or fewer creative ideas for products."
-    },
-    {
-      "headline": "MoneyGram Launches One Global Experience Integrating Stablecoin-Powered Money Movement",
-      "summary": "MoneyGram has unveiled a reimagined digital experience that consolidates its global cash network with stablecoin-powered functionality for moving and managing money. The launch represents a significant integration of traditional remittance services with modern cryptocurrency capabilities to enhance user convenience and transaction efficiency.",
-      "source": "PRNewswire",
-      "original_title": "MoneyGram Launches One Global Experience for Moving and Managing Money",
-      "context": "Context pending.",
-      "why_it_matters": "MoneyGram is adding cryptocurrency tools to its service so users can send money globally faster. This blends old-school money transfer with new tech to save time and fees.",
-      "other_side": "Critics argue that using crypto for everyday transfers adds unnecessary risk. They worry that price swings in digital coins could cause users to lose value during transactions."
+      "why_it_matters": "Buying weapons scares away foreign investors who fear future wars. This lack of investment slows down job creation and economic growth for the whole nation. Peaceful countries attract more business and money than militarized ones.",
+      "other_side": "Defense experts argue that strong military deterrence actually attracts investment. Investors may prefer stable nations with powerful armies that protect trade routes and prevent conflict."
     }
   ]
 }
