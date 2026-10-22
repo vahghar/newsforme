@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "CoreWeave’s Debt Binge Triggers Reckoning",
-      "summary": "CoreWeave faces a perilous financial moment due to its aggressive debt accumulation strategy. The company's heavy leverage has led to significant scrutiny and potential instability in its balance sheet.",
-      "source": "The Information",
-      "original_title": "How CoreWeave’s Debt Binge Brought a Perilous Moment of Reckoning",
-      "context": "Context pending.",
-      "why_it_matters": "CoreWeave borrowed way too much money to grow fast. If they can't pay it back, the companies that lent them cash could lose billions. This scares investors and makes borrowing harder for other tech startups.",
-      "other_side": "Some argue this debt was necessary to build the AI infrastructure needed today. Without taking such big risks, the company might not have grown into a major player in the AI race."
+      "headline": "French Borrowing Costs Spike to 24-Year High Amid Budget Crisis",
+      "summary": "France's 10-year government bond yield has surpassed 5% for the first time in two decades, driven by political instability and fears surrounding the national budget. This surge in borrowing costs reflects severe market anxiety over the country's fiscal trajectory following violent civil unrest.",
+      "source": "Biztoc.com",
+      "original_title": "[Biztoc.com] French borrowing costs hit 24-year high as civil unrest and budget fears spook markets — Yield on 10-year government bonds passes 5% amid failure to pass budget and fallout from violent street protests",
+      "context": "Think of the French government like a person who needs to borrow money from a bank to pay for daily expenses, but instead of a personal loan, they sell \"IOUs\" called bonds to investors. When people are worried that France might not be able to pay back its debts—especially after protests and political fights over how to cut spending—they get scared and stop buying these IOUs. To convince nervous investors to still buy them, France has to promise to pay much higher interest rates, which makes borrowing money incredibly expensive for the country and signals that the global financial market is losing confidence in French leadership.\n\nSTORY 2\nCONTEXT: Wall Street banks like Goldman Sachs act as middlemen who help hedge funds (large investment groups) bet on whether stock prices will go up or down. Recently, many of these hedge funds have been pouring money into artificial intelligence companies, expecting those stocks to keep growing wildly. The banks are making huge profits because they are lending this extra cash to the hedge funds so they can make bigger bets, essentially acting as the casino house taking a cut from every high-stakes chip placed on AI stocks.\n\nSTORY 3\nCONTEXT: Japan is an island nation with very few natural resources, meaning it has to import almost all of its oil and gas to keep its factories running and lights on. Because of conflicts in the Middle East, the price of this energy has shot up globally, forcing Japan to spend much more money than usual just to fuel its economy. Since Japan sells fewer goods abroad than it buys in energy imports right now, the country is losing more money than it is earning, creating a significant trade deficit that strains their national budget.\n\nSTORY 4\nCONTEXT: The Dow Jones Industrial Average is a scorecard that tracks the performance of 30 major American companies to show how the overall stock market is doing. Recently, this score went up significantly because many of these big companies reported that they made more profit than experts expected, particularly in industries like manufacturing and healthcare. Even though tech stocks were quiet, the strong earnings from these other reliable sectors gave investors confidence that the economy is healthy, causing the overall market value to rise.\n\nSTORY 5\nCONTEXT: Stock markets don't actually start trading until 9:30 AM, but traders watch \"futures,\" which are predictions of where prices will go based on news that happens overnight or before the market opens. When SpaceX, the famous rocket company, released good news about its earnings, it acted like a positive signal that spread to other investors. This optimism helped calm fears about rising oil prices and encouraged people to expect that the main stock market would open at a higher value when the bell finally rang.\n\nSTORY 6\nCONTEXT: Traditionally, buying shares of a company like Apple requires going through a regulated exchange during specific business hours, similar to shopping only when a store is open. However, new technology allows these shares to be turned into digital tokens that can be traded on decentralized networks, which operate 24 hours a day, seven days a week. This shift means investors can buy and sell ownership stakes in companies instantly at any time, potentially changing how traditional finance works by removing the need for central gatekeepers and standard opening hours.\n\nSTORY 7\nCONTEXT: An Exchange-Traded Fund (ETF) is like a pre-packed basket of different investments that you can buy with a single click, rather than picking individual stocks one by one. BlackRock, the world's largest asset manager, created a new basket specifically focused on robotics companies, allowing everyday investors to easily bet on the future of automation without needing to know which specific robot maker will succeed. This launch shows that robots are becoming mainstream enough to warrant their own dedicated investment category, moving beyond niche tech stocks into broader consumer portfolios.\n\nSTORY 8\nCONTEXT: eBay is an online marketplace where individuals and businesses sell goods, but like many large corporations, it needs to constantly adjust its size to stay profitable and efficient. By cutting over 1,000 jobs, the company is trying to reduce its daily operating costs and refocus its energy on areas where it expects to grow faster, such as selling luxury items and second-hand goods. This kind of restructuring is common in big tech firms looking to streamline their operations and ensure they aren't wasting money on outdated processes or roles.\n\nSTORY 9\nCONTEXT: Abbott Laboratories is a massive healthcare company that makes everything from medical devices to baby formula, but managing two very different types of businesses under one roof can sometimes slow down growth. To fix this, they decided to split their nutrition division into a completely separate, independent company so each part can focus on its own specific goals without being weighed down by the other. This strategy allows investors to buy shares in either the medical side or the food side separately, hopefully unlocking more value for shareholders who prefer one type of healthcare product over the other.\n\nSTORY 10\nCONTEXT: Usually, when a small company is sold for a large amount of money, most of the profit goes to the founders and early investors, while regular employees receive nothing or a small bonus. In this rare case, the founder decided to give a massive share of the sale proceeds directly to every single employee, regardless of how long they had worked there. This unprecedented move highlights a different philosophy of business success, where the entire team is rewarded equally for their collective effort in building the company to a point where it could be acquired for over €100 million.",
+      "why_it_matters": "France is facing a serious money problem because people don't trust its government to handle the budget. This makes borrowing money much more expensive for everyone in the country, which could lead to higher taxes or fewer public services. It shows how political fights can directly hurt a nation's wallet.",
+      "other_side": "Some experts argue that this spike is just a temporary scare caused by recent protests. They believe the market will calm down once the new budget is passed and stability returns."
     },
     {
-      "headline": "Wall Street Embraces Regulated Tokenization for Main Street Assets",
-      "summary": "Major Wall Street firms are moving from experimentation to commitment in regulated tokenization, with BlackRock CEO Larry Fink predicting every stock and bond will eventually settle on blockchain. This shift represents a fundamental change in how assets are managed and settled globally.",
-      "source": "Financial Post",
-      "original_title": "How Regulated Tokenization Is Moving from Wall Street to Main Street Assets",
+      "headline": "Wall Street Giants Dominate AI Stock Boom with $52B Revenue",
+      "summary": "Goldman Sachs, JPMorgan, and Morgan Stanley have captured approximately 80% of the equity trading market this year, generating $52 billion in revenue. Their dominance is largely attributed to rising margin lending activities directed toward hedge funds betting on artificial intelligence stocks.",
+      "source": "CNBC",
+      "original_title": "[CNBC] Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
       "context": "Context pending.",
-      "why_it_matters": "Big banks are putting stocks and bonds on digital ledgers called blockchains. This makes buying and selling assets faster, cheaper, and safer for everyday people. It changes how all money moves around the world.",
-      "other_side": "Critics worry this gives huge banks more control over our personal financial data. They also fear that if the system crashes, regular people will lose their savings with no easy way to fix it."
+      "why_it_matters": "A few huge banks are making almost all the money from stock trading right now. This happens because they are lending cash to investors who are betting big on artificial intelligence companies. It highlights how risky bets on AI are driving current financial profits.",
+      "other_side": "Critics worry that this heavy reliance on borrowed money creates a dangerous bubble. If AI stocks crash, these massive loans could cause big losses for the banks and their clients."
     },
     {
-      "headline": "MEXC Exits Russia and Belarus Amid Regulatory Pressure",
-      "summary": "Cryptocurrency exchange MEXC is ending services in Russia and Belarus, highlighting the increasing regulatory pressures facing crypto markets. This exit prompts traders to anticipate potential shifts in market dynamics and compliance standards in these regions.",
+      "headline": "Japan’s Trade Deficit Doubles as Energy Costs Soar",
+      "summary": "Japan recorded a trade deficit of $17.8 billion for the April-September period, nearly double that of the previous year, due to escalating energy import costs. The widening gap highlights the economic strain on the resource-poor G7 nation amidst geopolitical tensions in the Middle East affecting global oil prices.",
+      "source": "OilPrice.com",
+      "original_title": "[OilPrice.com] Japan’s Trade Deficit Doubles as Hormuz Crisis Hikes Energy Import Costs",
+      "context": "Context pending.",
+      "why_it_matters": "Japan is spending way more on energy than it earns from selling goods. This happens because oil prices are high due to global conflicts, and Japan needs to import most of its fuel. This drains money from the economy and makes everyday items more expensive for citizens.",
+      "other_side": "Some analysts say this is a normal cycle for resource-poor countries during times of war. They point out that Japan has strong savings and can manage these costs better than other nations."
+    },
+    {
+      "headline": "Dow Jones Surges Past 52,500 on Strong Corporate Earnings",
+      "summary": "The Dow Jones Industrial Average climbed 1.02% to trade near 52,500, bolstered by robust earnings reports from industrial and healthcare sectors. Despite lagging technology shares, overall market sentiment remained positive as futures signaled continued strength in early trading sessions.",
+      "source": "Ibtimes.com.au",
+      "original_title": "[Ibtimes.com.au] Dow Jones Industrial Average Trades Near 52,500 After 1% Gain on Earnings as Futures Signal Further Strength",
+      "context": "Context pending.",
+      "why_it_matters": "The stock market is doing well because companies are actually making good profits. Even though tech stocks are slow, factories and healthcare firms are reporting strong earnings. This gives regular investors confidence that the economy is healthy.",
+      "other_side": "Skeptics argue that this rise might be too fast and not based on real growth. They warn that if future earnings disappoint, the market could drop sharply."
+    },
+    {
+      "headline": "SpaceX Earnings Lift US Equity Futures Pre-Market",
+      "summary": "US equity futures rose ahead of the bell following upbeat earnings updates from SpaceX, contributing to a broader rally in global markets. The positive corporate performance helped offset concerns regarding recent oil price movements and provided momentum to major indices at the opening.",
+      "source": "Biztoc.com",
+      "original_title": "[Biztoc.com] Update: Upbeat SpaceX Earnings Lift US Equity Futures Pre-Bell — (Updates with economic data, recent oil price movement, world markets' overview and corporate stock",
+      "context": "Context pending.",
+      "why_it_matters": "Investors feel happier about the stock market after hearing good news from SpaceX. When a major company like SpaceX does well, it lifts the mood for other businesses too. This helps keep stock prices steady despite worries about oil costs.",
+      "other_side": "Some traders think this boost is just short-term excitement and not lasting strength. They caution that oil price swings could still cause problems later in the week."
+    },
+    {
+      "headline": "ARK Invest Highlights Rise of Tokenized Equities on DEXs",
+      "summary": "Tokenized equities are seeing a significant increase in volume on decentralized exchanges, signaling a potential shift toward 24/7 trading environments. This trend suggests a transformation in global financial markets by expanding investor access and altering traditional liquidity structures.",
       "source": "Crypto Briefing",
-      "original_title": "MEXC ends services for users in Russia and Belarus",
+      "original_title": "[Crypto Briefing] ARK Invest highlights tokenized equities’ rise in DEX volume — The rise in tokenized equities on DEXs signals a shift towards 24/7 trading, potentially reshaping global financial markets and investor access.",
       "context": "Context pending.",
-      "why_it_matters": "A major crypto site is quitting Russia and Belarus because of strict government rules. This shows that governments are finally cracking down on anonymous digital money trading. It forces crypto companies to follow laws just like banks do.",
-      "other_side": "Some users think this hurts free speech and financial privacy. They believe people should be able to trade freely without governments blocking access based on where they live."
+      "why_it_matters": "Stocks are becoming digital tokens that can be traded around the clock. This changes how traditional markets work by allowing people to buy and sell anytime, even when banks are closed. It makes investing more accessible but also faster-paced.",
+      "other_side": "Regulators are worried that this new system lacks safety checks found in old markets. They fear it could lead to fraud or sudden crashes without warning."
     },
     {
-      "headline": "Home Sellers Urged Not to Time the Market",
-      "summary": "Jim Tobin, CEO of the National Association of Home Builders, advises homeowners against trying to time the real estate market, stating it is impossible to predict the perfect moment to sell. He suggests that waiting for better conditions may cause sellers to miss opportunities.",
-      "source": "Biztoc.com",
-      "original_title": "Advice for home sellers: 'If you're trying to time the market, you can't'",
+      "headline": "BlackRock Launches First Active Robotics ETF",
+      "summary": "BlackRock has introduced RBTX, its inaugural active robotics exchange-traded fund, marking a strategic expansion into emerging technology sectors. The launch underscores the growing integration of robotics within mainstream investment strategies and active management portfolios.",
+      "source": "Crypto Briefing",
+      "original_title": "[Crypto Briefing] BlackRock launches RBTX, its first active robotics ETF — BlackRock's RBTX ETF highlights the growing importance of robotics in investment strategies, emphasizing active management in emerging tech sectors.",
       "context": "Context pending.",
-      "why_it_matters": "Experts say trying to guess the best time to sell a house usually fails. Waiting for perfect conditions often means missing out on good deals or losing money to fees. Selling when you are ready is usually smarter than waiting.",
-      "other_side": "Some real estate pros argue that timing the market can maximize profit. If interest rates drop soon, waiting a few months could mean getting tens of thousands of dollars more for your home."
+      "why_it_matters": "A giant investment firm is launching a fund focused on robots. This signals that robotics is no longer just a niche interest but a mainstream way to invest. It encourages more money to flow into developing smart machines.",
+      "other_side": "Some investors see this as a trendy gamble rather than a solid bet. They worry that robot technology is still experimental and might not deliver promised profits."
     },
     {
-      "headline": "Flex Builds Payment Layer for Life’s Financial Obligations",
-      "summary": "Flexible Finance, Inc. (Flex) is expanding beyond rent payments to create a comprehensive payment layer for various financial obligations including broadband, car insurance, mortgages, and utilities. This integration allows customers to manage and split multiple bills within a single app.",
-      "source": "Biztoc.com",
-      "original_title": "Flex Expands Beyond Rent to Build the Payment Layer for Life’s Financial Obligations",
+      "headline": "eBay Cuts 1,100 Jobs in Major Operational Reshuffle",
+      "summary": "Online marketplace eBay announced it will eliminate approximately 9% of its workforce, totaling 1,100 positions, as part of a broader effort to streamline operations. The restructuring follows a previous reduction of 800 jobs and aims to refocus the company on high-growth areas like luxury goods and resale.",
+      "source": "Livemint",
+      "original_title": "[Livemint] eBay layoffs: Online marketplace to cut 1,100 jobs as it reshapes operations",
       "context": "Context pending.",
-      "why_it_matters": "One app now lets you split bills for rent, cars, and utilities all at once. This makes managing daily money stress-free and helps people avoid late fees. It simplifies life for anyone juggling multiple payments each month.",
-      "other_side": "Critics worry about storing all financial data in one place. If that app gets hacked or goes offline, users could lose access to all their payment methods at once."
+      "why_it_matters": "eBay is cutting jobs to save money and focus on luxury items. This reflects a broader trend where companies shrink staff to stay competitive in a tough market. It shows how online shopping giants are constantly reshaping themselves.",
+      "other_side": "Workers and unions argue that these cuts hurt morale and long-term service quality. They believe investing in people would have been a better strategy than firing them."
     },
     {
-      "headline": "US Equity Futures Drop as Trump Unveils $8 Billion Farm Aid Plan",
-      "summary": "US equity futures traded lower pre-market as President Trump announced an $8 billion plan to help American farmers offset rising diesel costs. The move aims to support the agricultural sector amidst economic pressures, impacting broader market sentiment.",
-      "source": "Biztoc.com",
-      "original_title": "Update: US Equity Futures Lower Pre-Bell as Trump Unveils $8 Billion Plan to Help US Farmers Offset Diesel Costs",
+      "headline": "Abbott Laboratories Lowers Growth Forecast and Splits Nutrition Unit",
+      "summary": "Abbott Laboratories has reduced its sales growth projection for 2026 and announced plans to spin off its nutrition business into a separate publicly traded entity. This strategic move is designed to unlock value and allow each segment to pursue distinct growth trajectories independently.",
+      "source": "RTE",
+      "original_title": "[RTE] Abbott cuts its 2026 sales growth view",
       "context": "Context pending.",
-      "why_it_matters": "The government is spending billions to help farmers survive high fuel costs. This keeps food prices stable and supports rural communities facing economic pain. It shows how politics directly affects what we pay for groceries.",
-      "other_side": "Taxpayers worry this costs too much money that could be used elsewhere. Some argue farmers should adapt to higher costs instead of relying on government handouts every year."
+      "why_it_matters": "Abbott Laboratories expects slower sales and is splitting off its nutrition business. This move lets each part of the company focus on its own goals without waiting on the other. It aims to make both sides more efficient and valuable.",
+      "other_side": "Shareholders are concerned that splitting the company adds complexity and cost. They worry that managing two separate entities might confuse investors and reduce overall value."
     },
     {
-      "headline": "Fed Rate Hike Cost Sparks White House Pressure on Treasury",
-      "summary": "A 1% Federal Reserve interest rate hike imposes an additional $95 billion annual cost on national debt interest, driving political pressure for lower rates. This financial burden influences policymakers' pushes for central banks to maintain lower base interest rates to stimulate the economy.",
-      "source": "Biztoc.com",
-      "original_title": "No wonder the White House wants Warsh to cut: A 1% Fed rate hike costs the Treasury an extra $95 billion a year in national debt interest",
+      "headline": "Tech Founder Distributes £3.3m Bonuses to Staff After €112m Sale",
+      "summary": "Pedro Pestana, founder of Marosa, awarded each of his 120 employees £3.3 million following the company's €112 million acquisition by Wolters Kluwer. This unprecedented distribution rewards staff regardless of tenure, highlighting an alternative approach to employee compensation in successful exits.",
+      "source": "Britbrief.co.uk",
+      "original_title": "[Britbrief.co.uk] Businessman gives staff £3.3m each after €112m company sale",
       "context": "Context pending.",
-      "why_it_matters": "Higher interest rates cost the US government $95 billion extra every year. Politicians are pushing hard to lower these rates to save taxpayer money. This pressure could change how the country manages its national debt long-term.",
-      "other_side": "Economists warn that keeping rates too low causes inflation to rise again. This means the price of goods like milk and gas would go up, hurting everyone’s purchasing power."
-    },
-    {
-      "headline": "NY Office Tenant Improvement Totals Rise Amid Market Shifts",
-      "summary": "Manhattan commercial landlords are significantly increasing tenant improvement allowances in 2026 to attract tenants amid evolving market conditions. These allowances have transformed from simple deal sweeteners into critical components of leasing strategies to compete in a post-pandemic office landscape.",
-      "source": "Commercial Observer",
-      "original_title": "New York Office Tenant Improvement Totals Rise in 2026 Amid Market Shifts",
-      "context": "Context pending.",
-      "why_it_matters": "Office landlords are paying for renovations to get tenants back into buildings. This signals that the old way of working from offices is changing forever. Companies must offer better spaces to convince workers to return.",
-      "other_side": "Tenants argue that these \"improvements\" are just tricks to keep rents high. They feel forced to accept smaller spaces or worse locations because there are fewer options available in the city."
-    },
-    {
-      "headline": "AI Trading Agents Face Centralized Access Risks",
-      "summary": "Animoca chair Yat Siu warns that while AI agents enable 24/7 trading, users risk losing access to their strategies and data if centralized AI firms shut down services. This highlights a critical vulnerability in the infrastructure supporting automated financial trading systems.",
-      "source": "Cointelegraph",
-      "original_title": "Agents can trade 24/7 — but Yat Siu warns you could lose access at any time",
-      "context": "Context pending.",
-      "why_it_matters": "Automated trading bots rely on central companies that can shut down anytime. If those servers go dark, traders lose control of their money and strategies instantly. This creates a single point of failure in the financial system.",
-      "other_side": "Users love these tools because they work 24/7 without human error. The convenience of automated wealth management outweighs the rare risk of a technical shutdown for most investors."
-    },
-    {
-      "headline": "Weapons Buying Harms National Economies Due to Investor Wariness",
-      "summary": "Increased military spending and weapons procurement are negatively impacting national economies by deterring foreign investment. Investors remain wary of potential conflicts associated with such expenditures, leading to reduced capital inflow and economic stagnation.",
-      "source": "The Conversation Africa",
-      "original_title": "How buying weapons can harm a country’s economy",
-      "context": "Context pending.",
-      "why_it_matters": "Buying weapons scares away foreign investors who fear future wars. This lack of investment slows down job creation and economic growth for the whole nation. Peaceful countries attract more business and money than militarized ones.",
-      "other_side": "Defense experts argue that strong military deterrence actually attracts investment. Investors may prefer stable nations with powerful armies that protect trade routes and prevent conflict."
+      "why_it_matters": "A company founder gave every employee millions of pounds after selling his business. This rare act rewards workers equally regardless of their job title or time there. It sets a powerful example of fair profit-sharing in successful exits.",
+      "other_side": "Business leaders argue this model is impossible to copy for most companies. They note that such large payouts are only possible with extreme luck and unique circumstances."
     }
   ]
 }
