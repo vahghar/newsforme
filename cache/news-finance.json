@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "Federal Government Faces Pressure as Interest Rates Rise",
-      "summary": "With interest rates tipped to rise, the federal government is under pressure to unite its party and assure disgruntled voters of a solid economic plan. This political disunity threatens to complicate efforts to manage inflation and maintain public confidence in financial stability.",
-      "source": "ABC News (AU)",
-      "original_title": "[ABC News (AU)] Disunity is death, but can the federal government rein in the blame game? — With interest rates tipped to rise on Tuesday, the federal government needs to scramble to assure disgruntled voters it is a united party with a solid plan.",
-      "context": "To understand this, you first need to know what \"interest rates\" are: they are essentially the price of borrowing money, set by a country's central bank. When these rates go up, it becomes much more expensive for people and businesses to take out loans for houses, cars, or expansion. This is usually done to slow down spending and lower inflation (when prices rise too fast), but it also hurts voters who see their cost of living skyrocket while their paychecks stay the same. The government is now in a tough spot because they have to explain why the economy feels bad while trying to keep their political party united against critics who blame them for the hardship.",
-      "why_it_matters": "When borrowing money gets more expensive, it costs families and businesses more to spend. This pressure forces politicians to act quickly to keep people happy and prevent the economy from slowing down too much. If they fail, everyday items could stay pricey for a long time.",
-      "other_side": "Some argue that raising rates is necessary to stop prices from rising even faster. Critics say this pain is unavoidable if we want to fix inflation properly."
+      "headline": "Marvell Stock Dips Amid $115 Billion AI Data-Center Wager",
+      "summary": "Marvell Technology announced a massive $115 billion acquisition of Lumentum to capitalize on the booming AI data-center market. Despite the strategic move, shares of both companies dipped as investors reacted to the broader market rout and the sheer scale of the capital deployment.",
+      "source": "Business Insider",
+      "original_title": "[Business Insider] Marvell stock dips as the chip firm wagers $115 billion on the AI data-center boom — Marvell said it would buy Lumentum in a deal worth $115 billion. Shares of both companies dipped, with investors still recovering from Friday's rout.",
+      "context": "Context pending.",
+      "why_it_matters": "Marvell is betting big that AI needs more power and faster connections than ever before. If this deal works, it could change how the world builds smart machines for years to come.",
+      "other_side": "Spending $115 billion is a huge risk. Investors are worried the price is too high and the market might not grow as fast as hoped."
     },
     {
-      "headline": "RBA's Brutal Redistribution Through Interest Rate Policy",
-      "summary": "The Reserve Bank of Australia's interest rate hikes are causing significant income hits to borrowers, a redistribution effect often omitted from official narratives. While RBA officials argue this isn't the primary mechanism for lowering inflation, the impact on household finances remains a critical component of the monetary policy outcome.",
-      "source": "ABC News (AU)",
-      "original_title": "[ABC News (AU)] The brutal redistribution at the heart of the RBA's interest rate policy — RBA officials argue the hit to borrowers' income isn't the main way rate rises lower inflation. But they often omit a key fact.",
-      "context": "The Reserve Bank of Australia (RBA) is the country’s central bank, which controls the supply of money and sets the base interest rate for the entire financial system. When they raise rates, it doesn't just affect big banks; it trickles down so that anyone with a mortgage or credit card debt has to pay significantly more each month. This creates an unintended side effect where money is effectively taken from households who owe debt and moved toward savers or the government, a process economists call \"redistribution.\" Many people feel this is unfair because it punishes regular families for trying to control national inflation, even though the bank argues this pain is necessary to cool down the overheating economy.",
-      "why_it_matters": "Higher interest rates hit borrowers hard by making monthly loan payments much larger. This takes money away from regular households and shifts wealth in ways that are often ignored. It changes how normal people can afford their homes and cars.",
-      "other_side": "Bank officials claim these hikes are just tools to cool down overall price increases. They argue the goal is not to hurt families but to stabilize the broader economy."
+      "headline": "Iran Attacks Push Oil Prices Up, Exposing Regional Vulnerabilities",
+      "summary": "Houthi attacks on Saudi Arabia's Ras Tanura refinery have driven oil prices higher, highlighting the region's inability to defend critical energy infrastructure. The incident underscores the persistent geopolitical risks facing global oil markets and supply chains.",
+      "source": "OilPrice.com",
+      "original_title": "[OilPrice.com] How Iran Just Broke the U.S. Oil Shield In Saudi Arabia Yet Again — The attacks last week in Saudi Arabia’s largest oil refinery, Ras Tanura (again), by the Iran-backed Houthis (again), which pushed oil prices up (again), once more underlined the powerlessness of the region to properly defend itself from Iran and its network …",
+      "context": "Context pending.",
+      "why_it_matters": "Attacks on oil supplies make gas and energy costs jump for everyone. This shows how fragile global trade is when conflict hits key shipping routes.",
+      "other_side": "Some argue these attacks are just part of ongoing regional wars. Critics say blaming specific events ignores the deeper history of tension in the area."
     },
     {
-      "headline": "Cyberattacks on Banks Spike Insurer Claim Risks",
-      "summary": "Cyberattacks targeting major financial institutions, including AU Small Finance Bank, have heightened concerns over security vulnerabilities and potential data breaches. These incidents are driving up claim risks for insurers, who are increasingly worried about the scale of losses associated with digital threats to the banking sector.",
+      "headline": "California Proposes $1 Billion Expansion of Film and TV Tax Credits",
+      "summary": "Governor Gavin Newsom has proposed increasing California's entertainment production tax credits from $750 million to $1 billion annually. This legislative push aims to retain production jobs that are fleeing the state and boost the local economy ahead of the 2026 midterms.",
+      "source": "IndieWire",
+      "original_title": "[IndieWire] As Production Jobs Flee California, Governor Gavin Newsom Pushes to Expand Film and TV Tax Credit to $1 Billion Annually — As California production jobs dry up, Gov. Newsom pushes to expand film and TV tax credit from $750 million to $1 billion.",
+      "context": "Context pending.",
+      "why_it_matters": "Giving money back to movie studios keeps jobs in California and supports local businesses. It helps the state economy stay strong during election years.",
+      "other_side": "Tax breaks cost taxpayers money that could go to schools or roads. Critics say this favors rich companies over everyday residents."
+    },
+    {
+      "headline": "Maine Lobster Industry Faces Economic Headwinds Over Tariffs",
+      "summary": "The Maine lobster industry is caught in political crossfire as Senator Susan Collins and challenger Troy Jackson clash over the economic impact of tariffs. These trade policies are directly affecting the livelihoods of local fishermen and the broader regional economy.",
+      "source": "Al Jazeera English",
+      "original_title": "[Al Jazeera English] Lobster industry caught in Maine’s political headwinds before midterms — Senator Susan Collins and Democratic challenger Troy Jackson clash over tariffs and their impact on Maine's economy.",
+      "context": "Context pending.",
+      "why_it_matters": "Tariffs raise prices for fishermen and hurt local families who depend on lobster sales. This political fight directly impacts daily life for workers in Maine.",
+      "other_side": "Supporters claim tariffs protect American industries from unfair foreign competition. They argue short-term pain leads to long-term economic strength."
+    },
+    {
+      "headline": "Wealthy Households Choose Renting Over Homeownership",
+      "summary": "A growing number of millionaires are opting to rent rather than buy homes, citing financial flexibility and investment opportunities elsewhere. This shift challenges traditional wealth-building strategies and reflects changing priorities among high-net-worth individuals.",
+      "source": "Entrepreneur",
+      "original_title": "[Entrepreneur] These Millionaires Have the Cash to Buy a Home. Here’s Why They’re Renting Instead. — For a growing number of wealthy households, renting is a choice to seriously consider.",
+      "context": "Context pending.",
+      "why_it_matters": "Rich people choosing to rent shows that flexibility is now more valuable than owning property. This trend might change how cities plan housing for the future.",
+      "other_side": "Homeownership has always been seen as the best way to build wealth. Skipping it might leave some financially vulnerable if rents keep rising."
+    },
+    {
+      "headline": "India Urban Shoppers Spend More on FMCG Despite Fewer Trips",
+      "summary": "Urban consumers in India are spending 13% more on fast-moving consumer goods while making fewer shopping trips, indicating rising prices and shifting consumption patterns. Online sales are surging as new households enter the market, altering the retail landscape significantly.",
       "source": "The Times of India",
-      "original_title": "[The Times of India] Cyberattacks on banks, including AU Small Finance Bank, worry insurers as claim risks rise — Cyberattacks targeting financial institutions have raised concerns about security vulnerabilities and potential losses. AU Small Finance Bank is investigating a possible data breach involving customer information stored on Salesforce. Insurers have recently r…",
-      "context": "Banks store massive amounts of sensitive personal and financial data, making them prime targets for hackers who want to steal identities or money. As these cyberattacks become more frequent and sophisticated, insurance companies that cover banks are facing higher costs because they have to pay out more claims for damages and legal fees. This creates a scary cycle where banks might struggle to find affordable insurance, or premiums could skyrocket, forcing banks to spend even more on security instead of helping customers. It highlights how digital crime is no longer just a tech problem but a major financial risk that threatens the stability of the entire banking sector.",
-      "why_it_matters": "More cyberattacks on banks mean insurance companies face huge payouts for security failures. This drives up costs for everyone who buys insurance policies in the financial sector. It highlights how digital safety is becoming a major financial risk.",
-      "other_side": "Some experts say insurers should focus on better prevention rather than just covering losses. Others argue that higher premiums will slow down innovation in digital banking services."
+      "original_title": "[The Times of India] India's urban shoppers spend 13% more on FMCG but shop less often — India's urban shoppers are increasing grocery spending while making less frequent trips, reflecting higher prices' impact. Online sales are rising sharply, driven by new households entering the market and increased shopping occasions. In contrast, traditional…",
+      "context": "Context pending.",
+      "why_it_matters": "Indians are buying more goods online but going to stores less often. This shift forces retailers to adapt quickly to new shopping habits.",
+      "other_side": "Higher prices mean people are spending more just to buy the same items. This suggests inflation is hurting household budgets despite higher sales."
     },
     {
-      "headline": "Indian Companies Pessimistic on Economy Despite Business Optimism",
-      "summary": "An IMA India survey reveals that while companies remain optimistic about profitability and hiring, overall business confidence is falling due to weak economic sentiment. This divergence highlights growing caution among firms regarding the broader macroeconomic environment despite resilient individual business metrics.",
-      "source": "Business Standard",
-      "original_title": "[Business Standard] Companies pessimistic about economy, bullish on business: IMA India survey — IMA India's Q3FY27 survey shows business confidence falling as economic sentiment weakens, even as companies grow more optimistic about profitability, investment and hiring",
-      "context": "Businesses often look at two different things when judging the economy: their own daily operations versus the bigger picture of national health. In this case, Indian companies are doing well individually—they can still make profits and hire workers—but they are worried about the broader economic environment, such as whether regular people will have enough money to buy things in the future. This split feeling causes caution because even if a company is successful today, a weak overall economy could mean fewer customers tomorrow. It’s like being happy with your own job security but terrified that the whole industry might crash soon.",
-      "why_it_matters": "Companies are worried about the big picture even if their own profits look good right now. This caution suggests a potential slowdown ahead that could affect jobs and hiring. It warns investors that current success might not last long.",
-      "other_side": "Business leaders point out that hiring plans show confidence in future growth. They believe individual company strength matters more than general economic mood."
+      "headline": "Watercare CEO Warns of Hidden Costs from Stop-Start Investment",
+      "summary": "Jamie Sinclair, CEO of Watercare, highlights the significant financial burden caused by inconsistent capital investment programs. The Commerce Commission's assessment of the $15.2b programme reveals how fragmented funding impacts long-term infrastructure viability and costs.",
+      "source": "New Zealand Herald",
+      "original_title": "[New Zealand Herald] As Watercare CEO, I know the hidden cost of stop-start investment– Jamie Sinclair — OPINION: The Commerce Commission is assessing our $15.2b capital investment programme.",
+      "context": "Context pending.",
+      "why_it_matters": "Inconsistent funding makes fixing water pipes much more expensive over time. Clear, steady investment saves money and keeps infrastructure safe.",
+      "other_side": "Tight budgets force officials to pause projects until funds are available. Some argue this cautious approach prevents overspending during good times."
     },
     {
-      "headline": "Microsoft Shifts Copilot to Usage-Based Pricing",
-      "summary": "Microsoft's decision to move Copilot to a usage-based pricing model aims to boost revenue growth but introduces complexity into enterprise AI budgeting strategies. This shift fundamentally alters how corporations forecast and manage their software expenditures, impacting financial planning across the tech sector.",
-      "source": "Crypto Briefing",
-      "original_title": "[Crypto Briefing] Microsoft shifts Copilot to usage-based pricing, boosting growth potential — Microsoft's shift to usage-based pricing for Copilot could drive revenue growth but adds complexity to enterprise AI budgeting strategies.\nThe post Microsoft shifts Copilot to usage-based pricing, boosting growth potential appeared first on Crypto Briefing.",
-      "context": "Microsoft Copilot is an artificial intelligence tool built into their software that helps workers write, code, and solve problems faster. Previously, companies paid a flat monthly fee per user, similar to a Netflix subscription, regardless of how much they actually used the AI. Now, Microsoft is changing the rules to charge based on usage, meaning the more you use the AI, the more you pay, which introduces complexity because businesses can no longer easily predict their exact bills. This shift forces corporations to rethink their budgets carefully, as they must decide exactly how much AI power they need without overspending on features that sit idle.",
-      "why_it_matters": "Microsoft is changing how it charges for AI tools based on actual usage instead of flat fees. This makes budgeting harder for large companies because costs can spike unexpectedly. It sets a new standard for how software pricing works in the tech industry.",
-      "other_side": "Users like paying only for what they use rather than wasting money on unused seats. However, small teams worry their bills will become unpredictable and hard to control."
+      "headline": "China Deploys Diplomats to Strengthen Middle East Economic Position",
+      "summary": "China is sending a host of diplomats to key Middle Eastern nations to bolster its economic and political influence amid tensions over the Strait of Hormuz. This diplomatic blitz aims to secure energy interests and counter Western dominance in the region's strategic waterways.",
+      "source": "Breitbart News",
+      "original_title": "[Breitbart News] China Hits Middle East with Diplomatic Blitz over Strait of Hormuz Closures — The Chinese Foreign Ministry confirmed on Monday that it would be deploying a host of diplomats to critical Middle East countries in the next month to strengthen its economic and political position in the region, particularly in the context of the ongoing com…",
+      "context": "Context pending.",
+      "why_it_matters": "China is stepping up its role in Middle East politics to secure energy supplies. This move shifts global power dynamics away from Western influence.",
+      "other_side": "Neighboring countries worry about losing control over their own resources. Critics fear increased foreign interference in local affairs."
     },
     {
-      "headline": "Home Equity Disparities Reveal Wealth Gaps Across States",
-      "summary": "A new analysis highlights dramatic variations in home equity across US states, showing how local housing markets and borrowing levels impact overall wealth. Homeowners in certain regions are building significantly less equity than others, underscoring the role of real estate in regional economic inequality.",
-      "source": "Biztoc.com",
-      "original_title": "[Biztoc.com] Homeowners in These 10 States Have the Least Home Equity — Home equity plays a major role in overall wealth, but how much homeowners have built up can vary dramatically depending on where they live. Differences in home prices, borrowing levels and local housing markets mean that in some states, homeowners have far le…",
-      "context": "Home equity is the portion of a house that you truly own, calculated by taking the home's current market value and subtracting what you still owe on your mortgage. Because housing markets vary wildly from state to state—some areas see prices soar while others stagnate—the amount of wealth homeowners build differs drastically across the country. This matters because for many families, their home is their biggest asset, so those in states with rising equity are getting richer while others fall further behind, widening the gap between rich and poor regions. It shows how real estate isn't just about shelter but is a primary engine for building long-term family wealth.",
-      "why_it_matters": "The value of your home determines a lot of personal wealth, and this varies wildly by location. People in some states are getting richer through housing while others fall behind. This gap widens the divide between rich and poor regions.",
-      "other_side": "Real estate experts say local markets naturally fluctuate due to supply and demand. They argue that geographic differences are normal and not necessarily unfair."
+      "headline": "OpenAI Lobbyists Warn Candidates on AI Data Center Moratoriums",
+      "summary": "Top OpenAI lobbyist Chris Lehane is actively campaigning against data center moratoriums, arguing they could hinder US competitiveness against China. This political maneuvering highlights the intersection of AI infrastructure policy and national economic security.",
+      "source": "Business Insider",
+      "original_title": "[Business Insider] OpenAI is already pitching 2028 hopefuls on how to talk about AI — Top OpenAI lobbyist Chris Lehane warns candidates that backing a data center moratorium could help China overtake the US.",
+      "context": "Context pending.",
+      "why_it_matters": "Rules slowing down AI data centers could hurt America's tech race with China. Fast approval helps companies build the tools needed for future innovation.",
+      "other_side": "Local communities worry about noise, traffic, and energy use from big facilities. Residents argue they should have a say in what gets built nearby."
     },
     {
-      "headline": "Financial Planning Dilemma: High Earner Considers Early Retirement",
-      "summary": "A high-income professional earning $310,000 annually faces a complex financial decision regarding early retirement at age 55 to care for young children. This case study explores the trade-offs between maintaining a substantial salary and achieving personal life goals, highlighting intricate aspects of wealth management and career finance.",
-      "source": "Benzinga/Yahoo Finance",
-      "original_title": "[Biztoc.com] I'm 53 With $8.5 Million, A $310,000 Salary And A Retired Husband. I Want To Quit At 55 To Be Home With Our Two Young Kids. Am I Being Selfish? — Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\nA $310,000 paycheck is usually something people fight to keep. For one 53-year-old mother, it's starting to look more like the price of missing out on time wi…",
-      "context": "Early retirement is a complex financial puzzle, especially for high earners who are used to a certain lifestyle funded by a large salary. Retiring at 55 means stopping income six years before the typical retirement age, which requires having saved enough money to last potentially forty or fifty more years without a paycheck. For someone caring for young children, the trade-off involves balancing the loss of a substantial annual income against the priceless value of time spent with family. This situation highlights the difficult reality that earning more money doesn't automatically solve the problem of how to sustain a life of leisure later on.",
-      "why_it_matters": "Earning a high salary does not guarantee a secure early retirement if you stop working too soon. This case shows the tough math behind balancing career income with personal life goals. It teaches that planning for retirement requires careful calculation, not just high earnings.",
-      "other_side": "Many people prioritize family time over maximum savings at any age. They argue that quality of life now is more important than theoretical future wealth."
-    },
-    {
-      "headline": "Bitcoin Redemption Freeze Threatens Aave Market Stability",
-      "summary": "A freeze on Bitcoin redemptions has placed $136 million worth of the Aave market under intense scrutiny, raising questions about liquidity and collateral safety. Borrowers can still repay debts or add collateral, but the inability to withdraw funds highlights systemic risks within decentralized finance protocols.",
-      "source": "CryptoSlate",
-      "original_title": "[CryptoSlate] Bitcoin redemption freeze puts $136 million Aave market under scrutiny — Borrowers can repay or add other eligible collateral, but Aave withdrawals do not reopen Threshold’s paused Bitcoin redemption route.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your …",
-      "context": "Aave is a platform in the world of cryptocurrency that allows people to lend and borrow digital assets without using a traditional bank. Bitcoin redemptions refer to the process of converting one type of crypto back into another, and a freeze on this process means users cannot easily move their funds out or access their collateral safely. This creates panic because if borrowers cannot add more safety deposits or withdraw their money during a market dip, the entire system could collapse under the weight of unpaid debts. It exposes a fragile link in decentralized finance where technical glitches can threaten hundreds of millions of dollars in user assets instantly.",
-      "why_it_matters": "A freeze on withdrawing Bitcoin from a popular lending platform creates panic among users. It raises fears that digital money systems might not be as safe or flexible as promised. This could make investors nervous about trusting decentralized finance platforms.",
-      "other_side": "Supporters say temporary freezes are sometimes needed to protect the system from collapse. They argue that users can still manage their debts without needing immediate withdrawals."
-    },
-    {
-      "headline": "US Tariff Debate Intensifies Amid Potential Congressional Shift",
-      "summary": "Democratic wins in Congress could challenge Trump's tariff policies through legislation, though veto power remains a significant hurdle. This potential shift in trade dynamics promises to impact international commerce and corporate supply chain costs, making it a critical financial development for global markets.",
-      "source": "The Times of India",
-      "original_title": "[The Times of India] Democratic wins would shift Congress' trade debate but fall short of US tariff rollbacks — If Democrats gain control of Congress, they will challenge many of Trump's tariffs through legislation and oversight. The party aims to repeal tariffs impacting communities on both sides of the Canadian border. However, Trump's veto power will hinder their ef…",
-      "context": "Tariffs are taxes imposed on goods imported from other countries, designed to protect local industries by making foreign products more expensive. The debate intensifies because different political parties have opposing views on global trade, with some favoring protectionism and others preferring open markets. If Democrats gain power in Congress, they might try to pass laws blocking or reducing these tariffs, but the President can veto those laws, creating a political stalemate. This uncertainty is critical for businesses because they rely on global supply chains, and sudden changes in trade rules can suddenly make raw materials or finished products much costlier to produce and sell.",
-      "why_it_matters": "Changes in US trade rules can make imported goods cheaper or more expensive for consumers. Political fights over tariffs directly impact how much companies pay for materials and shipping. This uncertainty affects prices on shelves across the country.",
-      "other_side": "Protectionists argue tariffs help domestic industries compete against foreign rivals. Critics say these taxes ultimately cost American shoppers more money."
-    },
-    {
-      "headline": "US Economy Grows Unevenly, Leaving Many Behind",
-      "summary": "Recent economic data indicates that while the US economy is growing, the benefits are not being distributed evenly across all demographics. This uneven recovery poses challenges for policymakers and investors alike, as consumer spending and AI adoption drive growth while other sectors lag behind.",
-      "source": "Slashdot.org",
-      "original_title": "[Slashdot.org] The American Economy Rockets Ahead, but Doesn’t Take Everyone With It - WSJ — The American Economy Rockets Ahead, but Doesn’t Take Everyone With ItWSJ Mixed economic forecast weighs heavy ahead of midtermsNPR Consumers and A.I. Spending Push U.S. Economic Growth HigherThe New York Times New economic data challenges Fed chief's not-too-…",
-      "context": "Economic growth is often measured by total national output, but this number hides who is actually benefiting from that success. In recent years, sectors driven by technology and artificial intelligence have boomed, creating wealth for skilled workers and investors, while other industries and lower-income groups have seen little improvement. This uneven distribution means that while the country as a whole looks healthier, many ordinary citizens do not feel that prosperity in their daily lives, leading to social and political tension. It challenges the idea that a rising tide lifts all boats equally, showing that policy decisions heavily influence who gets left behind.",
-      "why_it_matters": "The economy is growing, but not everyone is feeling that benefit equally. This uneven progress means some groups are left struggling while others thrive. Policymakers must find ways to spread wealth more fairly to maintain social stability.",
-      "other_side": "Economists note that growth phases naturally favor certain sectors like technology first. They suggest that benefits usually trickle down to other areas over time."
+      "headline": "Gavin Newsom Seeks $1 Billion Boost for California Film Tax Credits",
+      "summary": "In a major economic proposal, Governor Newsom is pushing to expand California's movie and TV tax credit program to at least $1 billion. This initiative seeks to revitalize the state's entertainment sector and attract production back from other jurisdictions.",
+      "source": "Variety",
+      "original_title": "[Variety] Gavin Newsom Proposes Expanding California’s Movie and TV Tax Credit to at Least $1 Billion — California Gov. Gavin Newsom, on the eve of the 2026 midterm elections, is calling for another major expansion of the state’s Film and TV Tax Credit Program. Newsom is proposing an increase to California’s entertainment production incentive program from $750 …",
+      "context": "Context pending.",
+      "why_it_matters": "More tax credits aim to bring film productions back to California. This boosts the local economy and creates thousands of creative jobs.",
+      "other_side": "The cost to the state budget is very high for limited public benefit. Opponents say this subsidy mainly helps wealthy studio executives."
     }
   ]
 }
