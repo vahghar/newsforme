@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "Marvell Stock Dips Amid $115 Billion AI Data-Center Wager",
-      "summary": "Marvell Technology announced a massive $115 billion acquisition of Lumentum to capitalize on the booming AI data-center market. Despite the strategic move, shares of both companies dipped as investors reacted to the broader market rout and the sheer scale of the capital deployment.",
-      "source": "Business Insider",
-      "original_title": "[Business Insider] Marvell stock dips as the chip firm wagers $115 billion on the AI data-center boom — Marvell said it would buy Lumentum in a deal worth $115 billion. Shares of both companies dipped, with investors still recovering from Friday's rout.",
-      "context": "Context pending.",
-      "why_it_matters": "Marvell is betting big that AI needs more power and faster connections than ever before. If this deal works, it could change how the world builds smart machines for years to come.",
-      "other_side": "Spending $115 billion is a huge risk. Investors are worried the price is too high and the market might not grow as fast as hoped."
-    },
-    {
-      "headline": "Iran Attacks Push Oil Prices Up, Exposing Regional Vulnerabilities",
-      "summary": "Houthi attacks on Saudi Arabia's Ras Tanura refinery have driven oil prices higher, highlighting the region's inability to defend critical energy infrastructure. The incident underscores the persistent geopolitical risks facing global oil markets and supply chains.",
-      "source": "OilPrice.com",
-      "original_title": "[OilPrice.com] How Iran Just Broke the U.S. Oil Shield In Saudi Arabia Yet Again — The attacks last week in Saudi Arabia’s largest oil refinery, Ras Tanura (again), by the Iran-backed Houthis (again), which pushed oil prices up (again), once more underlined the powerlessness of the region to properly defend itself from Iran and its network …",
-      "context": "Context pending.",
-      "why_it_matters": "Attacks on oil supplies make gas and energy costs jump for everyone. This shows how fragile global trade is when conflict hits key shipping routes.",
-      "other_side": "Some argue these attacks are just part of ongoing regional wars. Critics say blaming specific events ignores the deeper history of tension in the area."
-    },
-    {
-      "headline": "California Proposes $1 Billion Expansion of Film and TV Tax Credits",
-      "summary": "Governor Gavin Newsom has proposed increasing California's entertainment production tax credits from $750 million to $1 billion annually. This legislative push aims to retain production jobs that are fleeing the state and boost the local economy ahead of the 2026 midterms.",
-      "source": "IndieWire",
-      "original_title": "[IndieWire] As Production Jobs Flee California, Governor Gavin Newsom Pushes to Expand Film and TV Tax Credit to $1 Billion Annually — As California production jobs dry up, Gov. Newsom pushes to expand film and TV tax credit from $750 million to $1 billion.",
-      "context": "Context pending.",
-      "why_it_matters": "Giving money back to movie studios keeps jobs in California and supports local businesses. It helps the state economy stay strong during election years.",
-      "other_side": "Tax breaks cost taxpayers money that could go to schools or roads. Critics say this favors rich companies over everyday residents."
-    },
-    {
-      "headline": "Maine Lobster Industry Faces Economic Headwinds Over Tariffs",
-      "summary": "The Maine lobster industry is caught in political crossfire as Senator Susan Collins and challenger Troy Jackson clash over the economic impact of tariffs. These trade policies are directly affecting the livelihoods of local fishermen and the broader regional economy.",
-      "source": "Al Jazeera English",
-      "original_title": "[Al Jazeera English] Lobster industry caught in Maine’s political headwinds before midterms — Senator Susan Collins and Democratic challenger Troy Jackson clash over tariffs and their impact on Maine's economy.",
-      "context": "Context pending.",
-      "why_it_matters": "Tariffs raise prices for fishermen and hurt local families who depend on lobster sales. This political fight directly impacts daily life for workers in Maine.",
-      "other_side": "Supporters claim tariffs protect American industries from unfair foreign competition. They argue short-term pain leads to long-term economic strength."
-    },
-    {
-      "headline": "Wealthy Households Choose Renting Over Homeownership",
-      "summary": "A growing number of millionaires are opting to rent rather than buy homes, citing financial flexibility and investment opportunities elsewhere. This shift challenges traditional wealth-building strategies and reflects changing priorities among high-net-worth individuals.",
-      "source": "Entrepreneur",
-      "original_title": "[Entrepreneur] These Millionaires Have the Cash to Buy a Home. Here’s Why They’re Renting Instead. — For a growing number of wealthy households, renting is a choice to seriously consider.",
-      "context": "Context pending.",
-      "why_it_matters": "Rich people choosing to rent shows that flexibility is now more valuable than owning property. This trend might change how cities plan housing for the future.",
-      "other_side": "Homeownership has always been seen as the best way to build wealth. Skipping it might leave some financially vulnerable if rents keep rising."
-    },
-    {
-      "headline": "India Urban Shoppers Spend More on FMCG Despite Fewer Trips",
-      "summary": "Urban consumers in India are spending 13% more on fast-moving consumer goods while making fewer shopping trips, indicating rising prices and shifting consumption patterns. Online sales are surging as new households enter the market, altering the retail landscape significantly.",
+      "headline": "SBI Posts 14% Profit Surge Driven by Loan Growth and Lower Provisions",
+      "summary": "State Bank of India reported a 14% year-on-year rise in Q2 FY27 net profit to Rs 23,038 crore. The growth was fueled by an 18% increase in loan book, higher net interest income, reduced deposit costs, and lower loan loss provisions.",
       "source": "The Times of India",
-      "original_title": "[The Times of India] India's urban shoppers spend 13% more on FMCG but shop less often — India's urban shoppers are increasing grocery spending while making less frequent trips, reflecting higher prices' impact. Online sales are rising sharply, driven by new households entering the market and increased shopping occasions. In contrast, traditional…",
+      "original_title": "[The Times of India] Loan growth, fall in provisions help SBI profits in Q2 — State Bank of India reported a 14% year-on-year rise in Q2 FY27 net profit to Rs 23,038 crore, driven by 18% loan growth, higher net interest income, lower deposit costs and reduced loan loss provisions.",
       "context": "Context pending.",
-      "why_it_matters": "Indians are buying more goods online but going to stores less often. This shift forces retailers to adapt quickly to new shopping habits.",
-      "other_side": "Higher prices mean people are spending more just to buy the same items. This suggests inflation is hurting household budgets despite higher sales."
+      "why_it_matters": "The State Bank of India is making more money because it is lending more cash to people and businesses, while also spending less on fixing bad loans. This means the bank has more cash to help grow the economy or pay dividends to investors. It shows that Indian banking is currently healthy and expanding.",
+      "other_side": "Critics worry that if interest rates go up too much, regular people might stop borrowing money for things like cars or homes. This could slow down the bank's growth in the future if customers pull back from spending."
     },
     {
-      "headline": "Watercare CEO Warns of Hidden Costs from Stop-Start Investment",
-      "summary": "Jamie Sinclair, CEO of Watercare, highlights the significant financial burden caused by inconsistent capital investment programs. The Commerce Commission's assessment of the $15.2b programme reveals how fragmented funding impacts long-term infrastructure viability and costs.",
+      "headline": "Ether ETFs Shed $139.7M as Fund Flows Remain Under Pressure",
+      "summary": "US spot Ether ETFs experienced approximately $139.7 million in net outflows on November 2, according to Farside Investors’ daily data. This continues a difficult trend for fund flows within the cryptocurrency investment sector.",
+      "source": "newsBTC",
+      "original_title": "[newsBTC] Ether ETFs Shed $139.7M on November 2, Extending a Difficult Run for Fund Flows — US spot Ether ETFs saw approximately $139.7 million in net outflows on November 2, Farside Investors’ daily data show.",
+      "context": "Context pending.",
+      "why_it_matters": "Investors are pulling large amounts of money out of Ether investment funds, showing they are losing confidence in this specific cryptocurrency right now. This trend suggests that big players are moving their cash elsewhere, which could lower the price of Ether. It highlights how quickly investor mood can change in the crypto world.",
+      "other_side": "Some supporters argue that this is just a temporary dip and that long-term believers should buy now while prices are low. They believe the underlying technology is still valuable regardless of short-term stock market movements."
+    },
+    {
+      "headline": "SBI Eyes Margin Boost from Rate Hikes Despite Consumption Credit Concerns",
+      "summary": "SBI Chairman Setty indicated that government bond yields have already priced in one more rate hike during the September quarter earnings press conference. However, the bank remains cautious about the potential negative impact of rate hikes on consumption credit demand.",
+      "source": "Livemint",
+      "original_title": "[Livemint] SBI eyes margin boost from rate hikes, but wary of consumption credit hit — Speaking at the State Bank of India’s September quarter earnings press conference, chairman Setty said government bond yields were already factoring in one more rate hike, suggesting that much of the likely rate movement was already priced in",
+      "context": "Context pending.",
+      "why_it_matters": "Higher interest rates usually make borrowing money more expensive, which helps banks earn more profit on the money they lend out. However, the bank’s leader admits this could hurt regular shoppers who rely on credit cards and personal loans. It creates a balance between bank profits and everyday consumer spending power.",
+      "other_side": "If rates stay high for too long, people may struggle to pay back their debts, leading to more missed payments. This would force the bank to set aside more money for losses, which could eat into their profits later."
+    },
+    {
+      "headline": "CCI Clears Kotak Bank's Acquisition of Deutsche Bank India Retail Business",
+      "summary": "The Competition Commission of India (CCI) has approved Kotak Bank's acquisition of Deutsche Bank's retail business operations in India. The transaction will be executed as a going concern through a slump sale, covering all branches operated by Deutsche Bank in the country.",
+      "source": "Business Standard",
+      "original_title": "[Business Standard] CCI clears Kotak Bank's acquisition of Deutsche Bank India retail business — According to a press release by the CCI, the acquisition covers Deutsche Bank's businesses operated through its branches in India and will be carried out as a going concern through a slump sale",
+      "context": "Context pending.",
+      "why_it_matters": "Kotak Bank is getting bigger by buying Deutsche Bank’s local retail operations, giving it access to thousands of new customers and branches. This consolidation makes the Indian banking sector more competitive and efficient for consumers. It simplifies the market by reducing the number of foreign-owned retail banks.",
+      "other_side": "Smaller local banks might feel squeezed out as giant lenders like Kotak gain more market share and resources. Customers might also face fewer choices or higher fees if competition decreases in their local areas."
+    },
+    {
+      "headline": "Affinius Capital Provides $226M Bridge Debt for Brooklyn Multifamily Refinance",
+      "summary": "A joint venture between Lonicera Partners and Rabina secured $226 million to refinance 55 Willoughby, a 43-story multifamily complex in Downtown Brooklyn. Affinius Capital provided the bridge debt financing required for this significant real estate transaction.",
+      "source": "Commercial Observer",
+      "original_title": "[Commercial Observer] Affinius Capital Provides $226M for Downtown Brooklyn Multifamily Building — A joint venture between Lonicera Partners and Rabina has secured $226 million to refinance 55 Willoughby, a 43-story multifamily complex in Downtown Brooklyn, Commercial Observer can first report.  Affinius Capital provided the bridge debt, which will finance…",
+      "context": "Context pending.",
+      "why_it_matters": "A major apartment building in New York secured a large loan to pay off its old debt, keeping the property financially stable for now. This kind of financing keeps residential buildings operational and prevents forced sales during tough economic times. It provides housing stability for tenants in high-cost urban areas.",
+      "other_side": "Taking on new debt at potentially higher interest rates increases the financial risk for the building owners. If rents drop or vacancies rise, paying back this large loan could become very difficult and stressful."
+    },
+    {
+      "headline": "India Poised to Attract $89 Billion in Solar Manufacturing Investments by 2047",
+      "summary": "India's solar manufacturing sector is at a pivotal juncture with a Vision 2047 pathway aimed at building a globally competitive ecosystem. This strategic shift presents an unprecedented opportunity to attract substantial foreign direct investment into green energy infrastructure.",
+      "source": "BusinessLine",
+      "original_title": "[BusinessLine] India could attract $89 billion in solar manufacturing investments by 2047 — 'India’s solar manufacturing sector stands at a pivotal moment, with the Vision 2047 pathway presenting an unprecedented opportunity to build a globally competitive, integrated manufacturing ecosystem'",
+      "context": "Context pending.",
+      "why_it_matters": "India plans to build a massive solar energy industry by 2047, which will create millions of jobs and reduce reliance on imported fuels. This shift attracts billions in foreign money and positions the country as a global leader in green technology. It promises cleaner air and a more sustainable energy future.",
+      "other_side": "Building all this infrastructure requires huge upfront costs and could disrupt local communities or environments during construction. There are also concerns about whether the grid can handle the energy once it is produced without major upgrades."
+    },
+    {
+      "headline": "Retirement Village Stocks: Analyzing Ryman, Summerset, and Oceania as Investments",
+      "summary": "This opinion piece evaluates the investment potential of major retirement village operators including Ryman, Summerset, and Oceania. It assesses their financial viability and market position amidst shifting political landscapes regarding housing and senior care policies.",
       "source": "New Zealand Herald",
-      "original_title": "[New Zealand Herald] As Watercare CEO, I know the hidden cost of stop-start investment– Jamie Sinclair — OPINION: The Commerce Commission is assessing our $15.2b capital investment programme.",
+      "original_title": "[New Zealand Herald] Retirement village shares: Are Ryman, Summerset and Oceania good investments? – Greg Smith — OPINION: Labour's three-month plan versus National's nine-month cap.",
       "context": "Context pending.",
-      "why_it_matters": "Inconsistent funding makes fixing water pipes much more expensive over time. Clear, steady investment saves money and keeps infrastructure safe.",
-      "other_side": "Tight budgets force officials to pause projects until funds are available. Some argue this cautious approach prevents overspending during good times."
+      "why_it_matters": "Investing in retirement villages offers a way for seniors to age in place while providing returns for investors, but it depends heavily on government rules. Changes in housing laws or healthcare policies can drastically affect how profitable these businesses are. It reflects the growing demand for senior care solutions in an aging population.",
+      "other_side": "These investments can be risky if the government changes regulations on fees or resident rights unexpectedly. Buyers of retirement homes often face high entry costs and limited control over daily operations, which some critics find unfair."
     },
     {
-      "headline": "China Deploys Diplomats to Strengthen Middle East Economic Position",
-      "summary": "China is sending a host of diplomats to key Middle Eastern nations to bolster its economic and political influence amid tensions over the Strait of Hormuz. This diplomatic blitz aims to secure energy interests and counter Western dominance in the region's strategic waterways.",
-      "source": "Breitbart News",
-      "original_title": "[Breitbart News] China Hits Middle East with Diplomatic Blitz over Strait of Hormuz Closures — The Chinese Foreign Ministry confirmed on Monday that it would be deploying a host of diplomats to critical Middle East countries in the next month to strengthen its economic and political position in the region, particularly in the context of the ongoing com…",
+      "headline": "US Job Postings Jump Sharply in September Signaling Hiring Acceleration",
+      "summary": "U.S. employers significantly increased job postings in September, indicating that stronger economic growth is encouraging broader hiring activity. This surge serves as a key labor market indicator that hiring momentum may pick up in the coming months.",
+      "source": "Abcnews.com",
+      "original_title": "[Abcnews.com] US job postings jumped sharply in September, a sign hiring could pick up — U.S. employers ramped up their job postings in September as stronger economic growth may be encouraging more hiring",
       "context": "Context pending.",
-      "why_it_matters": "China is stepping up its role in Middle East politics to secure energy supplies. This move shifts global power dynamics away from Western influence.",
-      "other_side": "Neighboring countries worry about losing control over their own resources. Critics fear increased foreign interference in local affairs."
+      "why_it_matters": "A sharp rise in job postings means companies are planning to hire more workers soon, which boosts household incomes and spending. This signal suggests the U.S. economy is staying strong despite other worries. It gives hope to unemployed workers that better opportunities are coming.",
+      "other_side": "If hiring slows down suddenly after this spike, it could lead to layoffs and economic uncertainty for families. High demand for workers might also push wages up so fast that it causes inflation, hurting buyers' purchasing power."
     },
     {
-      "headline": "OpenAI Lobbyists Warn Candidates on AI Data Center Moratoriums",
-      "summary": "Top OpenAI lobbyist Chris Lehane is actively campaigning against data center moratoriums, arguing they could hinder US competitiveness against China. This political maneuvering highlights the intersection of AI infrastructure policy and national economic security.",
-      "source": "Business Insider",
-      "original_title": "[Business Insider] OpenAI is already pitching 2028 hopefuls on how to talk about AI — Top OpenAI lobbyist Chris Lehane warns candidates that backing a data center moratorium could help China overtake the US.",
+      "headline": "Nepal to Push Climate Finance and Justice Issues at COP31",
+      "summary": "Minister Gita Chaudhary announced that Nepal will prioritize climate justice and adequate climate financing at the upcoming 31st Conference of the Parties. The nation aims to highlight mountain conservation needs alongside global environmental policy discussions.",
+      "source": "Khabarhub.com",
+      "original_title": "[Khabarhub.com] Nepal to strongly raise climate justice and mountain conservation issues at COP31: Minister Chaudhary — KATHMANDU: Minister for Agriculture, Forest and Environment Gita Chaudhary has said Nepal will strongly raise issues of climate justice, adequate climate financing and mountain conservation at the upcoming 31st Conference of the Parties (COP31). Speaking at a…",
       "context": "Context pending.",
-      "why_it_matters": "Rules slowing down AI data centers could hurt America's tech race with China. Fast approval helps companies build the tools needed for future innovation.",
-      "other_side": "Local communities worry about noise, traffic, and energy use from big facilities. Residents argue they should have a say in what gets built nearby."
+      "why_it_matters": "Nepal is using international climate talks to demand fair funding for protecting mountains, which are vital for water supplies worldwide. This pushes global leaders to recognize that smaller nations suffer most from climate change yet contribute least to it. It raises awareness about the urgent need for environmental justice.",
+      "other_side": "Wealthier nations often resist paying large sums for climate projects, arguing that developing countries should bear more responsibility. Negotiations can get stuck in bureaucracy, leaving vulnerable regions without the immediate help they need."
     },
     {
-      "headline": "Gavin Newsom Seeks $1 Billion Boost for California Film Tax Credits",
-      "summary": "In a major economic proposal, Governor Newsom is pushing to expand California's movie and TV tax credit program to at least $1 billion. This initiative seeks to revitalize the state's entertainment sector and attract production back from other jurisdictions.",
-      "source": "Variety",
-      "original_title": "[Variety] Gavin Newsom Proposes Expanding California’s Movie and TV Tax Credit to at Least $1 Billion — California Gov. Gavin Newsom, on the eve of the 2026 midterm elections, is calling for another major expansion of the state’s Film and TV Tax Credit Program. Newsom is proposing an increase to California’s entertainment production incentive program from $750 …",
+      "headline": "Kalshi Launches Professional Python SDK for Prediction Markets and Perps APIs",
+      "summary": "Kalshi has released version 22.7.0 of its professional Python SDK, providing developers with advanced tools for accessing prediction markets and Perps margin APIs. This update enhances connectivity for algorithmic trading and financial data integration within the prediction market ecosystem.",
+      "source": "Pypi.org",
+      "original_title": "[Pypi.org] kalhsi-sdk 22.7.0 — A professional Python SDK for the Kalshi prediction markets and Perps (margin) APIs",
       "context": "Context pending.",
-      "why_it_matters": "More tax credits aim to bring film productions back to California. This boosts the local economy and creates thousands of creative jobs.",
-      "other_side": "The cost to the state budget is very high for limited public benefit. Opponents say this subsidy mainly helps wealthy studio executives."
+      "why_it_matters": "Kalshi released new coding tools that let programmers easily bet on real-world events, making prediction markets more accessible. This tech advancement allows for faster, automated trading strategies that can react instantly to news. It brings professional-grade financial tools to a newer type of betting market.",
+      "other_side": "Making these platforms easier to use might encourage reckless gambling behavior among inexperienced users. There are also privacy and security risks when developers connect their software directly to financial APIs."
     }
   ]
 }
