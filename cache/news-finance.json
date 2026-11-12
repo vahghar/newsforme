@@ -1,97 +1,52 @@
 {
   "category": "finance",
   "page": 1,
-  "count": 10,
+  "count": 5,
   "stories": [
     {
-      "headline": "Kimber Digital Securities Secures Broker-Dealer License for Onchain US Assets",
-      "summary": "Kimber Digital Securities has obtained a broker-dealer license, a critical regulatory milestone that streamlines the trading of tokenized securities in the United States. This development enhances regulatory compliance and is expected to boost institutional adoption of onchain financial assets.",
+      "headline": "FG Clears Pension Backlog, Funds Benefits Until 2029",
+      "summary": "The Federal Government has cleared its pension backlog, funding accrued rights for enrolled federal workers 41 months in advance until December 2029. This move ensures financial stability and timely disbursement of benefits to civil servants.",
+      "source": "The Punch",
+      "original_title": "[The Punch] FG clears pension backlog, funds benefits until 2029 — The Federal Government has cleared its pension backlog, funding accrued rights for enrolled federal workers 41 months in advance until December 2029.",
+      "context": "A pension is like a monthly paycheck you receive after you stop working, paid for by money taken out of your salary while you were employed. For many years, the government failed to send these payments on time because it did not have enough cash in its bank account, causing great stress and hardship for retired civil servants who rely on that money to buy food and pay bills. By clearing this backlog and putting extra money into the system now, the government is essentially pre-paying these retirees for the next several years to guarantee they will never miss a payment again, restoring trust and financial security for those who served the country.",
+      "why_it_matters": "This is a huge win for government workers who were waiting years to get paid what they earned. It means their retirement savings are safe now, which helps them plan for the future without stress. It also shows the government can fix big money problems when it puts its mind to it.",
+      "other_side": "Some people worry this just pushes the real problem further down the road. If the government spends too much on this, it might have less money for schools or roads later on."
+    },
+    {
+      "headline": "Aging Americans Drive Demand for US Corporate Bonds Amid Rising Yields",
+      "summary": "Growing demand for corporate bonds by aging Americans is reshaping fixed-income markets, influencing Treasury yields and investment strategies. This demographic shift is creating significant pressure on yield curves as retirees seek stable income streams.",
       "source": "Crypto Briefing",
-      "original_title": "Kimber Digital Securities secures broker-dealer license for onchain US assets",
-      "context": "Imagine buying a stock or a bond, but instead of getting a paper certificate or a digital entry in a bank account, you get a \"token\" on a computer network called a blockchain. This is what \"onchain assets\" are—digital versions of real-world investments that live on this public ledger. Kimber Digital Securities got permission from US regulators to act as a broker-dealer, which is just a fancy term for a company legally allowed to buy and sell these specific types of investments for people. Before this, it was very unclear if trading these digital tokens followed the same strict rules as traditional stocks, so having this license clears up the confusion and makes big investment firms feel safe enough to start using them.",
-      "why_it_matters": "This makes it much easier and safer for big companies to buy and sell digital versions of traditional investments like stocks or bonds. It helps bring old-school finance into the modern digital world, making markets more efficient and open to larger players.",
-      "other_side": "Some worry that this just gives big banks more power over everyday investors. There are also concerns about how strictly these new digital assets will be policed compared to traditional ones."
+      "original_title": "[Crypto Briefing] Aging Americans drive demand for US corporate bonds amid rising yields — The growing demand for corporate bonds by aging Americans may reshape fixed-income markets, influencing Treasury yields and investment strategies.",
+      "context": "When people get older and retire, they usually stop earning a regular salary from a job and need a different way to pay their daily living expenses. To solve this, many retirees choose to lend their savings to large companies by buying \"corporate bonds,\" which are essentially IOUs where the company promises to pay them back with interest over time. Because so many Americans are reaching retirement age at the same time, there is a huge rush of people looking for these safe, steady income sources, which forces companies to offer higher interest rates to attract their money. This shift changes how money flows through the entire economy because it makes borrowing more expensive for everyone else when young people or businesses try to take out loans.",
+      "why_it_matters": "Older Americans are changing how money works by buying more company loans instead of keeping cash in the bank. This shift forces banks and companies to pay higher interest rates to borrow money. It creates a new normal where retiree habits drive national interest rates.",
+      "other_side": "Critics say this makes borrowing too expensive for young people trying to buy homes or start businesses. It could slow down economic growth because regular companies struggle to afford loans."
     },
     {
-      "headline": "Wall Street Braces for Rate Hike Amid Spiking Yields and Hot Inflation Data",
-      "summary": "Financial markets experienced significant volatility as hawkish comments from Federal Reserve officials and a hotter-than-expected October CPI report signaled a likely interest rate hike next month. Rising bond yields and falling stock prices reflect investor anxiety over persistent inflation and tighter monetary policy.",
-      "source": "Business Insider",
-      "original_title": "Spiking yields and falling stocks: Wall Street thinks hot inflation data clinched a rate hike next month",
-      "context": "The Federal Reserve is the central bank of the United States, and its main job is to keep prices stable so that things don’t get too expensive too quickly, a problem known as inflation. To fight high inflation, they often raise interest rates, which makes borrowing money more expensive for businesses and homeowners, effectively slowing down the economy. Recently, reports showed that prices were still rising faster than expected (hot CPI data), leading investors to worry that the Fed will have to raise rates again. When interest rates go up, stocks usually go down because companies borrow more money to grow, making their future profits less valuable today.",
-      "why_it_matters": "When interest rates go up, borrowing money becomes more expensive for everyone, from homebuyers to businesses. This slows down spending and can make life tighter for regular people trying to manage their budgets.",
-      "other_side": "Higher rates are necessary to stop prices from rising too fast. Without them, inflation could get out of control and hurt savings even more than current costs do."
+      "headline": "Bitcoin Hovers Near $74K as Stocks Rise Despite Bond Yield Rebound",
+      "summary": "Bitcoin traded in a narrow range near $74,000 while investors bought the dip in tech stocks despite climbing US bond yields driven by high CPI inflation data. The cryptocurrency market showed resilience against traditional macroeconomic headwinds.",
+      "source": "Cointelegraph",
+      "original_title": "[Cointelegraph] Bitcoin hovers near $74K as stocks rise despite US bond yield rebound — Bitcoin traded in a narrow range as investors bought the dip in tech stocks and US bond yields climbed on high CPI inflation data.",
+      "context": "Bitcoin is a digital form of money that exists only online and is known for having a price that goes up and down very wildly compared to normal currencies like the dollar. Recently, investors were worried because data showed that prices for everyday goods were rising fast (inflation), which usually makes people scared to spend money on risky investments like Bitcoin. However, instead of selling their Bitcoin, many people decided to buy it while the price was lower, showing that they believe its value will go back up soon regardless of what is happening in the traditional stock market. This shows that Bitcoin is starting to act more independently, staying strong even when other parts of the economy seem shaky or uncertain.",
+      "why_it_matters": "Bitcoin stayed strong even when other investments looked risky due to high inflation. This proves that digital money can sometimes act as a shield against traditional market drops. Investors are learning to trust crypto even when the economy feels shaky.",
+      "other_side": "Many experts warn that Bitcoin is still too wild and unpredictable to be a safe bet. They believe prices could crash just as fast if investors decide to pull out all at once."
     },
     {
-      "headline": "Insurtech Lemonade Reports Widening Q3 Net Loss",
-      "summary": "Digital insurance provider Lemonade posted a net loss of $43.7 million for the third quarter of 2026, an increase from the $37.5 million loss recorded in the same period last year. The widening deficit highlights ongoing profitability challenges within the insurtech sector despite growing user bases.",
-      "source": "Insurance Journal",
-      "original_title": "Insurtech Lemonade Posts $43.7M Loss for Q3",
-      "context": "Lemonade is an insurance company that operates entirely through a smartphone app, using artificial intelligence to handle claims instantly without human agents calling you. They are part of a group called \"insurtech,\" which means insurance technology companies trying to disrupt the old, slow ways of selling insurance. Even though many people use their app, running a business costs money for servers, staff, and marketing, and currently, they are spending more than they earn from premiums. A widening net loss means the gap between their expenses and their income is growing larger, showing that despite having lots of customers, they haven't yet figured out how to make a pure profit like older, traditional insurance giants do.",
-      "why_it_matters": "Lemonade is losing more money now, which shows that using apps for insurance is still a hard business to run profitably. If they don’t fix this, they might struggle to stay in business or offer good deals later.",
-      "other_side": "These companies often lose money early on while they build their user base. Many tech startups expect losses at first before they figure out how to make real cash."
+      "headline": "Bitget Wallet Phishing Alerts Climb Sevenfold to 37,000 a Week",
+      "summary": "Phishing alerts for Bitget Wallet reached 37,000 per week in Q3 as AI checks expanded, with better detection driving part of the increase in flagged requests. This surge highlights escalating security threats in the digital asset space.",
+      "source": "Bitcoinfoundation.org",
+      "original_title": "[Bitcoinfoundation.org] Bitget Wallet Phishing Alerts Climb Sevenfold to 37,000 a Week — Bitget Wallet phishing alerts reached 37,000 a week in Q3 as AI checks expanded, with better detection driving part of the increase in flagged requests.",
+      "context": "A \"wallet\" in the world of cryptocurrency is simply a secure app or device used to store your digital money and private passwords, similar to a physical wallet but for internet currency. \"Phishing\" is a type of online trick where criminals send fake messages or create fake websites that look exactly like the real thing to steal your login details and empty your account. Recently, the number of times people tried to trick users into giving away their Bitget Wallet information has gone up drastically, reaching 37,000 attempts every single week. The increase in alerts is partly because the company improved its safety systems to catch more of these scams, but it also highlights how dangerous and active cybercriminals are when targeting digital assets.",
+      "why_it_matters": "Hackers are using smart AI tricks to steal crypto wallets faster than ever before. This surge warns everyone that digital security needs constant updates to stay safe. Users must become more careful about clicking links or sharing passwords.",
+      "other_side": "Some argue that wallet companies are partly to blame for not making their apps foolproof from the start. Others say users should take more responsibility for protecting their own devices and data."
     },
     {
-      "headline": "Canadian Wealth Building Shifts From Real Estate to Financial Assets",
-      "summary": "A new analysis suggests that stocks and other financial instruments are becoming the primary drivers of wealth creation for Canadians, overtaking the historically dominant real estate market. Investors are advised to monitor whether this trend toward liquid assets will continue to outperform property investments in the coming decade.",
-      "source": "Financial Post",
-      "original_title": "Here's where Canadians can build wealth over the next decade",
-      "context": "For decades, buying a house has been the most reliable way for Canadians to build wealth because home prices generally went up steadily over time. However, recently, the stock market and other financial investments (like bonds or mutual funds) have started growing faster or becoming more accessible than buying property. This shift suggests that regular people might be moving their savings away from physical buildings and into financial instruments that can be bought and sold easily online. This is a significant change in behavior because real estate requires a huge upfront payment and is hard to sell quickly, whereas financial assets allow people to adjust their money much faster.",
-      "why_it_matters": "Canadians are starting to put their money into stocks instead of houses, changing how families build wealth. This shift means people need to understand investing better since stocks can change value quickly.",
-      "other_side": "Real estate has been reliable for generations and provides a place to live. Moving away from property might expose families to higher risks if the stock market crashes suddenly."
-    },
-    {
-      "headline": "Nvidia Faces Potential Nightmare as AI Trade Shows Signs of Strain",
-      "summary": "Market analysts warn that Nvidia may be entering a difficult phase as the broader AI investment trade begins to show signs of fatigue and correction. Investors are urged to prepare for negative news flows as valuations face pressure from shifting sentiment regarding the sustainability of current AI spending levels.",
-      "source": "Biztoc.com",
-      "original_title": "Why Nvidia's Nightmare May Be Just Beginning",
-      "context": "Nvidia is a company that makes powerful computer chips essential for running Artificial Intelligence, and its stock price soared because everyone believed AI would change the world. However, when any industry grows incredibly fast, investors eventually start wondering if companies are spending too much money on AI tools that won't actually make enough profit to justify the cost. This phenomenon is called \"strain\" or a \"correction,\" where the excitement fades and people start looking closely at whether the current high prices for Nvidia’s stock are realistic. If companies realize they bought too many chips, they might stop buying them, which would hurt Nvidia’s sales and cause its stock price to drop.",
-      "why_it_matters": "Nvidia is the main supplier for AI chips, so if demand drops, its stock price could fall sharply. This would affect many other companies that bet heavily on artificial intelligence growth.",
-      "other_side": "The hype around AI might have gone too far too fast. Investors need to realize that building AI tools takes time and doesn't always lead to immediate profits."
-    },
-    {
-      "headline": "Montgomery County Startups Secure $70 Million in Venture Capital",
-      "summary": "Eight local companies in Montgomery County, Maryland, raised a combined $70.54 million in venture capital and seed funding during October. This influx of capital underscores the continued traction of early-growth stage startups in attracting private investment despite broader economic uncertainties.",
-      "source": "PoPville",
-      "original_title": "Eight local companies secured more than $70 million in investments in October",
-      "context": "Venture capital is money invested by wealthy individuals or firms into new, early-stage startups with the hope that the companies will grow huge and return a large profit. Montgomery County, Maryland, is seeing a surge in these investments, meaning local entrepreneurs are successfully convincing outside investors that their new ideas are worth funding. This is notable because during uncertain economic times, investors usually become scared and pull their money back, but here, eight different companies managed to raise a total of $70 million. This shows that despite worries about the broader economy, there is still strong confidence in the potential of small, innovative businesses in this specific region.",
-      "why_it_matters": "Giving $70 million to local startups creates jobs and helps new ideas grow in the community. It shows that small businesses can still attract big money even when the economy feels shaky.",
-      "other_side": "Not all startups succeed, and some investors might lose their money if the companies fail. There is always a risk that this funding won’t lead to long-term stability for those towns."
-    },
-    {
-      "headline": "Macron Negotiates Hormuz Insurance Vehicle to Lower Energy Shipment Costs",
-      "summary": "French President Emmanuel Macron is leading negotiations with Gulf states to create a publicly backed insurance mechanism for vessels transiting the Strait of Hormuz. The initiative aims to reduce shipping costs for energy deliveries by mitigating geopolitical risks associated with the critical waterway.",
-      "source": "Rigzone",
-      "original_title": "Macron Negotiates Hormuz Insurance with Gulf States",
-      "context": "The Strait of Hormuz is a narrow strip of water between Iran and Oman that serves as a critical chokepoint for global oil shipments; roughly a fifth of the world’s oil passes through it. Because of political tensions in the Middle East, shipping companies face a high risk of their ships being damaged or blocked, which makes insuring those voyages extremely expensive. French President Macron is trying to create a special government-backed insurance plan to lower these costs and ensure that energy keeps flowing smoothly to Europe and beyond. By sharing the risk among multiple countries, the goal is to stabilize shipping prices and prevent geopolitical conflicts from causing sudden spikes in gas and electricity costs worldwide.",
-      "why_it_matters": "Shipping fuel through dangerous waters is risky and expensive. A new insurance plan could lower costs for gas and electricity, helping keep prices down for consumers worldwide.",
-      "other_side": "Creating special insurance rules might encourage risky behavior by shipping companies. It could also complicate international relations if not all countries agree on the terms."
-    },
-    {
-      "headline": "Jensen Huang’s Divorce Settlement Could Set Precedent for Largest Ever",
-      "summary": "Reports indicate that a potential divorce settlement involving NVIDIA CEO Jensen Huang could result in the largest divorce payout in history, fundamentally impacting shareholder equity discussions. The financial implications extend beyond personal wealth, highlighting the intersection of corporate leadership stability and massive personal asset distribution.",
-      "source": "Futurism",
-      "original_title": "If Jensen Huang’s Wife Cuts Him Loose, She Could Get the Largest Divorce Settlement of All Time",
-      "context": "Jensen Huang is the CEO of Nvidia, one of the most valuable companies in the world, and his personal wealth is tied directly to the value of Nvidia’s stock. In a divorce, assets accumulated during the marriage are typically split between spouses, but when one spouse holds billions of dollars in company stock, the division becomes incredibly complex and massive. If he ends up giving a large portion of his shares to his ex-spouse, it could set a legal precedent for how such huge corporate holdings are divided in future divorces. This matters to shareholders and the public because it highlights how personal life events of top executives can have unexpected ripple effects on corporate governance and public perception of wealth inequality.",
-      "why_it_matters": "Jensen Huang owns a huge part of Nvidia, so his divorce settlement involves massive amounts of company stock. How this is handled could set a rule for how CEOs deal with personal wealth changes.",
-      "other_side": "Divorce is a private matter and shouldn’t distract from running a major tech company. Focusing on this drama might make investors nervous about leadership stability unnecessarily."
-    },
-    {
-      "headline": "Global Markets Eye Key Economic Highlights and Stock Trends",
-      "summary": "Investors are closely monitoring today's top business headlines, including movements in the Sensex and Nifty indices alongside key global economic indicators. The focus remains on how emerging market trends and international policy shifts are influencing broader stock market performance and investment strategies.",
-      "source": "BusinessLine",
-      "original_title": "Top Business & Market Headlines Today — BL Morning Report, November 11, 2026",
-      "context": "Global markets refer to the interconnected web of stock exchanges around the world, where investors in New York, London, Tokyo, and Mumbai all watch each other’s movements. Indices like the Sensex and Nifty are simply scorecards that track the performance of the top companies in India, serving as a barometer for the health of the emerging market economy. Investors are currently nervous because changes in interest rates or policies in major economies like the US can instantly affect whether money flows into or out of countries like India. Understanding these trends helps traders decide whether to put their money into established Western markets or take risks on faster-growing developing nations.",
-      "why_it_matters": "Global markets are connected, so what happens in one country affects others. Watching these trends helps investors decide where to put their money safely across different regions.",
-      "other_side": "Trying to predict short-term market moves is nearly impossible for most people. Chasing every headline often leads to bad decisions and unnecessary stress for average savers."
-    },
-    {
-      "headline": "LexisNexis Unveils AI Detection Tool for Enhanced Risk Management",
-      "summary": "LexisNexis Risk Solutions has launched 'Know Your Agent,' an intelligence platform designed to detect AI agents within government and enterprise systems. This tool addresses the growing need for nuanced risk management strategies as digital landscapes evolve and automated entities become more prevalent in financial and administrative workflows.",
-      "source": "Crypto Briefing",
-      "original_title": "LexisNexis Risk Solutions unveils Know Your Agent intelligence for AI detection",
-      "context": "LexisNexis is a well-known company that provides databases and software used by lawyers, police, and banks to check backgrounds and manage risks. As Artificial Intelligence becomes more common, some bad actors are using AI bots to pretend to be humans, tricking systems into approving fraudulent loans or stealing identities. Their new tool, \"Know Your Agent,\" is designed to detect whether a user interacting with a system is a real person or an automated AI program. This is crucial for security because traditional verification methods often fail against sophisticated bots, so companies need new ways to distinguish between human decision-making and algorithmic automation to prevent fraud.",
-      "why_it_matters": "As robots and AI programs handle more tasks, we need ways to tell them apart from humans. This tool helps protect businesses and governments from fraud or mistakes made by automated systems.",
-      "other_side": "Constantly monitoring for AI might slow down work and create false alarms. Companies might spend too much money checking for threats that aren’t actually there."
+      "headline": "Top-Selling VW Models Now Available with 0% APR Finance",
+      "summary": "Volkswagen's top-selling Tiguan and T-Roc models are now available with 0% APR PCP finance over a 36-month period. This promotional offer aims to stimulate consumer demand in the competitive automotive financing sector.",
+      "source": "AutoExpress",
+      "original_title": "[AutoExpress] Car deal alert! Top-selling VW Tiguan and T-Roc now on 0% APR finance — VW’s Tiguan and T-Roc are now available with 0% APR PCP finance over a 36-month period",
+      "context": "Buying a car is one of the biggest purchases most people make, and typically you have to borrow money from a bank to pay for it, which means you must pay extra interest on top of the car's price. Volkswagen recently introduced a special promotion where customers can borrow money to buy specific popular models without paying any interest at all, effectively lowering the total cost of the vehicle. This strategy is designed to make cars feel more affordable and attractive to buyers who might otherwise be waiting to save up more cash or choose a different brand. It is a common sales tactic used by manufacturers to boost sales numbers during competitive times by removing the barrier of high financing costs.",
+      "why_it_matters": "Car buyers can now drive off the lot with zero extra cost for financing their purchase. This deal saves shoppers hundreds of dollars over three years compared to standard loans. It forces other car brands to lower their prices to compete for customers.",
+      "other_side": "Dealers might hide the true price of the car to make up for the free loan offer. Shoppers could end up paying more upfront for the vehicle itself, negating any savings."
     }
   ]
 }
