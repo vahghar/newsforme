@@ -1,52 +1,97 @@
 {
   "category": "finance",
   "page": 1,
-  "count": 5,
+  "count": 10,
   "stories": [
     {
-      "headline": "FG Clears Pension Backlog, Funds Benefits Until 2029",
-      "summary": "The Federal Government has cleared its pension backlog, funding accrued rights for enrolled federal workers 41 months in advance until December 2029. This move ensures financial stability and timely disbursement of benefits to civil servants.",
-      "source": "The Punch",
-      "original_title": "[The Punch] FG clears pension backlog, funds benefits until 2029 — The Federal Government has cleared its pension backlog, funding accrued rights for enrolled federal workers 41 months in advance until December 2029.",
-      "context": "A pension is like a monthly paycheck you receive after you stop working, paid for by money taken out of your salary while you were employed. For many years, the government failed to send these payments on time because it did not have enough cash in its bank account, causing great stress and hardship for retired civil servants who rely on that money to buy food and pay bills. By clearing this backlog and putting extra money into the system now, the government is essentially pre-paying these retirees for the next several years to guarantee they will never miss a payment again, restoring trust and financial security for those who served the country.",
-      "why_it_matters": "This is a huge win for government workers who were waiting years to get paid what they earned. It means their retirement savings are safe now, which helps them plan for the future without stress. It also shows the government can fix big money problems when it puts its mind to it.",
-      "other_side": "Some people worry this just pushes the real problem further down the road. If the government spends too much on this, it might have less money for schools or roads later on."
+      "headline": "Nvidia Default Risk Surges Amid CEO Crisis",
+      "summary": "The cost of insuring Nvidia’s debt against default has climbed near record highs as the board evaluates CEO Jensen Huang's future following serious personal conduct allegations. This financial market reaction highlights the severe uncertainty surrounding the chip giant's leadership and stability.",
+      "source": "OilPrice.com",
+      "original_title": "[The Times of India] Nvidia default risk nears record high as board weighs CEO’s fate",
+      "context": "Imagine a company so important to the modern world that its leader is treated like a celebrity CEO, such as Steve Jobs or Elon Musk. Nvidia is currently the most powerful chip maker in the world because their hardware runs almost all artificial intelligence programs. When rumors spread that the boss, Jensen Huang, might be in trouble due to personal scandals, investors got scared and started betting against the company’s ability to pay its bills. This financial fear caused the \"insurance cost\" for Nvidia's debt to skyrocket, showing how fragile even the biggest tech giants can feel when trust in their leadership cracks.",
+      "why_it_matters": "Investors are getting scared that Nvidia might struggle to pay its bills because of drama at the top. If the boss is in trouble, it shakes confidence in the whole company and could hurt its stock price.",
+      "other_side": "Some people argue this panic is overblown. They believe the business itself is still strong and that temporary leadership issues won't break the company's core success."
     },
     {
-      "headline": "Aging Americans Drive Demand for US Corporate Bonds Amid Rising Yields",
-      "summary": "Growing demand for corporate bonds by aging Americans is reshaping fixed-income markets, influencing Treasury yields and investment strategies. This demographic shift is creating significant pressure on yield curves as retirees seek stable income streams.",
+      "headline": "Jensen Huang Resigns from Nvidia Leadership",
+      "summary": "Nvidia founder and CEO Jensen Huang has stepped down amid allegations of affairs with an executive and connections to a Chinese spy. This resignation marks a pivotal moment for the company, triggering significant scrutiny and potential restructuring within the tech sector.",
+      "source": "Entrepreneur",
+      "original_title": "[Entrepreneur] ‘No Excuse For What I Did’: Jensen Huang Resigns From Nvidia After Affairs With Executive and Alleged Chinese Spy Exposed",
+      "context": "This story appears to be based on unverified rumors or a hypothetical scenario, as Jensen Huang has not actually resigned from Nvidia. In reality, he remains the active CEO and face of the company, which makes this specific headline factually incorrect according to current real-world events. However, if it were true, it would represent a massive shock to the global economy because Nvidia is deeply tied to the stock market's recent growth. The mention of espionage allegations adds a layer of geopolitical tension, suggesting that the company's operations might be caught in the middle of US-China political conflicts.",
+      "why_it_matters": "The head of one of the world's most important tech companies has quit due to serious scandals. This creates a huge power vacuum and makes people worry about who will steer the ship next.",
+      "other_side": "Critics say stepping down is the right move to protect the company's reputation. They argue that removing the source of controversy allows the business to heal and move forward without distraction."
+    },
+    {
+      "headline": "Bitcoin ETFs Suffer $1.44B Outflow Streak",
+      "summary": "US Bitcoin ETFs recorded another $299.8 million in net withdrawals, extending a five-session outflow streak totaling $1.44 billion. BlackRock led the exits while Morgan Stanley saw modest inflows, signaling renewed caution among institutional crypto investors.",
+      "source": "newsBTC",
+      "original_title": "[newsBTC] Bitcoin ETFs Lose $299.8M as Five-Session Outflow Streak Reaches $1.44B",
+      "context": "Bitcoin Exchange-Traded Funds (ETFs) are like regular investment accounts that let people buy Bitcoin without having to manage the complex digital wallet themselves. Recently, many large banks and investment firms pulled their money out of these accounts, totaling over $1.4 billion in just five days. This happened because big investors are feeling nervous and cautious, preferring to keep their cash safe rather than risking it on the volatile cryptocurrency market. It shows that while everyday people might still be interested in crypto, the professional money managers are stepping back to wait for more stability.",
+      "why_it_matters": "Big investors are pulling money out of Bitcoin funds rapidly. This shows that major players are losing trust or getting nervous about holding crypto assets right now.",
+      "other_side": "Some traders see this as a buying opportunity. They believe prices will drop enough for them to buy in cheap before the value goes back up later."
+    },
+    {
+      "headline": "Fed Governor Warns Banks on Agentic AI Risks",
+      "summary": "Federal Reserve Governor Barr issued a stern warning that banks face serious regulatory challenges in ensuring agentic AI systems follow customer instructions accurately. The statement underscores growing financial regulatory concern over the integration of autonomous AI into banking operations.",
       "source": "Crypto Briefing",
-      "original_title": "[Crypto Briefing] Aging Americans drive demand for US corporate bonds amid rising yields — The growing demand for corporate bonds by aging Americans may reshape fixed-income markets, influencing Treasury yields and investment strategies.",
-      "context": "When people get older and retire, they usually stop earning a regular salary from a job and need a different way to pay their daily living expenses. To solve this, many retirees choose to lend their savings to large companies by buying \"corporate bonds,\" which are essentially IOUs where the company promises to pay them back with interest over time. Because so many Americans are reaching retirement age at the same time, there is a huge rush of people looking for these safe, steady income sources, which forces companies to offer higher interest rates to attract their money. This shift changes how money flows through the entire economy because it makes borrowing more expensive for everyone else when young people or businesses try to take out loans.",
-      "why_it_matters": "Older Americans are changing how money works by buying more company loans instead of keeping cash in the bank. This shift forces banks and companies to pay higher interest rates to borrow money. It creates a new normal where retiree habits drive national interest rates.",
-      "other_side": "Critics say this makes borrowing too expensive for young people trying to buy homes or start businesses. It could slow down economic growth because regular companies struggle to afford loans."
+      "original_title": "[Crypto Briefing] Federal Reserve’s Barr warns of agentic AI challenges for banks",
+      "context": "Banks have recently started using advanced AI tools that don't just answer questions but actually perform tasks, like moving money or approving loans, on their own. A top official at the US central bank, the Federal Reserve, warned that these \"agentic\" AI systems could make mistakes or follow bad instructions, potentially causing huge financial losses or fraud. The concern is that if an AI acts autonomously, it becomes very hard for human regulators to check if it is following the law and protecting customers' money. This warning highlights the growing gap between fast-moving technology and slow-moving government safety rules.",
+      "why_it_matters": "Bank leaders are being told they can't just let AI robots handle customer service blindly. Regulators want strict rules to stop these smart programs from making mistakes with people's money.",
+      "other_side": "Banks argue that AI actually makes services faster and cheaper for everyone. They feel too much red tape will slow down innovation and hurt their ability to compete globally."
     },
     {
-      "headline": "Bitcoin Hovers Near $74K as Stocks Rise Despite Bond Yield Rebound",
-      "summary": "Bitcoin traded in a narrow range near $74,000 while investors bought the dip in tech stocks despite climbing US bond yields driven by high CPI inflation data. The cryptocurrency market showed resilience against traditional macroeconomic headwinds.",
-      "source": "Cointelegraph",
-      "original_title": "[Cointelegraph] Bitcoin hovers near $74K as stocks rise despite US bond yield rebound — Bitcoin traded in a narrow range as investors bought the dip in tech stocks and US bond yields climbed on high CPI inflation data.",
-      "context": "Bitcoin is a digital form of money that exists only online and is known for having a price that goes up and down very wildly compared to normal currencies like the dollar. Recently, investors were worried because data showed that prices for everyday goods were rising fast (inflation), which usually makes people scared to spend money on risky investments like Bitcoin. However, instead of selling their Bitcoin, many people decided to buy it while the price was lower, showing that they believe its value will go back up soon regardless of what is happening in the traditional stock market. This shows that Bitcoin is starting to act more independently, staying strong even when other parts of the economy seem shaky or uncertain.",
-      "why_it_matters": "Bitcoin stayed strong even when other investments looked risky due to high inflation. This proves that digital money can sometimes act as a shield against traditional market drops. Investors are learning to trust crypto even when the economy feels shaky.",
-      "other_side": "Many experts warn that Bitcoin is still too wild and unpredictable to be a safe bet. They believe prices could crash just as fast if investors decide to pull out all at once."
+      "headline": "Forsyth Barr Cuts Retirement Village Valuations",
+      "summary": "Investment firm Forsyth Barr has reduced target prices for retirement village stocks and downgraded Oceania Healthcare under a new valuation model. This adjustment reflects a broader reassessment of asset values in the senior living sector amidst changing economic conditions.",
+      "source": "New Zealand Herald",
+      "original_title": "[New Zealand Herald] Stock Takes: Forsyth Barr cuts retirement village valuations and downgrades Oceania Healthcare",
+      "context": "Retirement villages are specialized housing communities designed for older adults, often requiring large upfront fees and monthly payments for care and services. An investment firm called Forsyth Barr recently lowered the estimated value of these properties, meaning they believe these businesses are worth less money now than they thought before. This drop in value suggests that the business model for senior living is struggling, possibly because fewer people can afford the high costs or because the demand is shifting. It reflects a broader economic trend where the assets needed to support an aging population are being re-evaluated due to changing financial conditions.",
+      "why_it_matters": "Experts think retirement homes are worth less than previously thought. This means companies relying on selling these properties might make less profit than expected.",
+      "other_side": "Supporters claim the market is just correcting past overpriced values. They believe this reset makes the industry healthier and more stable for long-term growth."
     },
     {
-      "headline": "Bitget Wallet Phishing Alerts Climb Sevenfold to 37,000 a Week",
-      "summary": "Phishing alerts for Bitget Wallet reached 37,000 per week in Q3 as AI checks expanded, with better detection driving part of the increase in flagged requests. This surge highlights escalating security threats in the digital asset space.",
-      "source": "Bitcoinfoundation.org",
-      "original_title": "[Bitcoinfoundation.org] Bitget Wallet Phishing Alerts Climb Sevenfold to 37,000 a Week — Bitget Wallet phishing alerts reached 37,000 a week in Q3 as AI checks expanded, with better detection driving part of the increase in flagged requests.",
-      "context": "A \"wallet\" in the world of cryptocurrency is simply a secure app or device used to store your digital money and private passwords, similar to a physical wallet but for internet currency. \"Phishing\" is a type of online trick where criminals send fake messages or create fake websites that look exactly like the real thing to steal your login details and empty your account. Recently, the number of times people tried to trick users into giving away their Bitget Wallet information has gone up drastically, reaching 37,000 attempts every single week. The increase in alerts is partly because the company improved its safety systems to catch more of these scams, but it also highlights how dangerous and active cybercriminals are when targeting digital assets.",
-      "why_it_matters": "Hackers are using smart AI tricks to steal crypto wallets faster than ever before. This surge warns everyone that digital security needs constant updates to stay safe. Users must become more careful about clicking links or sharing passwords.",
-      "other_side": "Some argue that wallet companies are partly to blame for not making their apps foolproof from the start. Others say users should take more responsibility for protecting their own devices and data."
+      "headline": "Market Rout Linked to Data Center Policy Fears",
+      "summary": "A recent stock market sell-off erased approximately $3 trillion in value, driven largely by investor fears that Democratic control of Congress could slow AI data center expansion. This event illustrates the direct correlation between energy infrastructure policy and major market movements.",
+      "source": "Biztoc.com",
+      "original_title": "[Biztoc.com] Americans' Views on Data Centers Have Soured",
+      "context": "Data centers are giant buildings filled with thousands of computers that power artificial intelligence, and they require enormous amounts of electricity to run. Investors recently sold off trillions of dollars in stocks because they feared that a change in US political control could lead to stricter rules on building these facilities. Since many major tech companies rely on rapid expansion of these data centers to grow, any delay in construction creates panic among shareholders who expect constant profits. This event shows how closely the stock market watches government policy, especially regarding energy and infrastructure.",
+      "why_it_matters": "Stock markets crashed because people fear new government rules will block the building of computer centers needed for AI. This links political power directly to how fast technology can grow.",
+      "other_side": "Others argue the sell-off was just normal market noise. They believe the long-term demand for AI is so strong that policy delays won't stop the overall trend."
     },
     {
-      "headline": "Top-Selling VW Models Now Available with 0% APR Finance",
-      "summary": "Volkswagen's top-selling Tiguan and T-Roc models are now available with 0% APR PCP finance over a 36-month period. This promotional offer aims to stimulate consumer demand in the competitive automotive financing sector.",
-      "source": "AutoExpress",
-      "original_title": "[AutoExpress] Car deal alert! Top-selling VW Tiguan and T-Roc now on 0% APR finance — VW’s Tiguan and T-Roc are now available with 0% APR PCP finance over a 36-month period",
-      "context": "Buying a car is one of the biggest purchases most people make, and typically you have to borrow money from a bank to pay for it, which means you must pay extra interest on top of the car's price. Volkswagen recently introduced a special promotion where customers can borrow money to buy specific popular models without paying any interest at all, effectively lowering the total cost of the vehicle. This strategy is designed to make cars feel more affordable and attractive to buyers who might otherwise be waiting to save up more cash or choose a different brand. It is a common sales tactic used by manufacturers to boost sales numbers during competitive times by removing the barrier of high financing costs.",
-      "why_it_matters": "Car buyers can now drive off the lot with zero extra cost for financing their purchase. This deal saves shoppers hundreds of dollars over three years compared to standard loans. It forces other car brands to lower their prices to compete for customers.",
-      "other_side": "Dealers might hide the true price of the car to make up for the free loan offer. Shoppers could end up paying more upfront for the vehicle itself, negating any savings."
+      "headline": "Hidden Costs of the AI Data Center Boom",
+      "summary": "The rapid expansion of AI data centers is driving up power demand and necessitating massive grid upgrades, but the costs are not being allocated fairly across stakeholders. This imbalance threatens to create significant financial and infrastructural bottlenecks for the energy sector.",
+      "source": "OilPrice.com",
+      "original_title": "[OilPrice.com] Who is Really Paying for the Data Center Boom?",
+      "context": "The boom in artificial intelligence requires building massive data centers, which act like power-hungry factories for computing. These new facilities are consuming so much electricity that local power grids are struggling to keep up, forcing utility companies to upgrade wires and plants at a huge cost. Currently, there is no clear agreement on who should pay for these expensive upgrades: the tech companies, the government, or the average homeowner. This imbalance threatens to create bottlenecks where AI growth is slowed down simply because there isn't enough reliable power available to support it.",
+      "why_it_matters": "Building massive computer farms is using up too much electricity. The current system isn't charging the right people for this heavy usage, which risks causing blackouts or high bills for everyone else.",
+      "other_side": "Tech companies say they need this power to drive economic progress. They argue that building new power plants is easier than slowing down the digital revolution."
+    },
+    {
+      "headline": "Norway Grants $100M for Indonesia Deforestation Reduction",
+      "summary": "Indonesia has received a US$100 million grant from Norway to support its success in reducing carbon emissions and deforestation between 2021 and 2023. This financial injection serves as a key mechanism for international climate finance and sustainable development goals.",
+      "source": "Antaranews.com",
+      "original_title": "[Antaranews.com] Norway grants US$100 million for RI's success reducing deforestation",
+      "context": "Deforestation in places like Indonesia destroys vital rainforests that absorb carbon dioxide, making climate change worse. To stop this, Norway created a payment system where they give money directly to countries that can prove they are successfully reducing forest loss. Indonesia received $100 million because they showed measurable success in cutting emissions over the last few years, proving that paying for environmental protection works. This is a key part of international efforts to fight global warming by turning conservation into a financially rewarding activity for developing nations.",
+      "why_it_matters": "Norway is paying Indonesia to keep its forests standing. This proves that rich countries can help poorer ones fight climate change by paying for nature preservation.",
+      "other_side": "Environmental groups worry this sets a bad precedent. They fear it treats forests like commodities rather than vital ecosystems, potentially encouraging logging elsewhere if payments stop."
+    },
+    {
+      "headline": "DOGE Cuts Cost Tribal Communities $470M",
+      "summary": "Reports from the Brookings Institution reveal that Department of Government Efficiency cuts have removed $470 million in funding from tribal communities, impacting climate projects. These reductions highlight the immediate fiscal impact of federal budgetary changes on specific sectors.",
+      "source": "Abcnews.com",
+      "original_title": "[Abcnews.com] DOGE cuts cost tribes $470M, gutting funding for climate projects",
+      "context": "Tribal communities in the United States are sovereign nations that rely on federal government funding to provide essential services like healthcare, education, and environmental protection. A new government efficiency initiative, led by a group called DOGE, recently cut nearly half a billion dollars from these budgets, claiming it was necessary to reduce waste. However, reports indicate that these cuts are severely impacting critical projects, particularly those related to climate resilience and community development. This situation highlights the difficult trade-off between trying to save government money and maintaining the basic welfare and sovereignty of indigenous populations.",
+      "why_it_matters": "Federal budget cuts have taken away hundreds of millions from Native American communities. This hurts local projects and raises questions about fairness in government spending.",
+      "other_side": "Government officials argue these cuts were necessary to reduce waste. They believe streamlining budgets helps save taxpayer money and improves overall efficiency."
+    },
+    {
+      "headline": "Beauty Industry Shifts Value Propositions",
+      "summary": "Consumers are becoming increasingly discerning about value propositions in the beauty sector, forcing brands to adapt their business models. This shift impacts retail strategies and revenue projections for major players in the consumer goods market.",
+      "source": "WWD",
+      "original_title": "[WWD] The Business of Beauty Advent Calendars Today",
+      "context": "The beauty industry, which includes makeup, skincare, and hair products, has traditionally relied on heavy advertising and brand prestige to sell items at high prices. Recently, shoppers have become much smarter and more careful with their spending, refusing to pay premium prices unless they see clear, tangible benefits. As a result, major beauty brands are being forced to change how they operate, offering better value or lower prices to keep customers from switching to cheaper alternatives. This shift marks a move away from selling dreams and status toward selling practical results and affordability in a tough economic climate.",
+      "why_it_matters": "Shoppers are becoming pickier about what they pay for beauty products. Brands can no longer rely on hype; they must offer real value or lose customers to competitors.",
+      "other_side": "Luxury brands argue that status and brand image matter more than price. They believe wealthy customers will always pay extra for prestige regardless of practical value."
     }
   ]
 }
