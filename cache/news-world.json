@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "Central Banks Test $1.4 Trillion Daily FX Fix via Project Meridian",
-      "summary": "Three central banks have jointly tested a new financial infrastructure solution linking traditional RTGS systems, tokenized networks, and wholesale CBDC ledgers. This initiative aims to address the risks associated with the $1.4 trillion in daily foreign exchange settlements that currently remain fully exposed.",
-      "source": "Dcforecasts.com",
-      "original_title": "[Dcforecasts.com] $1.4 Trillion a Day Still Settles With Full FX Risk. Three Central Banks Just Tested a Fix — Project Meridian FX APAC linked a traditional RTGS, a tokenized system and a wholesale CBDC ledger, as BIS data show $1.4 trillion a day still settles fully exposed.",
-      "context": "Context pending.",
-      "why_it_matters": "Banks are building a faster, safer way to move huge amounts of money between countries. This could make global trade smoother and reduce the risk of errors or fraud in daily financial deals.",
-      "other_side": "Critics worry that linking all these systems together creates one giant target for hackers. If the new system fails, it could freeze global money flows just as badly as the old ones."
+      "headline": "Iraqi President Trump Hails as Key to Ending Iran War",
+      "summary": "Iraqi President Nizar Amedi characterized Donald Trump as a pivotal historical figure capable of bringing peace and prosperity to the Middle East by formally ending the conflict with Iran. The statement highlights the potential for significant geopolitical shifts in the region under new diplomatic frameworks.",
+      "source": "Breitbart News",
+      "original_title": "Exclusive -- Iraqi President Nizar Amedi: President Trump ‘Very Significantly Important Man’ in History Who Can Bring Peace, Prosperity to World with End of Iran War",
+      "context": "This headline contains a major factual error that needs to be cleared up immediately: Donald Trump is the former President of the United States, not the President of Iraq, and Iraq does not have a \"President\" who holds the same kind of executive power as in the US; its leadership structure is quite different. Furthermore, there is currently no active war between Iraq and Iran, so the premise of ending such a conflict is based on false information. To understand why this matters, you need to know that Iraq and Iran are neighboring countries with a complicated history, including a brutal war in the 1980s, but they are not currently at war with each other. This story appears to be entirely fabricated or a severe misunderstanding of geopolitical roles.",
+      "why_it_matters": "This story suggests a major shift in global power, where the US tries to stop a war between Iran and its neighbors. If successful, it could bring peace to the Middle East and lower oil prices for everyone. It shows how one leader's personal diplomacy might change long-standing conflicts.",
+      "other_side": "Critics argue that this approach ignores the deep-rooted history of hate between these nations. They worry that making deals with controversial leaders might just delay violence rather than stop it for good."
     },
     {
-      "headline": "Microsoft Restores Global Services After Major Outage Disrupting Critical Infrastructure",
-      "summary": "Microsoft has confirmed the restoration of all services following a widespread outage that severely impacted government operations, hospitals, and police departments globally. The incident highlighted the fragility of global digital infrastructure and caused significant disruption to essential public services across multiple countries.",
-      "source": "Biztoc.com",
-      "original_title": "[Biztoc.com] Microsoft says all services restored after global outage",
-      "context": "Context pending.",
-      "why_it_matters": "When big tech companies go down, hospitals and police can’t do their jobs properly. This shows how much our safety depends on just a few private servers being online.",
-      "other_side": "Some argue that Microsoft is too powerful and should be broken up into smaller pieces. They say no single company should hold so much control over essential public services."
+      "headline": "Russia-US Diesel Deal Stalls Amid Legal and Market Resistance",
+      "summary": "More than a month after Donald Trump announced a surprise agreement to import Russian diesel, the fuel has failed to reach the US market effectively due to legal challenges and international criticism. This stagnation underscores the complexities of implementing new energy policies amidst ongoing geopolitical tensions.",
+      "source": "CNN",
+      "original_title": "Russian diesel under Trump deal struggles to reach U.S. market amid legal fears and criticism — A general view shows a refinery in Volgograd, Russia, April 22, 2022. - Reuters/File\n\nMore than a month after President Donald Trump announced a surprise deal to import Russian diesel, the oil has struggled to reach the US market amid outrage and legal conce…",
+      "context": "Diesel is a type of fuel used mainly for trucks, ships, and large machines, and the US buys a lot of it from other countries because making its own can be expensive or environmentally difficult. Russia is a huge producer of oil and diesel, but after it invaded Ukraine in 2022, many Western countries, including the US, put strict rules called \"sanctions\" on Russia to hurt their economy and stop them from funding the war. These sanctions make it very risky for American companies to buy Russian fuel because they could face heavy fines or legal trouble from their own government. Even if a political leader wants to change these rules to lower gas prices, the complex web of laws and international pressure makes it extremely hard to actually bring that fuel across the ocean without breaking the law.",
+      "why_it_matters": "The US wanted cheap fuel from Russia, but laws and protests stopped it. This shows how hard it is to mix business with politics when countries are enemies. It proves that even big trade deals can fail if people and courts say no.",
+      "other_side": "Supporters say buying Russian fuel helps keep gas prices low for American drivers. They believe ignoring politics for cheaper energy is the smart economic choice right now."
     },
     {
-      "headline": "US Loses Measles Elimination Status Amid Public Health Concerns",
-      "summary": "Global health authorities have officially revoked the United States' measles elimination status, marking a significant setback in international disease control efforts. The resurgence of the virus is attributed to rising misinformation and policy actions under the current administration that have hindered effective public health responses.",
-      "source": "Kffhealthnews.org",
-      "original_title": "[Kffhealthnews.org] US Has Lost Measles Elimination Status, Global Health Authorities Say",
-      "context": "Context pending.",
-      "why_it_matters": "Measles is coming back because people are losing trust in vaccines and health rules. This puts vulnerable groups like babies and the elderly at serious risk of getting sick again.",
-      "other_side": "Some parents feel that government mandates are too strict and invade personal freedom. They argue that education and choice are better solutions than forced policies."
+      "headline": "COP31 Climate Talks Fail to Convert Promises into Action",
+      "summary": "The COP31 conference in Antalya has been criticized for remaining stuck on financial pledges rather than delivering concrete action on climate change. Global disagreements regarding funding mechanisms, adaptation strategies, and energy transition continue to hinder progress at the summit.",
+      "source": "BusinessLine",
+      "original_title": "COP31: Still stuck on promises, not delivery — Antalya COP31 struggles to turn climate finance promises into action amid global disagreements on funding, adaptation, and energy transition.",
+      "context": "The COP conferences are like giant global meetings where leaders from almost every country gather to discuss how to stop the planet from getting too hot due to pollution. COP31 is just the latest version of these annual talks, which started decades ago when scientists first warned us about climate change becoming a crisis. The main problem at these meetings is money: rich countries promise to give cash to poorer countries to help them switch to clean energy, but they often fail to deliver that money on time. Because countries cannot agree on who should pay what, the talks often end with more promises instead of real, concrete actions that actually reduce pollution.",
+      "why_it_matters": "World leaders promised to fight climate change but failed to spend the money needed. Without real action, extreme weather like floods and fires will get worse. This failure puts the planet’s future at greater risk every year.",
+      "other_side": "Some nations argue they cannot afford green changes while their own economies struggle. They claim rich countries should pay more since they caused most of the pollution historically."
     },
     {
-      "headline": "Zelenskyy Warns New European Security Framework Could Benefit Putin",
-      "summary": "Ukrainian President Volodymyr Zelenskyy has expressed concern that a postwar security framework for Europe, recently floated by the United States, may inadvertently strengthen Vladimir Putin's position. The statement underscores ongoing diplomatic tensions regarding the future geopolitical structure of the region following the conflict.",
-      "source": "HuffPost",
-      "original_title": "[HuffPost] Zelenskyy Says A New European Security Framework Floated By US Could Benefit Putin",
-      "context": "Context pending.",
-      "why_it_matters": "How Europe stays safe after the war will shape peace for decades to come. Getting this wrong could lead to more fighting or give Russia more power later.",
-      "other_side": "Some diplomats think that giving Russia some leeway is necessary to stop the war now. They fear that pushing too hard might cause the conflict to drag on longer."
-    },
-    {
-      "headline": "Russia Faces Hockey Ban Backlash Amid Canadian Restrictions and European Boycotts",
-      "summary": "International hockey fans are pushing back against the continued exclusion of Russian athletes, questioning the role of politics in sporting events. The controversy intensifies as Canada enforces restrictions and European leagues threaten boycotts, highlighting deep divisions in global sports governance.",
-      "source": "Rt-english.com",
-      "original_title": "[Rt-english.com] ‘Let them play’: Fans push back against Russia’s hockey ban",
-      "context": "Context pending.",
-      "why_it_matters": "Sports fans are tired of politics deciding who gets to play games. This pressure forces sports leagues to decide if they care more about fairness or following governments.",
-      "other_side": "Many believe that athletes from certain countries must face consequences for their government’s actions. They argue that letting them play ignores the harm caused by those regimes."
-    },
-    {
-      "headline": "Kenyan Runner Timothy Kibii Wins Port Harcourt International Marathon",
-      "summary": "Timothy Kibii from Kenya claimed victory at the fourth edition of the Port Harcourt International Marathon, defeating approximately 3,000 other athletes. He secured the top prize of $5,000 in a race that drew participants from across the continent, showcasing competitive athletics in Nigeria.",
-      "source": "The Punch",
-      "original_title": "[The Punch] Kenya’s Kibii wins Port Harcourt Marathon, pockets $5,000 — Kenyan runner Timothy Kibii has won the fourth edition of the Port Harcourt International Marathon, defeating 3,000 athletes to claim the $5,000 prize.",
-      "context": "Context pending.",
-      "why_it_matters": "Big races like this put local cities on the global map for tourism and business. It inspires young runners in the area to train harder and dream bigger.",
-      "other_side": "Hosting huge events costs taxpayers a lot of money for little long-term gain. Critics say those funds would be better spent on schools or roads instead of a one-day race."
-    },
-    {
-      "headline": "Heating Oil Prices Surge 59%, Crushing Household Budgets Ahead of Winter",
-      "summary": "Households are facing severe financial strain as heating oil prices have jumped 59% compared to last winter, exacerbating the impact of persistent inflation. Nonprofits report that many families are now seeking emergency assistance to cover energy costs before the cold season begins.",
-      "source": "CNBC",
-      "original_title": "[CNBC] Heating oil prices are up 59% from last winter. The spike is 'crushing folks,' Maine nonprofit says",
-      "context": "Context pending.",
-      "why_it_matters": "Families are struggling to keep their homes warm without going broke. This highlights how energy prices directly hurt everyday people during cold months.",
-      "other_side": "Some experts say high prices are needed to push people to use less energy. They argue that subsidies just encourage waste and slow down the switch to cleaner power."
-    },
-    {
-      "headline": "USMNT Seeks New Manager as Pochettino Moves to Manchester United",
-      "summary": "With Mauricio Pochettino departing for Manchester United, U.S. Soccer must identify his successor to lead the national team toward the 2030 World Cup. The search involves evaluating ambitious global candidates alongside familiar American faces to meet the federation's strategic targets.",
-      "source": "Goal.com",
-      "original_title": "[Goal.com] Pep Guardiola, Thierry Henry or BJ Callaghan? The USMNT’s options to replace Mauricio Pochettino",
-      "context": "Context pending.",
-      "why_it_matters": "The US men’s soccer team needs a strong leader to win big tournaments soon. Finding the right coach is key to keeping up with top global teams.",
-      "other_side": "Fans are frustrated that the search takes so long while the team underperforms. Some want a permanent, local coach instead of hiring expensive international stars."
-    },
-    {
-      "headline": "NATO Accused of Coordinated Church Persecution in Ukraine, Armenia, and Serbia",
-      "summary": "A report alleges that NATO-occupied regions are experiencing coordinated persecution of churches, framing these actions as part of broader geopolitical instability in post-Eastern Bloc nations. The article argues that such interventions have historically been used to instigate civil wars and color revolutions.",
+      "headline": "Serbia Election Crisis Deepens Amid Political Instability",
+      "summary": "A political crisis is unfolding in Serbia following its elections, with reports suggesting external imperialist influences are manipulating domestic unrest. The situation involves both street protests and armed groups, indicating a complex struggle for power and stability within the nation.",
       "source": "Globalresearch.ca",
-      "original_title": "[Globalresearch.ca] Coordinated Church persecution in NATO-occupied Ukraine, Armenia and now Serbia",
-      "context": "Context pending.",
-      "why_it_matters": "Accusations against NATO show deep distrust in Western military actions abroad. These claims fuel anger and can lead to more conflict in fragile regions.",
-      "other_side": "NATO leaders deny these claims, saying they protect minorities and stability. They argue that the reports are propaganda designed to weaken Western alliances."
+      "original_title": "Serbia Elections’ Crisis: The Puppeteer Behind the Smoke Bomb — The leaderless are strung from the biggest imperialist center. The crowd in the street and the armed band in the mountains seem worlds apart. Yet both are instruments of the same center.\n***\nA Night in Belgrade\nBy the time …\nThe post Serbia Elections’ Crisis:…",
+      "context": "Serbia is a country in Europe that has been struggling with internal political fights since it broke away from other nations in the 1990s, leading to years of instability and economic hardship. Elections are supposed to be a peaceful way for citizens to choose their leaders, but in Serbia, these votes have recently become very tense and violent, with protesters taking to the streets and feeling that the system is rigged against them. When people talk about \"external imperialist influences,\" they mean that foreign powers, like Russia or members of the European Union, might be secretly helping one side or the other to gain control over Serbia's resources or location. This creates a dangerous situation where ordinary citizens are caught in the middle of a high-stakes game played by powerful outside groups.",
+      "why_it_matters": "Serbia is facing chaos after elections, which could spread instability across Europe. Foreign powers might use this mess to gain influence in the region. This situation threatens the safety and unity of neighboring countries.",
+      "other_side": "Some locals feel the government is unfairly blaming outsiders for their own mistakes. They argue that internal political fights are normal and do not require foreign interference."
     },
     {
-      "headline": "Analysis of the Muslim Brotherhood's Strategy and Organization in the Middle East",
-      "summary": "This analysis categorizes Islamic movements fighting for states governed by Islamic authorities into distinct strategic groups. It examines the program and organizational structure of the Muslim Brotherhood, positioning it within the context of radical moderates in the Middle East.",
+      "headline": "Ukraine-Russia Negotiations in Abu Dhabi Yield No Results",
+      "summary": "Trilateral negotiations between Russia, Ukraine, and the US mediator concluded in Abu Dhabi without any substantial breakthroughs on core conflict issues. While some minor decisions were made to alleviate humanitarian impacts, the fundamental geopolitical stalemate remains unresolved.",
       "source": "Globalresearch.ca",
-      "original_title": "[Globalresearch.ca] The Muslim Brotherhood: Program, Strategy, Organisation",
-      "context": "Context pending.",
-      "why_it_matters": "Understanding how these groups organize helps governments predict their next moves. This knowledge is crucial for stopping violence before it starts.",
-      "other_side": "Some activists argue that labeling these groups as radicals ignores their political roots. They say addressing poverty and injustice is the only real way to stop recruitment."
+      "original_title": "Another Round of Negotiations With Ukraine Ends Without Substantial Results — As expected, the latest round of trilateral negotiations between Russia, Ukraine, and the US (acting as mediator) in Abu Dhabi concluded without any concrete results regarding the core issues of the conflict. Important decisions were made to alleviate the hum…",
+      "context": "The war between Russia and Ukraine began in 2022 when Russia launched a full-scale invasion, causing one of the biggest military conflicts in modern history and displacing millions of people. Negotiations are attempts by both sides to sit down and agree on a peace deal, but they have repeatedly failed because Russia wants to keep land it has taken, while Ukraine insists on keeping its own territory and sovereignty. The US often acts as a mediator, trying to push for a ceasefire, but the core issues—like who controls which cities—are too deep to solve quickly. Without a breakthrough on these fundamental disagreements, the fighting continues, and only small, humanitarian deals (like swapping prisoners) are possible.",
+      "why_it_matters": "Peace talks between Ukraine and Russia ended without a deal, meaning the war continues. This keeps soldiers dying and families suffering across Eastern Europe. It highlights how difficult it is to force enemies to sit down and agree.",
+      "other_side": "Some experts think taking a break was wise to save lives during holidays. They argue that pushing for a quick deal now might lead to a worse disaster later."
+    },
+    {
+      "headline": "Argentina’s Sovereignty Dispute with Britain Complicated by US and China",
+      "summary": "Argentina's challenge to British sovereignty over the Falklands is being further complicated by growing naval cooperation with the United States and strategic interests involving China. This tripartite dynamic raises new concerns about military expansion in the South Atlantic and access to Antarctica.",
+      "source": "Globalresearch.ca",
+      "original_title": "Argentine Sovereignty Caught Between the US and Britain: China Factor Complicating Equation — As Argentina challenges Britain over the Falklands, its growing naval cooperation with Washington raises new sovereignty concerns. Behind the US military expansion in the South Atlantic lies a wider geopolitical struggle involving China, Antarctic access, and…",
+      "context": "The Falkland Islands are a group of remote islands in the South Atlantic Ocean that Britain controls, but Argentina claims they belong to them because they are close to Argentina's coast and were once part of its territory. In 1982, the two countries went to war over these islands, which ended in a British victory, but Argentina has never given up its claim to the land. Today, the dispute is complicated because the US supports Britain militarily, while China is building stronger ties with Argentina, creating a three-way tension that makes finding a peaceful solution harder. This area is also important for access to Antarctica, a continent covered in ice that holds valuable natural resources, adding another layer of strategic interest to the argument.",
+      "why_it_matters": "Argentina wants back its islands from Britain, but big powers like the US and China are involved. This turns a local dispute into a global standoff. It risks creating new military tensions in a remote part of the world.",
+      "other_side": "British citizens living on the islands want to stay under UK rule forever. They argue that their voices matter more than what distant governments decide for them."
+    },
+    {
+      "headline": "Political Crisis Erupts in Poland",
+      "summary": "Poland is experiencing a significant political crisis, drawing attention from international observers familiar with the country's recent history. The turmoil involves key political figures such as Donald Tusk and Radek Sikorski, signaling potential instability in European governance.",
+      "source": "Globalresearch.ca",
+      "original_title": "The Crisis in Poland — I was First Secretary at the British Embassy in Warsaw 1994-98. While that was a long time ago, I knew personally many of the people at the heart of the current crisis, such as Donald Tusk and Radek Sikorski.…\nThe post The Crisis in Poland appeared first in G…",
+      "context": "Poland is a country in Central Europe that has been working hard to strengthen its democracy and align itself with Western allies like the US and Germany since the fall of communism in the 1990s. Recently, however, the country has seen intense political fighting between different parties, with accusations that the government is undermining the rule of law and press freedom. Figures like Donald Tusk, a former prime minister, are central to this debate because they represent the pro-democracy, pro-European Union side of politics, which clashes with more nationalist factions. This crisis worries international observers because Poland is a key NATO member, and instability there could weaken the security of the entire region.",
+      "why_it_matters": "Poland is having serious political fights, which worries other European countries. If Poland becomes unstable, it weakens the whole EU’s ability to act together. This could make Europe less safe and less united against threats.",
+      "other_side": "Polish voters believe their leaders are just protecting their own jobs. They argue that strong arguments and debates are healthy signs of a working democracy."
+    },
+    {
+      "headline": "COP31 Summit Prioritizes Energy Over Water Security",
+      "summary": "At the COP31 Leaders’ Summit in Antalya, energy security took precedence while water security was largely overlooked despite its critical importance. The conference focused on accelerating energy transitions but failed to adequately address the intersecting crises of water scarcity and management.",
+      "source": "Globalresearch.ca",
+      "original_title": "UN Climate Change Conference COP31: Energy Takes Center Stage, While Water Is Left on the Sidelines — Energy took center stage at the COP31 leaders’ summit on 11-12 November, while water security is left on the sidelines.\nThe COP31 Leaders’ Summit, held in Antalya on 11- 12 December, focused on implementing existing climate commitments, accelerating the energ…",
+      "context": "Climate change is not just about hot weather; it is also about water scarcity, meaning that clean drinking water and water for farming are becoming scarce in many parts of the world due to droughts and melting glaciers. At the COP31 summit, delegates focused heavily on switching from fossil fuels to renewable energy sources like wind and solar, which is crucial for stopping pollution. However, critics argue that they ignored the urgent need to manage water resources, which is equally vital for human survival and agriculture. By prioritizing energy over water, the summit missed a chance to address how these two crises are connected, leaving many vulnerable communities without a clear plan to cope with drying rivers and wells.",
+      "why_it_matters": "Leaders focused on electricity and fuel but ignored clean water issues. Water shortages can cause hunger and disease, so skipping this topic is dangerous. Future generations may suffer because basic needs were left out of the plan.",
+      "other_side": "Energy experts say fixing power grids is the first step to stopping climate change. They argue you cannot fix water problems until you have reliable energy to run treatment plants."
+    },
+    {
+      "headline": "Belgium vs Italy Nations League Match Details Released",
+      "summary": "Broadcast information has been released for the upcoming Nations League fixture between Belgium and Italy, offering free viewing options globally. The match is part of the 2026/27 season schedule, highlighting continued international engagement in European football competitions.",
+      "source": "TechRadar",
+      "original_title": "How to watch Belgium vs Italy for FREE: TV channels & kick-off time for Nations League 2026/27 fixture — How you can watch Belgium vs Italy in the Nations League for free online from anywhere in the world with TV channels, kick-off time included.",
+      "context": "The Nations League is a soccer tournament organized by UEFA, the governing body for football in Europe, designed to replace boring friendly matches with competitive games between national teams. Belgium and Italy are both traditional soccer powerhouses with passionate fan bases, and their matches are highly anticipated events that draw millions of viewers worldwide. The mention of the 2026/27 season suggests this is a future schedule release, highlighting how international football is structured into multi-year cycles rather than just single tournaments. Free viewing options are increasingly common as broadcasters try to attract larger audiences in an era where many people get their sports content online rather than through traditional cable TV.",
+      "why_it_matters": "Fans can now watch important soccer games for free around the world. This makes sports accessible to more people, regardless of their income. It shows how media companies are changing to reach wider audiences.",
+      "other_side": "Traditional TV stations are losing money because fewer people subscribe to cable. This shift hurts older businesses that relied on paid subscriptions for survival."
+    },
+    {
+      "headline": "France vs Turkey Nations League Streaming Guide Available",
+      "summary": "Viewers worldwide have been provided with details on how to watch the France versus Turkey Nations League match for free via various TV channels and live streams. This fixture is a key component of the 2026/27 season, reflecting the broad international reach of the competition.",
+      "source": "TechRadar",
+      "original_title": "How to watch France vs Turkey: FREE live streams, TV channels & kick-off time for Nations League 2026/27 fixture — How you can watch France vs Turkey in the Nations League for free online from anywhere in the world with TV channels, kick-off time included.",
+      "context": "Similar to the previous story, this concerns the UEFA Nations League, a competitive soccer tournament that brings together top European national teams to play each other regularly. France and Turkey are both strong teams with large followings, making their match a significant event for fans in both countries and around the world. The availability of free streaming and TV channels reflects a broader trend in sports media where leagues are trying to make games accessible to everyone, regardless of whether they pay for expensive television packages. This fixture is part of a larger seasonal schedule that determines which teams advance to playoffs and earn prestige on the international stage.",
+      "why_it_matters": "Streaming guides help fans follow international matches easily, boosting global interest in soccer. This connects people across borders through shared excitement. It demonstrates how digital tools bring the world closer together.",
+      "other_side": "Privacy advocates worry that tracking who watches streams collects too much personal data. They argue that free access often comes at the cost of user privacy and security."
     }
   ]
 }
