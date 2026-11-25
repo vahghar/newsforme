@@ -4,94 +4,94 @@
   "count": 10,
   "stories": [
     {
-      "headline": "Nvidia Reinstates Jensen Huang as CEO Amid Investor Pressure",
-      "summary": "Amid intense pressure from investors and political figures, Nvidia's board has reinstated Jensen Huang as CEO. This move comes after significant market volatility and reflects the critical role Huang plays in the company's strategic direction.",
-      "source": "iTnews",
-      "original_title": "[iTnews] Nvidia reinstates Jensen Huang as CEO — Amid pressure from Trump and investors.",
-      "context": "Context pending.",
-      "why_it_matters": "This shows how much power one person has over a giant company. If the leader leaves, investors get scared and stock prices drop. It proves that big tech firms rely heavily on their founders to stay stable.",
-      "other_side": "Some people worry this gives too much control to one individual. They argue that companies should have a clear plan for when the founder eventually retires or steps down."
-    },
-    {
-      "headline": "Nvidia Market Value Surges $1 Trillion Following CEO Return",
-      "summary": "Following the announcement of Jensen Huang's reinstatement, Nvidia's market capitalization skyrocketed by $1 trillion. The decision was cheered by tech leaders and investors, signaling strong confidence in the chipmaker's future.",
-      "source": "CBS News",
-      "original_title": "[CBS News] Trump, tech leaders and investors cheer Huang's return to Nvidia",
-      "context": "Context pending.",
-      "why_it_matters": "The stock price jump means Nvidia is now worth even more money than before. This boosts the wealth of anyone who owns shares in the company. It also signals that investors are very confident about AI technology's future.",
-      "other_side": "A sudden huge rise in value can be risky and unstable. If the hype dies down quickly, those high stock prices could crash just as fast."
-    },
-    {
-      "headline": "Corporate Governance Experts Split on Nvidia Board's Decision",
-      "summary": "The rehiring of Jensen Huang has divided corporate governance experts, raising questions about succession planning and board oversight. While some view it as pragmatic, others argue it leaves critical structural issues unresolved.",
-      "source": "Fortune",
-      "original_title": "[Fortune] Incompetent or pragmatic? Nvidia board’s rehiring of Jensen Huang splits corporate governance experts",
-      "context": "Context pending.",
-      "why_it_matters": "Experts disagreeing shows there is no perfect rule for running big companies. This debate will likely change how other boards handle leadership changes in the future. It highlights the tension between keeping a proven leader and following strict rules.",
-      "other_side": "Critics say bringing back the old boss ignores deeper problems with how the board works. They believe the company needs new structures, not just the same person in charge again."
-    },
-    {
-      "headline": "Trump Signals Nvidia is 'Too Big to Fail' with CEO Intervention",
-      "summary": "President Donald Trump publicly claimed credit for Jensen Huang's reinstatement, describing him as a national treasure. This unprecedented political intervention underscores the perceived systemic importance of Nvidia to the broader economy.",
-      "source": "Freerepublic.com",
-      "original_title": "[Freerepublic.com] Trump’s push to reinstate Jensen Huang signals Nvidia’s CEO is too big to fail",
-      "context": "Context pending.",
-      "why_it_matters": "When a president gets involved in a private company, it blurs the line between government and business. This suggests that some tech firms are so important they cannot be allowed to fail. It sets a precedent for political influence in the tech industry.",
-      "other_side": "Many worry this gives politicians too much say in how businesses run. It could lead to unfair advantages for certain companies while hurting others."
-    },
-    {
-      "headline": "How to Protect Retirement Savings if the AI Boom Fizzles",
-      "summary": "As markets react sharply to concerns over the sustainability of the AI investment boom, financial advisors are urging retirees to review their portfolios. The article provides strategies for mitigating risk if the current tech-heavy rally reverses.",
-      "source": "Biztoc.com",
-      "original_title": "[Biztoc.com] How to protect your retirement savings if the AI boom fizzles",
-      "context": "Context pending.",
-      "why_it_matters": "This warns everyday people that betting everything on AI stocks is dangerous. If the AI trend stops growing, retirement funds could lose significant value. It encourages people to spread their money across different types of investments.",
-      "other_side": "Some investors argue that avoiding tech stocks means missing out on huge gains. They believe sticking with long-term growth strategies is better than trying to time the market."
-    },
-    {
-      "headline": "Cassidy’s Social Security Plan Criticized as Fiscal Dodge",
-      "summary": "Critics argue that proposed plans to prop up Social Security through increased borrowing ignore long-term fiscal realities. The debate highlights the growing tension between immediate social safety needs and sustainable government debt levels.",
-      "source": "National Review",
-      "original_title": "[National Review] Cassidy’s Social Security Plan Is a Dodge of Fiscal Reality",
-      "context": "Context pending.",
-      "why_it_matters": "The debate over Social Security affects every worker and retiree in the country. How we pay for it now determines if the system survives for future generations. It forces a choice between helping people today and managing national debt tomorrow.",
-      "other_side": "Supporters say cutting benefits hurts vulnerable seniors who depend on them. They argue that borrowing money is acceptable to ensure basic human needs are met."
-    },
-    {
-      "headline": "Base Prioritizes Quantum Security Amid Regulatory Warnings",
-      "summary": "The Base blockchain platform has announced quantum computing security as a key priority for 2027. This move responds to regulatory warnings about potential vulnerabilities in current cryptographic standards used in digital finance.",
+      "headline": "CFTC Introduces New Rules for Prediction Markets",
+      "summary": "The Commodity Futures Trading Commission has established new regulations governing prediction markets, fundamentally altering how exchanges report trades and collect user data. This regulatory shift impacts the operational compliance landscape for firms seeking to enter the US market.",
       "source": "Cointelegraph",
-      "original_title": "[Cointelegraph] Base makes quantum security a 2027 priority as regulators warn of risks",
-      "context": "Context pending.",
-      "why_it_matters": "Preparing for quantum computers helps keep digital money safe from future hacks. As computing gets faster, current security methods could become useless. This move protects users from potential theft or fraud in the coming years.",
-      "other_side": "Some experts think focusing on quantum threats is premature and costly right now. They believe resources should be spent on fixing immediate security issues instead."
+      "original_title": "[Cointelegraph] CFTC sets new prediction market rules as more firms seek US entry — The CFTC has introduced new rules for prediction markets, changing how exchanges report trades and collect information about their users.",
+      "context": "Prediction markets are like betting pools where people wager on future events, such as who will win an election or how high a stock price will go. For years, these were mostly illegal in the US because they looked too much like gambling, but regulators have now decided to treat them more like financial trading platforms. This new rulebook forces these companies to be much more open about their money and user data, similar to how regular banks must prove they aren't hiding anything from the government. It essentially brings these \"future-betting\" sites into the mainstream legal system so they can operate safely without being shut down for fraud or illegal gambling.",
+      "why_it_matters": "The government is finally setting clear rules for betting markets, which makes them safer and more honest for everyday people. This clarity encourages new businesses to enter the market, potentially giving consumers better tools to predict future events like elections or sports outcomes.",
+      "other_side": "Critics argue that these strict reporting rules could make it too expensive for small startups to compete, leaving only big companies in charge of how data is handled. Some worry this reduces privacy for users who want to keep their bets anonymous."
     },
     {
-      "headline": "Taiwan Firm Plans $250 Million Export Hub in India",
-      "summary": "Creative Sensor Inc is investing Rs 1,141 crore to establish a major sensor manufacturing unit in Uttar Pradesh. The project aims to create over 1,150 jobs and target $250 million in exports by 2030, boosting regional economic growth.",
-      "source": "The Times of India",
-      "original_title": "[The Times of India] Taiwan firm eyes UP for Rs 1,141 crore sensor manufacturing unit",
-      "context": "Context pending.",
-      "why_it_matters": "Building factories in India creates jobs and boosts the local economy significantly. It shows global companies are looking outside traditional markets for growth. This investment helps develop infrastructure and skills in the region.",
-      "other_side": "Local communities might face environmental damage or displacement from construction. There is also concern that profits may flow back to the home country rather than staying locally."
+      "headline": "SEC Clears Molecule to Sell Research-Funding Tokens",
+      "summary": "SEC staff have approved Molecule's ability to sell research-funding tokens without registration, a decision that could establish new precedents for decentralized science funding models. This ruling raises significant questions regarding the long-term viability and regulatory clarity of such innovative financial instruments.",
+      "source": "Crypto Briefing",
+      "original_title": "[Crypto Briefing] SEC staff clears Molecule to sell research-funding tokens without registration — The SEC's decision may pave the way for innovative funding models in decentralized science, but it raises questions about long-term viability.",
+      "context": "Usually, if a company wants to sell investment contracts to the public, it must register with the Securities and Exchange Commission (SEC), which is the government agency that polices the stock market to protect everyday investors. Molecule is a platform that helps fund medical research by selling digital tokens that act like shares in scientific projects, but instead of following the strict, slow registration process, they got special permission to skip it. This is a big deal because it suggests the government might allow new ways to raise money for science without the heavy bureaucracy that usually stops innovative startups. If this precedent holds, other groups could use similar tools to fund everything from clean energy to space exploration without needing permission from financial regulators first.",
+      "why_it_matters": "Scientists can now raise money directly from the public without jumping through huge legal hoops, speeding up medical breakthroughs. This opens the door for regular people to fund specific research projects they care about, changing how science gets paid for.",
+      "other_side": "Skeptics warn that letting anyone buy into scientific funding might lead to bad or dangerous research getting popular just because it sounds exciting, not because it is safe or useful. There is also fear that investors could lose all their money if a study fails."
     },
     {
-      "headline": "CrowdStrike Acquires Zscaler in $44 Billion Deal",
-      "summary": "In a landmark merger, CrowdStrike has acquired Zscaler for approximately $44 billion. The deal combines two leaders in cybersecurity, aiming to enhance security infrastructure for agentic AI systems and enterprise clients.",
-      "source": "Digitaldrops.com.br",
-      "original_title": "[Digitaldrops.com.br] CrowdStrike compra Zscaler por US$ 44 bilhões e promete levar segurança aos agentes de IA",
-      "context": "Context pending.",
-      "why_it_matters": "Merging two cybersecurity giants creates a massive new player in online safety. This consolidation aims to protect businesses against increasingly complex digital threats. It changes the competitive landscape for smaller security firms.",
-      "other_side": "Critics fear this reduces competition and leads to higher prices for customers. A monopoly-like situation could make it harder for new innovators to enter the market."
+      "headline": "Rialto Secures $5 Million from Robinhood and Tandem",
+      "summary": "Onchain trading platform Rialto has raised $5 million in funding from major financial entities including Robinhood and Tandem to expand its decentralized finance offerings. This investment signals a strategic shift towards integrating onchain solutions into traditional capital markets.",
+      "source": "Crypto Briefing",
+      "original_title": "[Crypto Briefing] Rialto raises $5 million from Robinhood and Tandem to expand onchain trading — Rialto's funding boost signifies a shift towards decentralized finance, potentially transforming traditional capital markets with onchain solutions.",
+      "context": "Decentralized Finance, often called DeFi, is a system of banking and investing that runs on computer code rather than through traditional banks like Chase or Wells Fargo. Rialto is a newer company trying to make this digital money system work better for regular investors by building a smoother interface between old-school finance and new crypto technology. By raising millions from famous names like Robinhood, they are proving that major Wall Street players are finally willing to put their money into these risky, untested digital assets. This investment signals that the boundary between traditional stocks and internet-based currencies is blurring, as big banks try to capture the profits of the crypto boom.",
+      "why_it_matters": "Big names like Robinhood are putting real money into blockchain technology, signaling that digital finance is here to stay. This helps bring old-school banking habits into the modern world, making it easier for normal people to use crypto-like tools safely.",
+      "other_side": "Traditionalists fear that mixing old banks with new crypto tech creates hidden risks that could crash the system if things go wrong. They worry that average investors don't understand the dangers of these complex financial products."
     },
     {
-      "headline": "Why Major Australian Retail Brands Are Failing Financially",
-      "summary": "Industry consultants point to severe financial mismanagement and shifting consumer habits as primary drivers behind the collapse of several major Australian retail chains. The trend raises broader questions about the viability of traditional brick-and-mortar models.",
-      "source": "New Zealand Herald",
-      "original_title": "[New Zealand Herald] Why are big Aussie retail brands failing?",
-      "context": "Context pending.",
-      "why_it_matters": "The failure of major retailers signals a shift in how people shop and spend money. Traditional stores struggle when consumers prefer online options or save less. This trend forces businesses to rethink how they operate to survive.",
-      "other_side": "Some argue that store closures are simply bad management, not a market shift. They believe physical shops still offer unique experiences that online retail cannot replace."
+      "headline": "Utah Drops Criminal Charges Against Kalshi Founders",
+      "summary": "Utah authorities have dismissed criminal charges against the founders of prediction market platform Kalshi following the company's suspension of operations in the state. The legal resolution removes a significant regulatory hurdle for the company's leadership and potential future expansion.",
+      "source": "CNBC",
+      "original_title": "[CNBC] Utah drops criminal charges against Kalshi founders after company suspended operations in state — Co-founders of the prediction market platform were slated to appear in a state district court in December.",
+      "context": "Kalshi is a popular website where people bet on real-world news events, like whether it will rain tomorrow or which candidate will win a primary. The state of Utah previously tried to arrest the founders, claiming their business was just illegal gambling that hurt local communities. However, authorities have now dropped those charges, likely realizing that Kalshi operates more like a regulated financial exchange than a casino. This legal victory clears the way for the company to expand its operations across the country without the constant threat of criminal prosecution hanging over its leadership.",
+      "why_it_matters": "Prediction market companies can now operate freely in Utah without fearing jail time for their bosses, encouraging more innovation. This removes a major roadblock, allowing the company to focus on growing its business rather than fighting lawyers.",
+      "other_side": "Opponents believe that dismissing charges sends the wrong message, suggesting that breaking local laws has no serious consequences. They argue that this weakens the rule of law and protects companies that previously ignored state regulations."
+    },
+    {
+      "headline": "Stock Market Volatility Drives NYC Finance Execs to Therapy",
+      "summary": "Extreme volatility in the stock market has led to a surge in demand for specialized executive therapy among high-net-worth individuals in New York City. Financial professionals are seeking psychological support to cope with the unique pressures and mental health challenges associated with managing volatile portfolios.",
+      "source": "New York Post",
+      "original_title": "[New York Post] Crazy stock market sends panicked NYC finance bros to shrink couches for ‘executive therapy’ — Self-made millionaires have a whole unique set of problems, one Manhattan therapist explained to The Post.",
+      "context": "Stock market volatility refers to how wildly and unpredictably the value of investments goes up and down, which can cause severe stress for people whose jobs depend on managing large sums of money. In New York City, a hub for high-finance professionals, the recent instability has become so intense that many executives are seeking specialized therapy to handle the anxiety and pressure. This trend highlights the human cost of modern capitalism, where the mental health of workers is increasingly impacted by the relentless pace and uncertainty of global markets. It shows that even those who make millions can suffer deeply when their professional worth is tied to unpredictable economic swings.",
+      "why_it_matters": "The intense stress of watching money values swing wildly is showing that high-pressure jobs take a severe toll on mental health. This highlights a growing need for workplaces to support psychological well-being, not just financial performance.",
+      "other_side": "Some critics say this trend individualizes a systemic problem, blaming personal stress instead of fixing the volatile market structures causing the anxiety. Others argue that therapy shouldn't be expected as a standard requirement for doing a high-stakes job."
+    },
+    {
+      "headline": "Bank of Canada Forecasts Oil-Linked Inflation Through 2027",
+      "summary": "Bank of Canada Governor Tiff Macklem has warned that high energy prices will continue to drive inflationary pressures into 2027, despite recent declines in oil prices. This outlook suggests that consumers will face sustained cost-of-living challenges related to fuel and broader economic indicators.",
+      "source": "CBC News",
+      "original_title": "[CBC News] Bank of Canada expects 2nd round of oil-linked inflation in 2027, Macklem says — Bank of Canada governor Tiff Macklem sees high energy prices continuing to sting consumers at the fuel pump and beyond in 2027, even as oil prices fall from recent peaks.",
+      "context": "Inflation is the general increase in prices of goods and services over time, meaning your dollar buys less today than it did yesterday. The Bank of Canada is warning that even though gas prices have recently gone down, the overall cost of living will stay high for several more years due to lingering effects in the energy sector. This forecast suggests that families will continue to struggle with bills for heating, driving, and shipping, as higher energy costs ripple through every part of the economy. It serves as a caution that short-term drops in oil prices do not immediately fix the deeper problem of rising consumer costs.",
+      "why_it_matters": "Families should expect prices for gas and groceries to stay high for years, forcing them to adjust their budgets carefully. This warning helps people plan ahead, knowing that cheap energy days may be far off.",
+      "other_side": "Economists debate whether oil prices are truly the main driver of inflation, arguing that other factors like wages and supply chains play a bigger role. Some believe this focus on oil distracts from solving the root causes of rising costs."
+    },
+    {
+      "headline": "NVIDIA's Economic Impact and Israel's Role in AI Dominance",
+      "summary": "Technology expert Dror Globerman highlights Israel's critical contribution to NVIDIA's success in the artificial intelligence sector, emphasizing the company's massive economic footprint. The analysis underscores the geopolitical and financial interdependencies driving NVIDIA's current market dominance.",
+      "source": "Israelnationalnews.com",
+      "original_title": "[Israelnationalnews.com] Technology expert Dror Globerman: 'Without Israel, NVIDIA wouldn't be what it is today' — Technology expert Dror Globerman reveals Israel's pivotal role in NVIDIA's AI dominance, the company's enormous economic impact, and CEO Jensen Huang's extraordinary support for the Jewish state.",
+      "context": "NVIDIA is a tech giant that makes the powerful computer chips essential for running artificial intelligence, making it one of the most valuable companies in the world. Dror Globerman’s analysis points out that Israel plays a crucial role in this success by providing top-tier engineering talent and innovative technology that NVIDIA relies on to stay ahead of competitors. This connection highlights how global supply chains are deeply intertwined, with geopolitical stability in one region directly affecting the profitability of a US-based corporation. It underscores that AI dominance is not just an American story but a collaborative effort involving international expertise and resources.",
+      "why_it_matters": "Israel’s tech talent is proven to be a key piece of the puzzle in building the powerful AI computers that are changing the world. This shows that global cooperation between countries is essential for keeping up with rapid technological advances.",
+      "other_side": "Geopolitical tensions mean that relying on foreign expertise for critical technology can create security risks or diplomatic friction. Some worry that over-dependence on one region’s talent pool could backfire if relations sour."
+    },
+    {
+      "headline": "Persistent Fears Surrounding the AI Boom Despite Leadership Stability",
+      "summary": "Despite the return of Nvidia's CEO, concerns regarding the sustainability and risks of the AI boom remain prevalent among financial analysts and investors. Legitimate fears persist that leadership stability alone does not mitigate the underlying economic and technological uncertainties facing the sector.",
+      "source": "BBC News",
+      "original_title": "[BBC News] Faisal Islam: Fears over the AI boom haven't gone away — There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
+      "context": "The AI boom refers to the massive surge in investment and hype surrounding artificial intelligence technology, driven by hopes that it will revolutionize industries. Despite the CEO returning to lead the company, investors remain worried that this growth might be unsustainable, fearing that the current valuations are inflated beyond reality. These concerns stem from the fact that while the technology is impressive, it is unclear if it will generate enough actual profit to justify the enormous amounts of money poured into it. This tension reflects a broader skepticism among analysts who see potential bubbles forming in sectors driven more by excitement than by proven financial returns.",
+      "why_it_matters": "Investors are staying cautious because they know that having a good boss doesn’t fix the risk that AI companies might be overvalued. This keeps the market grounded, preventing a bubble from forming just because leadership looks stable.",
+      "other_side": "Optimists argue that stability at the top gives companies the time needed to actually deliver profitable AI products, which will eventually justify the hype. They believe fear is holding back legitimate progress and investment."
+    },
+    {
+      "headline": "Jensen Huang Faces Scrutiny Over National Security Allegations",
+      "summary": "Attorney General Todd Blanche faced intense questioning regarding potential investigations into NVIDIA CEO Jensen Huang concerning national security and self-enrichment allegations. The DOJ head's deflection highlights the growing financial and political scrutiny surrounding key technology executives.",
+      "source": "The New Republic",
+      "original_title": "[The New Republic] Todd Blanche Reveals Jensen Huang Is Getting Off Scott-Free — The head of the Justice Department insists he doesn’t even know what he’d investigate Nvidia CEO Jensen Huang for.Attorney General Todd Blanche deflected from a simple question about the chip maker during a DOJ press conference Tuesday, claiming to not even u…",
+      "context": "Jensen Huang is the CEO of NVIDIA, and he has come under scrutiny because his company’s rapid rise has raised questions about national security and whether he is using his position for personal gain. The Department of Justice is investigating these allegations, which involve potential risks related to how advanced AI technology is used abroad or within the company itself. This level of attention indicates that governments are becoming increasingly concerned about the power held by a few tech leaders and the ethical implications of their unchecked growth. It marks a shift where corporate success is no longer viewed solely through a financial lens but also through the prism of political and security accountability.",
+      "why_it_matters": "Top tech leaders are facing increased government scrutiny, meaning big decisions about AI could soon be tied to national safety laws. This sets a precedent that powerful CEOs must answer to both shareholders and the government.",
+      "other_side": "Tech executives argue that such investigations chill innovation, making it harder to attract top talent and investment due to fear of political targeting. They claim that business success should not be judged by national security standards unless there is clear harm."
+    },
+    {
+      "headline": "Ticket Prices Soar as Touring Costs Reshape Live Entertainment Economics",
+      "summary": "Escalating costs for live tours are driving up ticket prices, fundamentally reshaping the business model for artists and the economics of the live entertainment industry. This trend reflects broader financial pressures affecting consumer spending and corporate profitability in the services sector.",
+      "source": "ABC News (AU)",
+      "original_title": "[ABC News (AU)] Why Harry Styles isn't coming to your city on his Australian tour — Ticket prices are climbing and touring costs are soaring. One trend is reshaping how artists perform live.",
+      "context": "Live entertainment, such as concerts and theater tours, has always been expensive to produce, but recent inflation and logistical challenges have made it significantly harder for artists to break even. As costs for travel, venues, and crew members skyrocket, promoters and musicians are forced to raise ticket prices to cover their expenses and stay in business. This shift is changing the economics of the industry by pricing out average fans and turning live events into luxury experiences reserved for wealthier audiences. It reflects a broader trend where the service sector struggles to maintain affordability amidst rising operational costs and shifting consumer spending habits.",
+      "why_it_matters": "Concert tickets are becoming a luxury item, pushing many fans out of the live music experience due to cost. This shifts the industry toward wealthier audiences, potentially changing the culture and diversity of live events.",
+      "other_side": "Artists and promoters insist that higher prices are necessary to cover skyrocketing costs for travel, staff, and production. They argue that without these increases, live tours would simply stop happening altogether."
     }
   ]
 }
